@@ -1,7 +1,7 @@
 ---
 title: "Lowering Sounds' Strength Progressively with Lumafusion"
-date: 2024-05-20 13:35:58
-updated: 2024-05-21 12:15:25
+date: 2024-05-24T15:08:07.456Z
+updated: 2024-05-25T15:08:07.456Z
 tags: 
   - screen-recording
   - ai video
@@ -148,4 +148,54 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/in-2024-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>In 2024, Content Choice Conundrum  Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-action-cams-for-beginners/"><u>2024 Approved  Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amusing-tones-bestringeonsite-roundup/"><u>In 2024, Amusing Tones  Bestringeonsite Roundup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vhs-chronicles-revisiting-the-comical-tale/"><u>VHS Chronicles  Revisiting 'The Comical Tale'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-flawless-subtitles-with-precision-and-tips-for-2024/"><u>Crafting Flawless Subtitles with Precision and Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-vlc-features-settings-and-troubleshooting-mac/"><u>Navigating Through VLC Features, Settings & Troubleshooting (Mac)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>[New] Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-budget-friendly-multiview-camera-options-expanding-horizons/"><u>In 2024, Budget-Friendly Multiview Camera Options Expanding Horizons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-perfection-a-deep-dive-into-nikon-d7500/"><u>Capturing Perfection  A Deep Dive Into Nikon D7500</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>[New] Catchy Captions  The Ultimate Guide to Animated Text on IG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-all-about-triller-diverging-from-standard-tiktok-experience/"><u>[Updated] All About Triller  Diverging From Standard TikTok Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-translation-devices-to-subtitle-videos/"><u>In 2024, Best Translation Devices to Subtitle Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peculiar-picasso-creating-quirky-quick-memes/"><u>Peculiar Picasso  Creating Quirky, Quick Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clean-slates-mastering-the-eraser-tool-in-photoshop/"><u>2024 Approved  Clean Slates  Mastering the Eraser Tool in Photoshop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-communication-gaps-utilizing-zoom-with-gmail-mail/"><u>Bridging Communication Gaps  Utilizing Zoom with Gmail Mail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-for-reducing-unsteady-shots/"><u>Tips for Reducing Unsteady Shots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-avi-viewer-mobile-and-desktop-edition/"><u>Ideal AVI Viewer  Mobile & Desktop Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-sound-recognition-technology/"><u>Premier Sound Recognition Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speedy-tempo-change-software-showcase-mobile-pc/"><u>Speedy Tempo Change Software Showcase (Mobile, PC)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-vlc-software-basics-for-macos/"><u>Navigating VLC Software Basics for MacOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/number-1-in-the-8th-digital-image-blend-platform/"><u>Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-steps-to-become-a-successful-smm/"><u>[Updated] 10 Steps to Become a Successful SMM</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-8-tools-for-quick-subs-to-srt-on-windows-osx-and-more/"><u>Essential 8 Tools for Quick Subs to SRT on Windows, OSX and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-motion-cameras-12-featuring-accurate-position-tracking/"><u>[Updated] Advanced Motion Cameras 12  Featuring Accurate Position Tracking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/getting-the-most-out-of-pc-hdr-videos/"><u>Getting the Most Out of PC HDR Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed/"><u>Transform Valorant Gameplay  Top-Ranked, Costless Voice Alterer Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-symphony-of-shades-practical-color-utilization/"><u>2024 Approved  A Symphony of Shades  Practical Color Utilization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-photos-allure-expert-color-correction-steps/"><u>Enhancing Photos' Allure  Expert Color Correction Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-visual-detail-with-kinemasters-zooming-features/"><u>Optimizing Visual Detail with Kinemaster’s Zooming Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-cameras-for-capturing-live-dynamic-music-events-in-hd4k/"><u>[Updated] Best Cameras for Capturing Live, Dynamic Music Events in HD/4K</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-interview-playbook-for-audience-allure/"><u>Updated Interview Playbook for Audience Allure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-basic-tips-for-windows-clown-phonetics-modification/"><u>[New] Basic Tips for Windows Clown Phonetics Modification</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-top-5-virtual-reality-drones/"><u>Prime Top 5 Virtual Reality Drones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-racing-things-you-need-to-know-and-top-5-best-fpv-racing-drones/"><u>Drone Racing  Things You Need to Know and Top 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-9-prime-live-streaming-venues-for-gamers/"><u>[Updated] 9 Prime Live Streaming Venues for Gamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic5-ultimate-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic5 Ultimate via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nubia-z50-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nubia Z50 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-bypassing-instagrams-video-roadblocks-effortlessly/"><u>In 2024, Bypassing Instagram's Video Roadblocks Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-enhancing-webcam-gaming-experience-and-quality/"><u>[Updated] In 2024, Enhancing WebCam Gaming Experience & Quality</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-exploring-the-best-dawn-and-rise-of-browser-based-daws-top-10-selection-for-2024/"><u>Updated Exploring the Best Dawn and Rise of Browser-Based DAWs Top 10 Selection for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-s24-ultra-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy S24 Ultra to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-14-plus-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-g310-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia G310</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-12-miniipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 12 mini/iPad GPS Spoofing | Dr.fone</u></a></li>
+</ul></div>
 

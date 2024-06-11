@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Look at Yi's 4K Action Capabilities"
-date: 2024-05-19 12:43:17
-updated: 2024-05-20 12:30:38
+date: 2024-05-24T16:06:17.142Z
+updated: 2024-05-25T16:06:17.142Z
 tags: 
   - screen-recording
   - ai video
@@ -458,4 +458,39 @@ Follow @Max Wales
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-complete-breakdown-of-googles-podcast-system/"><u>[New] A Complete Breakdown of Google's Podcast System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopros-360-degree-spectacle-max-vs-hero-11-showdown/"><u>GoPro's 360-Degree Spectacle  Max vs Hero 11 Showdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-psd-color-grading/"><u>Advanced PSD Color Grading</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-performance-pros-favorite-4k-dslr-shoulder-rigs/"><u>Peak Performance  Pro's Favorite 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-look-at-yis-4k-action-capabilities/"><u>[Updated] A Comprehensive Look at Yi's 4K Action Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/"><u>Building Your Brand on Instagram  The Top 9 Actions of Industry Stars</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-action-cameras-with-front-facing-screen-for-2024/"><u>Best Action Cameras with Front Facing Screen for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers/"><u>[Updated] A Step-by-Step Approach to Choosing Superior FPV Drone Propellers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-imovie-trimming-the-crop-conundrum/"><u>Exploring iMovie Trimming  The Crop Conundrum</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-instagram-videos-that-stand-out/"><u>[New] Crafting Compelling Instagram Videos That Stand Out</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-ios-live-photo-handbook/"><u>In 2024, Comprehensive iOS Live Photo Handbook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-audiovisual-excellence-with-srt-and-mp4-the-ultimate-guide-for-2024/"><u>Achieving Audiovisual Excellence with SRT and MP4 - The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blueprinting-breathtaking-cinematic-sketches/"><u>Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choosing-between-apples-macbook-air-and-pro-m1-performance-showdown/"><u>[Updated] Choosing Between Apple's MacBook Air & Pro  M1 Performance Showdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/modern-podcast-animation-the-foremost-examples/"><u>Modern Podcast Animation  The Foremost Examples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-kid-approved-drones-for-beginning-pilots-for-2024/"><u>Best Kid-Approved Drones for Beginning Pilots for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-analysis-magix-music-maker-2024-features-list/"><u>In-Depth Analysis  Magix Music Maker 2024 Features List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-vr-and-action-cameras-beyond-gopros-realm-for-2024/"><u>Best VR and Action Cameras Beyond GoPro's Realm for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-chronicles-youtube-stories-to-follow-for-2024/"><u>Captivating Chronicles  YouTube Stories to Follow for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-uncluttered-desktop-recorder-w10/"><u>[Updated] Uncluttered Desktop Recorder W10</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-play-40c-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Play 40C Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-partitioned-presence-ranking-splittest-cam/"><u>2024 Approved  Partitioned Presence  Ranking Splittest Cam</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/tempo-tweak-tools-fast-paced-guide-to-speed-alteration-of-sound-for-2024/"><u>Tempo Tweak Tools Fast-Paced Guide to Speed Alteration of Sound for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-s17-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo S17 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-bridging-social-channels-the-journey-of-video-content-to-whatsapp/"><u>2024 Approved  Bridging Social Channels  The Journey of Video Content to WhatsApp</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-video-editing-courses-online-with-certificate/"><u>New In 2024, Best Video Editing Courses Online with Certificate</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-a-top-10-windows-and-macos-digital-audio-workstation/"><u>New In 2024, The Ultimate Guide to Choosing a Top 10 Windows & macOS Digital Audio Workstation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-guide-to-restoring-obss-audio-functionality/"><u>[New] Guide to Restoring OBS's Audio Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mp4mpl2s-creation-from-twitter-videos/"><u>[New] In 2024, MP4/MPL2S Creation From Twitter Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-hot-40-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Hot 40 Pro Location by Number | Dr.fone</u></a></li>
+</ul></div>
 
