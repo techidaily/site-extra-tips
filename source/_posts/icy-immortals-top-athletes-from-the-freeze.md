@@ -1,7 +1,7 @@
 ---
 title: "\"Icy Immortals  Top Athletes From the Freeze\""
-date: 2024-05-24T15:18:18.004Z
-updated: 2024-05-25T15:18:18.004Z
+date: 2024-06-10T19:51:07.722Z
+updated: 2024-06-11T19:51:07.722Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Icy Immortals: Top Athletes From the Freeze\""
 excerpt: "\"This Article Describes Icy Immortals: Top Athletes From the Freeze\""
 keywords: "\"IceFightersElite,FrozenTopAthletes,ChillTitansSports,UltraColdWinners,FreezingChampions,ArcticEpicGames,GlacialAll-Stars\""
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## Icy Immortals: Top Athletes From the Freeze

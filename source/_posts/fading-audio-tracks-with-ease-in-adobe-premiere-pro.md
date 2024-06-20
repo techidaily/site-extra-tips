@@ -1,7 +1,7 @@
 ---
 title: "Fading Audio Tracks with Ease in Adobe Premiere Pro"
-date: 2024-05-24T14:05:29.664Z
-updated: 2024-05-25T14:05:29.664Z
+date: 2024-06-10T19:51:08.077Z
+updated: 2024-06-11T19:51:08.077Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Fading Audio Tracks with Ease in Adobe Premiere Pro"
 excerpt: "This Article Describes Fading Audio Tracks with Ease in Adobe Premiere Pro"
 keywords: "Adobe Audio Editing,Premiere Easy Fades,Audio Track Soften,Adobe Sound Effects,Effortless Audio Mix,Premiere Pro Trim Audio,Smooth Tracks Adobe"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Fading Audio Tracks with Ease in Adobe Premiere Pro

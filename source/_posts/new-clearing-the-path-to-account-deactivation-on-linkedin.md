@@ -1,7 +1,7 @@
 ---
 title: "[New] Clearing the Path to Account Deactivation on LinkedIn"
-date: 2024-05-24T16:24:16.264Z
-updated: 2024-05-25T16:24:16.264Z
+date: 2024-06-10T19:51:08.936Z
+updated: 2024-06-11T19:51:08.936Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Clearing the Path to Account Deactivation on LinkedIn"
 excerpt: "This Article Describes [New] Clearing the Path to Account Deactivation on LinkedIn"
 keywords: "LinkedIn Deactivate Guide,Account Pause Instructions,LinkedIn Unlink Process,Profile Suspension Steps,Disable LinkedIn ID,Link Inactive Protocols,LinkedIn User OFF Switch"
-thumbnail: https://www.lifewire.com/thmb/nn60yZF7Q9wwjfvQrVxK2lDsOOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-iPad-Pro-silver-2-up-240507-c336b69cedc049caa920ae436fca6c62.jpg
+thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615c5d83ea5a34a4991c1927bf.jpg
 ---
 
 ## Clearing the Path to Account Deactivation on LinkedIn

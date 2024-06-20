@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Softer Sounds with Live Software\""
-date: 2024-05-24T15:29:39.512Z
-updated: 2024-05-25T15:29:39.512Z
+date: 2024-06-10T19:51:09.084Z
+updated: 2024-06-11T19:51:09.084Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Softer Sounds with Live Software\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Softer Sounds with Live Software\""
 keywords: "\"Soft Sound Production,Live Music Tech,Digital Audio Craft,Software for Sounds,Real-Time Effects,Acoustic Enhancement,Live Software Amplification\""
-thumbnail: https://www.lifewire.com/thmb/1i3oq9smFKn81c4WYVSI492gaLU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/blu-ray-disc-player-information-1846364-ccbae6fd80244359a2a5fada4cd53e40.png
+thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
 ---
 
 ## Crafting Softer Sounds with Live Software

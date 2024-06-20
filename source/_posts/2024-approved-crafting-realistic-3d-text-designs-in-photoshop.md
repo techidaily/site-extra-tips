@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Realistic 3D Text Designs in Photoshop\""
-date: 2024-05-24T14:41:45.635Z
-updated: 2024-05-25T14:41:45.635Z
+date: 2024-06-10T19:51:05.444Z
+updated: 2024-06-11T19:51:05.444Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Realistic 3D Text Designs in Photoshop\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Realistic 3D Text Designs in Photoshop\""
 keywords: "Illustration 3D Text,Depth in Text Art,AI Labrador 3D,Text Design 3D Art,Illustrators Depth Art,3D Text Illustrator,Creative 3D Texts"
-thumbnail: https://www.lifewire.com/thmb/ek56OZgwopZKdldQLBHcOn0x47o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/15dinradio-592753063df78cbe7e3d333e.jpg
+thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
 ---
 
 ## Crafting Realistic 3D Text Designs in Photoshop

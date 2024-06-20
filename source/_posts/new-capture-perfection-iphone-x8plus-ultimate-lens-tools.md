@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture Perfection  IPhone X/8+ Ultimate Lens Tools\""
-date: 2024-05-24T16:28:58.592Z
-updated: 2024-05-25T16:28:58.592Z
+date: 2024-06-10T19:51:07.094Z
+updated: 2024-06-11T19:51:07.094Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Capture Perfection: IPhone X/8+ Ultimate Lens Tools\""
 excerpt: "\"This Article Describes [New] Capture Perfection: IPhone X/8+ Ultimate Lens Tools\""
 keywords: "IPhone X Lens,IPhone X Optimal,IPhone X Macro,IPhone X Portrait,IPhone X ProLens,IPhone X PrimeTools,Ultimate IPhoneX Tools"
-thumbnail: https://www.lifewire.com/thmb/M4JjWG-nVK8qBSHuNISItdR59uU=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/man-pc-mini-video-game-a8e6f6d1ed2445058eb8f3e8ea155693.jpg
+thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11ffbe838822c268118ff95e70.jpg
 ---
 
 ## Capture Perfection: IPhone X/8+ Ultimate Lens Tools

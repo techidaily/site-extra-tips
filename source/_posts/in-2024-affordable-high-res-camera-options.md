@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Affordable High-Res Camera Options\""
-date: 2024-05-24T14:23:04.782Z
-updated: 2024-05-25T14:23:04.782Z
+date: 2024-06-10T19:51:07.596Z
+updated: 2024-06-11T19:51:07.596Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Affordable High-Res Camera Options\""
 excerpt: "\"This Article Describes In 2024, Affordable High-Res Camera Options\""
 keywords: "\"Budget Cameras HR,Low-Cost High Res,Cheap Top Quality Cam,Economical Camera Options,Affordable HR Cameras,Cost-Effective Camera HR,Inexpensive High-Res Cams\""
-thumbnail: https://www.lifewire.com/thmb/ficIfiN0d9_BE02ev79pjdBYYIg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-set-up-a-twitter-account-4589857-0b72631b3bc54381a105abb5f39b150a.jpg
+thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3ee60a88ba18b85321387d187.jpg
 ---
 
 ## Affordable High-Res Camera Options

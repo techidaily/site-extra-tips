@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Accelerate Document Creation  Learning MS Word's Speech Feature\""
-date: 2024-05-24T15:22:10.246Z
-updated: 2024-05-25T15:22:10.246Z
+date: 2024-06-10T19:51:06.701Z
+updated: 2024-06-11T19:51:06.701Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Accelerate Document Creation: Learning MS Word's Speech Feature\""
 excerpt: "\"This Article Describes 2024 Approved: Accelerate Document Creation: Learning MS Word's Speech Feature\""
 keywords: "SpeakWordsMS,WordSpeechTips,FastWriteMS,QuickDocMS,WordCreateFast,MSWordSpeaking,SpeedyDocumentMS"
-thumbnail: https://www.lifewire.com/thmb/5V4FSFpr2o1W9L069x7QmkB4y7U=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/McIntosh-Soho-III-MT5-Stereo-system-a-9494141062104974a1820ee1e29bb019.jpg
+thumbnail: https://thmb.techidaily.com/506707788e28afb0dd333ede3d14b446e4802e54b3be096a7cd03abb7e8cbcbb.jpg
 ---
 
 ## Accelerate Document Creation: Learning MS Word's Speech Feature

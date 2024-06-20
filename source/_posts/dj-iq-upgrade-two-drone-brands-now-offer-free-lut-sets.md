@@ -1,7 +1,7 @@
 ---
 title: "DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets"
-date: 2024-05-24T14:37:05.570Z
-updated: 2024-05-25T14:37:05.570Z
+date: 2024-06-10T19:51:07.055Z
+updated: 2024-06-11T19:51:07.055Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets"
 excerpt: "This Article Describes DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets"
 keywords: "IPhone Best Cams,Pro Photo iPhone,Free iOS Cameras,Top iPhone Pics,IPhone Photography,Premium iPhone Cam,FREE Phone Shots"
-thumbnail: https://www.lifewire.com/thmb/L9UqcBsFRcJDvJpVzehCn66w1ow=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87d13a642256000f5335eb2cc.jpg
 ---
 
 ## DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets

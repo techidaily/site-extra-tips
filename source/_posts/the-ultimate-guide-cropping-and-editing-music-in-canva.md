@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide  Cropping & Editing Music in Canva\""
-date: 2024-05-24T16:02:14.955Z
-updated: 2024-05-25T16:02:14.955Z
+date: 2024-06-10T19:51:07.855Z
+updated: 2024-06-11T19:51:07.855Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Ultimate Guide: Cropping & Editing Music in Canva\""
 excerpt: "\"This Article Describes The Ultimate Guide: Cropping & Editing Music in Canva\""
 keywords: "Canva Music Crop Tutorial,Edit Music In Canva Quickly,Canva Photo Music Editing,Learn Music Cropping Canva,Canva Audio Edit Guide,Music Cropping in Design Software,Easy Music Edits in Canva"
-thumbnail: https://www.lifewire.com/thmb/OMTPowqp0rDBiDLg53uKh4CSAE8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-a-zoom-camera-is-not-working-4844956-b19c2694f1814298808aca700fa85ba2.jpg
+thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2a7e38b08f655577495f8fd5.jpg
 ---
 
 ## The Ultimate Guide: Cropping & Editing Music in Canva

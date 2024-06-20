@@ -1,7 +1,7 @@
 ---
 title: "5 Innovative VR Headsets Perfect for Aerial Sports for 2024"
-date: 2024-05-24T16:23:47.935Z
-updated: 2024-05-25T16:23:47.935Z
+date: 2024-06-10T19:51:06.296Z
+updated: 2024-06-11T19:51:06.296Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 5 Innovative VR Headsets Perfect for Aerial Sports for 2024"
 excerpt: "This Article Describes 5 Innovative VR Headsets Perfect for Aerial Sports for 2024"
 keywords: "VR Headset Sports Aerial,Aerial VR Gear Innovate,Aerial VR Tech Latest,Innovative VR Sports Goggles,Top VR for Airborne Games,Sports VR Devices Sky High,Newest VR Headsets Aviation"
-thumbnail: https://www.lifewire.com/thmb/JO3G2L6-RdxKIhq-8xFKaQ9L4as=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-184988903-56e20b6a3df78c5ba056b76b-2a6b7cc48e234a898d913048b96f3df5.jpg
+thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f17cad9fcf863c9fe9218bf46.jpg
 ---
 
 ## 5 Innovative VR Headsets Perfect for Aerial Sports

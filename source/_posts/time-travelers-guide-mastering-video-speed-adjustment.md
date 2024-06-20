@@ -1,7 +1,7 @@
 ---
 title: "\"Time Traveler's Guide  Mastering Video Speed Adjustment\""
-date: 2024-05-24T15:32:11.187Z
-updated: 2024-05-25T15:32:11.187Z
+date: 2024-06-10T19:51:08.462Z
+updated: 2024-06-11T19:51:08.462Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Time Traveler's Guide: Mastering Video Speed Adjustment\""
 excerpt: "\"This Article Describes Time Traveler's Guide: Mastering Video Speed Adjustment\""
 keywords: "Time Travel Tech,Video Speed Control,Speed Adjust Video,Traveler's Tips,Quick Edit Guide,Mastering Playback,Video Resizing Hacks"
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## Time Traveler's Guide: Mastering Video Speed Adjustment

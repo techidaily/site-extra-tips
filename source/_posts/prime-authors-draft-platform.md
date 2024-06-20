@@ -1,7 +1,7 @@
 ---
 title: "Prime Author's Draft Platform"
-date: 2024-05-24T13:57:09.187Z
-updated: 2024-05-25T13:57:09.187Z
+date: 2024-06-10T19:51:06.507Z
+updated: 2024-06-11T19:51:06.507Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Prime Author's Draft Platform"
 excerpt: "This Article Describes Prime Author's Draft Platform"
 keywords: "\"Prime Writer Hub,Authors Draft Site,Premium Writing Space,Author-Drafted Editorial,Leading Author Drafting,Exclusive Writer Platform,Top Author Tools\""
-thumbnail: https://www.lifewire.com/thmb/NbdHSQAycy6SClhRHsj3CQyiEGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DeShuna-Spencer-78f0319607be48ec97dcc6ce1b0d1c75.png
+thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9acdb56f193b79911b70ed6c.png
 ---
 
 ## Prime Author's Draft Platform

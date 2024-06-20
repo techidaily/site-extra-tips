@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Text Preset Mastery"
-date: 2024-05-24T15:45:38.378Z
-updated: 2024-05-25T15:45:38.378Z
+date: 2024-06-10T19:51:06.837Z
+updated: 2024-06-11T19:51:06.837Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Guide to Text Preset Mastery"
 excerpt: "This Article Describes The Ultimate Guide to Text Preset Mastery"
 keywords: "Text Preset Fundamentals,Mastering Text Formatting,Text Style Essentials,Typography Guide Basics,Text Customization Techniques,Advanced Text Presets,Expert Text Design Tips"
-thumbnail: https://www.lifewire.com/thmb/Gs5sJSrH44HI93nu2uClFWSimlI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1833719522-ae350c6ed04a449e8fc03206518c02c3.jpg
+thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a5e0550c353e9047546c19d2.jpg
 ---
 
 ## The Ultimate Guide to Text Preset Mastery

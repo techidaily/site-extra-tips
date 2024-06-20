@@ -1,7 +1,7 @@
 ---
 title: "\"Friendship in Folded Space  Top VR Games\""
-date: 2024-05-24T16:23:11.852Z
-updated: 2024-05-25T16:23:11.852Z
+date: 2024-06-10T19:51:09.331Z
+updated: 2024-06-11T19:51:09.331Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Friendship in Folded Space: Top VR Games\""
 excerpt: "\"This Article Describes Friendship in Folded Space: Top VR Games\""
 keywords: "VR Friendship Games,Folded Space VR Titles,Top Friendship VRs,VR Social Gaming,Innovative Spacetime RPG,Exciting Friendships in VR,Leading Friendly VR Worlds"
-thumbnail: https://www.lifewire.com/thmb/264xm89WJRvn8-nnX4DNU7kRr_k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ApCent_2018-04-08_20-29-19-5acab3fbc0647100378b32fd.png
+thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a46c11534bd2a1352ab33e591.png
 ---
 
 ## Friendship in Folded Space: Top VR Games

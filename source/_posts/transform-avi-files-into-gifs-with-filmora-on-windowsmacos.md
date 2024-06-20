@@ -1,7 +1,7 @@
 ---
 title: "Transform AVI Files Into GIFs with Filmora on Windows/MacOS"
-date: 2024-05-24T15:57:30.616Z
-updated: 2024-05-25T15:57:30.616Z
+date: 2024-06-10T19:51:09.228Z
+updated: 2024-06-11T19:51:09.228Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Transform AVI Files Into GIFs with Filmora on Windows/MacOS"
 excerpt: "This Article Describes Transform AVI Files Into GIFs with Filmora on Windows/MacOS"
 keywords: "Filmora GIF Conversion Windows,Mac GIF Maker Filmora,AVI to GIF Editor OSX,Windows GIFs From AVIs Filmora,Filmora GIF Creation PC/Mac,Convert AVI To GIF Filmo,GIF Making Software MAC,WIN"
-thumbnail: https://www.lifewire.com/thmb/8WvB3WbbZhsgOEddEK5no9WfS0E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PMA1-497f5a8faa3c449eb1f0b7157b8e9e66.jpeg
+thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27daf3516cb90c9a543d54e11.jpeg
 ---
 
 ## Transform AVI Files Into GIFs with Filmora on Windows/MacOS

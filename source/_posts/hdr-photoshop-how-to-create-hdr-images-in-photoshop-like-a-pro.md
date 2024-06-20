@@ -1,7 +1,7 @@
 ---
 title: "\"HDR Photoshop  How to Create HDR Images in Photoshop Like a Pro\""
-date: 2024-05-24T16:22:59.373Z
-updated: 2024-05-25T16:22:59.373Z
+date: 2024-06-10T19:51:06.889Z
+updated: 2024-06-11T19:51:06.889Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes HDR Photoshop: How to Create HDR Images in Photoshop Like a Pro\""
 excerpt: "\"This Article Describes HDR Photoshop: How to Create HDR Images in Photoshop Like a Pro\""
 keywords: "Pro HDR Photo Editing,Photoshop HDR Techniques,Creating HDR In PS,Mastering Photoshop HDR,HDR in Adobe PS,Photoshop for HDR Artists,Expert HDR Photo PS"
-thumbnail: https://www.lifewire.com/thmb/CYuMInxhqGfsz5AC53n9L4-L5n8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chris-briggs-Rr6KMv_NYog-unsplash-ca2d5c709f434b72a9e61f973e2edf69.jpg
+thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b542178679b34754816329310d98db4.jpg
 ---
 
 ## HDR Photoshop: How to Create HDR Images in Photoshop Like a Pro

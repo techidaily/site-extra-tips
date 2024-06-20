@@ -1,7 +1,7 @@
 ---
 title: "Iconic 20 Anime Series Intros"
-date: 2024-05-24T15:09:37.800Z
-updated: 2024-05-25T15:09:37.800Z
+date: 2024-06-10T19:51:09.399Z
+updated: 2024-06-11T19:51:09.399Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Iconic 20 Anime Series Intros"
 excerpt: "This Article Describes Iconic 20 Anime Series Intros"
 keywords: "Iconic Anime Intros,Epic 20 Ani Series Themes,Anime Series Title Hits,20 Classic Anime Openings,Top 20 Anime Intros,Anime Anthology Series,Premier Anime Series Debuts"
-thumbnail: https://www.lifewire.com/thmb/CYuMInxhqGfsz5AC53n9L4-L5n8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chris-briggs-Rr6KMv_NYog-unsplash-ca2d5c709f434b72a9e61f973e2edf69.jpg
+thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b542178679b34754816329310d98db4.jpg
 ---
 
 ## Iconic 20 Anime Series Intros

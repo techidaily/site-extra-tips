@@ -1,7 +1,7 @@
 ---
 title: "Circlesmith's Arsenal"
-date: 2024-05-24T15:43:22.858Z
-updated: 2024-05-25T15:43:22.858Z
+date: 2024-06-10T19:51:06.279Z
+updated: 2024-06-11T19:51:06.279Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Circlesmith's Arsenal"
 excerpt: "This Article Describes Circlesmith's Arsenal"
 keywords: "Circlesmith Gear,Smithy Tools,Metalwork Supplies,Forging Equipment,Smith Armorset,Blacksmith Arsenal,Craftsman Kit"
-thumbnail: https://www.lifewire.com/thmb/sPQbXlbZDpnoRk6plGrXde1S2II=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/womanwavingtolaptopwebcam-5b5b9b9bc9e77c004fc62a04.jpg
+thumbnail: https://thmb.techidaily.com/06768f0764e3fd16593ec6ab66fe93ff9404677c09f36129dabffcc95362a115.jpg
 ---
 
 ## Circlesmith's Arsenal

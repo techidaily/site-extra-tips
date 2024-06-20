@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Instructions  Setting Up WM6\""
-date: 2024-05-24T15:06:11.815Z
-updated: 2024-05-25T15:06:11.815Z
+date: 2024-06-10T19:51:05.624Z
+updated: 2024-06-11T19:51:05.625Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Expert Instructions: Setting Up WM6\""
 excerpt: "\"This Article Describes Expert Instructions: Setting Up WM6\""
 keywords: "WM6 Setup Guide,WM6 Installation Steps,Expert WM6 Setup Tips,Quick WM6 Configuring,WM6 Basic Configuration,Professional WM6 Instructions,Easy WM6 Setup Procedures"
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## Expert Instructions: Setting Up WM6

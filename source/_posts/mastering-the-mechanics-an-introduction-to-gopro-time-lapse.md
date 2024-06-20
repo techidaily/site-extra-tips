@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Mechanics  An Introduction to GoPro Time-Lapse\""
-date: 2024-05-24T16:14:40.070Z
-updated: 2024-05-25T16:14:40.070Z
+date: 2024-06-10T19:51:07.464Z
+updated: 2024-06-11T19:51:07.464Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering the Mechanics: An Introduction to GoPro Time-Lapse\""
 excerpt: "\"This Article Describes Mastering the Mechanics: An Introduction to GoPro Time-Lapse\""
 keywords: "\"GoPro Time Lapse Basics,Tutorial: GoPro SL Time-Lapse,Mastering GoPro SL Time-Lapse,Introduction to GoPro TimeLapses,Essential GoPro Time-Lapse Techniques,Learn GoPro Time Lapse Setup,GoPro Time-Lapse Mechanics 101\""
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## Mastering the Mechanics: An Introduction to GoPro Time-Lapse

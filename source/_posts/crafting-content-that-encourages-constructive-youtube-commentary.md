@@ -1,7 +1,7 @@
 ---
 title: "Crafting Content that Encourages Constructive YouTube Commentary"
-date: 2024-05-24T14:27:12.639Z
-updated: 2024-05-25T14:27:12.639Z
+date: 2024-06-10T19:51:09.064Z
+updated: 2024-06-11T19:51:09.064Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Content that Encourages Constructive YouTube Commentary"
 excerpt: "This Article Describes Crafting Content that Encourages Constructive YouTube Commentary"
 keywords: "Video Comment Tips,Engage Viewers Kindly,Positive Video Interaction,Fostering Online Dialogue,Polite Content Creation,Building Respectful Communities,Constructive YouTube Chats"
-thumbnail: https://www.lifewire.com/thmb/EfVcCvt847EIyGogkSGXl-6NCV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139785112-76d1d0f975934233883a19f33b8cd813.jpg
+thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660de659b232891d22eb2e884d9.jpg
 ---
 
 ## Crafting Content that Encourages Constructive YouTube Commentary

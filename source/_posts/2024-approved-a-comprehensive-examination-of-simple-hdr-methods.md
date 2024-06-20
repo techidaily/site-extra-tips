@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Comprehensive Examination of Simple HDR Methods\""
-date: 2024-05-24T14:42:59.247Z
-updated: 2024-05-25T14:42:59.247Z
+date: 2024-06-10T19:51:08.700Z
+updated: 2024-06-11T19:51:08.700Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Comprehensive Examination of Simple HDR Methods\""
 excerpt: "\"This Article Describes 2024 Approved: A Comprehensive Examination of Simple HDR Methods\""
 keywords: "HDR Basics Guide,Simplified HDR Techniques,Fundamentals of HDR,Easy HDR Methodology,HDR Simplicity Analysis,Basic HDR Concepts,Straightforward HDR Approach"
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## A Comprehensive Examination of Simple HDR Methods

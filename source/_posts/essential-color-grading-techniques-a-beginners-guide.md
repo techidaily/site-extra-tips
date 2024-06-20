@@ -1,7 +1,7 @@
 ---
 title: "\"Essential Color Grading Techniques  A Beginner's Guide\""
-date: 2024-05-24T15:31:38.355Z
-updated: 2024-05-25T15:31:38.355Z
+date: 2024-06-10T19:51:08.003Z
+updated: 2024-06-11T19:51:08.003Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Essential Color Grading Techniques: A Beginner's Guide\""
 excerpt: "\"This Article Describes Essential Color Grading Techniques: A Beginner's Guide\""
 keywords: "Basic Grading Tips,Color Correction Basics,Start Grading Steps,Film Grade Fundamentals,Essential Grading Guide,Beginner's Grading Skills,Grading Techniques Starter"
-thumbnail: https://www.lifewire.com/thmb/ER0mmosFujwpQra4QqwbCfT8TDc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/xboxonescreenshot-5aa2f62e642dca003622cd40.png
+thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c432e7b5caac8bd0f3cdf48f.png
 ---
 
 ## Essential Color Grading Techniques: A Beginner's Guide

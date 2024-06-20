@@ -1,7 +1,7 @@
 ---
 title: "The Beginner's Guide to Key Camera Movements in Film"
-date: 2024-05-24T14:17:45.812Z
-updated: 2024-05-25T14:17:45.812Z
+date: 2024-06-10T19:51:06.081Z
+updated: 2024-06-11T19:51:06.081Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Beginner's Guide to Key Camera Movements in Film"
 excerpt: "This Article Describes The Beginner's Guide to Key Camera Movements in Film"
 keywords: "\"Film Basics: Camera Mov,Cinematography Essentials,Camera Techniques for All,Start with Cameras in Film,Novice Filmmaking Tips,Learning Key Shots,Beginner's Cinemaphoty Guide\""
-thumbnail: https://www.lifewire.com/thmb/ffNLpc-c3s41hXlKLIHluWIm158=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed3-811dc04ac827434a8a7e6390258c8ae1.png
+thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png
 ---
 
 ## The Beginner's Guide to Key Camera Movements in Film

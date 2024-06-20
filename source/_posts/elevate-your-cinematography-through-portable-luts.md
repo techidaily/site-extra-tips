@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Cinematography Through Portable LUTs"
-date: 2024-05-24T14:51:06.971Z
-updated: 2024-05-25T14:51:06.971Z
+date: 2024-06-10T19:51:08.438Z
+updated: 2024-06-11T19:51:08.438Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Elevate Your Cinematography Through Portable LUTs"
 excerpt: "This Article Describes Elevate Your Cinematography Through Portable LUTs"
 keywords: "\"Portable LUTs Cinematography,Elevate Cinematography Tools,Mobile Color Grading,Lighting Utilities for Film,On-Set Color Correction,Quick LUT Applications,Dynamic Filmmaking Tech\""
-thumbnail: https://www.lifewire.com/thmb/GLP3MMh3fiI21uzbTNxbYmlFrZA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-check-router-history-5206763-4a35a9ac67f54e978a7f206600e8a8e1.jpg
+thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d027390038abb94b7b607447c1cc871.jpg
 ---
 
 ## Elevate Your Cinematography Through Portable LUTs

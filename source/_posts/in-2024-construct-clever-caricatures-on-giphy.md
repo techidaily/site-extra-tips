@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Construct Clever Caricatures on Giphy"
-date: 2024-05-24T14:06:47.853Z
-updated: 2024-05-25T14:06:47.853Z
+date: 2024-06-10T19:51:07.954Z
+updated: 2024-06-11T19:51:07.954Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Construct Clever Caricatures on Giphy"
 excerpt: "This Article Describes In 2024, Construct Clever Caricatures on Giphy"
 keywords: "Gif Artistry,Cartoon Designs,Creative Gifs,Digital Drawings,Caricature Sketches,Visual Jokes,Humorous Images"
-thumbnail: https://www.lifewire.com/thmb/nqSALb7zNdT8nFxf209ImwIDLX0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-10at11.00.05AM-54419e7f430d4753971645b6e3580923.png
+thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7b4431d8ccd93ecf0eac5efe.png
 ---
 
 ## Construct Clever Caricatures on Giphy

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Complete Collage Manual  Tips and Tricks\""
-date: 2024-05-24T14:25:10.553Z
-updated: 2024-05-25T14:25:10.553Z
+date: 2024-06-10T19:51:09.039Z
+updated: 2024-06-11T19:51:09.039Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Complete Collage Manual: Tips and Tricks\""
 excerpt: "\"This Article Describes [New] Complete Collage Manual: Tips and Tricks\""
 keywords: "Collage Art Guide,Creative Collage Tips,Collage Techniques Manual,Masterful Collage Skills,Collage Design Tricks,Layout & Collage Hacks,Professional Collage Steps"
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## Complete Collage Manual: Tips and Tricks

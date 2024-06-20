@@ -1,7 +1,7 @@
 ---
 title: "\"Zipfile Subs Guide  From Archive to SRT File Format\""
-date: 2024-05-24T15:39:16.420Z
-updated: 2024-05-25T15:39:16.420Z
+date: 2024-06-10T19:51:06.022Z
+updated: 2024-06-11T19:51:06.022Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Zipfile Subs Guide: From Archive to SRT File Format\""
 excerpt: "\"This Article Describes Zipfile Subs Guide: From Archive to SRT File Format\""
 keywords: "Zipfile Conversion Tutorial,Subtitle Extraction Steps,SRT Files Creation Guide,Archive Manipulation Techniques,Zip to SRT File Processing,Video Subs Format Change,Archive Content to SRT Transition"
-thumbnail: https://www.lifewire.com/thmb/BHYPoaBsqnN-yv34kxO6pJlwqgc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/chatgpt-fb9cd21b3fe24cdd94c8229ccb140e6a.jpg
+thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb499e343dac1cbda32fedf601.jpg
 ---
 
 ## Zipfile Subs Guide: From Archive to SRT File Format

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Aerial Choreography – The Fresh Take on Bebop's Parrot\""
-date: 2024-05-24T15:24:01.872Z
-updated: 2024-05-25T15:24:01.872Z
+date: 2024-06-10T19:51:08.268Z
+updated: 2024-06-11T19:51:08.268Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Aerial Choreography – The Fresh Take on Bebop's Parrot\""
 excerpt: "\"This Article Describes 2024 Approved: Aerial Choreography – The Fresh Take on Bebop's Parrot\""
 keywords: "\"Aerial Dance Dynamics,Bebop Evolutionary Moves,Choreographed Bird Flight,Bebop Improvisation Techniques,Parrot-Inspired Motion Arts,Airborne Bebop Transformation,Skillful Aerial Jazz Expression\""
-thumbnail: https://www.lifewire.com/thmb/3c1cTWiTn2Xcx6PnSP-2IA67Da0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41228f9bbeee698b42d6caf34.jpg
 ---
 
 ## Aerial Choreography – The Fresh Take on Bebop's Parrot

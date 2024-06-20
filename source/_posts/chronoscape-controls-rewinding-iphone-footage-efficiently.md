@@ -1,7 +1,7 @@
 ---
 title: "\"Chronoscape Controls  Rewinding iPhone Footage Efficiently\""
-date: 2024-05-24T15:45:02.668Z
-updated: 2024-05-25T15:45:02.668Z
+date: 2024-06-10T19:51:08.832Z
+updated: 2024-06-11T19:51:08.832Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Chronoscape Controls: Rewinding iPhone Footage Efficiently\""
 excerpt: "\"This Article Describes Chronoscape Controls: Rewinding iPhone Footage Efficiently\""
 keywords: "Pro Video Bg Efficiency,Bg Footage Utilization,Effective Bg Usage,Optimize Bg Use,Bg Imagery in Projects,Background Bg Integration,Creative Bg Employment"
-thumbnail: https://www.lifewire.com/thmb/2j9zscNBYRMQ_Fozem_nlgTXfTE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-13at12.25.09PM-aa52f1508d6b489b84df85c774669e89.png
+thumbnail: https://thmb.techidaily.com/132555d330df6c205c8e32dca26d7905a91b5054d60d992a4b9ddb9496678dda.png
 ---
 
 ## Chronoscape Controls: Rewinding iPhone Footage Efficiently

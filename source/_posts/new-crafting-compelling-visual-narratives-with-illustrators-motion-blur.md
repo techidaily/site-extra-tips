@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Compelling Visual Narratives with Illustrator's Motion Blur"
-date: 2024-05-24T14:05:13.381Z
-updated: 2024-05-25T14:05:13.381Z
+date: 2024-06-10T19:51:06.726Z
+updated: 2024-06-11T19:51:06.726Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Crafting Compelling Visual Narratives with Illustrator's Motion Blur"
 excerpt: "This Article Describes [New] Crafting Compelling Visual Narratives with Illustrator's Motion Blur"
 keywords: "Illust Blur Technique,Motion Blur Art,Creative Visual Blur,Illustr Blending Method,Narrative Visual Blur,Visual Storytelling Blur,Blur Effect in Design"
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## Crafting Compelling Visual Narratives with Illustrator's Motion Blur

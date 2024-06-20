@@ -1,7 +1,7 @@
 ---
 title: "\"Syncopated Sounds  Discovering Crossfades\""
-date: 2024-05-24T15:23:38.366Z
-updated: 2024-05-25T15:23:38.366Z
+date: 2024-06-10T19:51:08.761Z
+updated: 2024-06-11T19:51:08.761Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Syncopated Sounds: Discovering Crossfades\""
 excerpt: "\"This Article Describes Syncopated Sounds: Discovering Crossfades\""
 keywords: "Crossfade Basics,Mixing Techniques,Audio Seamless Transition,Effective DJing Tips,Sound Editing Mastery,Music Production Guide,Harmonic Transitions"
-thumbnail: https://www.lifewire.com/thmb/4jzI8pZAQ_0KJPl4ZKevaW_-cfI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/travel-mountain-mountain-scenic-friends-mountains-style-outfit-of-the-day_t20_knPQl3-5c79582cc9e77c0001f57bec.jpg
+thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3ba69f4885da8723ba49d2002.jpg
 ---
 
 ## Syncopated Sounds: Discovering Crossfades

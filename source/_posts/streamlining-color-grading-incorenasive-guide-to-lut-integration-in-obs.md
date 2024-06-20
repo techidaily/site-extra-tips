@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Color Grading  Incorenasive Guide to LUT Integration in OBS\""
-date: 2024-05-24T13:55:37.060Z
-updated: 2024-05-25T13:55:37.060Z
+date: 2024-06-10T19:51:08.163Z
+updated: 2024-06-11T19:51:08.163Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Streamlining Color Grading: Incorenasive Guide to LUT Integration in OBS\""
 excerpt: "\"This Article Describes Streamlining Color Grading: Incorenasive Guide to LUT Integration in OBS\""
 keywords: "Streamline Color Grading,LUT Integration Guide,Simplify Grading Process,Advanced Grading Techniques,OBS LUT Setup,Efficient Grading Tutorial,Optimized LUT Application"
-thumbnail: https://www.lifewire.com/thmb/c8_yEtAQPjzf4KHogDen-qh8GCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/triyansh-gill-KQXQSSLQfW4-unsplash-d86ec56209484f83a2001565ffcc81dc.jpg
+thumbnail: https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633cff516b42a4d7954e71a5e9.jpg
 ---
 
 ## Streamlining Color Grading: Incorenasive Guide to LUT Integration in OBS

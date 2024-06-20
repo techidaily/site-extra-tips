@@ -1,7 +1,7 @@
 ---
 title: "\"Plot Craft Guild - Bestowed Batch\""
-date: 2024-05-24T14:17:32.959Z
-updated: 2024-05-25T14:17:32.959Z
+date: 2024-06-10T19:51:06.469Z
+updated: 2024-06-11T19:51:06.469Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Plot Craft Guild - Bestowed Batch\""
 excerpt: "\"This Article Describes Plot Craft Guild - Bestowed Batch\""
 keywords: "Plot Crafting Tips,Guild Storytelling,Crafted Narratives,Writers' Collective,Quality Plot Batches,Crafted Plot Insights,Creative Guild Sessions"
-thumbnail: https://www.lifewire.com/thmb/dEkjfRHg1qIo_VD0haKM_WRUglw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mastodon-app-45ced1b535284462815c0b8168825f67.jpg
+thumbnail: https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb4889a6eb2b11c281fd2cb5d878.jpg
 ---
 
 ## Plot Craft Guild - Bestowed Batch

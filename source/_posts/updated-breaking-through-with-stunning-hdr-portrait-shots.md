@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Breaking Through with Stunning HDR Portrait Shots"
-date: 2024-05-24T15:44:39.078Z
-updated: 2024-05-25T15:44:39.078Z
+date: 2024-06-10T19:51:06.202Z
+updated: 2024-06-11T19:51:06.202Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Breaking Through with Stunning HDR Portrait Shots"
 excerpt: "This Article Describes [Updated] Breaking Through with Stunning HDR Portrait Shots"
 keywords: "HDR Portrait Magic,Stunning HDR Shots,HDR Photography Excellence,Dynamic HDR Portraits,Vivid HDR Imagery,Artful HDR Shots,Captivating High Dynamic Range"
-thumbnail: https://www.lifewire.com/thmb/SEVu3EpdgfJYCTdu_cgCSA8kcdY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-49937c026b71448bb5b21c5b6b4311b6.jpg
+thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002cdc0aa0e847be271477f189f.jpg
 ---
 
 ## Breaking Through with Stunning HDR Portrait Shots

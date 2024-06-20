@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)\""
-date: 2024-05-24T15:11:48.664Z
-updated: 2024-05-25T15:11:48.664Z
+date: 2024-06-10T19:51:06.970Z
+updated: 2024-06-11T19:51:06.970Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)\""
 excerpt: "\"This Article Describes Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)\""
 keywords: "VLC Media Player,Open Source Media,MP4 Playback Comparison,Free Media Software,Video Format Compatibility,Streaming Quality Assessment,Digital Content Accessibility"
-thumbnail: https://www.lifewire.com/thmb/5lyEkq3okn_NNsuCJc0_04F1lIU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-cast-to-firestick-from-an-android-phone-f625f95b6dd548e5934171100785016e.jpg
+thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee741804b69375cf4ed02faf5de.jpg
 ---
 
 ## Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC)

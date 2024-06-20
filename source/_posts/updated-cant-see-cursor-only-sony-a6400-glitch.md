@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Can't See, Cursor Only - Sony A6400 Glitch\""
-date: 2024-05-24T15:25:53.407Z
-updated: 2024-05-25T15:25:53.407Z
+date: 2024-06-10T19:51:05.644Z
+updated: 2024-06-11T19:51:05.644Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Can't See, Cursor Only - Sony A6400 Glitch\""
 excerpt: "\"This Article Describes [Updated] Can't See, Cursor Only - Sony A6400 Glitch\""
 keywords: "Sony A6400 Cursor Glitch,Blurry View Sony A6400,A6400 Focus Issue,A6400 Lag Cursor Fix,Sony A6400 Lens Error,Shutterbug A6400 Problem,Sony A6400 Vision Glitch"
-thumbnail: https://www.lifewire.com/thmb/YDbqv0KlCSwJ6pxbiAiduwvZbiQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-735894879-59a33461519de20010087422.jpg
+thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d762e94ab1bade24154e68d3e.jpg
 ---
 
 ## Can't See, Cursor Only - Sony A6400 Glitch

@@ -1,7 +1,7 @@
 ---
 title: "\"Velocity Victories  Olympics, Year 2022\""
-date: 2024-05-24T16:05:32.132Z
-updated: 2024-05-25T16:05:32.132Z
+date: 2024-06-10T19:51:08.890Z
+updated: 2024-06-11T19:51:08.890Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Velocity Victories: Olympics, Year 2022\""
 excerpt: "\"This Article Describes Velocity Victories: Olympics, Year 2022\""
 keywords: "Olympic Speed Trials 2022,Velocity in Athletics,Athletic Records 2022,Oly Olympics Sprints,Fastest Olympians 2022,2022 Track & Field Wins,Speedy Olympic Races 2022"
-thumbnail: https://www.lifewire.com/thmb/0fsaNQxxMm2r8t8zueL3nfHWATw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-973722484-5bb13fa7c9e77c0026378db7.jpg
+thumbnail: https://thmb.techidaily.com/425081092e1a679d02f1bd0f9b8040f12a7c3e9a90f0ca40e490e9a1586e5331.jpg
 ---
 
 ## Velocity Victories: Olympics, Year 2022

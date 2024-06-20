@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Prism of Design  From Theory to Practice\""
-date: 2024-05-24T15:37:44.715Z
-updated: 2024-05-25T15:37:44.715Z
+date: 2024-06-10T19:51:05.911Z
+updated: 2024-06-11T19:51:05.911Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Prism of Design: From Theory to Practice\""
 excerpt: "\"This Article Describes In 2024, A Prism of Design: From Theory to Practice\""
 keywords: "Design Principles,Theoretical Design,Practical Designing,Aesthetic Designs,Design Innovation,Design Application,Theory to Practice"
-thumbnail: https://www.lifewire.com/thmb/bxA2-eyTR0niNBJVXdpk_ffLlPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/wise-care-365-registry-cleaner-96cf06b1854146f187ff0879263adc4b.png
+thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c153534fece429948183b0ad342f.png
 ---
 
 ## A Prism of Design: From Theory to Practice

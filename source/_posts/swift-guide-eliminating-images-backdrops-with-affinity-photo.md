@@ -1,7 +1,7 @@
 ---
 title: "\"Swift Guide  Eliminating Images' Backdrops with Affinity Photo\""
-date: 2024-05-24T14:29:14.785Z
-updated: 2024-05-25T14:29:14.785Z
+date: 2024-06-10T19:51:07.681Z
+updated: 2024-06-11T19:51:07.681Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Swift Guide: Eliminating Images' Backdrops with Affinity Photo\""
 excerpt: "\"This Article Describes Swift Guide: Eliminating Images' Backdrops with Affinity Photo\""
 keywords: "PhotoSecrecyTechniques,ImageSteganography,HiddenImageComposition,StealthPhotoshopTricks,CovertPhotoEditing,ClandestinePicHiding,DiscreetPhotoshopArt"
-thumbnail: https://www.lifewire.com/thmb/fXGdO0DJJLwHtal77Js2GxnyYWc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/text-message-on-ipad-1994688-207f73a5d0274a6b97e1027420c6d329.png
+thumbnail: https://thmb.techidaily.com/4f39ebc55802b5fd29e1ead6db3dfc5174731a378a897f2615b5059637faad66.png
 ---
 
 ## Swift Guide: Eliminating Images' Backdrops with Affinity Photo

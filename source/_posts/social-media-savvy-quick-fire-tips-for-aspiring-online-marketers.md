@@ -1,7 +1,7 @@
 ---
 title: "\"Social Media Savvy  Quick-Fire Tips for Aspiring Online Marketers\""
-date: 2024-05-24T14:17:41.341Z
-updated: 2024-05-25T14:17:41.341Z
+date: 2024-06-10T19:51:07.965Z
+updated: 2024-06-11T19:51:07.965Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Social Media Savvy: Quick-Fire Tips for Aspiring Online Marketers\""
 excerpt: "\"This Article Describes Social Media Savvy: Quick-Fire Tips for Aspiring Online Marketers\""
 keywords: "Online Marketing Tips,Social Media Strategies,Digital Marketing Quick Guide,Mastering Social Platforms,Effective Online Promotion,Marketing in Digital Age,Engaging on Social Media"
-thumbnail: https://www.lifewire.com/thmb/QRXV0UeTXIr-6aFMAG_UhB6Snr4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/f247ef7a94b421ec0fcafea579ee074c3050225ad0c19a044a9d73401964e5e7.jpg
 ---
 
 ## Social Media Savvy: Quick-Fire Tips for Aspiring Online Marketers

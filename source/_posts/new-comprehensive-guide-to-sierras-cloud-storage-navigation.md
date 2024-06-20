@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Guide to Sierra’s Cloud Storage Navigation"
-date: 2024-05-24T16:27:28.871Z
-updated: 2024-05-25T16:27:28.871Z
+date: 2024-06-10T19:51:08.748Z
+updated: 2024-06-11T19:51:08.748Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Guide to Sierra’s Cloud Storage Navigation"
 excerpt: "This Article Describes [New] Comprehensive Guide to Sierra’s Cloud Storage Navigation"
 keywords: "Cloud Storage Basics,Navigating Sierra Cloud,Sierra Storage Guide,Cloud Data Access,Streamlined Cloud Use,Sierra's Navigation Path,Cloud Storage Management"
-thumbnail: https://www.lifewire.com/thmb/rCx-4CN9HDB98wwAwi2Ag8X30fw=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909e1d6b3abfc42368ffd69851.jpg
 ---
 
 ## Comprehensive Guide to Sierra’s Cloud Storage Navigation
