@@ -1,7 +1,7 @@
 ---
 title: "Photo Deformation Masterclass Essentials"
-date: 2024-05-24T15:57:15.865Z
-updated: 2024-05-25T15:57:15.865Z
+date: 2024-06-19T20:57:35.538Z
+updated: 2024-06-20T20:57:35.538Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Photo Deformation Masterclass Essentials"
 excerpt: "This Article Describes Photo Deformation Masterclass Essentials"
 keywords: "Photo Distortion Basics,Image Warping Secrets,Mastering Photo Alteration,Essential Photo Transform,Expertise in Photo Deformation,Core Photo Shift Skills,Key to Photo Editing Art"
-thumbnail: https://www.lifewire.com/thmb/7R8mQnuJP3DqKFFTuMg5qMVDNpE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1205159Womanholdinggenericsmartphone-9733a5bbd64041d298df8da874a9005d.jpg
+thumbnail: https://thmb.techidaily.com/8b331b35c6d777fdf8e0a1e1e6e83a2b89a91f457eb27f49b343a7f996ac260f.jpg
 ---
 
 ## Photo Deformation Masterclass Essentials

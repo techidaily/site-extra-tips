@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comparing M1 Laptop Performance in Air Vs. Pro\""
-date: 2024-05-24T14:15:21.402Z
-updated: 2024-05-25T14:15:21.402Z
+date: 2024-06-19T20:57:40.698Z
+updated: 2024-06-20T20:57:40.698Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Comparing M1 Laptop Performance in Air Vs. Pro\""
 excerpt: "\"This Article Describes 2024 Approved: Comparing M1 Laptop Performance in Air Vs. Pro\""
 keywords: "\"M1 Laptop Speed Comparison,Air Vs. Pro Laptop M1,M1 Bench Test (Air/Pro),Air Vs. Pro M1 Performance,Air Pro M1 Laptop Compare,M1 Air Pro Comparative Analysis,Pro Versus Air: M1 Laptop Efficiency\""
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Comparing M1 Laptop Performance in Air Vs. Pro

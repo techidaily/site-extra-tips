@@ -1,7 +1,7 @@
 ---
 title: "Nikon D 500 4K DSLR Camera Review"
-date: 2024-05-24T14:44:17.266Z
-updated: 2024-05-25T14:44:17.266Z
+date: 2024-06-19T20:57:36.053Z
+updated: 2024-06-20T20:57:36.053Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Nikon D 500 4K DSLR Camera Review"
 excerpt: "This Article Describes Nikon D 500 4K DSLR Camera Review"
 keywords: "Nikon D500 4K,4K DSLR Nikon,DSLR Nikon 4K,Nikon 500 DSLR,Nikon D500 Review,4K DSLR Camera Nikon,DSLR Nikon 500 Review"
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## Understanding the Impact of Nikon D500's 4K Output

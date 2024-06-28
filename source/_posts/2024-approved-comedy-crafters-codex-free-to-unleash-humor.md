@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Comedy Crafters' Codex  Free to Unleash Humor\""
-date: 2024-05-24T13:57:57.777Z
-updated: 2024-05-25T13:57:57.777Z
+date: 2024-06-19T20:57:42.169Z
+updated: 2024-06-20T20:57:42.169Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Comedy Crafters' Codex: Free to Unleash Humor\""
 excerpt: "\"This Article Describes 2024 Approved: Comedy Crafters' Codex: Free to Unleash Humor\""
 keywords: "\"Comedy Craft Tips,Unlock Funny Content,Laughter Guidebook,Free Comedy Scripts,Humor Development,Joke Writing Secrets,Stand-Up Strategies\""
-thumbnail: https://www.lifewire.com/thmb/fxTkV6WtKE82Yk7N0Qz__P0Ie4k=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/ecotech_robothands_gettyimages-1179633351_koya79_cropped_1745_v3-c9e218ef95494c239b2edfb8294fe2a1.jpg
+thumbnail: https://thmb.techidaily.com/757021be603bb0b62889fcb3393264ba25afdf3ad53016173b55a4a0650b3071.jpg
 ---
 
 ## Comedy Crafters' Codex: Free to Unleash Humor

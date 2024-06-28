@@ -1,7 +1,7 @@
 ---
 title: "\"Behind the Scenes  Samsung's S8 and 4K Technology\""
-date: 2024-05-24T15:48:30.746Z
-updated: 2024-05-25T15:48:30.746Z
+date: 2024-06-19T20:57:34.304Z
+updated: 2024-06-20T20:57:34.304Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Behind the Scenes: Samsung's S8 and 4K Technology\""
 excerpt: "\"This Article Describes Behind the Scenes: Samsung's S8 and 4K Technology\""
 keywords: "\"Samsung S8 4K Tech,S8 Behind-the-Scenes,Samsung 4K Innovation,4K Samsung S8,S8 Video Technology,S8 Screen Recording,Advanced Samsung Display\""
-thumbnail: https://www.lifewire.com/thmb/5Hk3OeMwXnJsYVlAr-DvpgKR1cA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Netflix-vs-Max-314e297891b54d66ba48792cae9b2934.jpg
+thumbnail: https://thmb.techidaily.com/8c3b13a3ac83a5d3d00093c2a17a7909556b01cc18d6b9abd17e301fcbcbc6e6.jpg
 ---
 
 ## Behind the Scenes: Samsung's S8 and 4K Technology

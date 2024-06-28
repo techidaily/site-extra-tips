@@ -1,7 +1,7 @@
 ---
 title: "Photoshop Techniques for Dynamic, Realistic Text"
-date: 2024-05-24T14:58:07.506Z
-updated: 2024-05-25T14:58:07.506Z
+date: 2024-06-19T20:57:35.954Z
+updated: 2024-06-20T20:57:35.954Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Photoshop Techniques for Dynamic, Realistic Text"
 excerpt: "This Article Describes Photoshop Techniques for Dynamic, Realistic Text"
 keywords: "PhotoCurvesTechniques,PHDartArtCurving,QuickPhotoshopArts,CurveModernPhotoshopping,PhotoshopCurveSkills,ArtistsCurveAdjust,PhotoCurveHacks"
-thumbnail: https://www.lifewire.com/thmb/WRDmGM751bcd-uPEnTRppKvTp80=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/sergey-zolkin-_UeY8aTI6d0-unsplash-70ae49e2888e4a9eb06efe3050fcb772.jpg
+thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
 ---
 
 ## Photoshop Techniques for Dynamic, Realistic Text

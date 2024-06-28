@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cinematic Close-Ups  Elevating Your Work with Kinemaster\""
-date: 2024-05-24T15:59:55.500Z
-updated: 2024-05-25T15:59:55.500Z
+date: 2024-06-19T20:57:41.207Z
+updated: 2024-06-20T20:57:41.207Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Cinematic Close-Ups: Elevating Your Work with Kinemaster\""
 excerpt: "\"This Article Describes [Updated] Cinematic Close-Ups: Elevating Your Work with Kinemaster\""
 keywords: "\"Cinematic Shots,Masterful Close-Ups,Artistic Filmmaking,Close-Up Technique,Professional Cinematography,Kinemaster Expertise,Elevated Visuals\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Cinematic Close-Ups: Elevating Your Work with Kinemaster

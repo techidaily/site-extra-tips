@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Secrets of iPhone HDR"
-date: 2024-05-24T15:25:23.515Z
-updated: 2024-05-25T15:25:23.515Z
+date: 2024-06-19T20:57:39.547Z
+updated: 2024-06-20T20:57:39.547Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unraveling the Secrets of iPhone HDR"
 excerpt: "This Article Describes Unraveling the Secrets of iPhone HDR"
 keywords: "\"IPhone HDR Basics,Understanding iPhone HDR,HDR on iPhone Explored,IPhone Enhanced Dynamic Range (HDR),Mastering iPhone High-Dynamic Range,IPhone's HDR Technique Insight,IPhone Improved Picture Quality\""
-thumbnail: https://www.lifewire.com/thmb/xqHkNazJkUZujRm-WPAwphMd5JY=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/1all-key-finders-d6e7ccbb518848669814cb15fdc30d0d.jpg
+thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c8228611ca9a5690c1d2c490.jpg
 ---
 
 ## Unraveling the Secrets of iPhone HDR

@@ -1,7 +1,7 @@
 ---
 title: "\"The Essential Marketing Lexicon  20 Pivotal Words & Phrases\""
-date: 2024-05-24T15:37:28.202Z
-updated: 2024-05-25T15:37:28.202Z
+date: 2024-06-19T20:57:39.508Z
+updated: 2024-06-20T20:57:39.508Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Essential Marketing Lexicon: 20 Pivotal Words & Phrases\""
 excerpt: "\"This Article Describes The Essential Marketing Lexicon: 20 Pivotal Words & Phrases\""
 keywords: "Marketing Basics,Keyword Mastery,SEO Fundamentals,Branding Essentials,Content Strategy,Pivotal Marketing Terms,Advertising Lexicon"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## The Essential Marketing Lexicon: 20 Pivotal Words & Phrases

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Craft Comical Caricatures Using Giphy's Kit\""
-date: 2024-05-24T15:38:18.262Z
-updated: 2024-05-25T15:38:18.262Z
+date: 2024-06-19T20:57:36.200Z
+updated: 2024-06-20T20:57:36.200Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Craft Comical Caricatures Using Giphy's Kit\""
 excerpt: "\"This Article Describes 2024 Approved: Craft Comical Caricatures Using Giphy's Kit\""
 keywords: "Gif Art Creation,Humorous Drawings,Cartoon Making Fun,Digital Caricature,Comedy Artistry,Animated Characters,Creative GIFs Design"
-thumbnail: https://www.lifewire.com/thmb/YDbqv0KlCSwJ6pxbiAiduwvZbiQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-735894879-59a33461519de20010087422.jpg
+thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d762e94ab1bade24154e68d3e.jpg
 ---
 
 ## Craft Comical Caricatures Using Giphy's Kit
@@ -52,7 +52,7 @@ There are innumerable varieties of memes, but the ones that most people are fami
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and Select Meme Backdrop
+##### Step1 Install Filmora
 
 You may create your own memes for every occasion with the aid of the Filmora meme maker. Make your meme unique with free photos, fonts, and other elements. However, while making a meme, you will have a notion in mind. But if not, think up something humorous. Install this editor on the fly after that.
 
@@ -84,7 +84,7 @@ Additionally, Giphy offers a Giphy Cam software that enables users to create cus
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and Select Meme Backdrop
+##### Step1 Install Filmora
 
 You may create your own memes for every occasion with the aid of the Filmora meme maker. Make your meme unique with free photos, fonts, and other elements. However, while making a meme, you will have a notion in mind. But if not, think up something humorous. Install this editor on the fly after that.
 

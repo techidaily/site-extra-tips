@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Complete Look at Color Correction for GoPro Videos"
-date: 2024-05-24T15:50:57.240Z
-updated: 2024-05-25T15:50:57.240Z
+date: 2024-06-19T20:57:44.409Z
+updated: 2024-06-20T20:57:44.409Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, A Complete Look at Color Correction for GoPro Videos"
 excerpt: "This Article Describes In 2024, A Complete Look at Color Correction for GoPro Videos"
 keywords: "GoPro Color Correction Basics,GoPro Video Enhancement Tips,Professional GoPro Editing,Understanding GoPro White Balance,Advanced GoPro Color Adjustments,Mastering GoPro Video Grading,Essential GoPro Film Effects"
-thumbnail: https://www.lifewire.com/thmb/KIy-wB1N9Ldr9ulOGMJcvZWoQEA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-485208819-5b4e552fc9e77c005bc1972b.jpg
+thumbnail: https://thmb.techidaily.com/aeb1adbf149584a341fb74f49144490d740789721f41a9cf0edd89a122f69cd4.jpg
 ---
 
 ## A Complete Look at Color Correction for GoPro Videos

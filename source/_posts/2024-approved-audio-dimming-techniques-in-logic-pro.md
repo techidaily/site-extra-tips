@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Audio Dimming Techniques in Logic Pro\""
-date: 2024-05-24T15:27:29.116Z
-updated: 2024-05-25T15:27:29.116Z
+date: 2024-06-19T20:57:33.625Z
+updated: 2024-06-20T20:57:33.625Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Audio Dimming Techniques in Logic Pro\""
 excerpt: "\"This Article Describes 2024 Approved: Audio Dimming Techniques in Logic Pro\""
 keywords: "Logic Pro Audio Controls,Audio Leveling Logic Pro,Sound Dimming Logic Pro,Logic Mixer EQ Settings,Professional Audio Editing,Mastering Techniques Logic,Advanced Audio Production Tools"
-thumbnail: https://www.lifewire.com/thmb/cf50_JsD2-O_A4uNcst4eqHKyC4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fullscreenopen-b2ead701237e4e49ad80f4de91bd5be5.jpeg
+thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973ecd1f3c8cd4da92e1845552.jpeg
 ---
 
 ## Audio Dimming Techniques in Logic Pro

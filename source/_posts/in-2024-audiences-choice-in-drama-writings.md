@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Audience's Choice in Drama Writings"
-date: 2024-05-24T16:04:06.487Z
-updated: 2024-05-25T16:04:06.487Z
+date: 2024-06-19T20:57:42.337Z
+updated: 2024-06-20T20:57:42.337Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Audience's Choice in Drama Writings"
 excerpt: "This Article Describes In 2024, Audience's Choice in Drama Writings"
 keywords: "\"Audience-Picked Plays,Popular Dramas,Fan-Loved Plays,Top Drama Selections,Audiences' Choice Awards,Preferred Playwrights,Crowd-Chosen Drama\""
-thumbnail: https://www.lifewire.com/thmb/oeyN8eHb8HKFhUFqsSoqQGpPusA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/google-pixel-tablet-166439ac382c41c2b08b056c16d189ae.jpg
+thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c83a82113344d8ae306f1223c.jpg
 ---
 
 ## Audience's Choice in Drama Writings
@@ -159,13 +159,13 @@ The drama first aired on iTunes in 2009, and its final season premiered in 2014\
 
 If you are looking for good websites to download free radio dramas, then these are the websites you are looking for:
 
-### 1\. [Simply Scripts](https://www.simplyscripts.com/radio%5Fall.html)
+### 1\. Simply Scripts
 
 Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
 
-### 2\. [BBC Radio Shows](https://archive.org/details/folksoundomy%5Fbbcradio?&sort=-week&page=2)
+### 2\. BBC Radio Shows
 
 Nearly 35 million people listen to BBC Radio each week. The BBC provides a range of services aimed at providing listeners with high-quality programming, regardless of their interests or mood.
 
@@ -219,13 +219,13 @@ The drama first aired on iTunes in 2009, and its final season premiered in 2014\
 
 If you are looking for good websites to download free radio dramas, then these are the websites you are looking for:
 
-### 1\. [Simply Scripts](https://www.simplyscripts.com/radio%5Fall.html)
+### 1\. Simply Scripts
 
 Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
 
-### 2\. [BBC Radio Shows](https://archive.org/details/folksoundomy%5Fbbcradio?&sort=-week&page=2)
+### 2\. BBC Radio Shows
 
 Nearly 35 million people listen to BBC Radio each week. The BBC provides a range of services aimed at providing listeners with high-quality programming, regardless of their interests or mood.
 

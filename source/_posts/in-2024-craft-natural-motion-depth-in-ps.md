@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Craft Natural Motion Depth in PS"
-date: 2024-05-24T15:46:29.624Z
-updated: 2024-05-25T15:46:29.624Z
+date: 2024-06-19T20:57:35.278Z
+updated: 2024-06-20T20:57:35.278Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Craft Natural Motion Depth in PS"
 excerpt: "This Article Describes In 2024, Craft Natural Motion Depth in PS"
 keywords: "\"Craft Natural Movement,Motion Depth Techniques,Natural Motion Art,Creative Depth Exploration,Subtle Motion Dynamics,PS Natural Motion,In-Depth Natural Depths\""
-thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1316489017-cab6da86c84e4a379cb658ec51faf24a.jpg
+thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe6968554def245326bd7e9d126f27.jpg
 ---
 
 ## Craft Natural Motion Depth in PS

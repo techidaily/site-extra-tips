@@ -1,7 +1,7 @@
 ---
 title: "\"Creating Stunning Canon Time-Lapse Videos\""
-date: 2024-05-24T15:58:33.767Z
-updated: 2024-05-25T15:58:33.767Z
+date: 2024-06-19T20:57:43.390Z
+updated: 2024-06-20T20:57:43.390Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Creating Stunning Canon Time-Lapse Videos\""
 excerpt: "\"This Article Describes Creating Stunning Canon Time-Lapse Videos\""
 keywords: "\"Canon Time-Lapse Art,Stunning Photobooths,Creative Video Lapses,Lapse Beauty Captures,Impressive Timelapses,Crafting Videos Canvas,Aesthetic Film Sequences\""
-thumbnail: https://www.lifewire.com/thmb/bbeiFr7M7Hblm82AcPyl3Z3IAu4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-fix-it-when-roku-tv-sound-is-not-working-5198644-bc2ace5bd66c4dcb9ba516eac5fc3df8.jpg
+thumbnail: https://thmb.techidaily.com/9b3d4059cce82d617824aff75bbe2c1cfb1dda056b7a7373daee332b511aa58b.jpg
 ---
 
 ## Creating Stunning Canon Time-Lapse Videos

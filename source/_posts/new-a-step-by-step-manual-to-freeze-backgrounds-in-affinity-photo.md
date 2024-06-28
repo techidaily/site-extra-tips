@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
-date: 2024-05-24T16:18:41.621Z
-updated: 2024-05-25T16:18:41.621Z
+date: 2024-06-19T20:57:36.321Z
+updated: 2024-06-20T20:57:36.321Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
 excerpt: "\"This Article Describes [New] A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo\""
 keywords: "PhotoBackgroundRemovalSteps,ErasePhotobackGroundTips,BackdropErasingProcedure,StepToRemovePhotoBacking,PhotographyBgCleaningGuide,BackGroundCleaningInPhotos,EasyPhotoBackgroundRemoval"
-thumbnail: https://www.lifewire.com/thmb/PS-19CkMFLFse0EjPIWu03Pcq6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-engine-351ff5faf905482b83bed0702b6f8976.png
+thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412d012bd826ff7f5dff9de440.png
 ---
 
 ## A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo

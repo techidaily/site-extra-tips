@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Bring Your Photos to Life  Adding Radial Focus Effects PS\""
-date: 2024-05-24T15:17:37.579Z
-updated: 2024-05-25T15:17:37.579Z
+date: 2024-06-19T20:57:33.068Z
+updated: 2024-06-20T20:57:33.068Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Bring Your Photos to Life: Adding Radial Focus Effects PS\""
 excerpt: "\"This Article Describes In 2024, Bring Your Photos to Life: Adding Radial Focus Effects PS\""
 keywords: "Ps Radial Shot,Photoshop Focal Effect,Dynamic PS Image,PS Lens Blur,PS Photo Contrast,Radial PS Enhancement,Visualize PS Images"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Bring Your Photos to Life: Adding Radial Focus Effects PS

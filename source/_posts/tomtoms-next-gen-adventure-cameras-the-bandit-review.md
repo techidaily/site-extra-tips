@@ -1,7 +1,7 @@
 ---
 title: "\"TomTom’s Next-Gen Adventure Cameras  The Bandit Review\""
-date: 2024-05-24T16:08:30.391Z
-updated: 2024-05-25T16:08:30.391Z
+date: 2024-06-19T20:57:33.215Z
+updated: 2024-06-20T20:57:33.215Z
 tags: 
   - screen-recording
   - ai video
@@ -32,8 +32,7 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
 ## Complete Review for TomTom Bandicam
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5)
 
 #### Design & Usability
 
@@ -101,7 +100,7 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  There are various other accessories which can simply alleviate your shooting experience. Flat and curved-surface adhesive mounts and adapter which are compatible with GoPro as well allows you to mount it to any GoPro and is quite handy. The sticker mounts- flat and rounded can be used to mount it to helmet etc. Tripod adapter is the other one which can be hooked to the mount and is best for longer time-lapse shots. Similarly wrist, pole and board mount and 360-degree rotating mount helps in rotation and make it ideal for various trips.
 
- Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>]( https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
+ Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>](https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
 
 #### Features
 
@@ -109,7 +108,7 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  Bandit allows you to record a glorious 4K UHD video. Its great image sensors combined with its resolution quality give an extra boost to the video. What comes out is the image which is sharp, clear, natural, clean and absolutely fantastic. Bandit allows to record 4K 15 FPS and 2.7K @30FPS as well as 1080p@60FPS, which is one of the loveable features. This is because 15FPS works best for the pictures which involves less motion. This means while shooting a lake, mountain, waterfall or anything involving less motion you can use 15 FPS. Its 30 and 60 FPS are a boon for shooting motion pictures and night clips.
 
- Check out [Top 7 Best 4K Action Cameras for 2017]( https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
+ Check out [Top 7 Best 4K Action Cameras for 2017](https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
 
  Vibrant and bright image highlighting, all details simply make the most of your memories. The Burst photography mode allows you to take 10 shots in 1 or 2 seconds, making a quick video clip of these quick candid clicks. Its slow motion capturing feature emphasizes your biggest emotions in slow motion.
 
@@ -117,7 +116,7 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  So this means that when you are snowboarding Mount Fuji, diving with dolphins in an ocean and spending quality time with your family, one thing which you cannot forget is TomTom Bandit. Its 16 MP resolution will take away your heart simply.
 
- If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.]( https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
+ If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.](https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
 
 #### **2. Battery Life and Charging**
 
@@ -127,13 +126,13 @@ thumbnail: https://www.lifewire.com/thmb/IN5PEMOoSmptszMOiM7eKx4YTsg=/400x300/fi
 
  The lens cover waterproofs the camera upto 50m during any high impact activity. Conforming to IPX8 standards, this dive lens cap is very easy to remove and re-apply. The lens cover is basically made of hardened glass that repels water and is scratch resistant too at the same time. This lens helps in eliminating any underwater distortion and thus you can swim with dolphins or shoot in the rain or snow without any tension of damage.
 
- Check out [Top 7 Best Waterproof Action Camera For 2017]( https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
+ Check out [Top 7 Best Waterproof Action Camera For 2017](https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
 
 #### **4. Sensor Capacity:**
 
  A very rare and less seen feature in action cameras is the sensor capacity. Built-in motion sensors are setup in a way to automatically identify a highlight whenever you have made a big move involving high speed, deceleration or pulling a major stunt. It tracks speed, rotation, alleviation, altitude and much more by the pumping of your heart. You can highlight and tag them in the video to relive those moments while watching the video.
 
- Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017]( https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
+ Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017](https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
 
 #### **5. APP**
 
@@ -161,8 +160,7 @@ Follow @Max Wales
 
 ## Complete Review for TomTom Bandicam
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5)
 
 #### Design & Usability
 
@@ -230,7 +228,7 @@ Follow @Max Wales
 
  There are various other accessories which can simply alleviate your shooting experience. Flat and curved-surface adhesive mounts and adapter which are compatible with GoPro as well allows you to mount it to any GoPro and is quite handy. The sticker mounts- flat and rounded can be used to mount it to helmet etc. Tripod adapter is the other one which can be hooked to the mount and is best for longer time-lapse shots. Similarly wrist, pole and board mount and 360-degree rotating mount helps in rotation and make it ideal for various trips.
 
- Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>]( https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
+ Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>](https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
 
 #### Features
 
@@ -238,7 +236,7 @@ Follow @Max Wales
 
  Bandit allows you to record a glorious 4K UHD video. Its great image sensors combined with its resolution quality give an extra boost to the video. What comes out is the image which is sharp, clear, natural, clean and absolutely fantastic. Bandit allows to record 4K 15 FPS and 2.7K @30FPS as well as 1080p@60FPS, which is one of the loveable features. This is because 15FPS works best for the pictures which involves less motion. This means while shooting a lake, mountain, waterfall or anything involving less motion you can use 15 FPS. Its 30 and 60 FPS are a boon for shooting motion pictures and night clips.
 
- Check out [Top 7 Best 4K Action Cameras for 2017]( https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
+ Check out [Top 7 Best 4K Action Cameras for 2017](https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
 
  Vibrant and bright image highlighting, all details simply make the most of your memories. The Burst photography mode allows you to take 10 shots in 1 or 2 seconds, making a quick video clip of these quick candid clicks. Its slow motion capturing feature emphasizes your biggest emotions in slow motion.
 
@@ -246,7 +244,7 @@ Follow @Max Wales
 
  So this means that when you are snowboarding Mount Fuji, diving with dolphins in an ocean and spending quality time with your family, one thing which you cannot forget is TomTom Bandit. Its 16 MP resolution will take away your heart simply.
 
- If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.]( https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
+ If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.](https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
 
 #### **2. Battery Life and Charging**
 
@@ -256,13 +254,13 @@ Follow @Max Wales
 
  The lens cover waterproofs the camera upto 50m during any high impact activity. Conforming to IPX8 standards, this dive lens cap is very easy to remove and re-apply. The lens cover is basically made of hardened glass that repels water and is scratch resistant too at the same time. This lens helps in eliminating any underwater distortion and thus you can swim with dolphins or shoot in the rain or snow without any tension of damage.
 
- Check out [Top 7 Best Waterproof Action Camera For 2017]( https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
+ Check out [Top 7 Best Waterproof Action Camera For 2017](https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
 
 #### **4. Sensor Capacity:**
 
  A very rare and less seen feature in action cameras is the sensor capacity. Built-in motion sensors are setup in a way to automatically identify a highlight whenever you have made a big move involving high speed, deceleration or pulling a major stunt. It tracks speed, rotation, alleviation, altitude and much more by the pumping of your heart. You can highlight and tag them in the video to relive those moments while watching the video.
 
- Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017]( https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
+ Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017](https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
 
 #### **5. APP**
 
@@ -290,8 +288,7 @@ Follow @Max Wales
 
 ## Complete Review for TomTom Bandicam
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5)
 
 #### Design & Usability
 
@@ -359,7 +356,7 @@ Follow @Max Wales
 
  There are various other accessories which can simply alleviate your shooting experience. Flat and curved-surface adhesive mounts and adapter which are compatible with GoPro as well allows you to mount it to any GoPro and is quite handy. The sticker mounts- flat and rounded can be used to mount it to helmet etc. Tripod adapter is the other one which can be hooked to the mount and is best for longer time-lapse shots. Similarly wrist, pole and board mount and 360-degree rotating mount helps in rotation and make it ideal for various trips.
 
- Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>]( https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
+ Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>](https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
 
 #### Features
 
@@ -367,7 +364,7 @@ Follow @Max Wales
 
  Bandit allows you to record a glorious 4K UHD video. Its great image sensors combined with its resolution quality give an extra boost to the video. What comes out is the image which is sharp, clear, natural, clean and absolutely fantastic. Bandit allows to record 4K 15 FPS and 2.7K @30FPS as well as 1080p@60FPS, which is one of the loveable features. This is because 15FPS works best for the pictures which involves less motion. This means while shooting a lake, mountain, waterfall or anything involving less motion you can use 15 FPS. Its 30 and 60 FPS are a boon for shooting motion pictures and night clips.
 
- Check out [Top 7 Best 4K Action Cameras for 2017]( https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
+ Check out [Top 7 Best 4K Action Cameras for 2017](https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
 
  Vibrant and bright image highlighting, all details simply make the most of your memories. The Burst photography mode allows you to take 10 shots in 1 or 2 seconds, making a quick video clip of these quick candid clicks. Its slow motion capturing feature emphasizes your biggest emotions in slow motion.
 
@@ -375,7 +372,7 @@ Follow @Max Wales
 
  So this means that when you are snowboarding Mount Fuji, diving with dolphins in an ocean and spending quality time with your family, one thing which you cannot forget is TomTom Bandit. Its 16 MP resolution will take away your heart simply.
 
- If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.]( https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
+ If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.](https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
 
 #### **2. Battery Life and Charging**
 
@@ -385,13 +382,13 @@ Follow @Max Wales
 
  The lens cover waterproofs the camera upto 50m during any high impact activity. Conforming to IPX8 standards, this dive lens cap is very easy to remove and re-apply. The lens cover is basically made of hardened glass that repels water and is scratch resistant too at the same time. This lens helps in eliminating any underwater distortion and thus you can swim with dolphins or shoot in the rain or snow without any tension of damage.
 
- Check out [Top 7 Best Waterproof Action Camera For 2017]( https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
+ Check out [Top 7 Best Waterproof Action Camera For 2017](https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
 
 #### **4. Sensor Capacity:**
 
  A very rare and less seen feature in action cameras is the sensor capacity. Built-in motion sensors are setup in a way to automatically identify a highlight whenever you have made a big move involving high speed, deceleration or pulling a major stunt. It tracks speed, rotation, alleviation, altitude and much more by the pumping of your heart. You can highlight and tag them in the video to relive those moments while watching the video.
 
- Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017]( https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
+ Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017](https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
 
 #### **5. APP**
 
@@ -419,8 +416,7 @@ Follow @Max Wales
 
 ## Complete Review for TomTom Bandicam
 
-[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00WV69ZI4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00WV69ZI4&linkId=758fb17283300bc2eeeff51d97e5cab5)
 
 #### Design & Usability
 
@@ -488,7 +484,7 @@ Follow @Max Wales
 
  There are various other accessories which can simply alleviate your shooting experience. Flat and curved-surface adhesive mounts and adapter which are compatible with GoPro as well allows you to mount it to any GoPro and is quite handy. The sticker mounts- flat and rounded can be used to mount it to helmet etc. Tripod adapter is the other one which can be hooked to the mount and is best for longer time-lapse shots. Similarly wrist, pole and board mount and 360-degree rotating mount helps in rotation and make it ideal for various trips.
 
- Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>]( https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
+ Need any accessories for your action camera? Just check [Action camera accessories buying guide for 2017>>](https://filmora.wondershare.com/action-camera/accessories-buying-guide.html)
 
 #### Features
 
@@ -496,7 +492,7 @@ Follow @Max Wales
 
  Bandit allows you to record a glorious 4K UHD video. Its great image sensors combined with its resolution quality give an extra boost to the video. What comes out is the image which is sharp, clear, natural, clean and absolutely fantastic. Bandit allows to record 4K 15 FPS and 2.7K @30FPS as well as 1080p@60FPS, which is one of the loveable features. This is because 15FPS works best for the pictures which involves less motion. This means while shooting a lake, mountain, waterfall or anything involving less motion you can use 15 FPS. Its 30 and 60 FPS are a boon for shooting motion pictures and night clips.
 
- Check out [Top 7 Best 4K Action Cameras for 2017]( https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
+ Check out [Top 7 Best 4K Action Cameras for 2017](https://filmora.wondershare.com/action-camera/best-4k-action-camera.html) Now!
 
  Vibrant and bright image highlighting, all details simply make the most of your memories. The Burst photography mode allows you to take 10 shots in 1 or 2 seconds, making a quick video clip of these quick candid clicks. Its slow motion capturing feature emphasizes your biggest emotions in slow motion.
 
@@ -504,7 +500,7 @@ Follow @Max Wales
 
  So this means that when you are snowboarding Mount Fuji, diving with dolphins in an ocean and spending quality time with your family, one thing which you cannot forget is TomTom Bandit. Its 16 MP resolution will take away your heart simply.
 
- If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.]( https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
+ If you want to buy external microphones for your TomTom Bandit to get better audio, please check our list [Best Microphones for Action Cameras 2017.](https://filmora.wondershare.com/action-camera/best-mics-for-action-cameras.html)
 
 #### **2. Battery Life and Charging**
 
@@ -514,13 +510,13 @@ Follow @Max Wales
 
  The lens cover waterproofs the camera upto 50m during any high impact activity. Conforming to IPX8 standards, this dive lens cap is very easy to remove and re-apply. The lens cover is basically made of hardened glass that repels water and is scratch resistant too at the same time. This lens helps in eliminating any underwater distortion and thus you can swim with dolphins or shoot in the rain or snow without any tension of damage.
 
- Check out [Top 7 Best Waterproof Action Camera For 2017]( https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
+ Check out [Top 7 Best Waterproof Action Camera For 2017](https://filmora.wondershare.com/action-camera/best-waterproof-action-camera.html) now.
 
 #### **4. Sensor Capacity:**
 
  A very rare and less seen feature in action cameras is the sensor capacity. Built-in motion sensors are setup in a way to automatically identify a highlight whenever you have made a big move involving high speed, deceleration or pulling a major stunt. It tracks speed, rotation, alleviation, altitude and much more by the pumping of your heart. You can highlight and tag them in the video to relive those moments while watching the video.
 
- Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017]( https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
+ Looking for an action camera with GPS feature? Check [Top 12 Action Cameras with GPS in 2017](https://filmora.wondershare.com/action-camera/best-action-cameras-with-gps.html)
 
 #### **5. APP**
 

@@ -1,7 +1,7 @@
 ---
 title: "SJCam S6 Legend Action Camera Complete Review"
-date: 2024-05-24T16:14:53.842Z
-updated: 2024-05-25T16:14:53.842Z
+date: 2024-06-19T20:57:38.658Z
+updated: 2024-06-20T20:57:38.658Z
 tags: 
   - screen-recording
   - ai video
@@ -63,7 +63,7 @@ Earlier, most of the action camera buyers use to think about GoPro as their firs
 | 2MP HD 1920\*1080                               |                                                               |
 | VGA 640\*480                                    |                                                               |
 | 1.3MP 1280\*960                                 |                                                               |
-| Frame Rate                                      | 4K( 4:3 ): 2880×2160 24ps                                     |
+| Frame Rate                                      | 4K(4:3): 2880×2160 24ps                                     |
 | 2K: 2560×1440 30FPS                             |                                                               |
 | 1080P: 1920×1080 60fps                          |                                                               |
 | 1080P: 1920×1080 30fps                          |                                                               |
@@ -195,7 +195,7 @@ Earlier, most of the action camera buyers use to think about GoPro as their firs
 | 2MP HD 1920\*1080                               |                                                               |
 | VGA 640\*480                                    |                                                               |
 | 1.3MP 1280\*960                                 |                                                               |
-| Frame Rate                                      | 4K( 4:3 ): 2880×2160 24ps                                     |
+| Frame Rate                                      | 4K(4:3): 2880×2160 24ps                                     |
 | 2K: 2560×1440 30FPS                             |                                                               |
 | 1080P: 1920×1080 60fps                          |                                                               |
 | 1080P: 1920×1080 30fps                          |                                                               |
@@ -327,7 +327,7 @@ Earlier, most of the action camera buyers use to think about GoPro as their firs
 | 2MP HD 1920\*1080                               |                                                               |
 | VGA 640\*480                                    |                                                               |
 | 1.3MP 1280\*960                                 |                                                               |
-| Frame Rate                                      | 4K( 4:3 ): 2880×2160 24ps                                     |
+| Frame Rate                                      | 4K(4:3): 2880×2160 24ps                                     |
 | 2K: 2560×1440 30FPS                             |                                                               |
 | 1080P: 1920×1080 60fps                          |                                                               |
 | 1080P: 1920×1080 30fps                          |                                                               |
@@ -459,7 +459,7 @@ Earlier, most of the action camera buyers use to think about GoPro as their firs
 | 2MP HD 1920\*1080                               |                                                               |
 | VGA 640\*480                                    |                                                               |
 | 1.3MP 1280\*960                                 |                                                               |
-| Frame Rate                                      | 4K( 4:3 ): 2880×2160 24ps                                     |
+| Frame Rate                                      | 4K(4:3): 2880×2160 24ps                                     |
 | 2K: 2560×1440 30FPS                             |                                                               |
 | 1080P: 1920×1080 60fps                          |                                                               |
 | 1080P: 1920×1080 30fps                          |                                                               |

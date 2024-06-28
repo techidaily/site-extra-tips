@@ -1,7 +1,7 @@
 ---
 title: "The Compre Writter's Manual for Great Documentary Storytelling"
-date: 2024-05-24T14:53:24.437Z
-updated: 2024-05-25T14:53:24.437Z
+date: 2024-06-19T20:57:39.097Z
+updated: 2024-06-20T20:57:39.097Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Compre Writter's Manual for Great Documentary Storytelling"
 excerpt: "This Article Describes The Compre Writter's Manual for Great Documentary Storytelling"
 keywords: "DocStoryTechniques,StorytellingManual,GreatDocWriting,WritingDocumentaries,CreativeFilmScripts,DocumentaryStorySkills,ManualForGreatDocs"
-thumbnail: https://www.lifewire.com/thmb/7iSqR9T6Aul7nVcsld8FAGRFQ6k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1149123484-a277077c6bb643caaf22a94a39dfc15d.jpg
+thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c1851d2a65f8ffeb1e28c4c2.jpg
 ---
 
 ## The Compre Writter's Manual for Great Documentary Storytelling

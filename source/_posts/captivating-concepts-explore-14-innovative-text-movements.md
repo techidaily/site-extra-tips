@@ -1,7 +1,7 @@
 ---
 title: "\"Captivating Concepts  Explore 14 Innovative Text Movements\""
-date: 2024-05-24T13:51:46.564Z
-updated: 2024-05-25T13:51:46.564Z
+date: 2024-06-19T20:57:37.458Z
+updated: 2024-06-20T20:57:37.458Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Captivating Concepts: Explore 14 Innovative Text Movements\""
 excerpt: "\"This Article Describes Captivating Concepts: Explore 14 Innovative Text Movements\""
 keywords: "TextInnovationMovement,CaptivatingConceptsText,InnovativeTextWriting,ExploreTextTrends,ConceptualTextArt,MovementsTextInnovate,CreativeTextMethods"
-thumbnail: https://www.lifewire.com/thmb/AqYFFwV9JPzTVpBv91QLuqJMNa8=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-693804034-5b2a8c218e1b6e003e6e9de6.jpg
+thumbnail: https://thmb.techidaily.com/cb70e57700d07e1f21d91f89b112cf1e7299f5606065c397aa28c9965f8c1a6d.jpg
 ---
 
 ## Captivating Concepts: Explore 14 Innovative Text Movements

@@ -1,7 +1,7 @@
 ---
 title: "Compendium of Different Photographic Gadgets"
-date: 2024-05-24T16:22:55.553Z
-updated: 2024-05-25T16:22:55.553Z
+date: 2024-06-19T20:57:39.941Z
+updated: 2024-06-20T20:57:39.941Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Compendium of Different Photographic Gadgets"
 excerpt: "This Article Describes Compendium of Different Photographic Gadgets"
 keywords: "PhotoTech Inventory,GearGallery Collection,CameraBuddy Listing,LensLibrary Guide,PrimesPortfolio Assortment,SnapEquip Setoverview,FlashForce Compendium"
-thumbnail: https://www.lifewire.com/thmb/gqD8upUHe51-QbDVBOjSRL6QoLk=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/AI_Choreograph_GettyImagesPlus-1473211827_CROPPED-137fc9eef04a43a79554344a6f11d1b7.jpg
+thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg
 ---
 
 ## Compendium of Different Photographic Gadgets
@@ -35,13 +35,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 1. Smartphone
 
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+![Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
 ## 2. Consumer Video Cameras
 
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+![Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 
@@ -108,13 +108,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 1. Smartphone
 
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+![Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
 ## 2. Consumer Video Cameras
 
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+![Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 
@@ -181,13 +181,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 1. Smartphone
 
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+![Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
 ## 2. Consumer Video Cameras
 
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+![Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 
@@ -254,13 +254,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
 ## 1. Smartphone
 
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+![Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
 ## 2. Consumer Video Cameras
 
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+![Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 

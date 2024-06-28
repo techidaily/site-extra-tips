@@ -1,7 +1,7 @@
 ---
 title: "[New] Analyzing the Spectrum of HDR with ASUS Professional Screen"
-date: 2024-05-24T14:01:00.507Z
-updated: 2024-05-25T14:01:00.507Z
+date: 2024-06-19T20:57:33.136Z
+updated: 2024-06-20T20:57:33.136Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Analyzing the Spectrum of HDR with ASUS Professional Screen"
 excerpt: "This Article Describes [New] Analyzing the Spectrum of HDR with ASUS Professional Screen"
 keywords: "\"ASUS HDR Pro,ASUS HDR Analysis,High-Res ASUS,ASUS Advanced Display,HDR Spectrum Test,Prof Screen HDR,Asus HDR Quality\""
-thumbnail: https://www.lifewire.com/thmb/UN0ytYtp24p96KabSrgMJHQZ_yE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088d395c4f6b7d4b1f29dc8396.jpg
 ---
 
 ## Analyzing the Spectrum of HDR with ASUS Professional Screen

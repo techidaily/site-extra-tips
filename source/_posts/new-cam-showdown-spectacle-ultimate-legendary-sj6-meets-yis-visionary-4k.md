@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cam Showdown Spectacle  Ultimate Legendary SJ6 Meets Yi's Visionary 4K\""
-date: 2024-05-24T14:26:49.859Z
-updated: 2024-05-25T14:26:49.859Z
+date: 2024-06-19T20:57:38.581Z
+updated: 2024-06-20T20:57:38.581Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Cam Showdown Spectacle: Ultimate Legendary SJ6 Meets Yi's Visionary 4K\""
 excerpt: "\"This Article Describes [New] Cam Showdown Spectacle: Ultimate Legendary SJ6 Meets Yi's Visionary 4K\""
 keywords: "SJ6 Vs. Yi 4K,Legendary Cam Showdown,Ultimate Meetup SJ6,Yi's Vision 4K Spectacle,SJ6 Iconic Clash,Legendary Fighters Match,Epic Cam Showdown Battle"
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## Cam Showdown Spectacle: Ultimate Legendary SJ6 Meets Yi's Visionary 4K

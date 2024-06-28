@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Breathtaking Stunts and Jumps - 2022 Fig Skates\""
-date: 2024-05-24T16:09:02.256Z
-updated: 2024-05-25T16:09:02.256Z
+date: 2024-06-19T20:57:38.475Z
+updated: 2024-06-20T20:57:38.475Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Breathtaking Stunts and Jumps - 2022 Fig Skates\""
 excerpt: "\"This Article Describes 2024 Approved: Breathtaking Stunts and Jumps - 2022 Fig Skates\""
 keywords: "\"Breathtaking Stunts,Amazing Jumps Skating,Extreme Ice Dance Moves,Figure Skate Acrobatics,Skates Jumping Showcase,Stunning Figure Skating Tricks,High-Flying Figure Ice Routines\""
-thumbnail: https://www.lifewire.com/thmb/_QjgZyhZE9bpQ__V2eGfEM1XHOo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/analog-5ba14dca46e0fb0024f0692a.png
+thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a294965755306154ed4cda4187a3.png
 ---
 
 ## Breathtaking Stunts and Jumps - 2022 Fig Skates

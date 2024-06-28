@@ -1,7 +1,7 @@
 ---
 title: "\"Quick DIY Filming Fixes  The Top 5 Hacks to Try Now\""
-date: 2024-05-24T16:14:51.088Z
-updated: 2024-05-25T16:14:51.088Z
+date: 2024-06-19T20:57:34.401Z
+updated: 2024-06-20T20:57:34.401Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Quick DIY Filming Fixes: The Top 5 Hacks to Try Now\""
 excerpt: "\"This Article Describes Quick DIY Filming Fixes: The Top 5 Hacks to Try Now\""
 keywords: "Quick DIY Filming,DoItFixHacks,Top5FilmTips,FilmingDIYHacks,HackFilmmakingNow,QuickFixFilms,FilmHacksTop5"
-thumbnail: https://www.lifewire.com/thmb/8WqruqRuI3DvnOciFRtMSEwttKs=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/SocialMedia_GettyImages-1167165311_KornburutWoradee_EyeEm_CROPPED-9cc5d3f943a74a51b2f4fe746197af63.jpg
+thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444d1e94cece6744b91d0b78e1.jpg
 ---
 
 ## Quick DIY Filming Fixes: The Top 5 Hacks to Try Now

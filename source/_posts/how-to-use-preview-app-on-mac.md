@@ -1,7 +1,7 @@
 ---
 title: "How to Use Preview App on Mac"
-date: 2024-05-24T15:21:28.126Z
-updated: 2024-05-25T15:21:28.126Z
+date: 2024-06-19T20:57:34.382Z
+updated: 2024-06-20T20:57:34.382Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Use Preview App on Mac"
 excerpt: "This Article Describes How to Use Preview App on Mac"
 keywords: "Mac Preview Guide,Using Preview App,Mac OS Preview Tips,Preview App Basics,Mac Screen Capture,Preview App Features,How to Use Previews (Shortened)"
-thumbnail: https://www.lifewire.com/thmb/HsjBPFNTBvfUnutAWKKkokY_boM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Chrome-Settings-Enhanced-Protection-Laptop-Pillows-8635371-dc92dc9e8f6e431e846605363b0a0e5b.jpg
+thumbnail: https://thmb.techidaily.com/69247ac14d53a4d423914a7a567f7db5686b08abed208ce9a52f3e4561b6e4e9.jpg
 ---
 
 ## Streamlining Your Workflow with Mac Preview: Complete Guide

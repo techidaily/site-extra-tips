@@ -1,7 +1,7 @@
 ---
 title: "Elite Photography Narrative Assembler Kit"
-date: 2024-05-24T14:18:58.527Z
-updated: 2024-05-25T14:18:58.528Z
+date: 2024-06-19T20:57:35.821Z
+updated: 2024-06-20T20:57:35.821Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Elite Photography Narrative Assembler Kit"
 excerpt: "This Article Describes Elite Photography Narrative Assembler Kit"
 keywords: "\"Elite Photo Assembly Kit,Top-End Photo Assembler,Expert Elite Photography Kit,Professional Elite Photo Set,Premium Elite Photo Kit,Luxury Elite Photographer Tools,Elite Photo Kit Assembler\""
-thumbnail: https://www.lifewire.com/thmb/BC6OeiwkBymr7dc4CcbkqAYWOxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1251892298-4a6a303ae72a47ff807e5d0b7a9e899a.jpg
+thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
 ---
 
 ## Elite Photography Narrative Assembler Kit

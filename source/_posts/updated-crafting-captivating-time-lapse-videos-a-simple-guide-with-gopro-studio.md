@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Captivating Time-Lapse Videos  A Simple Guide with GoPro Studio\""
-date: 2024-05-24T15:36:36.563Z
-updated: 2024-05-25T15:36:36.563Z
+date: 2024-06-19T20:57:40.451Z
+updated: 2024-06-20T20:57:40.451Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Captivating Time-Lapse Videos: A Simple Guide with GoPro Studio\""
 excerpt: "\"This Article Describes [Updated] Crafting Captivating Time-Lapse Videos: A Simple Guide with GoPro Studio\""
 keywords: "\"Time-Lapse Videos Guide,Craft Captivating Time-Lapses,GoPro Studio Basics,Video Editing Tutorial,Capture Stunning Time-Lapse,GoPro Video Creation,Simplified Time-Lapse Crafting\""
-thumbnail: https://www.lifewire.com/thmb/xkpu3_bCREV79qrsc0TZWtPznJM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_3093iphonex-361617bf45f84b3a811d7bf8c5a161cf.jpg
+thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901fffff3859c0a0ef7a4f048d.jpg
 ---
 
 ## Crafting Captivating Time-Lapse Videos: A Simple Guide with GoPro Studio

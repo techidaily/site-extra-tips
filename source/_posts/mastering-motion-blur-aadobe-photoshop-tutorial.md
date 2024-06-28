@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Motion Blur  AAdobe Photoshop Tutorial\""
-date: 2024-05-24T15:11:30.552Z
-updated: 2024-05-25T15:11:30.552Z
+date: 2024-06-19T20:57:36.027Z
+updated: 2024-06-20T20:57:36.027Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Motion Blur: AAdobe Photoshop Tutorial\""
 excerpt: "\"This Article Describes Mastering Motion Blur: AAdobe Photoshop Tutorial\""
 keywords: "\"Adobe Photoshop Tutorials,Motion Blur Techniques,Digital Photo Effects,Photography Editing Guide,Advanced Shutter Speed Tricks,Long Exposure Photography,Creative Image Post-Processing\""
-thumbnail: https://www.lifewire.com/thmb/hlAQtmPhv5YXD3G66GCzQjh5g-E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iStock-155381441-5851a2303df78c491e5b3ce1.jpg
+thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00caea55a88bfd5d394c85530ff.jpg
 ---
 
 ## Mastering Motion Blur: AAdobe Photoshop Tutorial

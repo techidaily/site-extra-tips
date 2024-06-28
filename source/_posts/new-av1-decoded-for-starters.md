@@ -1,7 +1,7 @@
 ---
 title: "[New] AV1 Decoded for Starters"
-date: 2024-05-24T15:52:53.441Z
-updated: 2024-05-25T15:52:53.441Z
+date: 2024-06-19T20:57:43.500Z
+updated: 2024-06-20T20:57:43.500Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] AV1 Decoded for Starters"
 excerpt: "This Article Describes [New] AV1 Decoded for Starters"
 keywords: "AV1 Introduction Basics,Start with AV1 Video Codec,Decode AV1 Fundamentals,Understanding AV1 Technology,Beginner's Guide to AV1,Decoding AV1 Explained,Learn AV1 Principles Easily"
-thumbnail: https://www.lifewire.com/thmb/StRC1gceN7hy3J92zKVQDdA6qG8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1316489017-cab6da86c84e4a379cb658ec51faf24a.jpg
+thumbnail: https://thmb.techidaily.com/bca79052c5cd9d97263eb9f9d9f77145f2fe6968554def245326bd7e9d126f27.jpg
 ---
 
 ## AV1 Decoded for Starters

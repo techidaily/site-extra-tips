@@ -1,7 +1,7 @@
 ---
 title: "How Much Space Does a Day's Video Take Up?"
-date: 2024-05-24T15:35:17.039Z
-updated: 2024-05-25T15:35:17.039Z
+date: 2024-06-19T20:57:43.627Z
+updated: 2024-06-20T20:57:43.627Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How Much Space Does a Day's Video Take Up?"
 excerpt: "This Article Describes How Much Space Does a Day's Video Take Up?"
 keywords: "Daily Video Size,Video Space Usage,Average Video Storage,Daily Video Capacity,Video File Dimension,Video Data Footprint,Space for Daily Video"
-thumbnail: https://www.lifewire.com/thmb/6snoLQ_LDr7duuZviMh6Lev3NmI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/weatherapps-iphone-featured-5b73c68146e0fb0050215076.jpg
+thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c041837cad5f3c0f9163df97.jpg
 ---
 
 ## How Much Space Does a Day's Video Take Up?

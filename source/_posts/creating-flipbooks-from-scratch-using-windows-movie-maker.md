@@ -1,7 +1,7 @@
 ---
 title: "Creating Flipbooks From Scratch Using Windows Movie Maker"
-date: 2024-05-24T13:55:04.376Z
-updated: 2024-05-25T13:55:04.376Z
+date: 2024-06-19T20:57:35.582Z
+updated: 2024-06-20T20:57:35.582Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Creating Flipbooks From Scratch Using Windows Movie Maker"
 excerpt: "This Article Describes Creating Flipbooks From Scratch Using Windows Movie Maker"
 keywords: "\"Flipbook Basics,Window Movie Maker Guide,DIY Flipbooks,Homemade Booklets,Create Digital Books,Manual Video Editing,Scratch-Built Flipbooks\""
-thumbnail: https://www.lifewire.com/thmb/EvG770zqALz3WE9QUlocxZtoGnU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/apple-airpods-pro-2nd-gen-dfe4825140b34ff88049db67933d5cbd.png
+thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26feb7ee5b800247a93a2f3bb0.png
 ---
 
 ## Creating Flipbooks From Scratch Using Windows Movie Maker

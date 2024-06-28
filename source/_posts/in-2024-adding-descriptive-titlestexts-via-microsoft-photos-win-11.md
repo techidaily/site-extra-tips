@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Adding Descriptive Titles/Texts via Microsoft Photos Win 11"
-date: 2024-05-24T16:30:18.850Z
-updated: 2024-05-25T16:30:18.850Z
+date: 2024-06-19T20:57:39.344Z
+updated: 2024-06-20T20:57:39.344Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Adding Descriptive Titles/Texts via Microsoft Photos Win 11"
 excerpt: "This Article Describes In 2024, Adding Descriptive Titles/Texts via Microsoft Photos Win 11"
 keywords: "Title+Descriptions in Win 11,Win11 Photo Enhancements,Text Improvement for Windows Photos,Adjust Titles in PhotosWin 11,Enhancing Text in Microsoft Win 11,Photo Text Optimization Win 11,Title+Text Editing Win Photos 11"
-thumbnail: https://www.lifewire.com/thmb/h4Kr8jE4HLC8U_8A9cGxEf6XqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-a-kindle-5270180-b1c49aad9c1142dc8722cfdb5d02072c.jpg
+thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg
 ---
 
 ## Adding Descriptive Titles/Texts via Microsoft Photos Win 11
