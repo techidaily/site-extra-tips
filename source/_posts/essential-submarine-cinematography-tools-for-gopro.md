@@ -1,7 +1,7 @@
 ---
 title: "Essential Submarine Cinematography Tools for Gopro"
-date: 2024-05-24T14:49:20.037Z
-updated: 2024-05-25T14:49:20.037Z
+date: 2024-06-27T21:19:23.372Z
+updated: 2024-06-28T21:19:23.372Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Essential Submarine Cinematography Tools for Gopro"
 excerpt: "This Article Describes Essential Submarine Cinematography Tools for Gopro"
 keywords: "GoPro Underwater Gear,Subcam Tools,Gopro Cinematic Equipment,Undersea Filming Tools,Professional GoPro Cameras,Advanced Gopro Cinematography,Essential Submarine Film Tools"
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Essential Submarine Cinematography Tools for Gopro

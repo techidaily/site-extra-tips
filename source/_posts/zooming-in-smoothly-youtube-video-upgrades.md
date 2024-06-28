@@ -1,7 +1,7 @@
 ---
 title: "\"Zooming in Smoothly  YouTube Video Upgrades\""
-date: 2024-05-24T15:32:21.065Z
-updated: 2024-05-25T15:32:21.065Z
+date: 2024-06-27T21:19:22.701Z
+updated: 2024-06-28T21:19:22.701Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Zooming in Smoothly: YouTube Video Upgrades\""
 excerpt: "\"This Article Describes Zooming in Smoothly: YouTube Video Upgrades\""
 keywords: "\"Zoom Effects for Videos,Enhance YouTube Quality,Stream High-Res Videos,Smooth Video Transitions,Optimize Video Playback,Upgrade Video Clarity,Boost HD Video Performance\""
-thumbnail: https://www.lifewire.com/thmb/zdVcI3HSEAAMHbWzD8RFkEJpzzM=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193ea307f1d985a6b0808b35c37.jpg
 ---
 
 ## Zooming in Smoothly: YouTube Video Upgrades
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -90,7 +90,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

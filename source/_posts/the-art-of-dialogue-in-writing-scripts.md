@@ -1,7 +1,7 @@
 ---
 title: "The Art of Dialogue in Writing Scripts"
-date: 2024-05-24T15:59:07.203Z
-updated: 2024-05-25T15:59:07.203Z
+date: 2024-06-27T21:19:20.288Z
+updated: 2024-06-28T21:19:20.288Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Art of Dialogue in Writing Scripts"
 excerpt: "This Article Describes The Art of Dialogue in Writing Scripts"
 keywords: "Script Dialogues,Writers' Talk,Creative Chat,Dialogue Crafting,Writer Conversation,Storytelling Exchange,Writing Discussion"
-thumbnail: https://www.lifewire.com/thmb/ao6rotxP0AmIqvi1x57iKAP0ol0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Proton-Mail-v3-5d687b6233e341d2a5545596afb4b2fd.jpg
+thumbnail: https://thmb.techidaily.com/54da0f4f94eef8925e725ad6e5d476f72d3b4dfe3f3f6a2e608d839212aa9eeb.jpg
 ---
 
 ## The Art of Dialogue in Writing Scripts

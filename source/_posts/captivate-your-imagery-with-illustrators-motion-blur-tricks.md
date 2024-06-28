@@ -1,7 +1,7 @@
 ---
 title: "Captivate Your Imagery with Illustrator's Motion Blur Tricks"
-date: 2024-05-24T16:11:06.566Z
-updated: 2024-05-25T16:11:06.566Z
+date: 2024-06-27T21:19:17.088Z
+updated: 2024-06-28T21:19:17.088Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Captivate Your Imagery with Illustrator's Motion Blur Tricks"
 excerpt: "This Article Describes Captivate Your Imagery with Illustrator's Motion Blur Tricks"
 keywords: "Illustration Motion Effects,Motion Blur Art Techniques,Image Motion Blurring Tips,Creative Blur Illustrations,Illustrators' Blur Tricks,Design Motion Artistry,Blur Effects for Images"
-thumbnail: https://www.lifewire.com/thmb/OuVef_5haGHVKpJil20272Du6cI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computer-internals-with-red-LED-and-RGB-GettyImages-ebb5630f80ee4f8e874dd787739ad3cb.jpg
+thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf4a7b3121bebc119dc83e730.jpg
 ---
 
 ## Captivate Your Imagery with Illustrator's Motion Blur Tricks

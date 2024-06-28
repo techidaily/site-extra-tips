@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Beyond Flat Canvas  Elevating Text to New Heights\""
-date: 2024-05-24T15:10:39.627Z
-updated: 2024-05-25T15:10:39.627Z
+date: 2024-06-27T21:19:20.912Z
+updated: 2024-06-28T21:19:20.912Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Beyond Flat Canvas: Elevating Text to New Heights\""
 excerpt: "\"This Article Describes [New] Beyond Flat Canvas: Elevating Text to New Heights\""
 keywords: "\"Text Artistry Elevation,Beyond Flat Design,Text in 3D Art,Elevated Typography,High-Res Fonts,Dynamic Text Art,Immersive Text Experience\""
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Beyond Flat Canvas: Elevating Text to New Heights

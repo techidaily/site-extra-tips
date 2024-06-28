@@ -1,7 +1,7 @@
 ---
 title: "\"Fantasy in Full View  VR Cinemascape\""
-date: 2024-05-24T16:06:34.183Z
-updated: 2024-05-25T16:06:34.183Z
+date: 2024-06-27T21:19:21.547Z
+updated: 2024-06-28T21:19:21.547Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Fantasy in Full View: VR Cinemascape\""
 excerpt: "\"This Article Describes Fantasy in Full View: VR Cinemascape\""
 keywords: "Virtual Fantasy Cinema,Fantasy VR Worlds,Immersive Fantasy VR,VR Fantasy Experience,Fantasy in VR Realm,VR Fantasy Cinematic,Full View Fantasy VR"
-thumbnail: https://www.lifewire.com/thmb/lvNWt3CwrUk6MzsyzMdGZ79CtE0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Instagramhashtag-3841467b1a034d42be8b103a64f93b61.jpg
+thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a4e026b76fba822f7faa2ec3.jpg
 ---
 
 ## Fantasy in Full View: VR Cinemascape

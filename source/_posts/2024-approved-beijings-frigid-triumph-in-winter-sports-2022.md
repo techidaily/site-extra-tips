@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Beijing's Frigid Triumph in Winter Sports, 2022\""
-date: 2024-05-24T15:29:19.297Z
-updated: 2024-05-25T15:29:19.297Z
+date: 2024-06-27T21:19:22.824Z
+updated: 2024-06-28T21:19:22.824Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Beijing's Frigid Triumph in Winter Sports, 2022\""
 excerpt: "\"This Article Describes 2024 Approved: Beijing's Frigid Triumph in Winter Sports, 2022\""
 keywords: "Beijing Winter Games 2022,China Ice Victory,Chinese Cold Win,Beijing Sport Triumph,Asian Winter Champion,Winter Olympics Win,Cold Climate Champions"
-thumbnail: https://www.lifewire.com/thmb/pRe7N6Q9DMhueVOF-dWbf_st6xA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/usb-to-aux-cable-in-car-audio-3986249-3c8d90ec3abc456aa5a740cc6f56a1a8.png
+thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120ed3c32dedf0e24f515c80068.png
 ---
 
 ## Beijing's Frigid Triumph in Winter Sports, 2022

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] All About SRT  Essential Information Made Easy\""
-date: 2024-05-24T14:14:58.475Z
-updated: 2024-05-25T14:14:58.475Z
+date: 2024-06-27T21:19:15.662Z
+updated: 2024-06-28T21:19:15.662Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] All About SRT: Essential Information Made Easy\""
 excerpt: "\"This Article Describes [New] All About SRT: Essential Information Made Easy\""
 keywords: "SRT Basics,SRT Overview,Simplified SRT Info,Understanding SRT,Key SRT Concepts,Easy SRT Guide,Learn SRT Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/FyEEajdYrw2_6pUcZRPNDJrLm4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Echo-Pop-vs-Echo-Dot-09671f8f0db34e33a2bcdbbfba71dea3.jpg
+thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaeacab1eb2b1b6960f90e2b4a4.jpg
 ---
 
 ## All About SRT: Essential Information Made Easy

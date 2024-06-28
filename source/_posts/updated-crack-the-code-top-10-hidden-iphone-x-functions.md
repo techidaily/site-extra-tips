@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crack The Code  Top 10 Hidden iPhone X Functions\""
-date: 2024-05-24T15:10:58.250Z
-updated: 2024-05-25T15:10:58.250Z
+date: 2024-06-27T21:19:20.187Z
+updated: 2024-06-28T21:19:20.187Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Crack The Code: Top 10 Hidden iPhone X Functions\""
 excerpt: "\"This Article Describes [Updated] Crack The Code: Top 10 Hidden iPhone X Functions\""
 keywords: "IPhone X Secret Functions,Unlocking iPhone X Features,Secret iPhone X Tips,Hidden iPhone X Tricks,Explore iPhone X Secrets,Top Hidden iOS X Features,Discover iPhone X Codes"
-thumbnail: https://www.lifewire.com/thmb/5bAauqi_bb7ys9ioKuCAGL8Irhw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screen-Shot-2016-08-30-at-10.48.32-PM-57c670023df78cc16e8d0bfa.png
+thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png
 ---
 
 ## Crack The Code: Top 10 Hidden iPhone X Functions

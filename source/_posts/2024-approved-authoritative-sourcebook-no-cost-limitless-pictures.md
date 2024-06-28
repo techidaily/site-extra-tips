@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Authoritative Sourcebook  No Cost, Limitless Pictures\""
-date: 2024-05-24T15:57:54.330Z
-updated: 2024-05-25T15:57:54.330Z
+date: 2024-06-27T21:19:24.841Z
+updated: 2024-06-28T21:19:24.841Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Authoritative Sourcebook: No Cost, Limitless Pictures\""
 excerpt: "\"This Article Describes 2024 Approved: Authoritative Sourcebook: No Cost, Limitless Pictures\""
 keywords: "\"Authority Book Guide,Free Picture Library,Infinite Images Resource,Cost-Free Photo Compilation,Limitless Image Archive,Comprehensive Picture Hub,Unlimited Pics Reference\""
-thumbnail: https://www.lifewire.com/thmb/LfKPim0bPxlfFs686c0PjeZ0U4E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd7b41de949895538a87e46dd.jpg
 ---
 
 ## Authoritative Sourcebook: No Cost, Limitless Pictures
@@ -24,7 +24,7 @@ You don't need a subscription to a stock photo site or money on hand; there are 
 
 We've gathered ten of our favorite sites where you can find free images—and they're all free once you sign up (or log in). So, get ready because there's no limit on how many times you can use these fabulous photos in your projects.
 
-## 1\. [Pexels](https://www.pexels.com/)
+## 1\. Pexels
 
 ![pexels](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-01.JPG)
 
@@ -32,7 +32,7 @@ Pexels is one of the largest free stock photo sites online. The site has over 50
 
 Pexels' images have various categories, including nature, food, objects, and architecture. You can also browse by keyword or search by image type, such as "food" or "people.
 
-## 2\. [Unsplash](https://unsplash.com/)
+## 2\. Unsplash
 
 ![unsplash](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-02.JPG)
 
@@ -42,7 +42,7 @@ Unsplash was founded in 2011 by Mikael Cho (who also co-founded Crew) to create 
 
 Today Unsplash has grown into one of the most popular free stock photo sites, with over 15 million monthly users worldwide.
 
-## 3\. [Kaboompics](https://kaboompics.com/)
+## 3\. Kaboompics
 
 ![kaboompics](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-03.JPG)
 
@@ -50,7 +50,7 @@ Kaboompics is a free stock photo site that offers a good selection of images. Th
 
 Kaboompics also has a "free commercial" section which provides more than 1 million images for your commercial projects without any restrictions or attribution required.
 
-## 4\. [Pixabay](https://pixabay.com/)
+## 4\. Pixabay
 
 ![pixabay](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-04.JPG)
 
@@ -58,7 +58,7 @@ Pixabay is one of the most popular websites for free images. It has a wide range
 
 The site is easy to navigate and searchable by keyword or category. You can also browse by "popular" images, which will show you what other people are looking at on Pixabay at any given time.
 
-## 5\. [Snappa](https://snappa.com/)
+## 5\. Snappa
 
 ![snappa](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-05.JPG)
 
@@ -68,7 +68,7 @@ The site has an extensive library of free stock photos, vectors, mockups, and te
 
 It can be a little hard to find exactly what you're looking for as there are so many options; if you have trouble finding what you want in Snappa's search engine, try clicking on one of the categories listed above to narrow it down some more.
 
-## 6\. [Freerange](https://freerangestock.com/)
+## 6\. Freerange
 
 ![freerange](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-06.JPG)
 
@@ -76,7 +76,7 @@ Freerange is a photo agency that offers free and premium photos.
 
 The site has a wide range of subjects, including nature, animals, food, etc. Photos are high-quality, royalty-free images you can use commercially if you choose.
 
-## 7\. [Shutterstock Collection](https://www.shutterstock.com/)
+## 7\. Shutterstock Collection
 
 ![shutterstocks collection](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-07.JPG)
 
@@ -92,7 +92,7 @@ Morguefile is a free photo archive founded in 1996, during the early days of the
 
 Here, you can find free, high-resolution digital stock photos for business or public use. The images are available in various formats and high quality to meet the needs of various scenarios, such as cartoonists, comic book artists, designers, educators, and all creative arts.
 
-## 9\. [Dreamstime Images](https://www.dreamstime.com/)
+## 9\. Dreamstime Images
 
 ![dreamstime images](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-09.JPG)
 

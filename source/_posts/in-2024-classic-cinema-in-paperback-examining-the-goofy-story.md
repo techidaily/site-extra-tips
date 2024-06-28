@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Classic Cinema in Paperback  Examining 'The Goofy Story'\""
-date: 2024-05-24T15:29:35.163Z
-updated: 2024-05-25T15:29:35.163Z
+date: 2024-06-27T21:19:20.724Z
+updated: 2024-06-28T21:19:20.724Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Classic Cinema in Paperback: Examining 'The Goofy Story'\""
 excerpt: "\"This Article Describes In 2024, Classic Cinema in Paperback: Examining 'The Goofy Story'\""
 keywords: "Prime 2024 Lenses,Premiere Lens Tech,Top Cam Lenses 2024,Leading Camera Lens,Best 2024 Lenses,Elite Lens Selection,Luxury Photography Gear"
-thumbnail: https://www.lifewire.com/thmb/S9DL5y6jdL8LZYRsDVu5U20GF1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc05322a198ecbbd0ad48fbaf8.jpg
 ---
 
 ## Classic Cinema in Paperback: Examining 'The Goofy Story'

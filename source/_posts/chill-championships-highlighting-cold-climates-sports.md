@@ -1,7 +1,7 @@
 ---
 title: "\"Chill Championships  Highlighting Cold Climates Sports\""
-date: 2024-05-24T13:44:58.099Z
-updated: 2024-05-25T13:44:58.099Z
+date: 2024-06-27T21:19:23.750Z
+updated: 2024-06-28T21:19:23.750Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Chill Championships: Highlighting Cold Climates Sports\""
 excerpt: "\"This Article Describes Chill Championships: Highlighting Cold Climates Sports\""
 keywords: "Chilly Games,Winter Sports Showcase,Ice Sports Championship,Frosty Athletic Events,Cool Climate Competitions,Arctic Sport Highlights,Freezing Track Championships"
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Chill Championships: Highlighting Cold Climates Sports

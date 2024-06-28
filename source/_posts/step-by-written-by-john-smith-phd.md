@@ -1,7 +1,7 @@
 ---
 title: "\"Step-By Written by John Smith, PhD\""
-date: 2024-05-24T14:39:14.176Z
-updated: 2024-05-25T14:39:14.176Z
+date: 2024-06-27T21:19:21.626Z
+updated: 2024-06-28T21:19:21.626Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Step-By Written by John Smith, PhD\""
 excerpt: "\"This Article Describes Step-By Written by John Smith, PhD\""
 keywords: "Dr. John's Writing Steps,Johns Smith Writing Guide,Stepwise Writing Process,Professional Writing Steps,Expert Writers' Steps,PhD in Writing Methods,Academic Writing Techniques"
-thumbnail: https://www.lifewire.com/thmb/iZiCpbRSCz8RojdrehWr4_jeUDI=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/TravelTech_GettyImages-1410662282_CROPPED_d3sign-03c2cdf5be314894b99757426813be51.jpg
+thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e096f758fd9b3624bcd8211ec.jpg
 ---
 
 ## Step-By Written by John Smith, PhD

@@ -1,7 +1,7 @@
 ---
 title: "\"Bridging Scripts with Voices  Turning XML/TTML Into SRT for 2024\""
-date: 2024-05-24T14:45:19.757Z
-updated: 2024-05-25T14:45:19.757Z
+date: 2024-06-27T21:19:16.957Z
+updated: 2024-06-28T21:19:16.957Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Bridging Scripts with Voices: Turning XML/TTML Into SRT for 2024\""
 excerpt: "\"This Article Describes Bridging Scripts with Voices: Turning XML/TTML Into SRT for 2024\""
 keywords: "\"XML to SRT Conversion,TTML to SRT Bridge,XML-Based SRT Translation,Srt From Voice Scripts,Text-to-Speech Srt Output,XML to Subtitle Transformation,Srt Creation via TTML\""
-thumbnail: https://www.lifewire.com/thmb/ebnSKUL_uudKkeKVX1Hxp14Fe2k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ChatGPT-Login-iPhone-8601640-d5738faef7e44f82ba3a89c986f85b38.jpg
+thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc972c34955c94cad23467f1e0.jpg
 ---
 
 ## Bridging Scripts with Voices: Turning XML/TTML Into SRT

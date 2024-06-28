@@ -1,7 +1,7 @@
 ---
 title: "Earnings Trends in the Digital Audio Space"
-date: 2024-05-24T15:14:39.878Z
-updated: 2024-05-25T15:14:39.878Z
+date: 2024-06-27T21:19:16.345Z
+updated: 2024-06-28T21:19:16.345Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Earnings Trends in the Digital Audio Space"
 excerpt: "This Article Describes Earnings Trends in the Digital Audio Space"
 keywords: "DA Digital Earnings,Audio Space Revenue,Digital Audio Income,Sound Earnings Trend,Audio Market Growth,Digital Audio Profits,Audio Trends Monitoring"
-thumbnail: https://www.lifewire.com/thmb/k-dOKf6C-J0FNiU2NW6YiBhJff0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/029_make-a-digital-business-card-5202951-1ecb1da6bb7a42ceb177ddea91bb2a2c.jpg
+thumbnail: https://thmb.techidaily.com/2667ea34d1175640376556500cfb9591d15bfce3d67d6c1590ffd9f57da4dd02.jpg
 ---
 
 ## Earnings Trends in the Digital Audio Space

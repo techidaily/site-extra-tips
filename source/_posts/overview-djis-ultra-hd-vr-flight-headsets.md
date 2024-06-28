@@ -1,7 +1,7 @@
 ---
 title: "\"Overview  DJI's Ultra-HD VR Flight Headsets\""
-date: 2024-05-24T13:58:41.763Z
-updated: 2024-05-25T13:58:41.763Z
+date: 2024-06-27T21:19:16.566Z
+updated: 2024-06-28T21:19:16.566Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Overview: DJI's Ultra-HD VR Flight Headsets\""
 excerpt: "\"This Article Describes Overview: DJI's Ultra-HD VR Flight Headsets\""
 keywords: "\"DJI VR Flight,UHD VR Headset,Flight DJI Tech,DJI VR Experience,Ultra-HD VR Drone,DJI Virtual Fly,High-Res VR Drones\""
-thumbnail: https://www.lifewire.com/thmb/-RQqNVzP345-03YaY2S-iOctUFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-mad-max-movies-in-order-c7af6d3dcb0c4d329e9c0e5775e9fc1d.jpg
+thumbnail: https://thmb.techidaily.com/720039bdcfeba97eefefa9824f21f9715183b78c763bbf782b71c474fcdd45b6.jpg
 ---
 
 ## Overview: DJI's Ultra-HD VR Flight Headsets

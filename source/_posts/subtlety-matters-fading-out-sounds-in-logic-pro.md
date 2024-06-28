@@ -1,7 +1,7 @@
 ---
 title: "\"Subtlety Matters  Fading Out Sounds in Logic Pro\""
-date: 2024-05-24T16:14:58.245Z
-updated: 2024-05-25T16:14:58.245Z
+date: 2024-06-27T21:19:22.557Z
+updated: 2024-06-28T21:19:22.557Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Subtlety Matters: Fading Out Sounds in Logic Pro\""
 excerpt: "\"This Article Describes Subtlety Matters: Fading Out Sounds in Logic Pro\""
 keywords: "Logic Pro Sound Design,Audio Fading Techniques,Effective Silence Use,Mastering Soft Edges,Logic Pro Mixdowns,Sound Quality Enhancement,Professional Producer Tips"
-thumbnail: https://www.lifewire.com/thmb/glImXZgybKHOm3mS0tk-gj5uNA0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-746029735-5ba9753146e0fb00253680e0.jpg
+thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37108b148f724431123b9f7ea.jpg
 ---
 
 ## Subtlety Matters: Fading Out Sounds in Logic Pro

@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Photoshop Tricks  Conceal Faces & Spaces\""
-date: 2024-05-24T15:06:12.361Z
-updated: 2024-05-25T15:06:12.361Z
+date: 2024-06-27T21:19:23.467Z
+updated: 2024-06-28T21:19:23.467Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Expert Photoshop Tricks: Conceal Faces & Spaces\""
 excerpt: "\"This Article Describes Expert Photoshop Tricks: Conceal Faces & Spaces\""
 keywords: "Face Hiding in Photos,Space Concealing Tips,Photoshop Facial Removal,Cover Identities PS,Stealthy Image Editing,Secure Privacy Pics,Camouflage Digital Spaces"
-thumbnail: https://www.lifewire.com/thmb/tjUAp5vGCmAQMQC49vIFERVjkIc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/4991375838_126cbaf6ee_z-57e0fdb05f9b58651677cf10.jpg
+thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3d24fd391ca764cff18f1395.jpg
 ---
 
 ## Expert Photoshop Tricks: Conceal Faces & Spaces

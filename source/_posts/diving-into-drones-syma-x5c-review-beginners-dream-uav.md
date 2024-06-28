@@ -1,7 +1,7 @@
 ---
 title: "\"Diving Into Drones? Syma X5C Review  Beginner's Dream UAV\""
-date: 2024-05-24T13:55:08.284Z
-updated: 2024-05-25T13:55:08.284Z
+date: 2024-06-27T21:19:23.277Z
+updated: 2024-06-28T21:19:23.277Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Diving Into Drones? Syma X5C Review: Beginner's Dream UAV\""
 excerpt: "\"This Article Describes Diving Into Drones? Syma X5C Review: Beginner's Dream UAV\""
 keywords: "Drone Beginner Review,X5C UAV Analysis,Syma Drone Exploration,Drones for Beginners,UAV Entry Guide,X5C Dive Into Drones,Dreamy Drone X5C"
-thumbnail: https://www.lifewire.com/thmb/kvEgYAA7g4inR0HblHngp2oE6to=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/KhangVuong-d90c802b819741a297291d835e7762e4.jpeg
+thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d176e6b4d47161337afbbb6cd1.jpeg
 ---
 
 ## Diving Into Drones? Syma X5C Review: Beginner's Dream UAV

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Affinity Photo Demystified"
-date: 2024-05-24T14:43:06.476Z
-updated: 2024-05-25T14:43:06.476Z
+date: 2024-06-27T21:19:18.311Z
+updated: 2024-06-28T21:19:18.311Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Affinity Photo Demystified"
 excerpt: "This Article Describes [Updated] Affinity Photo Demystified"
 keywords: "Photo Editing Basics,Affinity Photo Insights,Image Editing Made Simple,Mastering Affinity Photo,Learn Photo Editing Easily,Affinity Tool for Photographers,Simplifying Professional Photos"
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Affinity Photo Demystified
@@ -86,13 +86,13 @@ Along with the basic editing features, iPiccy online is also about advanced edit
 
 You can also manage the shadow and highlights of the photo and erase the background, if necessary. Multiple adjustments across different levels can be performed across an image. iPiccy provides you with one of the best and simplest environments in the online platforms.
 
-![ perform advanced image editing](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-8.jpg)
+![perform advanced image editing](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-8.jpg)
 
 Step 5: Apply Filters
 
 If you wish to add filters across your photo, you can consider using the tools such as "Emboss," "Blur Image," and "Smart Blur" for applying filters to the photo. This would provide you with effective results for enhancing the quality and appearance of the photo.
 
-![ apply image filters](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-9.jpg)
+![apply image filters](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-9.jpg)
 
 Step 6: Save Edited Photo
 

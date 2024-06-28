@@ -1,7 +1,7 @@
 ---
 title: "\"Embark on a Legal Grey Area with C-Span Videos\""
-date: 2024-05-24T14:56:10.881Z
-updated: 2024-05-25T14:56:10.881Z
+date: 2024-06-27T21:19:19.607Z
+updated: 2024-06-28T21:19:19.607Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Embark on a Legal Grey Area with C-Span Videos\""
 excerpt: "\"This Article Describes Embark on a Legal Grey Area with C-Span Videos\""
 keywords: "\"Legal Grey Vids (C-Span),C-Span Law Content,C-Span Legal Scenes,Grey Areas in Law (C-Span),C-Span Court Dramas,Controversial Laws (C-Span),C-Span Judicial Series\""
-thumbnail: https://www.lifewire.com/thmb/H0f3qG0gl1dMFn62mCSzVBKU38k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/EliasTorres1-477ec52c64ab45d1931919ac1b305139.png
+thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d58125ca084d49daf8878117921.png
 ---
 
 ## Embark on a Legal Grey Area with C-Span Videos

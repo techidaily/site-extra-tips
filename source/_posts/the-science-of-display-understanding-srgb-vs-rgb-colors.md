@@ -1,7 +1,7 @@
 ---
 title: "\"The Science of Display  Understanding Srgb vs Rgb Colors\""
-date: 2024-05-24T15:15:15.859Z
-updated: 2024-05-25T15:15:15.859Z
+date: 2024-06-27T21:19:15.711Z
+updated: 2024-06-28T21:19:15.711Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Science of Display: Understanding Srgb vs Rgb Colors\""
 excerpt: "\"This Article Describes The Science of Display: Understanding Srgb vs Rgb Colors\""
 keywords: "\"Quadcopter Flight Basics,Drone Aerodynamics Explained,Flight Dynamics in UAVs,Quad Copters Science Simplified,Understanding Quadrocopter Maneuvers,Advanced Drone Control Techniques,In-Depth Quadcopter Mechanisms\""
-thumbnail: https://www.lifewire.com/thmb/ebrh4pryk1RCkUBx_N34Im614oA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-14050070541-0fc96b82fdc54287bf3bbce3ba323342.jpg
+thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg
 ---
 
 ## The Science of Display: Understanding Srgb vs Rgb Colors

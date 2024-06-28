@@ -1,7 +1,7 @@
 ---
 title: "A Guide to Designing Spectacular Photo Tileworks for 2024"
-date: 2024-05-24T15:45:49.415Z
-updated: 2024-05-25T15:45:49.415Z
+date: 2024-06-27T21:19:22.035Z
+updated: 2024-06-28T21:19:22.035Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes A Guide to Designing Spectacular Photo Tileworks for 2024"
 excerpt: "This Article Describes A Guide to Designing Spectacular Photo Tileworks for 2024"
 keywords: "Photo Tilework Designs,Stunning Photo Mosaics,Creative Tile Wall Art,DIY Photo Tiling,Impressive Photo Tiles,Vivid Tile Photography,Artistic Photo Patterns"
-thumbnail: https://www.lifewire.com/thmb/kESskFVoFi4dzaPyJf9zOpkhnqI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png
+thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1cac3e933531323d55d47dcdde.png
 ---
 
 ## A Guide to Designing Spectacular Photo Tileworks

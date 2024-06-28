@@ -1,7 +1,7 @@
 ---
 title: "\"Podcast Scriptwriting Made Easy  Techniques and Illustrative Templates\""
-date: 2024-05-24T13:58:43.438Z
-updated: 2024-05-25T13:58:43.438Z
+date: 2024-06-27T21:19:17.546Z
+updated: 2024-06-28T21:19:17.546Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Podcast Scriptwriting Made Easy: Techniques and Illustrative Templates\""
 excerpt: "\"This Article Describes Podcast Scriptwriting Made Easy: Techniques and Illustrative Templates\""
 keywords: "\"Podcast Writing Guide,Scriptwriting Tips,Easy Script Creation,Scriptwriting Basics,Template-Driven Writing,Illustrative Templates Use,Techniques for Writing Audio\""
-thumbnail: https://www.lifewire.com/thmb/hjlD_xJQaod7zK94DY2Tyhdp-X0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f0746613af42a2c779a9073e228.jpg
 ---
 
 ## Podcast Scriptwriting Made Easy: Techniques and Illustrative Templates
@@ -74,24 +74,24 @@ The first right candidate for the word-for-word script is the one about to land 
 
 **Structure**
 
-* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_ )
+* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_(Span: \_\_ )
+* Topic 1: \_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * Segue (can be a phrase, a piece of music, or a sound effect)
-* Topic 2: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 2: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * \[Sponsor message\]
-* Topic 3: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 3: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
-* Outro: \_\_\_\_\_ (Span: \_\_ )
+* Outro: \_\_\_\_\_ (Span: \_\_)
 * Overview
 * Call to action
 * \[Closing theme music\]
@@ -132,19 +132,19 @@ See you in the upcoming episode with another interesting topic \[topic name\].
 
 **Podcast Example:**
 
-##### [Unfictional](https://www.kcrw.com/culture/shows/unfictional/cabin-notebook?utm%5Fsource=KCRW&utm%5Fmedium=RSS&utm%5Fcampaign=kcrw-show-rss)
+##### Unfictional
 
 An interesting narrative-style podcast hosted and produced by Bob Carlson.
 
 ![unfictional narrative podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-2.jpg)
 
-##### [S-Town](https://podcasts.apple.com/us/podcast/s-town/id1212558767)
+##### S-Town
 
 A crime story podcast hosted by Brian Reed from Serial Productions, a New York Times company.
 
 ![s town cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-3.jpg)
 
-##### [Bill Burr's Monday Morning](https://open.spotify.com/show/5SFiQlOQ3EKmwp0chE1QzY)
+##### Bill Burr's Monday Morning
 
 A solo podcast hosted by Bill Burr.
 
@@ -201,13 +201,13 @@ CTAs: If you want to hear more interesting podcasts like this one, follow the ch
 
 **Podcast Example**
 
-##### [Smartless](https://open.spotify.com/show/0Yzd0g8NYmn27k2HFNplv7)
+##### Smartless
 
 "SmartLess" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast where people from different fields of life come to share their life experiences.
 
 ![smartless podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-5.jpg)
 
-##### [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+##### The Joe Rogan Experience
 
 Hosted by Joe Rogan, a conversational style podcast it is.
 
@@ -224,17 +224,17 @@ Hosts who love ad-libbing just need a bulleted list of some points to do an epis
 
 **Structure**
 
-* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_ )
+* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
-* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
 * Segue
-* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_ )
+* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_)
 * Notations
-* Outro: \_\_\_\_\_ (Duration: \_\_\_\_ )
+* Outro: \_\_\_\_\_ (Duration: \_\_\_\_)
 * \[Ending music\]
 
 **Template**
@@ -261,19 +261,19 @@ CTAs: Follow the channel and forward it to your friends if you want to listen to
 
 **Podcast Example**
 
-##### [WTF with Marc Maron](http://www.wtfpod.com/)
+##### WTF with Marc Maron
 
 "WTF with Marc Maron" is a comedy podcast show with a growing list of episodes. It's one of the best examples of an Ad-libbed flexible podcast script.
 
 ![wtf podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-7.jpg)
 
-##### [Conan O'Brien Needs a Friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9)
+##### Conan O'Brien Needs a Friend
 
 A comedy podcast hosted by Conan.
 
 ![comedy podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-8.jpg)
 
-##### [2 Bears, 1 Cave with Tom Segura & Bert Kreischer](https://open.spotify.com/show/1PgDUTgeyu3FOzK1FcBoqa)
+##### 2 Bears, 1 Cave with Tom Segura & Bert Kreischer
 
 Together, two close friends make each other laugh.
 
