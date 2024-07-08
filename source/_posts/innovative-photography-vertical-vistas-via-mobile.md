@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Photography  Vertical Vistas via Mobile\""
-date: 2024-05-24T14:42:15.547Z
-updated: 2024-05-25T14:42:15.547Z
+date: 2024-07-07T03:09:26.958Z
+updated: 2024-07-08T03:09:26.958Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Innovative Photography: Vertical Vistas via Mobile\""
 excerpt: "\"This Article Describes Innovative Photography: Vertical Vistas via Mobile\""
 keywords: "Mobile Photo Innovation,Vertical Camera Views,Mobile Lens Artistry,Street Photography Trend,Mobile Horizon Capture,Urban Vista Shots,Dynamic Mobile Images"
-thumbnail: https://www.lifewire.com/thmb/36O6mR-32uZPQcZCa_oWmrz1kHY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8fb87ff4960ee8bff73c07e4.jpg
 ---
 
 ## Innovative Photography: Vertical Vistas via Mobile

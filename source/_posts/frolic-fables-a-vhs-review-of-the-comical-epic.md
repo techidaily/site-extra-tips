@@ -1,7 +1,7 @@
 ---
 title: "\"'Frolic Fables' - A VHS Review of The Comical Epic\""
-date: 2024-05-24T15:28:25.315Z
-updated: 2024-05-25T15:28:25.315Z
+date: 2024-07-07T03:09:24.202Z
+updated: 2024-07-08T03:09:24.202Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 'Frolic Fables' - A VHS Review of The Comical Epic\""
 excerpt: "\"This Article Describes 'Frolic Fables' - A VHS Review of The Comical Epic\""
 keywords: "VegasPro Review,VegasPro Update Critique,New VegasPro Insights,VegasPro Latest Analysis,VegasPro 2023 Outlook,Updated VegasPro Review,Newest VegasPro Critique"
-thumbnail: https://www.lifewire.com/thmb/Uc4eFELHCUVYbHwckJlDHvIiygQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-755651087-3682bb0c113447199101a344615a7bf2.jpg
+thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766a583e2029f0351c0b405229.jpg
 ---
 
 ## 'Frolic Fables' - A VHS Review of The Comical Epic

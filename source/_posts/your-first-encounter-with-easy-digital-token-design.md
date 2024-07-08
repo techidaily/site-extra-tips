@@ -1,7 +1,7 @@
 ---
 title: "Your First Encounter with Easy, Digital Token Design"
-date: 2024-05-24T13:52:27.897Z
-updated: 2024-05-25T13:52:27.897Z
+date: 2024-07-07T03:09:25.140Z
+updated: 2024-07-08T03:09:25.140Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Your First Encounter with Easy, Digital Token Design"
 excerpt: "This Article Describes Your First Encounter with Easy, Digital Token Design"
 keywords: "\"Easy Token Creation,Digital Tokens Overview,Ease Digital Designs,Beginning Crypto Assets,Simple Digital Tokens,Easy-to-Use Tokenizing,Initial Digital Tokening\""
-thumbnail: https://www.lifewire.com/thmb/Cy8805iRCouyGVEpCG4cH6-vzRI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-97096677-56e308935f9b5854a9f8c07e.jpg
+thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f7d177b793679fa54a81c9a8.jpg
 ---
 
 ## Your First Encounter with Easy, Digital Token Design

@@ -1,7 +1,7 @@
 ---
 title: "\"How To Remove Background In Figma  A Comprehensive Guide\""
-date: 2024-05-24T16:12:56.981Z
-updated: 2024-05-25T16:12:56.981Z
+date: 2024-07-07T03:09:28.519Z
+updated: 2024-07-08T03:09:28.519Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes How To Remove Background In Figma: A Comprehensive Guide\""
 excerpt: "\"This Article Describes How To Remove Background In Figma: A Comprehensive Guide\""
 keywords: "PowerPoint Sounds Tutorial,Effective PPT Audio Use,Best Sound Tips for PPT,Integrating Audio in Slides,Guide to Presentation Voiceovers,Clear Audio Strategies PPT,Optimizing Sounds in PowerPoint"
-thumbnail: https://www.lifewire.com/thmb/m-K3IzE697zmvCh3fDv5AHkpXLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ipad-parent-kids-57a274ec3df78c32764996b7.jpg
+thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd178394378301c673d9cd094e466a.jpg
 ---
 
 ## How To Remove Background In Figma: A Comprehensive Guide

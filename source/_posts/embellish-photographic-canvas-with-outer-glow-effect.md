@@ -1,7 +1,7 @@
 ---
 title: "Embellish Photographic Canvas With Outer Glow Effect"
-date: 2024-05-24T15:14:42.615Z
-updated: 2024-05-25T15:14:42.615Z
+date: 2024-07-07T03:09:27.089Z
+updated: 2024-07-08T03:09:27.089Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Embellish Photographic Canvas With Outer Glow Effect"
 excerpt: "This Article Describes Embellish Photographic Canvas With Outer Glow Effect"
 keywords: "PhotoCanvasGlowEffect,GlowCanvasEnhancement,EmbellishedPhotoCanvas,GlossyPhotographyCanvas,CanvasWithOuterLight,PhotographicCanvasGlitz,OuterGlowCanvasArt"
-thumbnail: https://www.lifewire.com/thmb/xkpu3_bCREV79qrsc0TZWtPznJM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_3093iphonex-361617bf45f84b3a811d7bf8c5a161cf.jpg
+thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901fffff3859c0a0ef7a4f048d.jpg
 ---
 
 ## Embellish Photographic Canvas With Outer Glow Effect

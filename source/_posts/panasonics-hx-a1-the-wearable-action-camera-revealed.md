@@ -1,7 +1,7 @@
 ---
 title: "\"Panasonic’s HX-A1 - The Wearable Action Camera Revealed\""
-date: 2024-05-24T13:55:29.262Z
-updated: 2024-05-25T13:55:29.262Z
+date: 2024-07-07T03:09:31.488Z
+updated: 2024-07-08T03:09:31.488Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Panasonic’s HX-A1 - The Wearable Action Camera Revealed\""
 excerpt: "\"This Article Describes Panasonic’s HX-A1 - The Wearable Action Camera Revealed\""
 keywords: "\"Panasonic HX-A1 ActionCam,Wearable Action Video HX-A1,HX-A1 Wearable Cameras,Panasonic HX-A1 Revealed,HX-A1 ActionWear Camera,Action Cam by Panasonic,Newest ActionCam HX-A1\""
-thumbnail: https://www.lifewire.com/thmb/Gwanl3qoTMT4xnff1h5rXrVQGOs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/VideostreamingontheInternet-725b5290140747bfab10a35d834ba3e4.jpg
+thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda2b797c9a9ae1ed0b5abaff9.jpg
 ---
 
 ## Panasonic’s HX-A1 - The Wearable Action Camera Revealed

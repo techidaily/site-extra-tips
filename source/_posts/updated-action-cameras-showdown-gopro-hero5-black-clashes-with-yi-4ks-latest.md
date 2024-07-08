@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Action Cameras Showdown  GoPro Hero5 Black Clashes with Yi 4K's Latest\""
-date: 2024-05-24T15:37:46.920Z
-updated: 2024-05-25T15:37:46.920Z
+date: 2024-07-07T03:09:23.207Z
+updated: 2024-07-08T03:09:23.207Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Action Cameras Showdown: GoPro Hero5 Black Clashes with Yi 4K's Latest\""
 excerpt: "\"This Article Describes [Updated] Action Cameras Showdown: GoPro Hero5 Black Clashes with Yi 4K's Latest\""
 keywords: "\"GoPro Hero5 Battle,YI 4K ActionCam,Hero5 vs Yi Quality,Black GoPro Cameras,YI 4K Video Compare,High-Res Outdoor Cameras,Ultimate Action Camera Review\""
-thumbnail: https://www.lifewire.com/thmb/HpkGkovLwPPowOg2old7mg3NxW4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Switch_Splatoon2_hardwarebundle_JoyCons_artwork_01-5c3cbefdc9e77c0001043208.jpg
+thumbnail: https://thmb.techidaily.com/aa2122a37a5989c0b8e6135c848a9b094e794d7aa1b69be64b39a2ed2ad95c93.jpg
 ---
 
 ## Action Cameras Showdown: GoPro Hero5 Black Clashes with Yi 4K's Latest

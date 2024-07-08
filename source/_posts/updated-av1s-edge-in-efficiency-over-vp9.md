@@ -1,7 +1,7 @@
 ---
 title: "[Updated] AV1's Edge in Efficiency Over VP9"
-date: 2024-05-24T16:15:25.245Z
-updated: 2024-05-25T16:15:25.245Z
+date: 2024-07-07T03:09:30.686Z
+updated: 2024-07-08T03:09:30.686Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] AV1's Edge in Efficiency Over VP9"
 excerpt: "This Article Describes [Updated] AV1's Edge in Efficiency Over VP9"
 keywords: "\"AV1 Superiority,Efficient AV1,AV1 vs VP9,AV1 Efficiency Advantage,High-Effort AV1,NextGen Video Codec,AV1 Technological Edge\""
-thumbnail: https://www.lifewire.com/thmb/_ESCKrGf4KscxAma5r8uuPRFQ3I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/przemyslaw-marczynski-oCfkSnqZ0SI-unsplash-5f1aa0ae780b4fcbb38dfee122b9e552.jpg
+thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e64473e58f7a002cd7e0675d8bb.jpg
 ---
 
 ## AV1's Edge in Efficiency Over VP9

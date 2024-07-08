@@ -1,7 +1,7 @@
 ---
 title: "How ASMR Can Enhance Your Physical & Mental Health"
-date: 2024-05-24T14:22:13.593Z
-updated: 2024-05-25T14:22:13.593Z
+date: 2024-07-07T03:09:23.547Z
+updated: 2024-07-08T03:09:23.547Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How ASMR Can Enhance Your Physical & Mental Health"
 excerpt: "This Article Describes How ASMR Can Enhance Your Physical & Mental Health"
 keywords: "\"ASMR Health Benefits,Mindfulness via ASMR,ASMR For Well-Being,ASMR Mental Care,Physical ASMR Effects,ASMR Stress Relief,ASMR Sleep Aid\""
-thumbnail: https://www.lifewire.com/thmb/JOg59vP6bm-7mGeyHmvkwgL2GHc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a76d990245599509aeb0bc8f2.jpg
 ---
 
 ## How ASMR Can Enhance Your Physical & Mental Health

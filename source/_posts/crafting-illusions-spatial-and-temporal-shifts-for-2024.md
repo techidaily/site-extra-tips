@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting Illusions  Spatial and Temporal Shifts for 2024\""
-date: 2024-05-24T15:36:34.916Z
-updated: 2024-05-25T15:36:34.916Z
+date: 2024-07-07T03:09:25.960Z
+updated: 2024-07-08T03:09:25.960Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Crafting Illusions: Spatial and Temporal Shifts for 2024\""
 excerpt: "\"This Article Describes Crafting Illusions: Spatial and Temporal Shifts for 2024\""
 keywords: "Illust Stills Transform,Photo Illu Dynamics,Dynamic Illust Photos,Illus Artistic Pics,Still Images Illustrate,Dynamic Illustration Pics,Dynamic Illu Effects"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Crafting Illusions: Spatial and Temporal Shifts

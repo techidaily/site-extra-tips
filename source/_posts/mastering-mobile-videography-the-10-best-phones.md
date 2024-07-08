@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mobile Videography - The 10 Best Phones\""
-date: 2024-05-24T14:02:14.617Z
-updated: 2024-05-25T14:02:14.617Z
+date: 2024-07-07T03:09:28.861Z
+updated: 2024-07-08T03:09:28.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Mobile Videography - The 10 Best Phones\""
 excerpt: "\"This Article Describes Mastering Mobile Videography - The 10 Best Phones\""
 keywords: "MobVid Mastery,Top Video Cams,Phone VidiTech,ProMobileVideo,VideoPhone Guide,MobileCamPros,VidBestPhones"
-thumbnail: https://www.lifewire.com/thmb/CjhBnvJOq4UKhyjOd9LtaBPVVZA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2024-01-17at12.29.10PM-07a5a954b4ea4170a3796e706afbda42.png
+thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81b43be135b81d00ad4f84b19.png
 ---
 
 ## Mastering Mobile Videography - The 10 Best Phones

@@ -1,7 +1,7 @@
 ---
 title: "\"Hero5 Black Versus Yi 4K  Latest Updates on High-Res Cameras\""
-date: 2024-05-24T16:27:57.840Z
-updated: 2024-05-25T16:27:57.840Z
+date: 2024-07-07T03:09:31.076Z
+updated: 2024-07-08T03:09:31.076Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras\""
 excerpt: "\"This Article Describes Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras\""
 keywords: "Hero5 Vs. Yi 4K Update,Black HERO5 Camera,YI 4K Resolution,High Res Cam Latest,HERO5 Vs. YI Compare,Ultra HD Cam Tech,4K Photography Advances"
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Hero5 Black Versus Yi 4K: Latest Updates on High-Res Cameras

@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Breakdown  Core Concepts and Applications\""
-date: 2024-05-24T14:05:55.808Z
-updated: 2024-05-25T14:05:55.808Z
+date: 2024-07-07T03:09:29.886Z
+updated: 2024-07-08T03:09:29.886Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes SRT Breakdown: Core Concepts and Applications\""
 excerpt: "\"This Article Describes SRT Breakdown: Core Concepts and Applications\""
 keywords: "SRT Basics,Core SRT Ideas,SRT Fundamentals,SRT Principles,SRT Core Lessons,Breakdown SRT Concepts,Applying SRT Core"
-thumbnail: https://www.lifewire.com/thmb/5owBLzwnt_3v9IE_c1lfqXviKB8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1322139186-40ca0a58cede45ecb6d18fb76538658b.jpg
+thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce948e1ec31321e7ff03bc36bee.jpg
 ---
 
 ## SRT Breakdown: Core Concepts and Applications

@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Life with iPhone’s Dual-Function Capability\""
-date: 2024-05-24T16:09:29.678Z
-updated: 2024-05-25T16:09:29.678Z
+date: 2024-07-07T03:09:28.413Z
+updated: 2024-07-08T03:09:28.413Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Capturing Life with iPhone’s Dual-Function Capability\""
 excerpt: "\"This Article Describes Capturing Life with iPhone’s Dual-Function Capability\""
 keywords: "\"IPhone Dual-Life Capture,Dual-Function iPhone Photography,Dual iPhone Life Snapshot,Dual Lens iPhone Photoshoot,IPhone Dual-Capability Imaging,Life Capturing with iPhone's Dual,IPhone Dual-Lens Daily Shots\""
-thumbnail: https://www.lifewire.com/thmb/nG8znENmZlPqp3nXQ3OVGHtAuTY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ResetBluetoothSpeakers-8674445ab04249b38247295f5176707c.jpeg
+thumbnail: https://thmb.techidaily.com/4bb09ddf21259f8aa35372dd3bddaab5a52e4c2f70a7e62b027db40747b04fa4.jpeg
 ---
 
 ## Capturing Life with iPhone’s Dual-Function Capability

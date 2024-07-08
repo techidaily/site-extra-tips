@@ -1,7 +1,7 @@
 ---
 title: "\"Newbies Guide  6 Strategic Social Media Tactics for Growth\""
-date: 2024-05-24T15:35:30.769Z
-updated: 2024-05-25T15:35:30.769Z
+date: 2024-07-07T03:09:31.857Z
+updated: 2024-07-08T03:09:31.857Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Newbies Guide: 6 Strategic Social Media Tactics for Growth\""
 excerpt: "\"This Article Describes Newbies Guide: 6 Strategic Social Media Tactics for Growth\""
 keywords: "Newbies Social Media Growth Guide,Social Media Strategy for Beginners,Growth Tactics in Social Networks,Mastering Social Media Growth,Essential Social Tactics for Startups,Prosocial Media Strategies,Early Learners' Social Strategies"
-thumbnail: https://www.lifewire.com/thmb/DZzhOu3SoIwZrYK-VSxEFYkh3ME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Home-vs-Apple-HomePod-32b211a06afa4667aeeeca447a39927e.jpg
+thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b7348173d3861777fbb2c2bf.jpg
 ---
 
 ## Newbies Guide: 6 Strategic Social Media Tactics for Growth
@@ -102,7 +102,7 @@ AMA stands for "Ask Me Anything". This offers a perfect opportunity for you to c
 
 Feedback is very important for a growing business. It's a simple way to research your audience. Remember, the more you know about their fears, issues, attractions, and similar... the more you can improve your brand and meet their demands.
 
-Reddit has its own[AMA subreddit](https://www.reddit.com/r/IAmA/). It currently has over 22 million members. Here, you can post who you are and what you do. Then, expect plenty of questions from your audience.
+Reddit has its own [AMA subreddit](https://www.reddit.com/r/IAmA/). It currently has over 22 million members. Here, you can post who you are and what you do. Then, expect plenty of questions from your audience.
 
 **Always Support Your Audience**
 
@@ -121,9 +121,9 @@ There are two types of Reddit ads you need to be doing:
 
 To be successful with your Reddit marketing strategy, you must know how to run ads.
 
-The first step is to go over as many[examples of successful Reddit marketing campaigns](https://www.reddiquette.com/reddit-ad-examples/) as you can.
+The first step is to go over as many [examples of successful Reddit marketing campaigns](https://www.reddiquette.com/reddit-ad-examples/) as you can.
 
-Second, you must familiarize yourself with[Reddit's advertising policy](https://redditinc.force.com/helpcenter/s/article/Reddit-Advertising-Policy-Overview). Make sure you're not creating an ad that goes against their rules.
+Second, you must familiarize yourself with [Reddit's advertising policy](https://redditinc.force.com/helpcenter/s/article/Reddit-Advertising-Policy-Overview). Make sure you're not creating an ad that goes against their rules.
 
 Lastly, have a clear objective. Know why you're creating your ad. Is it to increase your audience? Is it to get more sales? Is there another reason?
 

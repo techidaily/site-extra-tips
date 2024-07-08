@@ -1,7 +1,7 @@
 ---
 title: "\"Empower Your Slide Shows  A Guide to Adding Speech-to-Text Functionality\""
-date: 2024-05-24T16:26:11.284Z
-updated: 2024-05-25T16:26:11.284Z
+date: 2024-07-07T03:09:31.132Z
+updated: 2024-07-08T03:09:31.132Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Empower Your Slide Shows: A Guide to Adding Speech-to-Text Functionality\""
 excerpt: "\"This Article Describes Empower Your Slide Shows: A Guide to Adding Speech-to-Text Functionality\""
 keywords: "\"Slideshow Speech-to-Text,Slide Show Transcription,Enhancing Slideshows,Text in Presentations,Add Text to Slides,Slide Captioning Tool,Speech-Enabled Slides\""
-thumbnail: https://www.lifewire.com/thmb/PrGY8pAgKjzqmXRv8UVAznKJhN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-application-of-cloud-storage-471510877-5b1eb0158023b90036f2f175.jpg
+thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
 ---
 
 ## Empower Your Slide Shows: A Guide to Adding Speech-to-Text Functionality
@@ -157,9 +157,9 @@ You can use your device's in-built microphone. However, you may need external ge
 
 Speech-to-text is an additional feature for all users. Typing is, however, the default practice.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [Make PPT Videos Now](https://tools.techidaily.com/wondershare/filmora/download/) [Make PPT Videos Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -296,9 +296,9 @@ You can use your device's in-built microphone. However, you may need external ge
 
 Speech-to-text is an additional feature for all users. Typing is, however, the default practice.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

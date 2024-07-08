@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Craft Your Own Film Finale Templates, No Cost"
-date: 2024-05-24T14:47:21.852Z
-updated: 2024-05-25T14:47:21.852Z
+date: 2024-07-07T03:09:26.390Z
+updated: 2024-07-08T03:09:26.390Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Craft Your Own Film Finale Templates, No Cost"
 excerpt: "This Article Describes [Updated] Craft Your Own Film Finale Templates, No Cost"
 keywords: "\"Finish Films Free,No-Cost Template Movie,Film Finale Templates,Craft Movie Endings,Easy Film Climax Designs,Creative Film Conclusion,Free Film Plot Layouts\""
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## Craft Your Own Film Finale Templates, No Cost

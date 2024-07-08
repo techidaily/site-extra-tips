@@ -1,7 +1,7 @@
 ---
 title: "Best 80S Movie Magic for Contemporary Edits"
-date: 2024-05-24T14:28:41.978Z
-updated: 2024-05-25T14:28:41.978Z
+date: 2024-07-07T03:09:28.813Z
+updated: 2024-07-08T03:09:28.813Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Best 80S Movie Magic for Contemporary Edits"
 excerpt: "This Article Describes Best 80S Movie Magic for Contemporary Edits"
 keywords: "Modern Audio Aficionados Tasks,Synergistic Audio Activities,Audio Enthusiast Daily Tasks,Audiophile Synergy Practices,Contemporary Sound Hobbies,Audio Passion Projects,Enthusiastic Sound Pursuits"
-thumbnail: https://www.lifewire.com/thmb/vb8EXUrtW_UZX4cSF-dcsLm6zRU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-988417820-5b4bcb16c9e77c0037fc2245.jpg
+thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6156836ba9860fa44be8739e.jpg
 ---
 
 ## Best 80S Movie Magic for Contemporary Edits

@@ -1,7 +1,7 @@
 ---
 title: "Classifications of Unmanned Aircraft for 2024"
-date: 2024-05-24T13:54:44.351Z
-updated: 2024-05-25T13:54:44.351Z
+date: 2024-07-07T03:09:26.989Z
+updated: 2024-07-08T03:09:26.989Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Classifications of Unmanned Aircraft for 2024"
 excerpt: "This Article Describes Classifications of Unmanned Aircraft for 2024"
 keywords: "\"UAV Types,Drone Classifications,Drones by Function,UAS Categorization,Remote-Controlled Aircraft Groups,Unmanned Aerial Vehicle Categories,Aircraft without Pilots Classified\""
-thumbnail: https://www.lifewire.com/thmb/moKtV9CKew0uEJHLaLNm27v-vUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001_how-to-watch-dragon-ball-in-order-c348f47731764fd5a1695a68c412923a.jpg
+thumbnail: https://thmb.techidaily.com/fa21f0e3da9170853bae87f9e51fccaaee500ab182029f2762037858bef47cd1.jpg
 ---
 
 ## Classifications of Unmanned Aircraft

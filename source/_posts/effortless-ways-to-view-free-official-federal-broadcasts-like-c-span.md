@@ -1,7 +1,7 @@
 ---
 title: "\"Effortless Ways to View Free, Official Federal Broadcasts Like C-Span\""
-date: 2024-05-24T15:06:10.722Z
-updated: 2024-05-25T15:06:10.722Z
+date: 2024-07-07T03:09:29.523Z
+updated: 2024-07-08T03:09:29.523Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Effortless Ways to View Free, Official Federal Broadcasts Like C-Span\""
 excerpt: "\"This Article Describes Effortless Ways to View Free, Official Federal Broadcasts Like C-Span\""
 keywords: "\"Free C-Span Streaming,Official C-Span Watch,C-Span Live Access,Easy C-Span View,FREE C-Span Broadcasts,C-Span Online Availability,C-Span Free TV\""
-thumbnail: https://www.lifewire.com/thmb/WanOrBzMbmKuKTq2JkOVxbgoo5c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0e1db9a60b0603055e403b62.jpg
 ---
 
 ## Effortless Ways to View Free, Official Federal Broadcasts Like C-Span

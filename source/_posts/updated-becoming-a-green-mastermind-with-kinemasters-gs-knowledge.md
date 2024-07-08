@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Becoming a Green Mastermind with KineMaster's GS Knowledge"
-date: 2024-05-24T16:13:46.404Z
-updated: 2024-05-25T16:13:46.404Z
+date: 2024-07-07T03:09:28.681Z
+updated: 2024-07-08T03:09:28.681Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Becoming a Green Mastermind with KineMaster's GS Knowledge"
 excerpt: "This Article Describes [Updated] Becoming a Green Mastermind with KineMaster's GS Knowledge"
 keywords: "\"Green Mindset Leadership,Eco-Leaders Training,Sustainable Business Thought,Green Innovators Guide,Mastery in Eco Management,KineMaster GS Insights,Environmental Strategy Expertise\""
-thumbnail: https://www.lifewire.com/thmb/VC6Z365Ifu4Fhz-LHk9d6JABNmU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/TheDanDangler1-6cbb89dca92a4d66995f1a2dd9d44f62.jpeg
+thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb81bb49e5d9d8fec87876404.jpeg
 ---
 
 ## Becoming a Green Mastermind with KineMaster's GS Knowledge
@@ -48,7 +48,7 @@ Following are some features of the KineMaster video editor that makes it stand o
 
 Follow these steps to use the **green screen in KineMaster** to take your video editing to the next level:
 
-Step1 Head to [Google Play Store](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en&gl=US) or [App Store](https://apps.apple.com/us/app/kinemaster-video-editor/id1609369954)and install **KineMaster** on your device. Launch the app and choose the **aspect ratio**. Tap the **"Media"** option from the right side of the screen. Select the video clips with **chroma-key** and import them to the **timeline.**
+Step1 Head to [Google Play Store](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree&hl=en&gl=US) or [App Store](https://apps.apple.com/us/app/kinemaster-video-editor/id1609369954) and install **KineMaster** on your device. Launch the app and choose the **aspect ratio**. Tap the **"Media"** option from the right side of the screen. Select the video clips with **chroma-key** and import them to the **timeline.**
 
 Step2 Next, select all the video clips with the **green screen** and open the right-hand side **menu.** Scroll down and tap **"Chroma Key"** to remove the color from the videos.
 

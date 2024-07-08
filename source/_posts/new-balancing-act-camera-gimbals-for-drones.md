@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Balancing Act  Camera Gimbals for Drones\""
-date: 2024-05-24T16:25:29.297Z
-updated: 2024-05-25T16:25:29.297Z
+date: 2024-07-07T03:09:28.393Z
+updated: 2024-07-08T03:09:28.393Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Balancing Act: Camera Gimbals for Drones\""
 excerpt: "\"This Article Describes [New] Balancing Act: Camera Gimbals for Drones\""
 keywords: "Drone Stabilizer,Aerial Cinematography,Drone Flight Smoothness,Drone Video Quality,Gimbal for Drones,UAV Stabilization,Camera Drones Balance"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Balancing Act: Camera Gimbals for Drones

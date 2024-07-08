@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Visual Storytelling  Key Shot Techniques for Beginners\""
-date: 2024-05-24T16:29:39.567Z
-updated: 2024-05-25T16:29:39.567Z
+date: 2024-07-07T03:09:31.929Z
+updated: 2024-07-08T03:09:31.929Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Visual Storytelling: Key Shot Techniques for Beginners\""
 excerpt: "\"This Article Describes Mastering Visual Storytelling: Key Shot Techniques for Beginners\""
 keywords: "Visual Storytelling Basics,Key Shot Composition Guide,Master Visual Narratives,Storytelling with Key Shots,Shot Techniques for Beginners,Beginner's Key Frame Artistry,Basic Visual Story Crafting"
-thumbnail: https://www.lifewire.com/thmb/3EaGmOjI9xUMKQ-wPQrbB84mOE0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-117845409-836cfa7c69e148a59e0feae1f247d604.jpg
+thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2a50419820d4a5c540b52039.jpg
 ---
 
 ## Mastering Visual Storytelling: Key Shot Techniques for Beginners

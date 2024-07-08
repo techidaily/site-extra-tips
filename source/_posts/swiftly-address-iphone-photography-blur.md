@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Address iPhone Photography Blur"
-date: 2024-05-24T15:57:24.039Z
-updated: 2024-05-25T15:57:24.039Z
+date: 2024-07-07T03:09:29.393Z
+updated: 2024-07-08T03:09:29.393Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Swiftly Address iPhone Photography Blur"
 excerpt: "This Article Describes Swiftly Address iPhone Photography Blur"
 keywords: "IPhone Blur Reduction,Swift Shot Clear Photos,Fast Fixiphone Image Clarity,IPhone Sharpness Boost,Quick Focus Photography,Reduce iPhone Camera Blur,Accelerated iPhone Sharp Images"
-thumbnail: https://www.lifewire.com/thmb/pk5IbOorkzmba9aa5kWvl03V_X4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-753290569-5b97cc8646e0fb00501aa360.jpg
+thumbnail: https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf91a44a7ee26654a9f6fff3c0.jpg
 ---
 
 ## Swiftly Address iPhone Photography Blur

@@ -1,7 +1,7 @@
 ---
 title: "Adding Soundtracks to Your InShot Projects"
-date: 2024-05-24T16:07:52.689Z
-updated: 2024-05-25T16:07:52.689Z
+date: 2024-07-07T03:09:26.758Z
+updated: 2024-07-08T03:09:26.758Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Adding Soundtracks to Your InShot Projects"
 excerpt: "This Article Describes Adding Soundtracks to Your InShot Projects"
 keywords: "\"Photo Backdrop Selection,Online Tool Photography,Customized Photo Designs,Digital Photo Editing,Photo Wall Art Creation,Personalize Photo Backgrounds,E-Commerce Photo Service\""
-thumbnail: https://www.lifewire.com/thmb/6cfWgGiacV0hIPesk10niWAAjo8=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/Streaming_GettyImages-1317927924_grinvalds_CROPPED-71ab52546b8b477ca2c0788bc26d150f.jpg
+thumbnail: https://thmb.techidaily.com/891c1ef62d1f0cae8f261e14a3ae4e9d18efe066afd0af7e2373c813aa6b6f85.jpg
 ---
 
 ## Adding Soundtracks to Your InShot Projects

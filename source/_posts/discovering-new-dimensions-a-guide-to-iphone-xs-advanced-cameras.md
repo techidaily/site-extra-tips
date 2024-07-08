@@ -1,7 +1,7 @@
 ---
 title: "\"Discovering New Dimensions  A Guide to iPhone X's Advanced Cameras\""
-date: 2024-05-24T16:16:09.717Z
-updated: 2024-05-25T16:16:09.717Z
+date: 2024-07-07T03:09:33.628Z
+updated: 2024-07-08T03:09:33.628Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Discovering New Dimensions: A Guide to iPhone X's Advanced Cameras\""
 excerpt: "\"This Article Describes Discovering New Dimensions: A Guide to iPhone X's Advanced Cameras\""
 keywords: "\"IPhone X Camera Guide,IPhone X Lens Tech,IPhone X Photo Tips,X-Series Phone Cameras,Advanced iPhone X Zoom,New iPhone X Shutter Speed,Exploring iPhone X Images\""
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Discovering New Dimensions: A Guide to iPhone X's Advanced Cameras

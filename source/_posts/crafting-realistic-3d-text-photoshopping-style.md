@@ -1,7 +1,7 @@
 ---
 title: "Crafting Realistic 3D Text Photoshopping Style"
-date: 2024-05-24T14:22:02.403Z
-updated: 2024-05-25T14:22:02.403Z
+date: 2024-07-07T03:09:28.125Z
+updated: 2024-07-08T03:09:28.125Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Realistic 3D Text Photoshopping Style"
 excerpt: "This Article Describes Crafting Realistic 3D Text Photoshopping Style"
 keywords: "\"PhotoTilingArt,StunningPhotoMosaics,CreativeTileDesigns,Eye-catchingPhotomosaic,PhotographicTilework,AestheticPhotoTiles,MasterpieceTiledImages\""
-thumbnail: https://www.lifewire.com/thmb/WanOrBzMbmKuKTq2JkOVxbgoo5c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/2c72878e4c5b851b7d621c520b7075b9d80e911d0e1db9a60b0603055e403b62.jpg
 ---
 
 ## Crafting Realistic 3D Text Photoshopping Style

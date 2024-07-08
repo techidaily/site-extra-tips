@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Beak Beat Boatwrights"
-date: 2024-05-24T16:25:29.844Z
-updated: 2024-05-25T16:25:29.844Z
+date: 2024-07-07T03:09:33.800Z
+updated: 2024-07-08T03:09:33.800Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Beak Beat Boatwrights"
 excerpt: "This Article Describes [Updated] Beak Beat Boatwrights"
 keywords: "Boatwright Beats,Boatwright Techno,Beak Rhythms,Waterside Beats,Boating Beatniks,Sailboat Grooves,Maritime Music"
-thumbnail: https://www.lifewire.com/thmb/u017UcjgV0PUNLlqsxrSFysNmx0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/duckduckgo-5c172c22536e4ed6954e1c21b59978fc.jpg
+thumbnail: https://thmb.techidaily.com/9452709ea5278a965307bf042e7d92a12b881e1c879f75105867000ed51ea454.jpg
 ---
 
 ## Beak Beat Boatwrights

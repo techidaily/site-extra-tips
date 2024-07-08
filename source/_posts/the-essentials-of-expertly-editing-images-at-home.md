@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Expertly Editing Images at Home"
-date: 2024-05-24T16:11:38.698Z
-updated: 2024-05-25T16:11:38.698Z
+date: 2024-07-07T03:09:29.372Z
+updated: 2024-07-08T03:09:29.372Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Essentials of Expertly Editing Images at Home"
 excerpt: "This Article Describes The Essentials of Expertly Editing Images at Home"
 keywords: "AV1 Basics,Codec Guide,AV1 Essentials,Video Compression,AV1 Decoding,Streaming Technology,Video Coder Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## The Essentials of Expertly Editing Images at Home

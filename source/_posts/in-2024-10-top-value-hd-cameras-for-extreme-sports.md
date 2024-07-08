@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 10 Top Value HD Cameras for Extreme Sports"
-date: 2024-05-24T13:55:48.225Z
-updated: 2024-05-25T13:55:48.225Z
+date: 2024-07-07T03:09:28.790Z
+updated: 2024-07-08T03:09:28.790Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, 10 Top Value HD Cameras for Extreme Sports"
 excerpt: "This Article Describes In 2024, 10 Top Value HD Cameras for Extreme Sports"
 keywords: "\"Sports Extreme HD Cam,Valuable HD Action Cams,High-Value Sports Video Gear,Prime Extreme Camera Systems,Top Value HD Sportcams,Excellent SDP Cameras for Sports,Premium HD Sports Photography\""
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## 10 Top Value HD Cameras for Extreme Sports

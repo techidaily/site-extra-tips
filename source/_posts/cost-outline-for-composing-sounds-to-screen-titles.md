@@ -1,7 +1,7 @@
 ---
 title: "\"Cost Outline for Composing Sounds to Screen-Titles\""
-date: 2024-05-24T14:37:00.130Z
-updated: 2024-05-25T14:37:00.130Z
+date: 2024-07-07T03:09:32.146Z
+updated: 2024-07-08T03:09:32.146Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Cost Outline for Composing Sounds to Screen-Titles\""
 excerpt: "\"This Article Describes Cost Outline for Composing Sounds to Screen-Titles\""
 keywords: "\"Sound Composition Costs,Title Synch Expense Breakdown,Audio Design Budget,Screen-Title Sync Pricing,Soundtrack to Titles Funding,Production Audio Allocation,Title Placement Music Costs\""
-thumbnail: https://www.lifewire.com/thmb/-r2FQ2PQFLG4mDqc5GgYlp6WWjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-14at12.36.22PM-8a595c9af6dc49f09abafcea8ab8e98c.png
+thumbnail: https://thmb.techidaily.com/787eeaa7ff322b9215aaa10fafb3d58916c322d18ab57de64728f0cbbe83b061.png
 ---
 
 ## Cost Outline for Composing Sounds to Screen-Titles

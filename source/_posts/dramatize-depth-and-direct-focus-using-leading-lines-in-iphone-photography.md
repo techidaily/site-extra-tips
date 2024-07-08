@@ -1,7 +1,7 @@
 ---
 title: "Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography"
-date: 2024-05-24T15:21:19.498Z
-updated: 2024-05-25T15:21:19.498Z
+date: 2024-07-07T03:09:32.525Z
+updated: 2024-07-08T03:09:32.525Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography"
 excerpt: "This Article Describes Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography"
 keywords: "\"IPhone Leading Lines,Photo Focus Techniques,Direct Camera Shots,Lead-In Line Artistry,Depth Enhancement Tips,IPhone Portrait Tricks,Visual Composition Strategies\""
-thumbnail: https://www.lifewire.com/thmb/QKuba4KqVkslOGIIUxOuJmE2VBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Westend61-f85efaa852724363942cf8f8629d0db9.jpg
+thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5d90ffefd2a92d695eb153e0.jpg
 ---
 
 ## Dramatize Depth and Direct Focus Using Leading Lines in iPhone Photography

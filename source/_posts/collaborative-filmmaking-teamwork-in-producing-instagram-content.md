@@ -1,7 +1,7 @@
 ---
 title: "\"Collaborative Filmmaking  Teamwork in Producing Instagram Content\""
-date: 2024-05-24T15:11:11.396Z
-updated: 2024-05-25T15:11:11.396Z
+date: 2024-07-07T03:09:32.991Z
+updated: 2024-07-08T03:09:32.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Collaborative Filmmaking: Teamwork in Producing Instagram Content\""
 excerpt: "\"This Article Describes Collaborative Filmmaking: Teamwork in Producing Instagram Content\""
 keywords: "\"Film Collaboration SEO,Instagram Film Teams,Media Production SEO,Creative Content SEO,Social Filmmaking SEO,Teamwork in Media SEO,Producing SEO: Instagram Filmmaking\""
-thumbnail: https://www.lifewire.com/thmb/35EJIYWnOjf-DPYyt8jATjphfKo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/couple-reading-map-on-waterfront--young-woman-using-mobile-phone-200326285-001-5a948525119fa80036dc10c9.jpg
+thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b87668f0c388f2d39f0ecdca.jpg
 ---
 
 ## Collaborative Filmmaking: Teamwork in Producing Instagram Content

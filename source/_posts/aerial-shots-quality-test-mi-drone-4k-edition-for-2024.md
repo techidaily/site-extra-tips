@@ -1,7 +1,7 @@
 ---
 title: "\"Aerial Shots Quality Test - Mi Drone 4K Edition for 2024\""
-date: 2024-05-24T16:07:15.925Z
-updated: 2024-05-25T16:07:15.925Z
+date: 2024-07-07T03:09:24.788Z
+updated: 2024-07-08T03:09:24.788Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Aerial Shots Quality Test - Mi Drone 4K Edition for 2024\""
 excerpt: "\"This Article Describes Aerial Shots Quality Test - Mi Drone 4K Edition for 2024\""
 keywords: "\"4K Drone Aerials,MiDrone Quality Test,High-Res Aerial Shots,Drone 4K Video Shooting,Aerial Shot Clarity Test,Professional Aerial Images,4K Edition MiDrone\""
-thumbnail: https://www.lifewire.com/thmb/4m4vnDuQAvSWsqWaMN6LiF6tokY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/rokuyoutubetv-d07ba4687f6d47649b60ad231003a984.png
+thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84bcc3926e5048675a7dfb62d5.png
 ---
 
 ## Aerial Shots Quality Test - Mi Drone 4K Edition

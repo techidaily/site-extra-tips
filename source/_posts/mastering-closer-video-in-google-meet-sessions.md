@@ -1,7 +1,7 @@
 ---
 title: "Mastering Closer Video in Google Meet Sessions"
-date: 2024-05-24T16:26:26.067Z
-updated: 2024-05-25T16:26:26.067Z
+date: 2024-07-07T03:09:31.411Z
+updated: 2024-07-08T03:09:31.411Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Closer Video in Google Meet Sessions"
 excerpt: "This Article Describes Mastering Closer Video in Google Meet Sessions"
 keywords: "\"Close-Up Meetings Guide,Mastery: Effective Zoom Techniques,Precision Engagement Webinars,Intimate Video Conferencing Skills,Google Meet Excellence Tips,Snapshots in Online Classrooms,Interactive Zoom Mastery\""
-thumbnail: https://www.lifewire.com/thmb/euGB2OxWSMCs0I-pIsw21DKONQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/singled-out-687864396-593c83153df78c537b5d9e50.jpg
+thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9fa867d443daa8eb75630573f.jpg
 ---
 
 ## Mastering Closer Video in Google Meet Sessions

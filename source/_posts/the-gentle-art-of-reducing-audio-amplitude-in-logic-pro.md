@@ -1,7 +1,7 @@
 ---
 title: "The Gentle Art of Reducing Audio Amplitude in Logic Pro"
-date: 2024-05-24T14:27:47.310Z
-updated: 2024-05-25T14:27:47.310Z
+date: 2024-07-07T03:09:31.363Z
+updated: 2024-07-08T03:09:31.363Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Gentle Art of Reducing Audio Amplitude in Logic Pro"
 excerpt: "This Article Describes The Gentle Art of Reducing Audio Amplitude in Logic Pro"
 keywords: "\"Audio Amp Reduction Tips,Low-Pass Filter Techniques,Mastering Sound Quality,Volume Level Management,Logic Pro Amplitude Control,Softening Audio Peaks,Dynamic Range Compression\""
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## The Gentle Art of Reducing Audio Amplitude in Logic Pro

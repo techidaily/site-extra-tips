@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Add Titles/Text to Video on Microsoft Photos in Windows 10"
-date: 2024-05-24T14:00:58.841Z
-updated: 2024-05-25T14:00:58.841Z
+date: 2024-07-07T03:09:33.484Z
+updated: 2024-07-08T03:09:33.484Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] How to Add Titles/Text to Video on Microsoft Photos in Windows 10"
 excerpt: "This Article Describes [Updated] How to Add Titles/Text to Video on Microsoft Photos in Windows 10"
 keywords: "\"Windows 10 Video Titling,Adding Text to Windows Media,Photos App Title Editing,Windows 10 Video Description,Video Text Addition in Microsoft Photos,Windows 10 Photo Captioning,Windows Photos Tip: Titles/Text\""
-thumbnail: https://www.lifewire.com/thmb/W5SdHvmRm1AkZ_3S___KYhBKNBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg
+thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
 ## How to Add Titles/Text to Video on Microsoft Photos in Windows 10

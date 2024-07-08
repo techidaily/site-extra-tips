@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guidance to Creating a 3D Text Art Effect in Adobe Illustrator"
-date: 2024-05-24T15:14:21.871Z
-updated: 2024-05-25T15:14:21.871Z
+date: 2024-07-07T03:09:30.076Z
+updated: 2024-07-08T03:09:30.076Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Guidance to Creating a 3D Text Art Effect in Adobe Illustrator"
 excerpt: "This Article Describes In 2024, Guidance to Creating a 3D Text Art Effect in Adobe Illustrator"
 keywords: "AI 3D Text Art,IllustTextArt Guide,Adobe 3D Text Design,AI 3D Art Creation,Text Art in Illustrator,Creating 3D Text Effects,Illustrator 3D Text Tips"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Guidance to Creating a 3D Text Art Effect in Adobe Illustrator

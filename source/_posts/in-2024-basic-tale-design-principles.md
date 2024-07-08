@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Basic Tale Design Principles"
-date: 2024-05-24T16:22:23.291Z
-updated: 2024-05-25T16:22:23.291Z
+date: 2024-07-07T03:09:25.026Z
+updated: 2024-07-08T03:09:25.026Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Basic Tale Design Principles"
 excerpt: "This Article Describes In 2024, Basic Tale Design Principles"
 keywords: "Tale Design Basics,Basic Story Concepts,Core Narrative Rules,Fundamentals in Stories,Essential Plot Design,Principles for Story Crafting,Key Tale Structures"
-thumbnail: https://www.lifewire.com/thmb/PrGY8pAgKjzqmXRv8UVAznKJhN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-application-of-cloud-storage-471510877-5b1eb0158023b90036f2f175.jpg
+thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0aa2219c94653cd1097dc9a0c.jpg
 ---
 
 ## Basic Tale Design Principles
@@ -118,7 +118,7 @@ Fortunately, inexpensive video editing software may give your video story a poli
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-**_Note: For further details, go to [Wondershare Filmora 11 | More Than Just You.](https://youtu.be/u2i39suoH5c)_**
+**_Note: For further details, go to [Wondershare Filmora 11 | More Than Just You.](https://youtu.be/u2i39suoH5c) _**
 
 ## Start Your Marketing Storytelling Tour
 

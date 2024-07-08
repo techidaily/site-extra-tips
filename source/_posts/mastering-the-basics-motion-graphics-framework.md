@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering the Basics  Motion Graphics Framework\""
-date: 2024-05-24T14:00:17.713Z
-updated: 2024-05-25T14:00:17.713Z
+date: 2024-07-07T03:09:28.331Z
+updated: 2024-07-08T03:09:28.331Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering the Basics: Motion Graphics Framework\""
 excerpt: "\"This Article Describes Mastering the Basics: Motion Graphics Framework\""
 keywords: "Graphic Motion Fundamentals,Basic Motion Design Skills,Essential Graphic Animation,Motion Graphics Principles,Core Motion Design Techniques,Foundations of Graphic Animation,Fundamental Framework in Motion Graphics"
-thumbnail: https://www.lifewire.com/thmb/cnjnkPWdIA12GDaeFz62_nExYhg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b610883b05f292e6c6a7a4335.jpg
 ---
 
 ## Mastering the Basics: Motion Graphics Framework

@@ -1,7 +1,7 @@
 ---
 title: "\"Focus Sharpening  A Selective Approach to Photos\""
-date: 2024-05-24T15:23:08.749Z
-updated: 2024-05-25T15:23:08.749Z
+date: 2024-07-07T03:09:26.376Z
+updated: 2024-07-08T03:09:26.376Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Focus Sharpening: A Selective Approach to Photos\""
 excerpt: "\"This Article Describes Focus Sharpening: A Selective Approach to Photos\""
 keywords: "Sharp Focus Art,Selective PhotoTips,Enhance Image Clarity,Targeted Photography Techniques,Clearer Picture Methods,Photo Selection Tactics,Precision in Imaging"
-thumbnail: https://www.lifewire.com/thmb/vXzGCCt3ZybDwPnujvfgqgFe6Y8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/markus-winkler-IrRbSND5EUc-unsplash-9edfd76b5a84442885dd247c033445a4.jpg
+thumbnail: https://thmb.techidaily.com/8e45fcad350df735f2b4416d42d7d71c8933e8227de663d1016dd55e7780d59f.jpg
 ---
 
 ## Focus Sharpening: A Selective Approach to Photos
