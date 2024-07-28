@@ -1,7 +1,7 @@
 ---
 title: "\"Converting SDR Video to HDR - A Comprehensive Tutorial\""
-date: 2024-05-24T14:23:44.551Z
-updated: 2024-05-25T14:23:44.551Z
+date: 2024-07-27T07:40:09.990Z
+updated: 2024-07-28T07:40:09.990Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Converting SDR Video to HDR - A Comprehensive Tutorial\""
 excerpt: "\"This Article Describes Converting SDR Video to HDR - A Comprehensive Tutorial\""
 keywords: "\"SDR To HDR Conversion Guide,Transforming SDR To HDR Videos,HDR Enhancement: From SDR,SDR Video Upgrade to HDR,Ultimate Tutorial on SDR/HDR Switch,Convert SDR to HDR,HDR Transformation From SDR Video\""
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Converting SDR Video to HDR - A Comprehensive Tutorial
@@ -42,6 +42,9 @@ Videos with a high dynamic range have enhanced depth perception. So, the surface
 
 HDR video comes with the availability of a wider color gamut that is not supported under SDR. With HDR, it is possible to expand the luminance and contrast levels, and color gradients are more prominent. To note, SDR monitors run with the Rec.709 colorspace spectrum, while HDR supports a wider Rec.2020 colorspace with more color variations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Method 1: Up-mapping SDR Archive Content to HDR
 
 It is possible to **convert SDR to HDR** after the legacy video-based content is mastered or recorded in SDR quality. Here, one can upconvert the content quality to HDR using the inverse tone mapping procedure. There are three content types that fall under the SDR Archive Content version:
@@ -54,6 +57,9 @@ Two sequences are available for upconverting SDR content from the archive to HDR
 
 This process makes the SDR clips blend smoothly into the HDR content after you remaster them. You can use the real-time inverse tone-mapping tools and converters to make the SDR to HDR conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Up-convert SDR clips to HDR with Video-editing Software
 
 One of the best ways to convert SDR to HDR is to use video editing software. Not every editor supports SDR to HDR conversion, but [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) does, especially with new upgrades since the v.11.5.4 version. Upgrades are visible under BorisFX effects, like the improved split mode function, Denoise effects, etc.
@@ -72,6 +78,9 @@ Step2Press the “New Project” choice.
 
 Step3Access “Click here to import media” > Insert the SDR-quality video file in MPEG-1/MPEG-2/MPEG-4 or other video file formats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![insert sdr video file](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-1.jpg)
 
 Step4Drag the video to the editing timeline below.
@@ -98,6 +107,9 @@ Step10Click on the Settings button for pre-set changes, and choose encoder, reso
 
 Step11Hit Export, then you get your high dynamic range video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3: Upscale SDR video to HDR with a content provider
 
 The content providers are useful for enabling multi-format video playout functions suitable for legacy equipment. These solutions do so when they save different content versions at varying resolutions and are compatible with broadcasting and server/on-prem cloud systems.
@@ -120,10 +132,16 @@ Step2Choose the source video and change the encoding settings.
 
 Step3Set video codec to HVEC. Change CRF value to 17.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![change crf value to 17](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-8.jpg)
 
 Step4Click on Profiling and change settings to Main 10 and Unlimited Level. Set bit depth to 10-bit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![set bit depth to 10 bit](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-7.jpg)
 
 Step5Click VapourSynth tab > Colors.
@@ -132,6 +150,9 @@ Step5Click VapourSynth tab > Colors.
 
 Step6Enable the “Color Space Converter” option. Change Input Matrix, Transfer, and Primaries as per the “Video Info” details on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![color space converter](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-6.jpg)
 
 If any color space details are missing in the video information, set that element to “BT470bg”.
@@ -146,6 +167,10 @@ Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Met
 
 Step9Change the elements for Colors Matrix, Transfer, and Primaries to the settings given in the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![change the elements](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-12.jpg)
 
 Step10Click Preview to check and Start to convert.
@@ -176,10 +201,21 @@ Step5Make edits like audio ducking, keyframing, chroma key background removal, a
 
 Step6Open Effects > BorisFX > Download.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![open borisfx](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-10.jpg)
 
 Step7Choose among the newer options like BCC Optical Diffusion, BCC Warp, and BCC Grads and Tints to upconvert to HDR quality.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upconvert to hdr quality](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-11.jpg)
 
 Step8Click on the Export button.
@@ -190,6 +226,9 @@ Step9Choose the Local tab and choose the video format for exporting. Rename the 
 
 Step10Click on the Settings button for pre-set changes, and choose encoder, resolution, etc. If your device supports the accepted GPU specifications, you can set “Export Color Space” to HDR- Rec.2020.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![export color space](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-9.jpg)
 
 Step11Hit Export, then you get your high dynamic range video.
@@ -216,6 +255,10 @@ Step2Choose the source video and change the encoding settings.
 
 Step3Set video codec to HVEC. Change CRF value to 17.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![change crf value to 17](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-8.jpg)
 
 Step4Click on Profiling and change settings to Main 10 and Unlimited Level. Set bit depth to 10-bit.
@@ -234,10 +277,16 @@ If any color space details are missing in the video information, set that elemen
 
 Step7Set them as follows for the Output-related color space sections to make the file HDR-compatible.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![output related color space](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-2.jpg)
 
 Step8Then, go to the taskbar again and press Signal. Enable Colors and HDR10 Metadata.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![hdr10 metadata](https://images.wondershare.com/filmora/article-images/2022/08/sdr-to-hdr-video-conversion-5.jpg)
 
 Step9Change the elements for Colors Matrix, Transfer, and Primaries to the settings given in the picture.
@@ -246,6 +295,9 @@ Step9Change the elements for Colors Matrix, Transfer, and Primaries to the setti
 
 Step10Click Preview to check and Start to convert.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Final Words
 
 You can choose a proper way, like a video editor or encoder to convert the SDR video files to HDR quality. Check if your device or monitor supports these functions and your PC's Graphics card/GPU specifications. Based on that, you can easily convert SDR content to HDR if you follow the steps above carefully.
@@ -278,3 +330,43 @@ You can choose a proper way, like a video editor or encoder to convert the SDR v
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/fixed-how-do-i-convert-zip-file-into-srt-file/"><u>[Fixed!] How Do I Convert Zip File Into Srt File?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[New] Access All Movies  IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-attracting-eyes-with-these-6-video-genres/"><u>[New] Attracting Eyes with These 6 Video Genres</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-combine-computer-imagery-like-a-pro/"><u>[New] Combine Computer Imagery Like a Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-examining-the-breadth-of-features-in-obs-studio-for-2024/"><u>[New] Examining the Breadth of Features in OBS Studio for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-turn-your-images-darker/"><u>[New] Step-by-Step  Turn Your Images Darker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-start-a-google-meet-on-laptops-and-mobile/"><u>[Updated] 2024 Approved  How to Start a Google Meet on Laptops & Mobile?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-7-exceptional-drone-gimbals-unveiled/"><u>[Updated] 7 Exceptional Drone Gimbals Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-artisans-guide-to-instagram-stories-preservation/"><u>2024 Approved  The Artisan’s Guide to Instagram Stories Preservation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>2024 Approved  Toolwiz Photography Companion  A Thorough 2023 Breakdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adding-movies-to-your-playlist-an-intuitive-process-for-youtube-users/"><u>Adding Movies to Your Playlist  An Intuitive Process for YouTube Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/articulating-emotion-on-stage-through-words/"><u>Articulating Emotion on Stage Through Words</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-motion-canon-camera-time-lapse-basics/"><u>Capturing Motion  Canon Camera Time-Lapse Basics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-world-in-full-circle-experts-360-cams-review-2023-for-2024/"><u>Capturing the World in Full Circle - Expert's 360 Cams Review, 2023 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-circle-cinematic-mounts-for-2024/"><u>Complete Circle Cinematic Mounts for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-a-cash-flow-career-with-content-creation-like-ajey-nagar/"><u>Crafting a Cash-Flow Career with Content Creation Like Ajey Nagar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evolving-narratives-in-the-age-of-vr-movies/"><u>Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fabulous-critique-and-diverse-suggestions/"><u>Fabulous Critique & Diverse Suggestions</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-6s-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 6s In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-12r-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 12R without App | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-6-periscope-alternative-apps-for-android-and-ios/"><u>In 2024, 6 Periscope Alternative Apps for Android and iOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bebop-parrot-the-ultimate-feathered-performance-review/"><u>In 2024, Bebop Parrot  The Ultimate Feathered Performance Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-visual-language-with-premium-affects-extensions/"><u>In 2024, Boost Your Visual Language with Premium Affects Extensions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-audiovisual-transmitters/"><u>In 2024, Comprehensive Guide to Audiovisual Transmitters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-10-best-blurred-background-tools/"><u>In 2024, The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovating-temporal-displacement-effects/"><u>Innovating Temporal Displacement Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nightly-narratives-video-guide-and-critiques/"><u>Nightly Narratives  Video Guide & Critiques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-pick-for-iphoneandroid-face-modifications/"><u>Prime Pick for iPhone/Android Face Modifications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-navigation-to-your-individual-playlist-library-on-youtube-for-2024/"><u>Seamless Navigation to Your Individual Playlist Library on YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/specialist-recommendations-the-quintessential-5-cameras/"><u>Specialist Recommendations  The Quintessential 5 Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-iphoneipad-screenshots-with-2023-tricks/"><u>Streamline Your iPhone/iPad Screenshots with 2023 Tricks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-reno-8t-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo Reno 8T FRP Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-srt-files-accessing-on-windowsmac/"><u>Unlocking SRT Files  Accessing on Windows/Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unmatched-4k-hdtvs-for-intense-gaming/"><u>Unmatched 4K HDTVs for Intense Gaming</u></a></li>
+</ul></div>

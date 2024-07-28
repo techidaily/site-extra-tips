@@ -1,7 +1,7 @@
 ---
 title: "Light, Shadow & Subtlety in Film Coloring"
-date: 2024-05-24T14:14:23.840Z
-updated: 2024-05-25T14:14:23.840Z
+date: 2024-07-27T07:23:47.685Z
+updated: 2024-07-28T07:23:47.685Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Light, Shadow & Subtlety in Film Coloring"
 excerpt: "This Article Describes Light, Shadow & Subtlety in Film Coloring"
 keywords: "Film Color Lighting,Cinematic Shadows,Subtle Film Artistry,Visual Filmmaking Techniques,Soft Film Tones,Chromatic Filmmaking,Nuanced Film Colors"
-thumbnail: https://www.lifewire.com/thmb/yBZrez4G5kbyOJplwYlU0bks8Ew=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/laptopram01-e3b92eff7d9b4475982312347b222c01.jpg
+thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900085b075caa3fb4e05a962a8.jpg
 ---
 
 ## Light, Shadow & Subtlety in Film Coloring
 
 Everyone in the video editing world is full of lively and beautiful colors — just like the world we live in every day. But, if you've ever shot any film on a smartphone or a digital camera, you've probably observed the colors you see in real life don't always match up to what you want to see on your screen. In this article, you will grasp how and when to use the color grading process by stylizing the color scheme of your footage and its importance in your everyday film and video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
 ## What is Color Grading?
@@ -32,6 +35,9 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
@@ -62,6 +68,9 @@ Kindly see the details and steps on how to engage in color grading and color cor
 
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
@@ -72,6 +81,10 @@ Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -90,6 +103,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -98,10 +114,16 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -130,6 +152,9 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +225,40 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-google-hangout-improvement-strategies-roundup-4/"><u>[New] 2024 Approved  Google Hangout Improvement Strategies, Roundup #4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-avoiding-common-pitfalls-crafting-memes-on-9gag-successfully/"><u>[New] Avoiding Common Pitfalls  Crafting Memes on 9GAG Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-design-pro-expertise-in-bypassing-backgrounds-with-canva/"><u>[New] Become a Design Pro  Expertise in Bypassing Backgrounds with Canva</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chiefs-choice-for-elite-cloud-storage/"><u>[New] Chiefs' Choice for Elite Cloud Storage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-10-heavy-lift-drones-you-should-know/"><u>[New] Top 10 Heavy Lift Drones You Should Know</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-5-budget-friendly-windows-screen-recorders-2023-edition/"><u>[Updated] In 2024, Top 5 Budget-Friendly Windows Screen Recorders – 2023 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-picture-puns-memify-pro/"><u>[Updated] Picture Puns  Memify Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-step-by-step-guide-how-to-add-video-filters-in-zoom/"><u>[Updated] Step-by-Step Guide  How to Add Video Filters in Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023-roundup-premier-professionals-360-cameras/"><u>2023 Roundup  Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>2024 Approved  Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tips-for-podcast-feeds-and-rss-integration/"><u>2024 Approved  Advanced Tips for Podcast Feeds and RSS Integration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-mg28uq-screen-a-4k-odyssey-of-immersion-and-fidelity/"><u>2024 Approved  ASUS MG28UQ Screen - A 4K Odyssey of Immersion and Fidelity</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-complete-guide-to-toolwiz-photography-software/"><u>2024 Approved  Complete Guide to Toolwiz Photography Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>2024 Approved  Crafting Cinematic Stories in Extended Seconds  A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-watching-incorporating-captions-into-wmp/"><u>2024 Approved  Optimize Watching  Incorporating Captions Into WMP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-of-breed-exceptional-webcam-supports/"><u>Best Of Breed  Exceptional Webcam Supports</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/curating-the-best-general-knowledge-content-2024-edition/"><u>Curating the Best General Knowledge Content, 2024 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>From Raw to Stunning  The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-zero-to-trendsetter-solo-podcast-success-story/"><u>From Zero to Trendsetter  Solo Podcast Success Story</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-s24-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy S24 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>In 2024, Chime Chronicles  Mastering the Art of Tamil Ringtones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-reddit-submissions-practical-steps-unveiled/"><u>In 2024, Navigating Reddit Submissions  Practical Steps Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-av1-really-outdo-cooking-vp9/"><u>Is AV1 Really Outdo Cooking VP9?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-networking-on-linkedin/"><u>Navigating Networking on LinkedIn</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-youtubes-livestream-landscape-without-massive-followings/"><u>Navigating YouTube's Livestream Landscape without Massive Followings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-online-galleries-of-premium-vectors/"><u>Premier Online Galleries of Premium Vectors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/toolwiz-photos-app-complete-review/"><u>Toolwiz Photos App – Complete Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-no-cost-4k-uhd-players-for-win-and-mac-users/"><u>Top 8 No-Cost, 4K UHD Players for Win & Mac Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-x100-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo X100 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-13-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 13 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-sfpr-levels-in-slow-motion-content/"><u>Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-asmrs-health-perks-a-guide/"><u>Unlocking ASMR's Health Perks  A Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo X90S | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Smart Shopper’s Guide to Best 2024 Cloud Deals"
-date: 2024-05-24T15:42:14.388Z
-updated: 2024-05-25T15:42:14.388Z
+date: 2024-07-27T09:58:54.817Z
+updated: 2024-07-28T09:58:54.817Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,9 @@ The security and privacy of cloud services are crucial, correct storage capacity
 
 If security is your top priority, choose Sync.com, IceDrive, and pCloud. They are the most robust encryption and authentication system for cloud storage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Best Price Recommendations
 
 Here we recommend the cloud storage services with the best prices in three categories.
@@ -67,6 +70,9 @@ Although pCloud is more expensive, the additional security measures and quick sy
 
 **#2\. Icedrive**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![icedrive](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-2.JPG)
 
 You can choose between monthly, annual, and lifetime subscriptions with Icedrive. Each offers three different cloud storage options (from the monthly subscription).
@@ -79,6 +85,9 @@ Here are the monthly **cloud storage pricing** packages.
 
 Creating an account will grant you free access to 10 TB of storage! Already a success for my use.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Best price of unlimited cloud storage service
 
 For the best **cloud storage prices** for unlimited storage, here is a list of a few recommended cloud storage services.
@@ -97,6 +106,9 @@ Sync.com offers two plans for unlimited cloud storage service:
 
 **#2\. Dropbox**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dropbox](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-4.JPG)
 
 It established numerous file-sharing and syncing trends currently refined. Dropbox first used the sync-folder model, and this version is among the finest.
@@ -106,12 +118,18 @@ Dropbox offers two plans for unlimited cloud storage service:
 * The Dropbox Plus plan for 2TB of storage space costs $10 monthly
 * The Dropbox Family Plan for 2TB storage space costs $17 monthly
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Overall cheapest cloud storage service
 
 You can use the following cloud service providers for the cheapest cloud storage pricing.
 
 **#1\. Sync.com**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sync.com](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-5.JPG)
 
 Sync.com comes out on top of our list of the best cloud storage options because the company emphasizes data protection while maintaining a high functionality level for more skilled users. The fact that it is encrypted from end to end implies that both its upload and download rates are rather sluggish. Because this is a zero-knowledge service, nobody but you will be able to decrypt your data. Even though there are no monthly plans available, the price of the service is relatively reasonable, which is a plus given the high level of protection it provides; yet, this absence may be inconvenient for specific customers.
@@ -120,6 +138,9 @@ Sync.com comes out on top of our list of the best cloud storage options because 
 
 **#2\. IceDrive**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icedrive](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-6.JPG)
 
 IceDrive, a cloud storage newcomer in the United Kingdom, may not yet have the power and polish of the leading competitors. Still, the firm already has more than enough cool features to take a cautious look. Users of Windows may navigate their storage space using Explorer, for instance, and do tasks such as relocating, renaming, opening, and editing files, just as if they were working on a local disk. A specialized application compatible with Windows, Mac OS X, and Linux takes things further by enabling you to explore your file system, preview documents, and stream your media files using an integrated player.
@@ -128,12 +149,18 @@ IceDrive, a cloud storage newcomer in the United Kingdom, may not yet have the p
 
 **#3\. Google Drive**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![googledrive](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-7.JPG)
 
 There are six different membership levels available for Google One, the most basic of which provides 100GB of storage space for $2 per month. Using the Google One app, you can easily manage your account, switch between plans, free up storage space on your account, and take advantage of other exclusive member perks. If you go to the Google Drive website, you will discover that most of their plans are geared toward businesses and cost between $6 and $18 per month per user. Every business plan comes with a free trial period of fourteen days.
 
 **Pricing**: 15GB for free, 100GB - $7.49; 250GB - $10; and 500GB - $18.95 monthly
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What to consider other than price when choosing cloud storage services?
 
 **Cloud storage pricing** is a vital factor when choosing a service. However, the requirements and evaluation standards you employ when selecting a cloud provider will be particular to your business. So, any service provider evaluation will often concentrate on a few critical criteria.
@@ -152,10 +179,17 @@ Organizations must consider two key aspects of data access to cloud services: sp
 
 ## Part 4: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How can I get 100GB for free?
 
 Most cloud storage companies give customers free storage, such as 2GB, 5GB, or 15GB. Very few cloud storage services offer 100GB of free internet storage. As far as I'm aware, Degoo and CBackup are the storage companies that offer 100GB of free cloud storage, followed by Mega's 50GB of free storage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2\. Where can I get 1TB of cloud storage for free?
 
 The most extraordinary cloud service offered by TeraBox also offers 1TB of free storage. TeraBox also guarantees ISO/IEC-certified cloud security and offers "Locked Box" functionality for private cloud storage.
@@ -174,10 +208,16 @@ The security and privacy of cloud services are crucial, correct storage capacity
 
 If security is your top priority, choose Sync.com, IceDrive, and pCloud. They are the most robust encryption and authentication system for cloud storage.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Best Price Recommendations
 
 Here we recommend the cloud storage services with the best prices in three categories.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Best price of lifetime license cloud storage
 
 The following are cloud storage services that give the best **cloud storage prices** for a lifetime license.
@@ -226,6 +266,9 @@ Sync.com offers two plans for unlimited cloud storage service:
 
 **#2\. Dropbox**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![dropbox](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-4.JPG)
 
 It established numerous file-sharing and syncing trends currently refined. Dropbox first used the sync-folder model, and this version is among the finest.
@@ -257,6 +300,9 @@ IceDrive, a cloud storage newcomer in the United Kingdom, may not yet have the p
 
 **#3\. Google Drive**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![googledrive](https://images.wondershare.com/filmora/article-images/2022/12/cloud-storage-pricing-7.JPG)
 
 There are six different membership levels available for Google One, the most basic of which provides 100GB of storage space for $2 per month. Using the Google One app, you can easily manage your account, switch between plans, free up storage space on your account, and take advantage of other exclusive member perks. If you go to the Google Drive website, you will discover that most of their plans are geared toward businesses and cost between $6 and $18 per month per user. Every business plan comes with a free trial period of fourteen days.
@@ -281,6 +327,9 @@ Organizations must consider two key aspects of data access to cloud services: sp
 
 ## Part 4: FAQs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. How can I get 100GB for free?
 
 Most cloud storage companies give customers free storage, such as 2GB, 5GB, or 15GB. Very few cloud storage services offer 100GB of free internet storage. As far as I'm aware, Degoo and CBackup are the storage companies that offer 100GB of free cloud storage, followed by Mega's 50GB of free storage.
@@ -321,3 +370,57 @@ After comparing our best choices of **GCP storage pricing** for data storage, we
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-comparative-analysis-of-top-8-free-online-srt-translation-services/"><u>[New] A Comparative Analysis of Top 8 Free Online SRT Translation Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aerial-artistry-mastering-the-craft-of-drone-video-editing/"><u>[New] Aerial Artistry  Mastering the Craft of Drone Video Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-way-to-use-zoom-for-skype/"><u>[New] Best Way to Use Zoom for Skype</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-harnessing-the-power-of-youtubes-seo-keywords/"><u>[New] Harnessing the Power of YouTube's SEO Keywords</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-how-to-do-color-correction-in-gopro-studio/"><u>[New] How to Do Color Correction in GoPro Studio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-settings-for-live-broadcasts/"><u>[New] Perfect Settings for Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-pros-pathway-to-professionalism-making-videos-using-a-phone/"><u>[New] The Pro's Pathway to Professionalism  Making Videos Using a Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-palette-in-balance-implementing-theoretical-knowledge/"><u>[Updated] A Palette in Balance  Implementing Theoretical Knowledge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brand-awareness-through-opening/"><u>[Updated] Brand Awareness Through Opening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-realistic-3d-text-designs-in-photoshop/"><u>[Updated] Crafting Realistic 3D Text Designs in Photoshop</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-1-key-youtube-tactics-for-effective-brand-promotion/"><u>[Updated] In 2024, 1  Key YouTube Tactics for Effective Brand Promotion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-innovative-techniques-for-recording-instagram-story-highlights/"><u>[Updated] Innovative Techniques for Recording Instagram Story Highlights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-reduction-tips-for-mac-users-for-2024/"><u>[Updated] Instagram Video Reduction Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>2024 Approved  Advanced Subtitling  Mastering the Art of SRT Editing on Apple Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bargain-ball-games-free-recording-and-editing-techniques/"><u>2024 Approved  Bargain Ball Games  Free Recording & Editing Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>2024 Approved  Instagram’ Writers & Broadcasters  Podcast Sharing Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-exceptional-4k-gaming-screens/"><u>5 Exceptional 4K Gaming Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-pro-audio-techniques-for-windows-10-users-for-2024/"><u>5 Pro Audio Techniques for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-curated-selection-best-stop-motion-movies-ever-made-for-2024/"><u>A Curated Selection  Best Stop-Motion Movies Ever Made for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-quick-fix-for-quirky-content-mastering-meme-creation-at-9gag/"><u>A Quick Fix for Quirky Content  Mastering Meme Creation at 9GAG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerate-your-sluggish-vids-to-speedy-shots-on-android-for-2024/"><u>Accelerate Your Sluggish Vids to Speedy Shots on Android for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-action-camera-deals-top-6-for-less-than-100-only-for-2024/"><u>Affordable Action Camera Deals  Top 6 for Less Than $100 Only for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/alluring-headline-manufacturer/"><u>Alluring Headline Manufacturer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bargain-bin-chinese-vr-technology/"><u>Bargain Bin  Chinese VR Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-practices-for-secondary-footage-selection-and-use-for-2024/"><u>Best Practices for Secondary Footage Selection and Use for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-your-brand-creating-a-professional-podcast-feed-for-2024/"><u>Building Your Brand  Creating a Professional Podcast Feed for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/collage-alchemy-transforming-scraps-into-art/"><u>Collage Alchemy  Transforming Scraps Into Art</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cost-effective-drone-collection-affordable-flight-gadgets/"><u>Cost-Effective Drone Collection  Affordable Flight Gadgets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-out-clutter-the-picsart-bg-eraser-method/"><u>Cutting Out Clutter  The Picsart Bg Eraser Method</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dell-p2715q-unboxed-the-future-of-4k-visuals-decoded/"><u>Dell P2715Q Unboxed  The Future of 4K Visuals Decoded</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-aspects-transformation-system/"><u>Efficient Aspects Transformation System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-architects-of-virtual-realities/"><u>Elite Architects of Virtual Realities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-choice-of-top-8-blu-ray-players-for-uhd/"><u>Elite Choice of Top 8 Blu-Ray Players for UHD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-selfie-quality-iphone-burst-mode/"><u>Enhancing Selfie Quality  IPhone Burst Mode</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/extensive-analysis-best-cloud-storage-recommendations/"><u>Extensive Analysis  Best Cloud Storage Recommendations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fantasy-in-full-view-vr-cinemascape/"><u>Fantasy in Full View  VR Cinemascape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/first-steps-in-film-making-top-8-recommended-cameras/"><u>First Steps in Film Making  Top 8 Recommended Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-ground-to-heavens-a-mobile-panorama-journey/"><u>From Ground to Heavens  A Mobile Panorama Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-filmmakers-approach-to-classroom-instructional-videos/"><u>In 2024, A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breakthrough-the-top-8-web-based-photo-blender/"><u>In 2024, Breakthrough  The Top 8 Web-Based Photo Blender</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-no-cost-game-recording-software-guide/"><u>In 2024, Essential No-Cost Game Recording Software Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-video-editing-face-off-final-cut-pro-vs-lumafusion-choosing-the-right-fit/"><u>In 2024, Video Editing Face-Off Final Cut Pro vs LumaFusion - Choosing the Right Fit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s24plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S24+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>Prime Pick  Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-integrating-audio-into-your-reels/"><u>Step-by-Step Guide  Integrating Audio Into Your Reels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-vibrant-visuals-with-post-color-techniques/"><u>Unlocking Vibrant Visuals with Post-Color Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-are-my-insta-vids-upside-down/"><u>Why Are My Insta Vids Upside Down?</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-back-your-gameplay-fixed-windows-wow-connectivity/"><u>Winning Back Your Gameplay: Fixed Windows WoW Connectivity</u></a></li>
+</ul></div>

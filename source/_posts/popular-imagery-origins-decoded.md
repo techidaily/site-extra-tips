@@ -1,7 +1,7 @@
 ---
 title: "\"Popular Imagery  Origins Decoded\""
-date: 2024-05-24T14:00:23.308Z
-updated: 2024-05-25T14:00:23.308Z
+date: 2024-07-27T06:59:24.185Z
+updated: 2024-07-28T06:59:24.185Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Popular Imagery: Origins Decoded\""
 excerpt: "\"This Article Describes Popular Imagery: Origins Decoded\""
 keywords: "Origins Decoded Art,Imagery Popularity,Visual Symbolism Roots,Deciphering Images History,Iconic Meanings Explained,Culture Image Evolution,Historical Imagery Insight"
-thumbnail: https://www.lifewire.com/thmb/BgslvQpXBZ5ETcIqz3ZmP1x5YnE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/woman-driving-car-56a634855f9b58b7d0e066ee.jpg
+thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867eadfe8568f79af44cbea910.jpg
 ---
 
 ## Popular Imagery: Origins Decoded
@@ -22,8 +22,14 @@ A stock photo meme is an image or video you use to communicate a specific idea. 
 
 So, what are the most popular stock photo memes, and how did they reach this status? Keep reading to find out more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Part1: Hide the Pain Harold
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hide the pain harold](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-1.jpg)
 
 Since 2011, Hide the Pain Harold continues to rank as one of the world's most popular stock photo memes. Here are some numbers to show you how popular the meme is.
@@ -31,6 +37,9 @@ Since 2011, Hide the Pain Harold continues to rank as one of the world's most po
 * It also features on stock image sites such as Imgur, where user “someshitbag” has a gallery post titled Hide-the-pain-Harold. In addition, the page received over 880 thousand views during the first three weeks. Furthermore, it won Imgur's meme of the decade title in 2020 by receiving 10,954 votes (about 20%) of the 54,768 votes cast by Imgurians.
 * The meme appears on social media platforms such as Facebook, 4Chan, and Reddit. For example, a Facebook page titled Maurice has had over 10,000 likes since its creation in January 2014.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme appears on social media](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-2.jpg)
 
 * A text-to-speech YouTube video on the meme has over 492,000 views since going live in September 2015.
@@ -43,10 +52,16 @@ According to Andras, Hide the Pain Harold results from his vacation in Turkey. A
 
 Currently, Hide the Pain Harold has over 300,000 followers across all platforms. In addition, Hide the pain Harold has an official Facebook and Know Your Meme page that features the most popular versions of the stock image meme.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: Distracted Boyfriend
 
 Another popular stock image meme is Distracted Boyfriend. It features the stock photo meme guy looking at another woman's backside while walking with his girlfriend. In addition, the models' facial expressions add to the photo's impact. For example, the girlfriend shows her disapproval by staring at the man with her mouth open.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![distracted boyfriend](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-4.jpg)
 
 The original photo is the work of Antonio Guillem, who uploaded it on iStock in November 2015\. Initially, the photo was labeled as a lisloyal man with his girlfriend looking at another girl and required purchasing the proper license to use it.
@@ -68,20 +83,43 @@ The latest version of Distracted boyfriend is a compilation of photos featuring 
 
 In addition, Antonio Guillem also has a stock image meme where the roles are reversed. The meme was later posted on Reddit underneath the original and received over 25,600 points in 24 hours.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Part3: I Bet He's Thinking About Other Women
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![meme features](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-7.jpg)
 
 The meme features a couple in bed with the stock photo meme guy in contemplation and the woman facing him with a concerned look. At first glance, the image shows a couple experiencing relationship problems, with the original caption showing the woman worrying that the man is thinking about other women.
 
 However, subsequent memes feature satirical themes. Here are some of the most popular versions and their popularity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![the most popular versions](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-8.jpg)
 
 A July 2017 Instagram post by Cathrottle gained over 13,400 likes in a month. In this version, the man wonders why there are so many Fast and the Furious movies.
 
 * Redditor GallowBoob received 34,700 points and 350 comments within 24 hours of posting it.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![points and comments](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-9.jpg)
 
 The post references the Toy Story character Buzz Lightyear, with the man contemplating why Buzz is in denial of being a toy.
@@ -90,6 +128,9 @@ The post references the Toy Story character Buzz Lightyear, with the man contemp
 
 According to sources, the stock photo meme was first featured on Twitter in December 2016.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stock photo meme](https://images.wondershare.com/filmora/article-images/2022/08/stock-photo-meme-10.jpg)
 
 Twitter user @chocos posts the image with Spanish captions, with the woman sure the man is thinking of another. However, the man wonders why there are sounds in Star Wars when the sound does not travel in space. Since then, the tweet has received over 1,700 retweets and 2,200 likes.
@@ -161,3 +202,44 @@ Therefore, always perform stock image reverse searches to verify the image permi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-analyzing-the-precision-of-yis-4k-actioncam/"><u>[New] Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-srt-format-conversion-guide/"><u>[New] Comprehensive SRT Format Conversion Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-syncing-webcam-footage-with-screen-recording-for-2024/"><u>[New] Syncing Webcam Footage with Screen Recording for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>[Updated] CastWithEase  How to Make Livestreaming Your Podcast Effortless</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-content-delivery-network-examination/"><u>[Updated] Content Delivery Network Examination</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-leap-forward-in-exposure-management-and-composition/"><u>2024 Approved  A Leap Forward in Exposure Management and Composition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-crafting-a-movie-blueprint/"><u>2024 Approved  Behind the Scenes  Crafting a Movie Blueprint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-audiences-from-day-one/"><u>2024 Approved  Captivate Audiences From Day One</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-beginners-manual-for-phantoms-reverse-footage/"><u>A Beginner's Manual for Phantom's Reverse Footage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerating-productivity-microsoft-azure-speech-recognition/"><u>Accelerating Productivity  Microsoft Azure Speech Recognition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmenting-creativity-with-the-best-ai-for-podcast-names-for-2024/"><u>Augmenting Creativity with the Best AI for Podcast Names for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-creativity-tiktok-video-treatments-for-2024/"><u>Boost Creativity  TikTok Video Treatments for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-brightness-on-android-devices/"><u>Boosting Brightness on Android Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compelling-book-trail-creations/"><u>Compelling Book Trail Creations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craftsmanship-hub-top-after-effects-template-deals/"><u>Craftsmanship Hub  Top After Effects Template Deals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creative-filmmakers-guide-prime-15-color-grading-look-ups-for-gopro/"><u>Creative Filmmaker's Guide  Prime 15 Color Grading Look-Ups for GOPRO</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevate-ps2-gameplay-on-ios-devices/"><u>Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>Elevate Your Mind While You Multitask  Top 15 Ideas for Podcast Lovers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fps-titans-ranking-gamings-elite-shooters/"><u>FPS Titans  Ranking Gaming's Elite Shooters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-quality-web-resources-for-glossy-3d-letters/"><u>High-Quality Web Resources for Glossy 3D Letters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>Image Editing Essentials  The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft  Cutting-Edge Assembler</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-video-conferencing-enhance-scene-details-upward/"><u>Mastering Video Conferencing  Enhance Scene Details Upward</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/melodic-mambos-macaws/"><u>Melodic Mambos Macaws</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-the-art-of-silence-increase-in-audacity/"><u>Perfecting the Art of Silence Increase in Audacity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quickly-master-time-lapse-techniques-for-samsung-phones-for-2024/"><u>Quickly Master Time Lapse  Techniques for Samsung Phones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/recording-internet-radios-simplified-tips-and-tricks/"><u>Recording Internet Radios Simplified  Tips and Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-how-to-catch-every-thrilling-moment-in-cricket-for-2024/"><u>Step-by-Step Guide  How to Catch Every Thrilling Moment in Cricket for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-video-transformation-tools-from-iphone-to-file/"><u>Top #8 Video Transformation Tools  From iPhone to File</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-zooid-template-design-for-2024/"><u>Ultimate Guide to Zooid Template Design for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-streamlabs-potential-with-your-mac-and-obs/"><u>Unlock Streamlabs' Potential with Your Mac & OBS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wisdom-weavers-2024-the-finest-trivia-channel-curations/"><u>Wisdom Weavers 2024  The Finest Trivia Channel Curations</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"GoPro Tips  Shooting Underwater Video with GoPro\""
-date: 2024-05-24T13:55:33.159Z
-updated: 2024-05-25T13:55:33.159Z
+date: 2024-07-27T06:50:56.700Z
+updated: 2024-07-28T06:50:56.700Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes GoPro Tips: Shooting Underwater Video with GoPro\""
 excerpt: "\"This Article Describes GoPro Tips: Shooting Underwater Video with GoPro\""
 keywords: "GoPro Underwater Filming,GoPro Water Video Tips,Submerge GoPro Shooting Guide,GoPro Videography Techniques,Capturing Aquatic Footage with GoPro,Undersea GoPro Recording Tricks,Professional GoPro Water Shots"
-thumbnail: https://www.lifewire.com/thmb/E-A9X9SPpZ3Y3P5rGzbCm_XC7tc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/03LW4149830HeroSquare-75b852929c9e44b4b6e93f27c26f1410.jpg
+thumbnail: https://thmb.techidaily.com/502bcc92fd452403f6c08525ae02c0d2e78a33616170701a3383a08e8dcec924.jpg
 ---
 
 ## Diving Into Action: How to Shoot Impressive Underwater GoPro Videos
 
 # GoPro Tips: Shooting Underwater Video with GoPro
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,6 +35,226 @@ The [GoPro Hero](https://tools.techidaily.com/wondershare/filmora/download/) ser
 [How to Improve GoPro Battery Life >>](https://tools.techidaily.com/wondershare/filmora/download/)  
 [Action Camera Accessories Buying Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+## Best Underwater Shooting Tips with GoPro Camera
+
+Depending on the care measures needed to protect your camera, we have categorized the GoPro tips and suggestions under different sections viz. early preparations, while shooting etc.
+
+* [Part 1: Early Preparations before Shooting](#part1)
+* [Part 2: During Underwater Video Shooting](#part2)
+
+#### Early Preparations before Shooting
+
+#### 1.Dive Housing Case
+
+It is always necessary to use the GoPro with waterproof casing when shooting underwater videos. There are different cases for your camera depending on the water contact that you expect your device to encounter. The Dive housing case is an extra protective waterproofing solution for deep-water adventures like scuba diving.
+
+#### 2.Prevent fog inserts
+
+Fogging on the lenses occur due to the condensation of moisture inside the camera. You can either employ some DIY method or place some anti-fog inserts inside the camera casing from all sides. This will completely absorb the moisture in the camera making it ready for shooting. Without removing the fog, you will not be able to shoot crystal clear videos as per desire.
+
+#### 3.Use LCD Touch BacPac
+
+You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
+
+#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+
+If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
+
+#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+
+It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
+
+There are various types of mounting accessories to choose depending on your convenience and requirement. You can use a selfie stick or a camera rig or similar mount support. The divers using the GoPro Reach can choose the Octamask Diving Scuba Mask to capture best photography underwater. The position of the camera taking the video will be from the head so you can shoot everything you see right away. If you want to capture everything below, the chest mount is a great option.
+
+#### 6.Adjust the Resolution Settings
+
+The default resolution settings in most GoPro cameras is 1080p, field of view is wide and framerate as 60fps. This is a standard setting to follow if you are novice diver looking to capture high-resolution videos. However, the experienced divers can experiment with faster or slower framerate settings to control the motion of the video as per desire. Skilled photographers often shoot with 4k resolution to ease the processing during zoom, cropping etc.
+
+#### During Underwater Video Shooting
+
+#### 1.Shoot Videos in Shallow Water to Capture the Finest Color Effect
+
+During snorkeling or diving, if swim across the shallow reefs preferably within the 5m deep underwater, you will be able to capture the full spectrum colors without using flash.
+
+#### 2. Shoot under the Bright Sunlight for Enhanced Video Quality
+
+Choose a sunny day to get brighter visibility of the subject. This is one of the most popular GoPro tips; photographers commonly assort to shoot clear magnificent videos. You will also get the full spectrum light effect to make your video beautiful. You can also shoot from the flip side to get the solar flare effects in your video.
+
+#### 3. Maintain Appropriate Distance from the Subject
+
+To click sharp images, you must maintain a distance of at least 12 inches or more between the camera lenses and the subject.
+
+#### 4.Stay Steady
+
+Remain steady to the maximum of your efforts while pressing the shutter button to prevent blurs.
+
+#### 5. Use Video Lights at Greater Depth
+
+Use the video lights if you are shooting at greater depth of 10ft or more. The brighter lights you have, the better will be the results.
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## GoPro Tips for After Shooting
+
+#### 1. Dry your camera
+
+It is quite likely that some water may flood into the camera housing during shooting underwater. If you feel that water is bubbling inside the housing, come out to dry the camera first. First, remove the battery and dispose it. Remove the memory card and leave it for drying.
+
+#### 2. Wash the Housing and Accessories in Fresh Water
+
+Your housing and accessories contact salt residue underwater. Such remnants can cause corrosion on the housing material in due course. Remove the housing/ accessories immediately after getting out of water and wash them in fresh water. Wipe them with permissible paper towel and leave for drying.
+
+Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
+
+#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Do you want easy editing solution to give your videos a documentary style?
+
+Wondershare Filmora now has the latest Instant Cutter feature strategically designed to ease the processes while trimming, merging, cropping and other editing works without losing the quality of your original video. You can use this feature for processing all types of videos captured by AVCHD cameras, Smartphones, action cameras etc. Filmora also has the new and improved Action Cam Tool allowing the users to perform actions including:
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* Lens distortion correction
+* Color correction
+* Video Stabilization
+* Audio De-noise
+* Advanced Speed Control (employ effects like slow-motion, fast-motion, freeze frame, replay and reverse)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The [GoPro Hero](https://tools.techidaily.com/wondershare/filmora/download/) series cameras are used to capture acute videos in high-speed action during adventure sports like snowboarding, rock climbing, journeys, water sports like [surfboarding](https://tools.techidaily.com/wondershare/filmora/download/), scuba [diving](https://tools.techidaily.com/wondershare/filmora/download/), kayak races and much more. Moisture contact is a regular problem during such action photography shooting. GoPro is equipped with protective waterproof housing but it requires some care and preparations to ensure better durability of your device while ensuring to achieve optimal video clarity every time. If you frequently shoot under water videos, here are some easy GoPro underwater tips to protect your camera.
+
+**You may also like:**  
+[How to Improve GoPro Battery Life >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[Action Camera Accessories Buying Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Best Underwater Shooting Tips with GoPro Camera
+
+Depending on the care measures needed to protect your camera, we have categorized the GoPro tips and suggestions under different sections viz. early preparations, while shooting etc.
+
+* [Part 1: Early Preparations before Shooting](#part1)
+* [Part 2: During Underwater Video Shooting](#part2)
+
+#### Early Preparations before Shooting
+
+#### 1.Dive Housing Case
+
+It is always necessary to use the GoPro with waterproof casing when shooting underwater videos. There are different cases for your camera depending on the water contact that you expect your device to encounter. The Dive housing case is an extra protective waterproofing solution for deep-water adventures like scuba diving.
+
+#### 2.Prevent fog inserts
+
+Fogging on the lenses occur due to the condensation of moisture inside the camera. You can either employ some DIY method or place some anti-fog inserts inside the camera casing from all sides. This will completely absorb the moisture in the camera making it ready for shooting. Without removing the fog, you will not be able to shoot crystal clear videos as per desire.
+
+#### 3.Use LCD Touch BacPac
+
+You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
+
+#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
+
+If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
+
+#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
+
+It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
+
+There are various types of mounting accessories to choose depending on your convenience and requirement. You can use a selfie stick or a camera rig or similar mount support. The divers using the GoPro Reach can choose the Octamask Diving Scuba Mask to capture best photography underwater. The position of the camera taking the video will be from the head so you can shoot everything you see right away. If you want to capture everything below, the chest mount is a great option.
+
+#### 6.Adjust the Resolution Settings
+
+The default resolution settings in most GoPro cameras is 1080p, field of view is wide and framerate as 60fps. This is a standard setting to follow if you are novice diver looking to capture high-resolution videos. However, the experienced divers can experiment with faster or slower framerate settings to control the motion of the video as per desire. Skilled photographers often shoot with 4k resolution to ease the processing during zoom, cropping etc.
+
+#### During Underwater Video Shooting
+
+#### 1.Shoot Videos in Shallow Water to Capture the Finest Color Effect
+
+During snorkeling or diving, if swim across the shallow reefs preferably within the 5m deep underwater, you will be able to capture the full spectrum colors without using flash.
+
+#### 2. Shoot under the Bright Sunlight for Enhanced Video Quality
+
+Choose a sunny day to get brighter visibility of the subject. This is one of the most popular GoPro tips; photographers commonly assort to shoot clear magnificent videos. You will also get the full spectrum light effect to make your video beautiful. You can also shoot from the flip side to get the solar flare effects in your video.
+
+#### 3. Maintain Appropriate Distance from the Subject
+
+To click sharp images, you must maintain a distance of at least 12 inches or more between the camera lenses and the subject.
+
+#### 4.Stay Steady
+
+Remain steady to the maximum of your efforts while pressing the shutter button to prevent blurs.
+
+#### 5. Use Video Lights at Greater Depth
+
+Use the video lights if you are shooting at greater depth of 10ft or more. The brighter lights you have, the better will be the results.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## GoPro Tips for After Shooting
+
+#### 1. Dry your camera
+
+It is quite likely that some water may flood into the camera housing during shooting underwater. If you feel that water is bubbling inside the housing, come out to dry the camera first. First, remove the battery and dispose it. Remove the memory card and leave it for drying.
+
+#### 2. Wash the Housing and Accessories in Fresh Water
+
+Your housing and accessories contact salt residue underwater. Such remnants can cause corrosion on the housing material in due course. Remove the housing/ accessories immediately after getting out of water and wash them in fresh water. Wipe them with permissible paper towel and leave for drying.
+
+Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
+
+#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+Do you want easy editing solution to give your videos a documentary style?
+
+Wondershare Filmora now has the latest Instant Cutter feature strategically designed to ease the processes while trimming, merging, cropping and other editing works without losing the quality of your original video. You can use this feature for processing all types of videos captured by AVCHD cameras, Smartphones, action cameras etc. Filmora also has the new and improved Action Cam Tool allowing the users to perform actions including:
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* Lens distortion correction
+* Color correction
+* Video Stabilization
+* Audio De-noise
+* Advanced Speed Control (employ effects like slow-motion, fast-motion, freeze frame, replay and reverse)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+The [GoPro Hero](https://tools.techidaily.com/wondershare/filmora/download/) series cameras are used to capture acute videos in high-speed action during adventure sports like snowboarding, rock climbing, journeys, water sports like [surfboarding](https://tools.techidaily.com/wondershare/filmora/download/), scuba [diving](https://tools.techidaily.com/wondershare/filmora/download/), kayak races and much more. Moisture contact is a regular problem during such action photography shooting. GoPro is equipped with protective waterproof housing but it requires some care and preparations to ensure better durability of your device while ensuring to achieve optimal video clarity every time. If you frequently shoot under water videos, here are some easy GoPro underwater tips to protect your camera.
+
+**You may also like:**  
+[How to Improve GoPro Battery Life >>](https://tools.techidaily.com/wondershare/filmora/download/)  
+[Action Camera Accessories Buying Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Underwater Shooting Tips with GoPro Camera
 
 Depending on the care measures needed to protect your camera, we have categorized the GoPro tips and suggestions under different sections viz. early preparations, while shooting etc.
@@ -208,208 +431,10 @@ Do you want easy editing solution to give your videos a documentary style?
 
 Wondershare Filmora now has the latest Instant Cutter feature strategically designed to ease the processes while trimming, merging, cropping and other editing works without losing the quality of your original video. You can use this feature for processing all types of videos captured by AVCHD cameras, Smartphones, action cameras etc. Filmora also has the new and improved Action Cam Tool allowing the users to perform actions including:
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* Lens distortion correction
-* Color correction
-* Video Stabilization
-* Audio De-noise
-* Advanced Speed Control (employ effects like slow-motion, fast-motion, freeze frame, replay and reverse)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The [GoPro Hero](https://tools.techidaily.com/wondershare/filmora/download/) series cameras are used to capture acute videos in high-speed action during adventure sports like snowboarding, rock climbing, journeys, water sports like [surfboarding](https://tools.techidaily.com/wondershare/filmora/download/), scuba [diving](https://tools.techidaily.com/wondershare/filmora/download/), kayak races and much more. Moisture contact is a regular problem during such action photography shooting. GoPro is equipped with protective waterproof housing but it requires some care and preparations to ensure better durability of your device while ensuring to achieve optimal video clarity every time. If you frequently shoot under water videos, here are some easy GoPro underwater tips to protect your camera.
-
-**You may also like:**  
-[How to Improve GoPro Battery Life >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[Action Camera Accessories Buying Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Best Underwater Shooting Tips with GoPro Camera
-
-Depending on the care measures needed to protect your camera, we have categorized the GoPro tips and suggestions under different sections viz. early preparations, while shooting etc.
-
-* [Part 1: Early Preparations before Shooting](#part1)
-* [Part 2: During Underwater Video Shooting](#part2)
-
-#### Early Preparations before Shooting
-
-#### 1.Dive Housing Case
-
-It is always necessary to use the GoPro with waterproof casing when shooting underwater videos. There are different cases for your camera depending on the water contact that you expect your device to encounter. The Dive housing case is an extra protective waterproofing solution for deep-water adventures like scuba diving.
-
-#### 2.Prevent fog inserts
-
-Fogging on the lenses occur due to the condensation of moisture inside the camera. You can either employ some DIY method or place some anti-fog inserts inside the camera casing from all sides. This will completely absorb the moisture in the camera making it ready for shooting. Without removing the fog, you will not be able to shoot crystal clear videos as per desire.
-
-#### 3.Use LCD Touch BacPac
-
-You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
-
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
-
-If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
-
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
-
-It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
-
-There are various types of mounting accessories to choose depending on your convenience and requirement. You can use a selfie stick or a camera rig or similar mount support. The divers using the GoPro Reach can choose the Octamask Diving Scuba Mask to capture best photography underwater. The position of the camera taking the video will be from the head so you can shoot everything you see right away. If you want to capture everything below, the chest mount is a great option.
-
-#### 6.Adjust the Resolution Settings
-
-The default resolution settings in most GoPro cameras is 1080p, field of view is wide and framerate as 60fps. This is a standard setting to follow if you are novice diver looking to capture high-resolution videos. However, the experienced divers can experiment with faster or slower framerate settings to control the motion of the video as per desire. Skilled photographers often shoot with 4k resolution to ease the processing during zoom, cropping etc.
-
-#### During Underwater Video Shooting
-
-#### 1.Shoot Videos in Shallow Water to Capture the Finest Color Effect
-
-During snorkeling or diving, if swim across the shallow reefs preferably within the 5m deep underwater, you will be able to capture the full spectrum colors without using flash.
-
-#### 2. Shoot under the Bright Sunlight for Enhanced Video Quality
-
-Choose a sunny day to get brighter visibility of the subject. This is one of the most popular GoPro tips; photographers commonly assort to shoot clear magnificent videos. You will also get the full spectrum light effect to make your video beautiful. You can also shoot from the flip side to get the solar flare effects in your video.
-
-#### 3. Maintain Appropriate Distance from the Subject
-
-To click sharp images, you must maintain a distance of at least 12 inches or more between the camera lenses and the subject.
-
-#### 4.Stay Steady
-
-Remain steady to the maximum of your efforts while pressing the shutter button to prevent blurs.
-
-#### 5. Use Video Lights at Greater Depth
-
-Use the video lights if you are shooting at greater depth of 10ft or more. The brighter lights you have, the better will be the results.
-
-## GoPro Tips for After Shooting
-
-#### 1. Dry your camera
-
-It is quite likely that some water may flood into the camera housing during shooting underwater. If you feel that water is bubbling inside the housing, come out to dry the camera first. First, remove the battery and dispose it. Remove the memory card and leave it for drying.
-
-#### 2. Wash the Housing and Accessories in Fresh Water
-
-Your housing and accessories contact salt residue underwater. Such remnants can cause corrosion on the housing material in due course. Remove the housing/ accessories immediately after getting out of water and wash them in fresh water. Wipe them with permissible paper towel and leave for drying.
-
-Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
-
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Do you want easy editing solution to give your videos a documentary style?
-
-Wondershare Filmora now has the latest Instant Cutter feature strategically designed to ease the processes while trimming, merging, cropping and other editing works without losing the quality of your original video. You can use this feature for processing all types of videos captured by AVCHD cameras, Smartphones, action cameras etc. Filmora also has the new and improved Action Cam Tool allowing the users to perform actions including:
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-* Lens distortion correction
-* Color correction
-* Video Stabilization
-* Audio De-noise
-* Advanced Speed Control (employ effects like slow-motion, fast-motion, freeze frame, replay and reverse)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-The [GoPro Hero](https://tools.techidaily.com/wondershare/filmora/download/) series cameras are used to capture acute videos in high-speed action during adventure sports like snowboarding, rock climbing, journeys, water sports like [surfboarding](https://tools.techidaily.com/wondershare/filmora/download/), scuba [diving](https://tools.techidaily.com/wondershare/filmora/download/), kayak races and much more. Moisture contact is a regular problem during such action photography shooting. GoPro is equipped with protective waterproof housing but it requires some care and preparations to ensure better durability of your device while ensuring to achieve optimal video clarity every time. If you frequently shoot under water videos, here are some easy GoPro underwater tips to protect your camera.
-
-**You may also like:**  
-[How to Improve GoPro Battery Life >>](https://tools.techidaily.com/wondershare/filmora/download/)  
-[Action Camera Accessories Buying Guide >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## Best Underwater Shooting Tips with GoPro Camera
-
-Depending on the care measures needed to protect your camera, we have categorized the GoPro tips and suggestions under different sections viz. early preparations, while shooting etc.
-
-* [Part 1: Early Preparations before Shooting](#part1)
-* [Part 2: During Underwater Video Shooting](#part2)
-
-#### Early Preparations before Shooting
-
-#### 1.Dive Housing Case
-
-It is always necessary to use the GoPro with waterproof casing when shooting underwater videos. There are different cases for your camera depending on the water contact that you expect your device to encounter. The Dive housing case is an extra protective waterproofing solution for deep-water adventures like scuba diving.
-
-#### 2.Prevent fog inserts
-
-Fogging on the lenses occur due to the condensation of moisture inside the camera. You can either employ some DIY method or place some anti-fog inserts inside the camera casing from all sides. This will completely absorb the moisture in the camera making it ready for shooting. Without removing the fog, you will not be able to shoot crystal clear videos as per desire.
-
-#### 3.Use LCD Touch BacPac
-
-You will not be able to operate the touchscreen to adjust the settings under the water. You can adjust the jump settings on the touchscreen before placing the camera into the waterproof housing. Using the LCD Touch BacPac is one of the very essential GoPro underwater tips for framing and controlling different shots. Always remember to avoid using the skeleton door or the touch door provided with the LCD Touch BacPac as it can utterly lead to flow of water inside the camera ruining the device.
-
-#### 4. Use the [Filter](https://tools.techidaily.com/wondershare/filmora/download/) for Deep Water Diving
-
-If you want to capture error-free videos in deep water, it is extremely necessary to use a good quality filter. For shooting in shallow water with the depth less than 30 feet under the water, you do not need a filter. The divers going beyond the depth of 30 feet should use the DEEP Flip 3.1 Filter for capturing best quality video.
-
-#### 5.Choose the Right [Mounting Support](https://tools.techidaily.com/wondershare/filmora/download/)
-
-It is not possible to hold your GoPro with hands during underwater diving. Using the proper mount will help to keep the hands free while diving and take photos without any shakes or other interruptions.
-
-There are various types of mounting accessories to choose depending on your convenience and requirement. You can use a selfie stick or a camera rig or similar mount support. The divers using the GoPro Reach can choose the Octamask Diving Scuba Mask to capture best photography underwater. The position of the camera taking the video will be from the head so you can shoot everything you see right away. If you want to capture everything below, the chest mount is a great option.
-
-#### 6.Adjust the Resolution Settings
-
-The default resolution settings in most GoPro cameras is 1080p, field of view is wide and framerate as 60fps. This is a standard setting to follow if you are novice diver looking to capture high-resolution videos. However, the experienced divers can experiment with faster or slower framerate settings to control the motion of the video as per desire. Skilled photographers often shoot with 4k resolution to ease the processing during zoom, cropping etc.
-
-#### During Underwater Video Shooting
-
-#### 1.Shoot Videos in Shallow Water to Capture the Finest Color Effect
-
-During snorkeling or diving, if swim across the shallow reefs preferably within the 5m deep underwater, you will be able to capture the full spectrum colors without using flash.
-
-#### 2. Shoot under the Bright Sunlight for Enhanced Video Quality
-
-Choose a sunny day to get brighter visibility of the subject. This is one of the most popular GoPro tips; photographers commonly assort to shoot clear magnificent videos. You will also get the full spectrum light effect to make your video beautiful. You can also shoot from the flip side to get the solar flare effects in your video.
-
-#### 3. Maintain Appropriate Distance from the Subject
-
-To click sharp images, you must maintain a distance of at least 12 inches or more between the camera lenses and the subject.
-
-#### 4.Stay Steady
-
-Remain steady to the maximum of your efforts while pressing the shutter button to prevent blurs.
-
-#### 5. Use Video Lights at Greater Depth
-
-Use the video lights if you are shooting at greater depth of 10ft or more. The brighter lights you have, the better will be the results.
-
-## GoPro Tips for After Shooting
-
-#### 1. Dry your camera
-
-It is quite likely that some water may flood into the camera housing during shooting underwater. If you feel that water is bubbling inside the housing, come out to dry the camera first. First, remove the battery and dispose it. Remove the memory card and leave it for drying.
-
-#### 2. Wash the Housing and Accessories in Fresh Water
-
-Your housing and accessories contact salt residue underwater. Such remnants can cause corrosion on the housing material in due course. Remove the housing/ accessories immediately after getting out of water and wash them in fresh water. Wipe them with permissible paper towel and leave for drying.
-
-Following all of the GoPro underwater tips will help you to capture great videos while keeping your camera in good condition for years.
-
-#### 3.Video editing software – [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Do you want easy editing solution to give your videos a documentary style?
-
-Wondershare Filmora now has the latest Instant Cutter feature strategically designed to ease the processes while trimming, merging, cropping and other editing works without losing the quality of your original video. You can use this feature for processing all types of videos captured by AVCHD cameras, Smartphones, action cameras etc. Filmora also has the new and improved Action Cam Tool allowing the users to perform actions including:
-
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * Lens distortion correction
@@ -450,3 +475,45 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[New] 2024 Approved  Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-acoustic-windows-aficionado-toolkit/"><u>[New] Acoustic Windows Aficionado Toolkit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-asus-proart-excellence-in-4k-hdr-monitoring/"><u>[New] ASUS ProArt  Excellence in 4K HDR Monitoring</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scripting-a-riveting-movie-in-miniature/"><u>[New] Scripting a Riveting Movie-in-Miniature</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/kyrocketing-popularity-youtube-visibility-techniques-for-2024/"><u>[New] Skyrocketing Popularity  YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-guide-to-recording-tv-screens-with-ease-and-precision/"><u>[Updated] 2024 Approved  Guide to Recording TV Screens with Ease and Precision</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>[Updated] Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unmask-invisible-fb-posts-with-these-proven-effective-12-fixes-for-23-for-2024/"><u>[Updated] Unmask Invisible FB Posts with These Proven, Effective 12 Fixes for '23 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/10-best-practices-for-boosting-srt-on-pc-and-macos-for-2024/"><u>10 Best Practices for Boosting SRT on PC & macOS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-finest-fee-free-lut-options-reviewed-and-accessible-here-for-2024/"><u>10 Finest, Fee-Free LUT Options Reviewed & Accessible Here for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-11-innovative-steps-toward-perfect-post-production-colorwork/"><u>2024 Approved  11 Innovative Steps Toward Perfect Post-Production Colorwork</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-embrace-fullscreen-fusion-pip-video-creation-on-sierra/"><u>2024 Approved  Embrace Fullscreen Fusion  PIP Video Creation on Sierra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androidios-montages-top-8-tools-for-dynamic-media-blends-for-2024/"><u>Android/iOS Montages  Top 8 Tools for Dynamic Media Blends for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-premier-shopping-hubs-for-bespoke-gift-wraps-and-cases/"><u>Discover the Premier Shopping Hubs for Bespoke Gift Wraps & Cases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/does-money-flow-into-shopping-guides-vids/"><u>Does Money Flow Into Shopping Guides Vids?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-echoes-outstanding-games-for-your-google-cardboard/"><u>Elite Echoes  Outstanding Games for Your Google Cardboard</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/guide-to-finding-clean-high-quality-images/"><u>Guide to Finding Clean, High-Quality Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/horizon-proworks-complete-4k-integrated-solution/"><u>Horizon ProWorks  Complete 4K Integrated Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>In 2024, Content Choice Conundrum  Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-solo-sounders-plight-resolved-guide/"><u>In 2024, Solo Sounder's Plight Resolved Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-13-mini-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 13 mini to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-n3-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Find N3</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-commercial-sky-storage-providers/"><u>Peak Commercial Sky-Storage Providers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/powerful-literary-trailer-vids-for-2024/"><u>Powerful Literary Trailer Vids for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-mastering-3d-luts-for-professional-photos/"><u>Step-by-Step Guide to Mastering 3D LUTs for Professional Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-other-software-using-device-errors/"><u>Strategies for Overcoming 'Other Software Using Device' Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-iphone-video-fusion-processes/"><u>Streamlining iPhone Video Fusion Processes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>The Drone Evolution  A Deep Look at DJI's Mavic Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-picking-drones-balance-equipment/"><u>The Ultimate Guide to Picking Drones' Balance Equipment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+</ul></div>

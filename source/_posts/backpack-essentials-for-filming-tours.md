@@ -1,7 +1,7 @@
 ---
 title: "Backpack Essentials for Filming Tours"
-date: 2024-05-24T14:08:42.403Z
-updated: 2024-05-25T14:08:42.403Z
+date: 2024-07-27T07:13:55.054Z
+updated: 2024-07-28T07:13:55.054Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes Backpack Essentials for Filming Tours"
 excerpt: "This Article Describes Backpack Essentials for Filming Tours"
 keywords: "\"Film Tour Packs,Filmmaking Backpack,Shooting Gear Bag,Traveling Properly,On-Set Essentials,Cinematography Kit,Movie Production Bag\""
-thumbnail: https://www.lifewire.com/thmb/zyJBsiF711s0NZF3C5ORB5WtNf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1205659474-6b8ccc23dc3f4139aa3d8ab6893d1f44.jpg
+thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb274ccf0d0ed18fa3d929b62b2.jpg
 ---
 
 ## Backpack Essentials for Filming Tours
 
 From the very beginning, when I started travel vlogging, I mentioned in my previous article that I used the camera on my mobile phone as my primary equipment. I utilize it every time I make videos for my content. It reminded me how handy and convenient it is to use, as proof, that I can do different shots at different angles with minimal effort. In the course of time, I figured out that I need to upgrade and look for other types of tools or equipment. It is for this reason that my fondness for travel vlogging keeps growing and I want to produce a better-quality video. Another thing is that I feel the need to expand my market on YouTube, because nowadays, more people are interested in traveling and seeing new places (hence, COVID19). Considering that, I want to take the next step to make a higher-quality video and enhance my future content.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![travel video equipment](https://images.wondershare.com/filmora/article-images/2022/07/travel-video-equipment.jpg)
 
 ## Travel Gear and Equipment: Are They Good Investments?
@@ -34,32 +37,55 @@ First off, I've got a mobile phone, mirrorless camera, action camera, gimbal, tr
 
 The next gadget that I want to get my hands on, A DRONE. I'm still saving, and surely, I will get that soon. First, let me explain why I got those types of equipment…
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Vlogging Camera (Mirrorless Camera)
 
 Sony a6400 is an APS-C mid-range compact camera that I use for vlogging and cinematic shots. It is specially made for beginners; it has a lot of cool features and at a reasonable price. What I love about this is the flip screen, and I found it very exceptional for vlogging. You can also use 4k resolution with this camera. For me, the only issue with this camera is the image stabilization but it's not that significant, because of the **[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)**. This app offers the stabilization option that provides a smoothness level and it will be better than the raw or original clip footage of your video. Lastly, it is compact, handy and I highly recommend this.
 
 ![travel vlog camera](https://images.wondershare.com/filmora/article-images/2022/07/travel-vlog-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 2\. Lenses
 
 Lenses are the most vital part of your camera; it brings light to a fixed object. Will it make a huge impact on your cinematic shot? For your montage? For your b-roll? Yes, yes, and also yes. The use of lenses has a greater and different impact because it has a contrasting effect, especially for sharpness, depth of field, details, and background blur. It is the most important parameter depending on the situation that you might have for traveling. For example, I used Sigma 16mm, a wide lens, which is good for landscape photography or montage. Another one is Sigma 30mm, this lens is good for mid-range shot portraits and it creates a dramatic effect while capturing a person or an object.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Gimbal
 
 Nowadays, many filmmakers and famous vloggers are using gimbals. We often use these for better results in which it may form steady and stable shots compared to handheld cameras that produce shaky and unsteady video. The only question is do we need this? If you can still afford it and you want your videos to be smooth and stable, then I suggest getting one for yourself. This can be very useful when you're always moving while making videos. Gimbal can provide great support if we are struggling with our camera without in-body image stabilization (IBIS). This is a good match in my camera after all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vlog gimbal](https://images.wondershare.com/filmora/article-images/2022/07/vlog-gimbal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 4\. Action Camera
 
 This is one of my favorite pieces of equipment and frequently used camera, the GoPro 9\. A lot of content creators that I know are using action cameras for their daily vlogging. No doubt and no questions at all because this are the smallest camera that you can get on the market. Is it too pricey? Unfortunately, yes, but some brands are not. Since it is the smallest of all, the price that you pay will be worth it. It is very convenient; you can put it in your small bag and it can also fit in your pocket. Very easy to use and the resolution you get is superior. Undeniably, this is my go-to camera. You can use it in any rough situation, that is why this cute little thing has a lot to offer.
 
 ![action camera](https://images.wondershare.com/filmora/article-images/2022/07/action-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### 5\. Batteries, External SSD, and Memory card
 
 In any case, we needed a few accessories to support our equipment better. Simple things like an extra pair of batteries for your camera and action came. External SSD is a big help especially when you're running out of memory on your computer. Memory card with a lot of storage space, I consider this an important part of my accessory kit. Make those two, and always have a spare card with you because anything can happen. So be prepared.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![battery ssd card](https://images.wondershare.com/filmora/article-images/2022/07/battery-ssd-card.jpg)
 
 ### 6\. Laptop, desktop, or phone for editing
@@ -84,6 +110,9 @@ click on new project
 
 from there you can choose and select which video you would like to import
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step3DRAG AND DROP
@@ -98,6 +127,9 @@ choose the TOOLS
 
 select video and you can choose Stabilization
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stabulizing the video](https://images.wondershare.com/filmora/guide/stabilization-02.png)
 
 ##### Step5ANALYZES THE SELECTED VIDEO TO STABILIZE
@@ -124,12 +156,19 @@ click on new project
 
 from there you can choose and select which video you would like to import
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![import files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step3DRAG AND DROP
 
 just drag and drop simple as that
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![drag and drop](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
 ##### Step4STABILIZING THE VIDEO
@@ -174,3 +213,41 @@ So, all in all, those are the equipment and gears that I use for any travel vlog
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-5-top-action-cameras-with-full-hd-in-your-pocket/"><u>[New] 5 Top Action Cameras with Full HD in Your Pocket</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-safe-guide-to-speeding-up-audio-on-spotify/"><u>[New] A Safe Guide to Speeding Up Audio on Spotify</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aural-enhancements-with-video-editing-on-win11/"><u>[New] Aural Enhancements with Video Editing on Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-for-secondary-footage-management/"><u>[New] Best Practices for Secondary Footage Management</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-compelling-iphone-photo-and-video-applications-87x/"><u>[New] Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ighten-up-your-timeline-youtube-video-trimming-techniques-for-2024/"><u>[New] Tighten Up Your Timeline  YouTube Video Trimming Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unleash-creativity-10-top-rated-free-mac-art-software/"><u>[Updated] 2024 Approved  Unleash Creativity  10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-approach-to-professional-chromatic-control/"><u>[Updated] A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-hear-the-difference-mac-in-sound-recording/"><u>[Updated] In 2024, Hear the Difference  Mac in Sound Recording</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-how-to-innovate-your-tiktok-auditory-style-the-voice-alteration-method/"><u>[Updated] In 2024, How to Innovate Your TikTok Auditory Style  The Voice Alteration Method</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-optimizing-social-media-for-vimeo-sharing/"><u>[Updated] In 2024, Optimizing Social Media for Vimeo Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-top-10-best-drones-with-camera-for-filming-and-photography/"><u>[Updated] Top 10 Best Drones with Camera for Filming and Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-clear-cut-strategies-for-watermark-free-photography/"><u>2024 Approved  Clear-Cut Strategies for Watermark-Free Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensively-reviewed-androids-lightroom-features-and-functions/"><u>2024 Approved  Comprehensively Reviewed  Android’s Lightroom Features & Functions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-hack-the-system-avoid-video-ads-directly-on-fb/"><u>2024 Approved  Hack the System  Avoid Video Ads Directly on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hue-harmony-translating-theory-into-artistry/"><u>2024 Approved  Hue Harmony  Translating Theory Into Artistry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>2024 Approved  The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/android-essentials-must-have-apps-from-google-play-for-2024/"><u>Android Essentials Must-Have Apps From Google Play for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-journey-a-camera-buyers-guide/"><u>Capturing the Journey  A Camera Buyer's Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cinematic-frontiers-the-top-sci-fi-journeys-to-new-worlds-for-2024/"><u>Cinematic Frontiers  The Top Sci-Fi Journeys to New Worlds for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-guide-to-proficient-periscope-operation-for-2024/"><u>Complete Guide to Proficient Periscope Operation for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-top-ae-extensions/"><u>Comprehensive Guide to Top AE Extensions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-lg-bp350-monitor-review-with-comparisons/"><u>Comprehensive LG BP350 Monitor Review with Comparisons</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialect-diversity-north-america-vs-united-kingdom/"><u>Dialect Diversity: North America vs United Kingdom</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-videos-which-aspect-ratio-fits/"><u>Facebook Videos  Which Aspect Ratio Fits?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/groundbreaking-photo-editor-photonshift-tech/"><u>Groundbreaking Photo Editor  PhotonShift Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immediate-color-correction-with-canons-paired-luts/"><u>Immediate Color Correction with Canon's Paired LUTs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-review-dji-phantom-4-in-action/"><u>In Depth Review  DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimize-viewership-with-proficient-timestamp-placement-on-youtube/"><u>Optimize Viewership with Proficient Timestamp Placement on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-photography-without-shake/"><u>Precision Photography without Shake</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revealing-the-smarts-of-z2-play-mobile/"><u>Revealing the Smarts of Z2 Play Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-best-4k-monitors-for-color-grading/"><u>Top 5 Best 4K Monitors for Color Grading</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-creativity-top-20-vlogger-themes/"><u>Unlocking Creativity  Top 20 Vlogger Themes</u></a></li>
+</ul></div>

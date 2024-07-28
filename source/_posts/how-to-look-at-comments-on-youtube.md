@@ -1,7 +1,7 @@
 ---
 title: "How to Look at Comments on YouTube"
-date: 2024-05-24T15:59:19.812Z
-updated: 2024-05-25T15:59:19.812Z
+date: 2024-07-27T10:29:01.997Z
+updated: 2024-07-28T10:29:01.997Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Look at Comments on YouTube"
 excerpt: "This Article Describes How to Look at Comments on YouTube"
 keywords: "Watching YouTube Comments Guide,Understanding YouTube Reactions,Navigating YouTube Discussions,Engaging with YouTube Feedback,Analyzing YouTube Comment Content,Reading YouTube Community Responses,Interpreting YouTube User Comments"
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## How to Look at Comments on YouTube
@@ -44,6 +44,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -82,12 +85,18 @@ Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -96,6 +105,9 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -112,8 +124,21 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +175,43 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-authoritative-insights-on-premium-auto-cam-tech/"><u>[New] Authoritative Insights on Premium Auto Cam Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-brilliance-on-screen-an-examination-of-hps-4k-z32x/"><u>[New] Brilliance on Screen  An Examination of HP’s 4K Z32X</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-insight-into-sierras-icloud-file-management/"><u>[New] Complete Insight Into Sierra’s iCloud File Management</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-constructing-home-made-vr-headgear-with-google-cards/"><u>[New] Constructing Home-Made VR Headgear with Google Cards</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-essential-tutorial-for-xbox-fb-streams/"><u>[New] In 2024, The Essential Tutorial for Xbox FB Streams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-access-to-royalty-free-design-tools/"><u>[New] Mastering Access to Royalty-Free Design Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mellow-music-playlist-20-tiktok-country-tracks-to-relax-with-for-2024/"><u>[New] Mellow Music Playlist  20 TikTok Country Tracks to Relax With for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-2023-updates-the-next-generation-of-samsung-k850u/"><u>[Updated] 2023 Updates - The Next Generation of Samsung K850U</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breaking-barriers-in-photography-mastering-gopro-time-lapse/"><u>[Updated] Breaking Barriers in Photography  Mastering GoPro Time-Lapse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinematic-beats-composing-music-for-imovie-projects/"><u>[Updated] Cinematic Beats  Composing Music for iMovie Projects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maximizing-impact-best-practices-for-corporate-screencast-training-for-2024/"><u>[Updated] Maximizing Impact  Best Practices for Corporate Screencast Training for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecteraser-premium-bg-erase-software/"><u>[Updated] PerfectEraser  Premium BG Erase Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>2024 Approved  A Deeper Dive Into the Game  Five Easy Zooming Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-immersive-experiences-with-audio-in-canva/"><u>2024 Approved  Crafting Immersive Experiences with Audio in Canva</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>2024 Approved  Mastering iPhone Sky Photography  Essential Tips & Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-scripted-time-warps-a-cinematic-approach/"><u>2024 Approved  Scripted Time Warps  A Cinematic Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-zooms-potential-by-leveraging-skype/"><u>2024 Approved  Unlocking Zoom's Potential by Leveraging Skype</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-proart-review-a-visual-spectacle-unveiled-for-2024/"><u>ASUS ProArt Review  A Visual Spectacle Unveiled for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>Best Microphones Ranked  Perfect Companions for 4K Cinematography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clearing-the-list-of-auto-recommended-podcasts-in-spotify-for-2024/"><u>Clearing the List of Auto-Recommended Podcasts in Spotify for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/constructing-characters-settings-and-stories-for-2024/"><u>Constructing Characters, Settings & Stories for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/create-logos-via-free-logo-template-customize-and-download-for-free-for-2024/"><u>Create Logos via Free Logo Template Customize and Download for Free for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-error-code-31-and-network-adapter-issues/"><u>Demystifying Windows Error Code 31 and Network Adapter Issues</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-error-43-no-more/"><u>GPU Error 43, No More</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-popular-oculus-rift-games-you-should-try/"><u>In 2024, 8 Popular Oculus Rift Games You Should Try</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>In 2024, Capture Vision  Add Movie Maker to Your Win11 Media Suite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimizing-your-imovie-content-for-vimeo-display/"><u>In 2024, Optimizing Your iMovie Content for Vimeo Display</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-the-art-of-making-cellphone-alarms-with-trending-tiktok-music/"><u>Learn the Art of Making Cellphone Alarms with Trending TikTok Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-cinematic-coloring-the-11-best-tutorials-ever/"><u>Mastering Cinematic Coloring  The 11 Best Tutorials Ever</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/merge-music-and-graphics-in-ppt/"><u>Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revealing-the-rich-detail-of-your-roblox-journey/"><u>Revealing the Rich Detail of Your Roblox Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/roblox-revealed-masterful-methods-for-closer-insight/"><u>Roblox Revealed  Masterful Methods for Closer Insight</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/setting-up-your-logitech-webcam-for-recording/"><u>Setting Up Your Logitech Webcam for Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sky-dominance-top-5-fpv-glasses-for-pilots/"><u>Sky Dominance  Top 5 FPV Glasses for Pilots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure/"><u>Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+</ul></div>

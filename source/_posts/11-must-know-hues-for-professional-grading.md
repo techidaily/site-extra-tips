@@ -1,7 +1,7 @@
 ---
 title: "\"11 Must-Know Hues for Professional Grading\""
-date: 2024-05-24T16:32:32.083Z
-updated: 2024-05-25T16:32:32.083Z
+date: 2024-07-27T11:27:49.661Z
+updated: 2024-07-28T11:27:49.661Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 11 Must-Know Hues for Professional Grading\""
 excerpt: "\"This Article Describes 11 Must-Know Hues for Professional Grading\""
 keywords: "Pro Grading Hues Guide,Essential Color Knowledge,Color Grading Tips List,Expert Grade Hues Tips,Masterful Color Grading,Professional Grading Shades,Key Colors for Grader's Toolkit"
-thumbnail: https://www.lifewire.com/thmb/KER6l7ReycmbEYNNb6GNg7KUr1U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JackLi1-79e49ca2f15e4cd2ac31fc87afcf7eac.jpeg
+thumbnail: https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241996fcf78b83d8a047d570ec.jpeg
 ---
 
 ## 11 Must-Know Hues for Professional Grading
@@ -26,8 +26,16 @@ Color grading is the process of stylizing the color scheme of your footage by "p
 
 Color sorting can be used for both technical and creative changes. Colorists use color gradation for artistic purposes to ensure that a film's carefully selected color palette conveys a specific atmosphere, style, or emotion. For example, [_American Beauty (1999)_](https://www.imdb.com/title/tt0169547/) uses redder in dramatic moments to represent passion, anger, and power, whereas [_Maleficent (2014)_](https://www.imdb.com/title/tt1587310/) uses green to represent danger, corruption, and darkness.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![color grading tutorial](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2\. 11 best Color Correction and Color Grading Tutorial
 
 ### 1\. [Color correction and grading in Premiere Pro 2021](https://www.udemy.com/course/colorgradinginpremierepro/)
@@ -45,8 +53,23 @@ Whether you shoot video on your smartphone or DSLR, you always want to give it a
 * Step-by-step color sorting process
 * How to apply color sorting to all your videos in the editing timeline
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![premiere pro 2021](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [Color Grading with DaVinci Resolve: Beginner to Advanced](https://www.udemy.com/course/color-grading-with-da-vinci-resolve-beginner-to-advanced/)
 
 Course updates to Resolve 17 are largely complete. more updates and re-recorded lectures will be added regularly.
@@ -58,8 +81,14 @@ Color grading still has a special, almost mystical status among some filmmakers.
 * Be able to carry out a classification project from start to finish and deliver it at a professional level
 * Be able to guide others through the color sorting workflow
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![beginner to advanced](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Cinematic Color Grading: Making Your Videos Come Alive](https://www.udemy.com/course/cinematic-color-grading-course/)
 
 Have you ever watched someone's film and thought "that color looks incredible the way they do that"? Then this is the perfect course for you.
@@ -90,6 +119,9 @@ So if you are serious about working with film, video, and color grading and want
 * The course mixes theory and tips with practical examples that you can apply to your project today.
 * You will learn about; DaVinci Resolve, the grading process, grading for clients, calibration and advanced grading techniques, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading masterclass](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-5.jpg)
 
 ### 5\. [Adobe Premiere Pro: Color Grading Masterclass (Updated)](https://www.udemy.com/course/adobe-premiere-color-grading-masterclass/)
@@ -109,6 +141,9 @@ Create stunning cinematic looks with Adobe Premiere Pro's powerful color correct
 * EXTRA: Colorista III (plug-in)
 * Watch for updates
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adobe premiere pro](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-6.jpg)
 
 ### 6\. [Color Grading and Correction with DaVinci Resolve](https://www.udemy.com/course/color-correction-with-davinci-resolve/)
@@ -130,6 +165,10 @@ Rob uses Black magic Design's DaVinci Resolve software package, an industry-stan
 * Comparing images with a "master reference image" and comparing with the master image
 * A quick overview covering some basic footage organization and import tips for DaVinci.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![daVinci resolve](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-7.jpg)
 
 ### 7\. [Cinematic Color Grading With Premiere Pro 2021 for Beginners](https://www.udemy.com/course/cinematic-color-grading-with-premiere-pro-2020-for-beginners/)
@@ -170,6 +209,9 @@ Confused about color correction tools and how they work? What is good color grad
 * How to create a look
 * Color correction and sorting workflow
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![premiere pro lumetri 2020](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-9.jpg)
 
 ### 9\. [Amber & Teal - Cinematic Color Grading in Photoshop](https://www.udemy.com/course/cinematic-color-grading/)
@@ -206,6 +248,9 @@ Master professional color correction techniques and create amazing images that w
 * Get more views, likes, and social shares
 * How to create a cinematic color gradation
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![adobe lightroom cc](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-11.jpg)
 
 ### 11\. [Understanding Color in Adobe Premiere Pro](https://www.udemy.com/course/understanding-color-in-adobe-premiere-pro/)
@@ -230,12 +275,20 @@ You will learn the complete basic training of color correction and grading in Pr
 
 ![understanding color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. How to use Filmora to color grade video?
 
 To get the best of both worlds, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a must-have tool. Equipped with the latest specifications, this video editor does more than just edit. With this editor, users can enjoy merging different clips, and range markers, and effortlessly inserting audio and video over the clip.
 
 To give the atmosphere of great effects, it is easy to directly apply some fixed LUTs by clicking **"Effect"** and selecting **"LUT"**, where you can view a variety of preset LUT packages. To complete changing the color of your entire film, drag and drop the objects directly onto the timeline video clip.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![drag and drop objects onto timeline video clip](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-tutorial-13.jpg)
 
 Of course, you may choose **"Advanced"** for a more subtle color correction if you're still not satisfied with the result. There are components in Adjust such Enhancement, White Balance, and Vignette. In the **Preset** menu, you can also select a finer pre-made configuration.
@@ -252,6 +305,9 @@ In short, we've touched on many different color grading tutorials that simplify 
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 In short, we've touched on many different color grading tutorials that simplify and professionalize the color grading process. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers other video editing options in addition to the simple Color Correction to help you take your videos to new levels. Anyone can download it free and use it for themselves.
@@ -284,3 +340,47 @@ In short, we've touched on many different color grading tutorials that simplify 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-a-beginners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>[New] A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aligning-with-audience-habits-in-podcast-releases/"><u>[New] Aligning with Audience Habits in Podcast Releases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-camcorders-featuring-direct-faceviewing/"><u>[New] Best Camcorders Featuring Direct FaceViewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-choosing-the-right-display-tvs-vs-projectors-in-a-4k-era/"><u>[New] Choosing the Right Display  TVs vs Projectors in a 4K Era</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>[New] How to Transcribe Speech to Text in Microsoft Word  Learn It Here</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-by-step-shortcut-for-easy-mac-screen-recording/"><u>[New] In 2024, Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-with-top-pixlr-editing-techniques/"><u>[New] Unlocking Potential with Top Pixlr Editing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-steps-for-securing-stock-photo-borders/"><u>[Updated] Advanced Steps for Securing Stock Photo Borders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-gif-fetchers-on-ios-iphone-x-compatible-guide/"><u>[Updated] Best GIF Fetchers on iOS  IPhone X-Compatible Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>[Updated] Camera Companion Dilemma  Polaroid Cube or GoPro Hero Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-mac-audio-enhanced-screen-recorder/"><u>[Updated] In 2024, Elite Mac Audio-Enhanced Screen Recorder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chucklecircuit-meme-studio-free-download/"><u>2024 Approved  ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-colorful-canvas-basic-adobe-corrections-guide/"><u>2024 Approved  Colorful Canvas  Basic Adobe Corrections Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-dynamic-image-ensembles-with-precision/"><u>2024 Approved  Crafting Dynamic Image Ensembles with Precision</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>2024 Approved  Sailing the Skies Easily  How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz/"><u>2024 Approved  Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27e-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-action-cam-top-picks/"><u>Affordable Action Cam Top Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmenting-our-perception-an-introduction/"><u>Augmenting Our Perception  An Introduction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/average-earnings-in-the-world-of-podcasting-for-2024/"><u>Average Earnings in the World of Podcasting for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/balancing-width-and-height-for-ultimate-videography/"><u>Balancing Width and Height for Ultimate Videography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-aerial-photography-top-100-drones-compared-for-2024/"><u>Budget Aerial Photography  Top $100 Drones Compared for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/d500-exploration-nikons-journey-in-4k-hd/"><u>D500 Exploration  Nikon's Journey in 4K HD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-apples-revolutionary-m1-chip/"><u>Dissecting Apple’s Revolutionary M1 Chip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ditch-costs-enjoy-free-video-playback-on-pcmac/"><u>Ditch Costs, Enjoy FREE Video Playback on PC/Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-video-conversion-wizardry-turning-hd-to-high-quality-mp4-for-free/"><u>FB Video Conversion Wizardry – Turning HD to High-Quality MP4, For Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-meetings-to-media-how-zoom-powers-fb-live-content/"><u>From Meetings to Media  How Zoom Powers FB Live Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-selfie-sticks-for-iphone-users/"><u>Ideal Selfie Sticks for iPhone Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-ai-powered-podcast-names-the-ultimate-selection-list/"><u>In 2024, AI-Powered Podcast Names  The Ultimate Selection List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-becoming-a-pro-at-using-zoom-on-win10-systems/"><u>In 2024, Becoming a Pro at Using Zoom on WIN10 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-movies-to-still-moments-with-windows-10-photo-viewer/"><u>In 2024, Transforming Movies to Still Moments with Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/refinement-of-screen-focus-how-to-zoom-on-microsoft-teams/"><u>Refinement of Screen Focus  How to Zoom on Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-sound-top-10-podcast-recording-mics/"><u>Superior Sound  Top 10 Podcast Recording Mics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-handbook-for-iphone-vr-viewing/"><u>The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-video-editing-inshots-place/"><u>The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>TikTok Unboxing Hacks  Spin Your Video Into a Viral Hit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-strategies-in-drone-filmmaking/"><u>Top Strategies in Drone Filmmaking</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-all-encompassing-directory-guide-for-podcast-platforms/"><u>Updated In 2024, All-Encompassing Directory Guide for Podcast Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-veracity-versus-physical-prowess-in-live-links/"><u>Virtual Veracity Versus Physical Prowess in Live Links</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-jokes-on-the-go-no-cost-with-creatememe/"><u>Visual Jokes on the Go  No Cost with CreateMeme</u></a></li>
+</ul></div>

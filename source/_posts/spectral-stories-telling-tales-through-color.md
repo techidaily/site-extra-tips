@@ -1,7 +1,7 @@
 ---
 title: "\"Spectral Stories  Telling Tales Through Color\""
-date: 2024-05-24T14:17:41.895Z
-updated: 2024-05-25T14:17:41.895Z
+date: 2024-07-27T07:29:33.639Z
+updated: 2024-07-28T07:29:33.639Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Spectral Stories: Telling Tales Through Color\""
 excerpt: "\"This Article Describes Spectral Stories: Telling Tales Through Color\""
 keywords: "Color Tales Narrative,Spectral Storytelling,Telling Tales Colored,Hue Narratives,Visual Stories Palette,Chromatic Tales Weave,Rainbow Tale Seeking"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Spectral Stories: Telling Tales Through Color
@@ -28,6 +28,10 @@ Color grading is the video editing process wherein grading (arranging) colors in
 
 In cinematography, color grading refers to the manipulation of film and video images to create consistent color tones throughout a motion picture. Many filmmakers use a color palette or preset as part of their overall production plan. These palettes represent artistic choices that provide the film with a cohesive general aspect. When film footage does not adequately match these color palettes, directors and colorists use digital color grading tools to change video colors as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
@@ -50,6 +54,9 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -90,6 +97,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 
 Here, there are two options to select: The Color correction. It offers different readily-made presets you can use to color your video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 ##### Step2Select the specific video portion
@@ -98,10 +108,16 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -116,6 +132,9 @@ In the Presets tab, there are different templates, including Common, 3D LUT, Vig
 
 Once you've finished correcting the video color, press Play and go over the whole video through the previewing window. If satisfied with the result, click the "Export" button to transport your video. Click the Settings button to modify settings if needed. You can save the new videos in different formats under the Format tab. If you want to play the edit file on devices like Tablet, iPad, Kindle Fire, PSP, Xbox, etc., go to the "Devices" tab and select the configured preset for the specific model. You can also upload the video output on Youtube for better preservation.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 **Using the Color Panel Window**
@@ -124,12 +143,32 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +239,42 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>[New] 2024 Approved  Inside Out  The Explanation for YouTube's Unlisted Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-5-best-finger-tech-for-virtual-reality-mastery/"><u>[New] 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-unsung-free-speech-to-text-apps-for-your-mac/"><u>[New] Best Unsung Free Speech-to-Text Apps for Your Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-effortlessly-capture-mac-screenshots-for-2024/"><u>[New] How to Effortlessly Capture Mac Screenshots for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-economical-pc-screen-recorders-compared/"><u>[New] In 2024, Top 10 Economical PC Screen Recorders Compared</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-popular-youtube-short-snafus/"><u>[Updated] 2024 Approved  Fixing Popular YouTube Short Snafus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>[Updated] Climb the Fame Hierarchy on Instagram  Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-insights-into-utilizing-the-full-potential-of-macs-preview-features/"><u>[Updated] Complete Insights Into Utilizing the Full Potential of Mac's Preview Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-metaverse-how-to-build-memes-that-pop-online/"><u>[Updated] Inside Metaverse  How to Build Memes That Pop Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-instantly-professional-masterful-thumbnails-created-fast/"><u>[Updated] Instantly Professional  Masterful Thumbnails Created Fast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-to-effective-multiframe-use-in-edge/"><u>2024 Approved  Comprehensive Guide to Effective Multiframe Use in Edge</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-funnyframefarm-digital-jokes-galore/"><u>2024 Approved  FunnyFrameFarm  Digital Jokes Galore</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/50plus-best-text-effects-for-videographers/"><u>50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accessing-your-favorite-pins-top-5-no-fee-download-tools/"><u>Accessing Your Favorite Pins  Top 5 No-Fee Download Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmented-commerce-frontiers/"><u>Augmented Commerce Frontiers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chuckles-and-characters-a-guide-to-top-meme-generators-for-2024/"><u>Chuckles & Characters  A Guide to Top Meme Generators for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-success-in-youtubes-creator-hub/"><u>Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-k11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo K11 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elemental-story-framework/"><u>Elemental Story Framework</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-vivid-skies-highlighted-hdr-web-platforms/"><u>Explore Vivid Skies  Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/framefixer-analysis-all-inclusive-report/"><u>FrameFixer Analysis – All-Inclusive Report</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-x-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone X Passcode without Computer?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-xs-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone XS? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions  Apply Apple Watch, Open Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-edge-approaches-in-spotifys-advertising-realm/"><u>Leading Edge Approaches in Spotify's Advertising Realm</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>Learn to Edit  The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>The Ultimate iPhone Photography Playbook  Prime Angles Uncovered</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-slow-motion-success-with-gopro-hero-10-experts-guide/"><u>Unlocking Slow Motion Success with GoPro Hero 10 Experts Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-full-potential-of-apods-downloads/"><u>Unlocking the Full Potential of APods Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-one-stop-shop-for-unbeatable-tamil-ringtone-purchases-and-edits/"><u>Your One-Stop Shop for Unbeatable Tamil Ringtone Purchases & Edits</u></a></li>
+</ul></div>

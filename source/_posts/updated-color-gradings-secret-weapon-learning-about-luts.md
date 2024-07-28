@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Color Grading's Secret Weapon  Learning About LUTs\""
-date: 2024-05-24T15:49:51.846Z
-updated: 2024-05-25T15:49:51.846Z
+date: 2024-07-27T10:12:25.936Z
+updated: 2024-07-28T10:12:25.936Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Color Grading's Secret Weapon: Learning About LUTs\""
 excerpt: "\"This Article Describes [Updated] Color Grading's Secret Weapon: Learning About LUTs\""
 keywords: "Lut Essentials,Color Grading Tips,Lut Basics Learn,Editing LUT Guide,Mastering Luts Quickly,Lut Techniques for Pros,Film Edits with Luts"
-thumbnail: https://www.lifewire.com/thmb/8AR4KPZSuKj5eifD4ccsltjomD0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/SmartLuggage_MaurizioPesce-5a49851522fa3a003693996c.jpg
+thumbnail: https://thmb.techidaily.com/122fad585a96b844750a62c04c4dce3455583d7dfd3b684b7339ff82c163bd28.jpg
 ---
 
 ## Color Grading's Secret Weapon: Learning About LUTs
@@ -50,12 +50,19 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -74,6 +81,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +91,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +108,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +121,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +156,67 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-choosing-ideal-youtube-thumbnail-shapes/"><u>[New] 2024 Approved  Guide to Choosing Ideal Youtube Thumbnail Shapes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-elite-audio-gear-guide-for-4k-camera-quality-production-for-2024/"><u>[New] Elite Audio Gear Guide for 4K Camera Quality Production for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>[New] Expert Blueprint  Fashioning Timer Functionality with Video Editors</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-interlinking-platforms-twitch-to-facebook-transfer/"><u>[New] In 2024, Interlinking Platforms  Twitch to Facebook Transfer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-trustworthy-youtube-to-mp4-file-extraction-processes/"><u>[New] In 2024, Trustworthy YouTube to MP4 File Extraction Processes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-iphone-video-editors-cameo-vs-filmorago-showdown-for-2024/"><u>[New] IPhone Video Editors  Cameo Vs. FilmoraGo Showdown for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-8-premium-and-gratis-mobile-video-mosaic-tools-for-android/"><u>[Updated] 2024 Approved  Top 8  Premium & Gratis Mobile Video Mosaic Tools for Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-an-insiders-view-on-creating-effective-slug-lines/"><u>[Updated] An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content/"><u>[Updated] Conquer Oversized Drafts  Learn to Edit and Organize TikTok Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-detailed-guide-to-screen-record-skype-via-obs/"><u>[Updated] Detailed Guide to Screen Record Skype via OBS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-telegram-promotion-techniques-for-marketing-beginners-for-2024/"><u>[Updated] Telegram Promotion Techniques  For Marketing Beginners for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-best-websites-for-copyright-free-gaming-music-for-2024/"><u>10 Best Websites for Copyright-Free Gaming Music for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-secret-tips-for-using-canva-photo-editor/"><u>10 Secret Tips for Using Canva Photo Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assemble-amusing-artifacts/"><u>2024 Approved  Assemble Amusing Artifacts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conquer-iphone-audiophiles-playlist-tips/"><u>2024 Approved  Conquer iPhone  Audiophile's Playlist Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-economical-systems-optimized-by-ideal-obs-settings/"><u>2024 Approved  Economical Systems Optimized by Ideal OBS Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-getting-windows-movie-maker-6-installed-quickly-and-easily/"><u>2024 Approved  Getting Windows Movie Maker 6 Installed Quickly & Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-engineer-apocalyptic-comic-relief/"><u>2024 Approved  Giggle Engineer  Apocalyptic Comic Relief</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-speed-masterclass-turning-images-into-attention-grabbing-youtube-thumbnails/"><u>2024 Approved  Speed Masterclass  Turning Images Into Attention-Grabbing YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-synchronizing-tiktok-viewership-and-facebook-shares/"><u>2024 Approved  Synchronizing TikTok Viewership and Facebook Shares</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-video-sharing-titans-ranking-vimeo-youtube-and-dailymotion/"><u>2024 Approved  Video-Sharing Titans  Ranking Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://win11.techidaily.com/7-pivotal-points-for-reconnecting-your-obs-studio-link-win-compatible/"><u>7 Pivotal Points for Reconnecting Your OBS Studio Link (Win-Compatible)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoid-paying-for-space-the-most-attractive-20plus-free-cloud-services/"><u>Avoid Paying for Space - The Most Attractive 20+ Free Cloud Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>Best-Rated Wedding Timekeepers  A Comprehensive Android & iOS App Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-gaps-building-relationships-with-your-audience/"><u>Bridging Gaps  Building Relationships with Your Audience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-a-surrealist-vision-expert-photoshop-distortion-tips/"><u>Crafting a Surrealist Vision  Expert Photoshop Distortion Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-the-magic-of-full-sphere-video/"><u>Decoding the Magic of Full Sphere Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-restoration-of-windows-photo-viewer-steps-explained/"><u>Effortless Restoration of Windows Photo Viewer - Steps Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-user-experience-with-azure-speech-transcription-tools/"><u>Enhancing User Experience with Azure Speech Transcription Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-sd-cards-compatible-with-gopro-hero-7-and-8/"><u>Excellent SD Cards Compatible with GoPro Hero 7 & 8</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-zooid-formats-for-creation/"><u>Excellent Zooid Formats for Creation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-definition-options-best-4k-camera-support-systems/"><u>High Definition Options  Best 4K Camera Support Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-xr21-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia XR21.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Huawei Nova Y71?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-xiaomi-redmi-note-13-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Xiaomi Redmi Note 13 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-obtaining-visual-assets/"><u>In 2024, Comprehensive Guide to Obtaining Visual Assets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-creating-chuckles-with-simple-images/"><u>In 2024, Creating Chuckles with Simple Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-drawing-faces-on-snapchat/"><u>In 2024, Step-by-Step  Drawing Faces on Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instant-proportion-correction-online/"><u>Instant Proportion Correction Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/investigating-storage-amounts-vids-on-64128gb-hardware/"><u>Investigating Storage Amounts  Vids on 64/128GB Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ion-air-pro-3-action-camera-review/"><u>ION Air Pro 3 Action Camera Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-strategies-for-recruiting-superior-video-artists/"><u>Key Strategies for Recruiting Superior Video Artists</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-storm-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Storm 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-locations-for-obtaining-got-mobile-melodies/"><u>Prime Locations for Obtaining GoT Mobile Melodies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/realities-redefined-the-metaverse-vs-omniverse-showdown-explained/"><u>Realities Redefined  The Metaverse Vs. Omniverse Showdown Explained</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-functionality-windows-mice-driver-update-procedure/"><u>Restore Functionality: Windows Mice Driver Update Procedure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stunning-appraisal-and-alternative-suggestions/"><u>Stunning Appraisal & Alternative Suggestions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swiftly-clear-coffee-eye-distortions-a-no-cost-ios-fix-guide/"><u>Swiftly Clear Coffee Eye Distortions  A No-Cost iOS Fix Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-steps-to-compress-youtube-video-spaces/"><u>The Essential Steps to Compress YouTube Video Spaces</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tips-and-tricks-to-fix-iphone-low-mp-photography-issues/"><u>Tips and Tricks to Fix iPhone Low MP Photography Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-rated-traffic-cameras-for-automobiles-2023/"><u>Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-chuckles-on-a-budget-memetic-creators-guide/"><u>Unlocking Chuckles on a Budget - Memetic Creator’s Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-asus-rog-phone-7-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Asus ROG Phone 7 Phone Network-Ready</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-step-by-step-guide-to-downloading-youtube-srt-files-effortlessly/"><u>Your Step-by-Step Guide to Downloading YouTube SRT Files Effortlessly</u></a></li>
+</ul></div>

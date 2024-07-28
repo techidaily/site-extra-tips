@@ -1,7 +1,7 @@
 ---
 title: "\"The Enigmatic Eye  Slick Camera Tech\""
-date: 2024-05-24T15:03:26.910Z
-updated: 2024-05-25T15:03:26.910Z
+date: 2024-07-27T08:49:55.789Z
+updated: 2024-07-28T08:49:55.789Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes The Enigmatic Eye: Slick Camera Tech\""
 excerpt: "\"This Article Describes The Enigmatic Eye: Slick Camera Tech\""
 keywords: "\"Eye-Catching Camera Tech,Slick Cam's Innovation,Innovative Lens Quality,High-Tech Eye Gear,Advanced Camera Specs,Cutting-Edge Optics,Next-Gen Imaging Devices\""
-thumbnail: https://www.lifewire.com/thmb/_ESCKrGf4KscxAma5r8uuPRFQ3I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/przemyslaw-marczynski-oCfkSnqZ0SI-unsplash-5f1aa0ae780b4fcbb38dfee122b9e552.jpg
+thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e64473e58f7a002cd7e0675d8bb.jpg
 ---
 
 ## The Enigmatic Eye: Slick Camera Tech
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -125,6 +128,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -224,6 +230,9 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -297,8 +306,15 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -315,6 +331,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -392,8 +411,23 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -426,3 +460,39 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>[New] Clear Audio, Crystal-Clear View  Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[New] Compreenhensive Review  DJI's New Drone, The Inspire 1</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-add-featured-channels-on-youtube-a-complete-guide/"><u>[New] In 2024, How to Add Featured Channels on YouTube  A Complete Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>[Updated] 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>[Updated] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-affinity-photo-demystified/"><u>[Updated] Affinity Photo Demystified</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chronology-conundrum-best-podcast-times/"><u>[Updated] Chronology Conundrum  Best Podcast Times</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>[Updated] Comprehensive Scrutiny  Gear 360'S Virtual Reality Capability</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-discover-leading-video-ranking-tools-for-youtube-success/"><u>[Updated] In 2024, Discover Leading Video Ranking Tools for YouTube Success</u></a></li>
+<li><a href="https://win11.techidaily.com/14-unveiling-windows-11-post-update-feature-list/"><u>14 Unveiling Windows 11: Post-Update Feature List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-benefits-of-apples-m1-in-post-production-editing/"><u>2024 Approved  Benefits of Apple's M1 in Post-Production Editing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tips-for-uncovering-missing-exclusive-photos/"><u>2024 Approved  Tips for Uncovering Missing Exclusive Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/50plus-best-text-techniques-in-film-making/"><u>50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerated-approaches-to-transferring-iphone-files-to-computer/"><u>Accelerated Approaches to Transferring iPhone Files to Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/arc-electrify-powerful-media-player-replacement/"><u>Arc Electrify  Powerful Media Player Replacement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/awesome-online-destinations-for-advanced-text-customization/"><u>Awesome Online Destinations for Advanced Text Customization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bringing-to-life-advanced-color-correction-guide-for-2024/"><u>Bringing to Life  Advanced Color Correction Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>Crafting Real World Stories  An Insight Into Documentary Screenplay Writing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-picture-for-youtube-upload-for-2024/"><u>Crafting the Perfect Picture for YouTube Upload for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-iphones-top-9-photo-watermarking-software/"><u>Discover iPhone's Top 9 Photo Watermarking Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-imagery-gopro-in-time-lapse-focus/"><u>Elevate Your Imagery  GoPro in Time-Lapse Focus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-playlists-for-engaging-unboxing-videos/"><u>Essential Playlists for Engaging Unboxing Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-vivo-v27-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Vivo V27 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-asus-rog-phone-8-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Asus ROG Phone 8 FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-google-pixel-fold-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Google Pixel Fold to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>In 2024, A Stepwise Journey  Converting Smartphones Into VR Hubs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cost-efficient-sky-companions-drone-guide-(500/"><u>In 2024, Cost-Efficient Sky Companions  Drone Guide <$500</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-your-own-passport-photos-with-these-10-tools/"><u>Master Your Own Passport Photos with These 10 Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/peak-psd-layer-magic-for-2024/"><u>Peak PSD Layer Magic for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-3d-text-magic-with-adobes-creative-suite-for-2024/"><u>Unlock 3D Text Magic with Adobe's Creative Suite for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/virtual-footprint-effective-methods-for-archiving-lives/"><u>Virtual Footprint  Effective Methods for Archiving Lives</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Crafting Atmospheres with Cinematic Hues"
-date: 2024-05-24T16:06:12.273Z
-updated: 2024-05-25T16:06:12.273Z
+date: 2024-07-27T10:41:17.141Z
+updated: 2024-07-28T10:41:17.141Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes In 2024, Crafting Atmospheres with Cinematic Hues"
 excerpt: "This Article Describes In 2024, Crafting Atmospheres with Cinematic Hues"
 keywords: "Film Hue Effects,Cinematic Mood Creation,Visual Storytelling,Artistic Color Palettes,Cinematic Lighting Techniques,Emotional Palette Crafting,Aesthetic Filmmaking"
-thumbnail: https://www.lifewire.com/thmb/pm4pRKe2jOUQhGmmNOxS1UX4ZxY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5b37d142ebd628755c0e5ec6.jpg
 ---
 
 ## Crafting Atmospheres with Cinematic Hues
 
 Everyone in the video editing world is full of lively and beautiful colors — just like the world we live in every day. But, if you've ever shot any film on a smartphone or a digital camera, you've probably observed the colors you see in real life don't always match up to what you want to see on your screen. In this article, you will grasp how and when to use the color grading process by stylizing the color scheme of your footage and its importance in your everyday film and video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
 ## What is Color Grading?
@@ -28,10 +31,16 @@ Color grading is the video editing process wherein grading (arranging) colors in
 
 In cinematography, color grading refers to the manipulation of film and video images to create consistent color tones throughout a motion picture. Many filmmakers use a color palette or preset as part of their overall production plan. These palettes represent artistic choices that provide the film with a cohesive general aspect. When film footage does not adequately match these color palettes, directors and colorists use digital color grading tools to change video colors as needed.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
@@ -62,12 +71,18 @@ Kindly see the details and steps on how to engage in color grading and color cor
 
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
@@ -102,6 +117,9 @@ First, you need to select the specific video portion you want to change the colo
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -124,12 +142,18 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 You can modify the temperature, tint, white balance, contrast, saturation, and brightness and apply 3D LUT directly and quickly in this editing panel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +224,45 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-captivating-features-the-allure-of-filmora-editing/"><u>[New] Captivating Features  The Allure of Filmora Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-screen-capture-on-apple-device/"><u>[New] Step-by-Step  Screen Capture on Apple Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-ustream-live-stream-platforms-reviewed/"><u>[Updated] Beyond Ustream  Live Stream Platforms Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-cover-makeovers-the-most-trusted-design-tools-ranked-for-2024/"><u>[Updated] Facebook Cover Makeovers  The Most Trusted Design Tools Ranked for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ultimate-audio-capture-on-screen/"><u>[Updated] Ultimate Audio Capture on Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>2024 Approved  Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breathtaking-stunts-and-jumps-2022-fig-skates/"><u>2024 Approved  Breathtaking Stunts and Jumps - 2022 Fig Skates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>2024 Approved  Conquer the Clutter  Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conquering-video-design-challenges-with-filmora-tips/"><u>2024 Approved  Conquering Video Design Challenges with Filmora Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-comical-caricatures-using-giphys-kit/"><u>2024 Approved  Craft Comical Caricatures Using Giphy's Kit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-3d-color-grading-for-2024/"><u>Advanced Tips for 3D Color Grading for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-movie-trailers-for-2024/"><u>Best Movie Trailers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bringing-to-life-advanced-color-correction-guide/"><u>Bringing to Life  Advanced Color Correction Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/controlling-video-flow-on-your-screens-window-netflix/"><u>Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/demystifying-quantum-hdr-technology/"><u>Demystifying Quantum HDR Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-films-with-these-vfx-sites/"><u>Enhance Your Films with These VFx Sites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-listing-of-the-best-5-iphone-friendly-podcast-tools/"><u>Essential Listing of the Best 5 iPhone-Friendly Podcast Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-next-gen-coding-is-av1-superior-to-vp9/"><u>Exploring Next-Gen Coding  Is AV1 Superior to VP9?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-activatedeactivate-pip-in-ios-web-experience/"><u>How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>In 2024, All You Need to Know About the Apple M1 Max Clip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breezy-collage-creation-with-picshots-innovations/"><u>In 2024, Breezy Collage Creation with Picshot's Innovations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 10 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-m34-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy M34 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-avi-to-gif-transition-filmora-software-windowsmacos/"><u>In 2024, Unveiling the Secrets of AVI to GIF Transition  Filmora Software (Windows/macOS)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-close-up-views-on-web-conferencing/"><u>Mastering Close-Up Views on Web Conferencing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-photo-editing-the-eraser-guide-in-psx/"><u>Mastering Photo Editing  The Eraser Guide in PSX</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-avis-to-gifs-with-help-from-filmora/"><u>Navigating the World of AVIs to GIFs with Help From Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pairing-audio-with-visuals-web-forum/"><u>Pairing Audio with Visuals Web Forum</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-podcast-production-writing-and-examples-guide-for-2024/"><u>Pioneering Podcast Production  Writing & Examples Guide for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-20-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 20 Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simulate-hand-held-camera-effects-in-photoshop/"><u>Simulate Hand-Held Camera Effects in Photoshop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/time-honored-top-15-in-the-world-of-stop-motion/"><u>Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-moto-g24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Moto G24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tunetester-rethinking-dacast/"><u>TuneTester  Rethinking DaCast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unstuck-and-unveiled-tiktok-videos-sans-stickers/"><u>Unstuck and Unveiled  TikTok Videos Sans Stickers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/which-gopro-model-shines-brighter-max-vs-hero-11/"><u>Which GoPro Model Shines Brighter, Max Vs. Hero 11?</u></a></li>
+</ul></div>

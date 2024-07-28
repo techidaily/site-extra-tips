@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide  YI 4K Video Recorder\""
-date: 2024-05-24T13:49:02.680Z
-updated: 2024-05-25T13:49:02.680Z
+date: 2024-07-27T06:39:41.898Z
+updated: 2024-07-28T06:39:41.898Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Ultimate Guide: YI 4K Video Recorder\""
 excerpt: "\"This Article Describes Ultimate Guide: YI 4K Video Recorder\""
 keywords: "\"4K YI Video Tech,Yi Recorder Basics,Ultimate 4K Capture,Yi Cam4K Guide,High-Quality 4K,YI 4K Videography,Best 4K Recorders\""
-thumbnail: https://www.lifewire.com/thmb/IbBoUsmodsqtCMucPpWy2WV4IOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/bing-chat-249ea636b6c9418c885ecee7ef987bcb.png
+thumbnail: https://thmb.techidaily.com/9ce1efb4d78691d1fda3d25f6e0de4e7036d8fbbf749d1e5f5caf96b519e32e1.png
 ---
 
 ## Ultimate Guide: YI 4K Video Recorder
@@ -39,6 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/IbBoUsmodsqtCMucPpWy2WV4IOU=/400x300/fi
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -73,6 +76,9 @@ thumbnail: https://www.lifewire.com/thmb/IbBoUsmodsqtCMucPpWy2WV4IOU=/400x300/fi
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -145,6 +151,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -260,6 +269,9 @@ Follow @Max Wales
 
 **You may also like:** [Top 15 Best Action Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Complete Review for Yi 4k Action Camera
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
@@ -269,6 +281,9 @@ Follow @Max Wales
 
  Let us start with the hardware part. Yi 4k looks almost same as that of GoPro device, even the waterproof case appears somewhat like GoPro product. Some resemblance is found in mobile applications as well as in mounting systems. The front side of Yi 4k is equipped with a lens and LED that provides current camera status indication. The 2.2 inch wide LCD screen is protected with Gorilla Glass whereas on top portion you will find holes for speaker and dual microphone. On the right side, a small flap is covering MicroUSB charging port and the left side is left bare.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-product](https://images.wondershare.com/filmora/article-images/yi-4k-product.jpg)
 
 #### Specifications
@@ -303,6 +318,9 @@ Follow @Max Wales
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -418,6 +436,9 @@ Follow @Max Wales
 
  Want to know more about the best accessories for Xiaomi Yi 4K action camera? Check [Best Accessories for YI 4K Action Camera in 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![yi-4k-unboxing-](https://images.wondershare.com/filmora/article-images/yi-4k-unboxing-.jpg)
 
 #### Features
@@ -474,6 +495,9 @@ Follow @Max Wales
 
  Need more information?[Check GoPro Hero5 Black vs Xiaomi Yi 4K Action Camera](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -506,3 +530,44 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-capturing-essence-photos-meet-music-videos/"><u>[New] 2024 Approved  Capturing Essence  Photos Meet Music Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-smartest-devices-to-modify-your-speech-on-the-go/"><u>[New] 2024 Approved  Smartest Devices to Modify Your Speech on the Go</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs/"><u>[New] Best Companions  Choosing Blu-Ray Software (Free/Paid) on PCs/Macs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-music-infused-video-tutorials-for-enhanced-social-media-presence-fb-for-2024/"><u>[New] Music-Infused Video Tutorials for Enhanced Social Media Presence (FB) for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>[New] Universal Synchronization  Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-reality-jaunt-vr-breakdown/"><u>[Updated] Beyond Reality  Jaunt VR Breakdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-captivate-audiences-from-day-one/"><u>[Updated] Captivate Audiences From Day One</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-harnessing-customer-stories-for-brand-growth-for-2024/"><u>[Updated] Harnessing Customer Stories for Brand Growth for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-googleplus-photo-frame-settings/"><u>[Updated] In 2024, Google+ Photo Frame Settings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-seo-explosion-leading-tech-for-your-videos/"><u>[Updated] In 2024, SEO Explosion  Leading Tech for Your Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>2024 Approved  Beyond Zoom  The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>2024 Approved  Breaking Down Barriers  Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-transform-tales-gratuitous-enhancements-across-platforms/"><u>2024 Approved  Transform Tales  Gratuitous Enhancements Across Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerating-sound-on-phones-best-free-apps/"><u>Accelerating Sound on Phones  Best Free Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androids-creme-de-la-creme-for-fast-vid-fixing/"><u>Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/audiovisual-rhythm-optimal-dj-content-for-gatherings/"><u>Audiovisual Rhythm  Optimal DJ Content for Gatherings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-files-future-with-these-20-best-in-class-no-cost-services/"><u>Boost Your Files' Future with These 20 Best-in-Class No-Cost Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklechisel-designing-memes-in-adobe-for-2024/"><u>ChuckleChisel  Designing Memes in Adobe for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-10-leading-church-live-streaming-sites/"><u>Discover 10 Leading Church Live Streaming Sites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-multitasking-embrace-picture-in-picture-on-ms-edge/"><u>Elevate Multitasking  Embrace Picture-in-Picture on MS Edge</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/from-console-to-screen-efficient-recording-strategies/"><u>From Console to Screen  Efficient Recording Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-pdf-electronically-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How do i sign a pdf electronically</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-much-space-does-a-days-video-take-up/"><u>How Much Space Does a Day's Video Take Up?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-blaze-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Blaze 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-spectrum-of-style-the-finest-photo-frame-software/"><u>In 2024, A Spectrum of Style  The Finest Photo Frame Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>In 2024, Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-continuity-a-kinemaster-led-guide/"><u>In 2024, Cinematic Continuity  A Kinemaster-Led Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-a-call-concert-customize-your-ios-sound-scape/"><u>In 2024, Crafting a Call Concert  Customize Your iOS Sound Scape</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-value-of-sns-hdr-and-its-market-rivals/"><u>In 2024, Exploring the Value of SNS HDR and Its Market Rivals</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v30-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V30</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-soft-image-effects-in-iphone-photography-4-tips/"><u>In 2024, Mastering Soft Image Effects in iPhone Photography (4 Tips!)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-the-art-of-online-broadcasts-utilizing-zoom-and-youtube/"><u>Perfecting the Art of Online Broadcasts  Utilizing Zoom and YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/refine-your-iphone-hdri-expert-tips-for-clearer-results-in-premiere-pro/"><u>Refine Your iPhone HDRI  Expert Tips for Clearer Results in Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tackling-iphone-lens-failures-with-ease/"><u>Tackling iPhone Lens Failures with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncovering-key-differences-in-panoramic-and-vr-filmmaking/"><u>Uncovering Key Differences in Panoramic & VR Filmmaking</u></a></li>
+</ul></div>

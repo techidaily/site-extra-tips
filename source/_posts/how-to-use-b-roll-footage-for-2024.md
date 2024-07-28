@@ -1,7 +1,7 @@
 ---
 title: "How to Use B Roll Footage for 2024"
-date: 2024-05-24T13:45:59.393Z
-updated: 2024-05-25T13:45:59.393Z
+date: 2024-07-27T06:35:08.002Z
+updated: 2024-07-28T06:35:08.002Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes How to Use B Roll Footage for 2024"
 excerpt: "This Article Describes How to Use B Roll Footage for 2024"
 keywords: "\"B-Roll Footage Use Tips,Utilizing B-Roll Clips,Effective B-Roll Usage,Best Practices for B-Roll,Incorporating B-Roll Shots,Strategies for B-Roll Editing,Maximizing B-Roll in Filmmaking,B Roll Editing,Film Footage Reuse,Cutaway Technique,Alternative Shot Use,Supplementary Filming,Extra Scene Integration,Visual Storytelling Methods,B Roll Techniques,B Roll Utilization,Filming B Extras,B Roll Editing Tips,Effective B Roll Usage,B Roll in Video Production,Leverage B Roll Content\""
-thumbnail: https://www.lifewire.com/thmb/R8mQYHSyvIG9KhbxaCWoxTwRczE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Remotecontrol-dd51ae399bd54bd4adccca5d9d446195.jpg
+thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
 ---
 
 ## How to Use B Roll Footage
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +35,9 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -40,10 +46,21 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -56,10 +73,16 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -110,3 +133,53 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-galaxy-a-thousand-stars-in-gaming/"><u>[New] 2024 Approved  Gamers' Galaxy  A Thousand Stars in Gaming</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>[New] 2024 Approved  Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-compre-written-in-the-stars-how-to-choose-an-ideal-podcast-title/"><u>[New] A Compre Written in the Stars  How to Choose an Ideal Podcast Title</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-guide-to-mastering-zoom-win10/"><u>[New] A Comprehensive Guide to Mastering Zoom (Win10)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audience-captivation-through-crossfade-mastery-in-audacity/"><u>[New] Audience Captivation Through Crossfade Mastery in Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-value-for-money-top-6-budget-4k-projector-models/"><u>[New] Best Value for Money  Top 6 Budget 4K Projector Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>[New] Boosting Skype Engagement  Best Zoom Utilization Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-pictureprofessional-expert-guide-to-adjusting-ig-content-sizes-for-2024/"><u>[New] PictureProfessional  Expert Guide to Adjusting IG Content Sizes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-precision-sculpting-perfect-circles-spheres-in-minecraft-world-for-2024/"><u>[New] Precision Sculpting  Perfect Circles, Spheres in Minecraft World for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-technical-treasure-trove-mastering-the-art-of-capturing-roblox-adventures-on-apple-devices/"><u>[New] Technical Treasure Trove  Mastering the Art of Capturing Roblox Adventures on Apple Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-broadcast-software-beyond-standard-obs/"><u>[Updated] Broadcast Software Beyond Standard OBS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinematographe-queries-explained/"><u>[Updated] Cinematographe Queries Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>[Updated] Comprehensive Analysis  Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-modify-twitter-clip-visuals/"><u>[Updated] Modify Twitter Clip Visuals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[Updated] Personalized Content Sharing on Vimeo  Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-ai-photo-editor-software/"><u>2024 Approved  Best AI Photo Editor Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-communicating-with-authority-power-words-in-marketing/"><u>2024 Approved  Communicating with Authority  Power Words in Marketing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-platform-for-seminar-titles/"><u>2024 Approved  Premier Platform for Seminar Titles</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-premier-ios-sketch-tools-for-2024/"><u>8 Premier iOS Sketch Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play-for-2024/"><u>Become an Audio Concealer  Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bellylaugh-beats-top-choices-for-laughable-ringtone-downloads-for-2024/"><u>BellyLaugh Beats  Top Choices for Laughable Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-stunning-colors-top-11-methods-for-professional-grading-and-correction-for-2024/"><u>Capture Stunning Colors  Top 11 Methods for Professional Grading & Correction for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-iphone-watermark-software-guide/"><u>Essential iPhone Watermark Software Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-15-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 15 Pro Max or iPad?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clipcrafter-window-edition/"><u>In 2024, ClipCrafter Window Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-viral-vignettes/"><u>In 2024, Crafting Viral Vignettes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-11-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 11 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>In 2024, Simplify Screen Capture  The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-guide-to-mobile-file-exchange-in-ios/"><u>In-Depth Guide to Mobile File Exchange in iOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-cloud-capacity-options-reviewed/"><u>Leading Cloud Capacity Options Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lenslattice-composer-top-photo-integrator-8/"><u>LensLattice Composer  Top Photo Integrator 8</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-color-balance-in-gopro-editing/"><u>Perfecting Color Balance in GoPro Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-gadgets-in-auto-traffic-camera-tech/"><u>Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-image-archive-platforms/"><u>Prime Image Archive Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-budget-blueprint-initial-steps-to-podcast-fame/"><u>Ultimate Budget Blueprint  Initial Steps to Podcast Fame</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-limitless-creativity-with-free-after-effects-samples/"><u>Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-sound-in-your-powerpoint-sessions/"><u>Unlocking the Potential of Sound in Your PowerPoint Sessions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-hdr-triumphs-upgrading-your-video-production-quality/"><u>Why HDR Triumphs  Upgrading Your Video Production Quality</u></a></li>
+</ul></div>

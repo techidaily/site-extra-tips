@@ -1,7 +1,7 @@
 ---
 title: "Excellent Text Plugin Compendium"
-date: 2024-05-24T15:07:55.990Z
-updated: 2024-05-25T15:07:55.990Z
+date: 2024-07-27T08:57:58.201Z
+updated: 2024-07-28T08:57:58.201Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Excellent Text Plugin Compendium"
 excerpt: "This Article Describes Excellent Text Plugin Compendium"
 keywords: "\"Text Plugin Guide,Plugin Text Tips,Excellent Text Tools,Enhancing Texts,Text Plugin Essentials,Top Text Plugins,Best Text Add-Ons\""
-thumbnail: https://www.lifewire.com/thmb/i2IGPKkZDfecNDZYHJ6esgN19Io=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pixel8-6ac6481299514e17aee036b125a33366.jpg
+thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96567f34da25c1f69a7f2e22f.jpg
 ---
 
 ## Excellent Text Plugin Compendium
@@ -26,8 +26,14 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -44,12 +50,18 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 ## Font Manager
@@ -74,12 +86,20 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 ## Artificial Intelligence Titles
@@ -88,16 +108,30 @@ Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%
 
 The Artificial Intelligence Titles is an After Effects text plugin that is designed to be the ultimate typographical solution. Once you have it in After Effects, you can enter any text and the plugin will automatically adjust the entire layout of the text. You can choose to create awesome text boxes, change the color, add special effects and even change the duration, speed, size, and positioning of the text. It also allows users to customize the text animation’s direction without using a keyframe.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -132,3 +166,45 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-sprint-to-quicker-vimeo-streams/"><u>[New] 2024 Approved  Sprint to Quicker Vimeo Streams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-choosing-youtube-downloader-apps-on-your-android-device/"><u>[New] In 2024, Choosing YouTube Downloader Apps on Your Android Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-digging-into-the-data-top-10-twitvideos/"><u>[New] In 2024, Digging Into the Data  Top 10 TwitVideos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-craft-engaging-videos-with-7-free-premium-soundscapes/"><u>[Updated] 2024 Approved  Craft Engaging Videos with 7 Free, Premium Soundscapes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-visual-storytelling-with-vsco-a-complete-guide/"><u>[Updated] 2024 Approved  Visual Storytelling with VSCO  A Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grasping-c-span-a-legal-grey-area-explored/"><u>[Updated] Grasping C-Span  A Legal Grey Area Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-video-conversions-moving-from-basic-sdr-to-vivid-hdr/"><u>[Updated] Mastering Video Conversions  Moving From Basic SDR to Vivid HDR</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-optimize-your-videos-with-these-top-rated-editor-suites-for-2024/"><u>[Updated] Optimize Your Videos with These Top-Rated Editor Suites for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitters-viral-video-catalogue-highest-viewers-for-2024/"><u>[Updated] Twitter’s Viral Video Catalogue  Highest Viewers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-full-review-of-cutspace-suite-with-visualfx-tools-2023/"><u>2024 Approved  A Full Review of CutSpace Suite with VisualFX Tools, 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beginner-to-pro-selecting-the-best-cinema-cameras/"><u>2024 Approved  Beginner to Pro  Selecting the Best Cinema Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-conjoin-video-streams-for-queue-curation/"><u>2024 Approved  Conjoin Video Streams for Queue Curation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-luts-in-obs-for-premium-visual-output/"><u>2024 Approved  Mastering LUTs in OBS for Premium Visual Output</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screen-snatching-solution/"><u>2024 Approved  Screen Snatching Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-srt-modification-strategies-for-pc-and-macos-for-2024/"><u>Advanced SRT Modification Strategies for PC and macOS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-value-for-money-top-6-budget-4k-projector-models-for-2024/"><u>Best Value for Money  Top 6 Budget 4K Projector Models for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/broadcast-like-a-ghost-anonymous-instagram-strategies/"><u>Broadcast Like a Ghost  Anonymous Instagram Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/churn-memetic-content-for-gif-hub/"><u>Churn Memetic Content for GIF Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-a-channel-focused-on-reviewing-marketplace-items/"><u>Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/direct-from-youtube-select-sites-for-effortless-tone-downloads/"><u>Direct-From-YouTube  Select Sites for Effortless Tone Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/echoing-scenes-iphone-as-a-tool-for-music-filmmakers/"><u>Echoing Scenes  IPhone as a Tool for Music Filmmakers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/harmonizing-content-and-sound-in-instagram-reels-for-2024/"><u>Harmonizing Content & Sound in Instagram Reels for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hue-harmony-translating-theory-into-artistry/"><u>Hue Harmony  Translating Theory Into Artistry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersive-tech-triumph-best-of-the-best-oculus-devices/"><u>Immersive Tech Triumph  Best of the Best Oculus Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-new-era-for-android-time-lapsing-trends-and-techniques/"><u>In 2024, A New Era for Android Time-Lapsing  Trends & Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-blackout-premiere-pro-guide/"><u>In 2024, Cinematic Blackout - Premiere Pro Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v30-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V30 Phones with/without a PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>In 2024, How Often to Post  A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859819491-in-2024-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>In 2024, Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/live-photography-to-continuous-visual-storytelling/"><u>Live Photography to Continuous Visual Storytelling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speech-to-text-technology-absolutely-gratuitous/"><u>Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-screens-with-easy-aspect-changes/"><u>Streamlining Screens with Easy Aspect Changes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-editing-decoded-a-deep-dive-into-magix-vpx/"><u>The Art of Editing Decoded  A Deep Dive Into Magix VPX</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-key-to-spreading-online-jokes-fast/"><u>The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-lens-perspective-filmographys-top-cinematic-techniques-and-tips-of-2024/"><u>The Lens Perspective  Filmography’s Top Cinematic Techniques and Tips of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-portable-video-player-mkv-format/"><u>Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-tv-for-virtual-concerts/"><u>Ultimate TV for Virtual Concerts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vivid-color-equilibrium/"><u>Vivid Color Equilibrium</u></a></li>
+</ul></div>

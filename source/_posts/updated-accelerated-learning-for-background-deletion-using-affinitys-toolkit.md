@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Accelerated Learning for Background Deletion Using Affinity's Toolkit"
-date: 2024-06-10T19:51:07.866Z
-updated: 2024-06-11T19:51:07.866Z
+date: 2024-07-27T09:38:11.792Z
+updated: 2024-07-28T09:38:11.792Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -38,10 +44,16 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -50,6 +62,9 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -85,6 +100,9 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -119,6 +137,9 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -177,3 +198,44 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-editing-workflows-windows-photos-and-story-remix-combo/"><u>[New] Advanced Editing Workflows  Windows Photos & Story Remix Combo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audience-appeal-expert-tips-on-post-production-and-editing-in-garageband/"><u>[New] Audience Appeal  Expert Tips on Post-Production and Editing in GarageBand</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevate-your-tiktok-experience-through-advanced-vocal-modification-techniques/"><u>[Updated] 2024 Approved  Elevate Your TikTok Experience Through Advanced Vocal Modification Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-charismatic-captions-instagrams-animated-text-guide/"><u>[Updated] Charismatic Captions  Instagram's Animated Text Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-your-google-photos-experience/"><u>[Updated] Maximizing Your Google Photos Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-dialogue-designer-space/"><u>[Updated] Prime Dialogue Designer Space</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-animated-wonders-a-curated-top-15-in-stop-motion/"><u>2024 Approved  Animated Wonders  A Curated Top 15 in Stop Motion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-image-impact-top-iphone-and-android-sticker-augmenting-tools/"><u>2024 Approved  Boost Image Impact  Top iPhone and Android Sticker Augmenting Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-brightening-images-a-simple-ps-technique/"><u>2024 Approved  Brightening Images  A Simple PS Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinema-craftsmanship-guide-top-tips-for-the-pros/"><u>2024 Approved  Cinema Craftsmanship Guide  Top Tips for the Pros</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-discovering-best-steadicams-for-enhanced-dslr-shooting-experience/"><u>2024 Approved  Discovering Best Steadicams for Enhanced DSLR Shooting Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-the-font-inclusion-process-in-ae-for-2024/"><u>Breaking Down the Font Inclusion Process in AE for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bright-ideas-in-film-setup-secrets-to-perfect-lighting-for-2024/"><u>Bright Ideas in Film Setup  Secrets to Perfect Lighting for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-overview-of-google-docs-voice-input-functionality-for-2024/"><u>Comprehensive Overview of Google Docs Voice Input Functionality for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-to-budget-friendly-free-srt-tools/"><u>Essential Guide to Budget-Friendly FREE SRT Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-top-6-choices-4k-youtube-to-mp3-software/"><u>Evaluating Top 6 Choices  4K Youtube-to-MP3 Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flipping-the-script-in-photos-learn-distortions-efficiently/"><u>Flipping the Script in Photos  Learn Distortions Efficiently</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-monochrome-to-masterpiece-pro-photo-hue-harmony/"><u>From Monochrome to Masterpiece  Pro Photo Hue Harmony</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/giggles-in-a-box-iphone-fun/"><u>Giggles in a Box (iPhone Fun)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>Hero5 Black in Action  Essential Shooting Advice for Amazing Results</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-soft-sound-dissolution-in-audacity/"><u>In 2024, Achieving Soft Sound Dissolution in Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-adobe-auditions-guide-to-incremental-volume/"><u>In 2024, Adobe Audition's Guide to Incremental Volume</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-cameras-front-screen-center-stage/"><u>In 2024, Advanced Cameras  Front Screen Center Stage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-techniques-for-moving-media-from-iphones/"><u>In 2024, Comprehensive Techniques for Moving Media From iPhones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c55-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C55 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>In 2024, Revolutionize Video Production  150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>Masterclass in Mobile Video Viewing  10 Leading iPhone/iPad Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-of-microscopic-minecraft-mapping/"><u>Mastery of Microscopic Minecraft Mapping</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/most-effective-5-image-editing-programs-on-iphone-x-7-8/"><u>Most Effective 5 Image Editing Programs on iPhone (X, 7, 8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-gen-heroism-gopro-hero5-black-vs-hero4-silver/"><u>Next-Gen HEROism  GoPro Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>Optimize Your Streaming Game  Incorporating Chroma Key Effects with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-resolving-iomap64-bsod-on-windows-108-devices/"><u>Quick Tips: Resolving IOMap64 BSOD on Windows 10/8 Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secrets-behind-top-performers-in-online-forums-like-reddit/"><u>The Secrets Behind Top Performers in Online Forums Like Reddit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-meetups-made-easy-understanding-xbox-one-zoom/"><u>Virtual Meetups Made Easy  Understanding Xbox One Zoom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Agni 2 5G | Dr.fone</u></a></li>
+</ul></div>

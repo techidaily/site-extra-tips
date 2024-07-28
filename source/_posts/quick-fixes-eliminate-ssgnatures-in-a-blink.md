@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Fixes  Eliminate Ssgnatures in a Blink\""
-date: 2024-05-24T14:14:35.552Z
-updated: 2024-05-25T14:14:35.552Z
+date: 2024-07-27T07:24:08.040Z
+updated: 2024-07-28T07:24:08.040Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Quick Fixes: Eliminate Ssgnatures in a Blink\""
 excerpt: "\"This Article Describes Quick Fixes: Eliminate Ssgnatures in a Blink\""
 keywords: "Animation Timeline Maker,Dynamic Movie Timeline,Animated Storytelling,Narrative Visualization,Motion Picture Timelines,Interactive Movie Crafting,Cinematic Animated Timeframes"
-thumbnail: https://www.lifewire.com/thmb/BYBpe_DLCdj-EMAKN8thILa5U3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/alanturing-5b85aa874cedfd0025bf4240.png
+thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545b8fd2ecff1c5ec11c0e45ff.png
 ---
 
 ## Quick Fixes: Eliminate Ssgnatures in a Blink
@@ -38,6 +38,9 @@ This step is where most of the work is done.
 
 First, click on the image so it's highlighted. Then, go to the menu at the top and hit **Format.** Look to the upper-left corner and click on **Corrections.** Then, set the parameters exactly as in this image. 馃憞
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove background from signature in word](https://images.wondershare.com/filmora/article-images/2023/03/signature-background-settings.png)
 
 ##### Step3Crop the Image and Save It
@@ -66,6 +69,9 @@ If for some reason, you don't have Microsoft Word or it's not working for you, t
 | [**Remove.bg**](#%5FRemove.bg)                                 | Free            | Extremely Easy | Great               | 4.5 Stars |
 | [**Pixlr**](#%5FPixlr)                                         | Free            | Easy           | Good                | 3.5 Stars |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Canva
 
 Canva is among the most used online image editing tools on the planet. It features an incredibly stable performance and includes a few tools that rival Photoshop. Its signature background remover will get the job done in seconds. The app is free, but the signature background removal tool inside isn't.
@@ -77,6 +83,9 @@ It's simple. Go to [Canva.com](https://www.canva.com/) and follow these steps.
 1. Create an account and sign up for the Canva Pro free trial
 2. Then, click on **Create a Design**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![create a design on canva](https://images.wondershare.com/filmora/article-images/2023/03/canva-design.png)
 
 1. Choose a suggested resolution template or input a custom size
@@ -105,6 +114,9 @@ It's simple. Go to [Canva.com](https://www.canva.com/) and follow these steps.
 
 * The signature background remover online tool is not included with the free plan
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Clipping Magic
 
 Compared to Canva, [Clipping Magic](https://clippingmagic.com/) is twice as fast and simple. That's because Clipping Magic is designed solely for this purpose — removing backgrounds from all sorts of images. This tool is effective but it's not free. Their pricing plans range from $2/mo to $11/mo.
@@ -115,10 +127,16 @@ It will take you no longer than a minute to remove the background of any signatu
 
 1. Go to [ClippingMagic.com](https://clippingmagic.com/) and upload your signature image
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clipping magic homepage](https://images.wondershare.com/filmora/article-images/2023/03/clipping-magic.png)
 
 1. Wait a few seconds and click **Download** when it's done
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clipping magic signature remover](https://images.wondershare.com/filmora/article-images/2023/03/clipping-magic-download.png)
 
 ##### Clipping Magic Pros & Cons
@@ -134,6 +152,9 @@ It will take you no longer than a minute to remove the background of any signatu
 
 * The free plan only lets you download a tiny version of the image that's not really usable most of the time
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Adobe Photoshop Express
 
 You can use the basic image editor from Adobe Photoshop Express for free. Luckily, its signature background remover falls under this category. However, if you want to add further customization to any other images, it requires one of their paid pricing models.
@@ -150,6 +171,9 @@ Once you upload your image, it will start removing the background by itself. Onc
 
 Click on **Download** and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![remove background adobe photoshop express](https://images.wondershare.com/filmora/article-images/2023/03/adobe-download.png)
 
 ### Remove.bg
@@ -160,6 +184,9 @@ Click on **Download** and you're all done.
 
 Once you go to [Remove.bg](https://www.remove.bg/), you will see a blue button. Press it.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove image background](https://images.wondershare.com/filmora/article-images/2023/03/remove-bg.png)
 
 After this, select the image you want to use. It will remove it in less than 2 seconds. Once it's done, click on **Download**, and that's it.
@@ -181,6 +208,9 @@ It instantly downloads the image without asking you for donations or to sign up 
 * HD images aren't free. But, the quality for the free signature images is still great
 * No additional editing features
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pixlr
 
 Pixlr offers a bit more than just removing the background of signatures. It's actually an online photo editor. While using it for removing backgrounds is perfectly fine, you can always get a lot more out of this tool if you want.
@@ -189,6 +219,9 @@ Pixlr offers a bit more than just removing the background of signatures. It's ac
 
 Don't open the Pixlr image editor if you simply want to remove the background of your signature. Instead, you need to access the [Pixlr background remover](https://pixlr.com/remove-background/). Here, all it takes is a few simple clicks to get the job done.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![pixlr background remover](https://images.wondershare.com/filmora/article-images/2023/03/pixlr-background-remover.png)
 
 Click on the "+", select your photo, and click **Save.**
@@ -225,6 +258,9 @@ It's simple. Go to [Canva.com](https://www.canva.com/) and follow these steps.
 1. Create an account and sign up for the Canva Pro free trial
 2. Then, click on **Create a Design**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a design on canva](https://images.wondershare.com/filmora/article-images/2023/03/canva-design.png)
 
 1. Choose a suggested resolution template or input a custom size
@@ -233,6 +269,9 @@ It's simple. Go to [Canva.com](https://www.canva.com/) and follow these steps.
 
 1. Select your image, click on **Edit Image** and use the **Background Remover Tool**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![remove signature background canva](https://images.wondershare.com/filmora/article-images/2023/03/canva-background-remover.png)
 
 1. Finally, export the image with a transparent background. This ensures you can use the signature without a background anywhere you want.
@@ -267,6 +306,9 @@ It will take you no longer than a minute to remove the background of any signatu
 
 1. Wait a few seconds and click **Download** when it's done
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![clipping magic signature remover](https://images.wondershare.com/filmora/article-images/2023/03/clipping-magic-download.png)
 
 ##### Clipping Magic Pros & Cons
@@ -282,6 +324,9 @@ It will take you no longer than a minute to remove the background of any signatu
 
 * The free plan only lets you download a tiny version of the image that's not really usable most of the time
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Adobe Photoshop Express
 
 You can use the basic image editor from Adobe Photoshop Express for free. Luckily, its signature background remover falls under this category. However, if you want to add further customization to any other images, it requires one of their paid pricing models.
@@ -292,6 +337,9 @@ First, go to the [Free Transparent Background Maker](https://www.adobe.com/expre
 
 Next, click on **Upload Your Photo.** This will take you to a new page where you can browse your images.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![free transparent background maker](https://images.wondershare.com/filmora/article-images/2023/03/adobe-photoshop-express.png)
 
 Once you upload your image, it will start removing the background by itself. Once it's done, you can choose to customize it or download it. Since this is a signature background removal, you don't really need to customize anything.
@@ -337,6 +385,9 @@ Pixlr offers a bit more than just removing the background of signatures. It's ac
 
 Don't open the Pixlr image editor if you simply want to remove the background of your signature. Instead, you need to access the [Pixlr background remover](https://pixlr.com/remove-background/). Here, all it takes is a few simple clicks to get the job done.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pixlr background remover](https://images.wondershare.com/filmora/article-images/2023/03/pixlr-background-remover.png)
 
 Click on the "+", select your photo, and click **Save.**
@@ -386,3 +437,49 @@ We all know the hassle of not having a good signature image when it's really urg
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-virtual-venue-verdict-which-streamer-prevails-for-2024/"><u>[New] Virtual Venue Verdict  Which Streamer Prevails for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-wave-warriors-cam-selection-best-surf-gear-2023/"><u>[New] Wave Warriors' Cam Selection - Best Surf Gear 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-instagrams-silent-frames-no-more-a-sound-fix/"><u>[Updated] 2024 Approved  Instagram's Silent Frames No More – A Sound Fix</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-tailoring-audience-for-your-youtube-videos/"><u>[Updated] 2024 Approved  Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-androids-very-own-podcasters/"><u>[Updated] Android's Very Own Podcasters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quickscreencapture-mastery-for-everyday-use-for-2024/"><u>[Updated] QuickScreenCapture Mastery for Everyday Use for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-re-imagine-your-igtv-content-the-complete-guide-to-edits-for-2024/"><u>[Updated] Re-Imagine Your IGTV Content  The Complete Guide to Edits for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023s-amazonprimetrending-top-tweets-that-stood-out-for-2024/"><u>2023'S #AmazonPrimeTrending - Top Tweets That Stood Out for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-transform-your-visuals-with-these-11-expert-strategies/"><u>2024 Approved  Transform Your Visuals with These 11 Expert Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-at-a-glance-digital-home-for-quality-videos/"><u>2024 Approved  Vimeo at a Glance  Digital Home for Quality Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/28-exemplary-metaverse-experiences-for-in-depth-understanding-for-2024/"><u>28 Exemplary Metaverse Experiences for In-Depth Understanding for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-best-webcam-for-live-streaming/"><u>8 Best Webcam for Live Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-palette-in-balance-implementing-theoretical-knowledge/"><u>A Palette in Balance  Implementing Theoretical Knowledge</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-webcam-and-chat-software-rankings-for-2024/"><u>Advanced Webcam & Chat Software Rankings for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/avoiding-common-pitfalls-in-drone-battery-choices/"><u>Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-v30t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme V30T Fingerprint Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/content-cash-cow-how-much-does-the-meme-king-make-in-2024/"><u>Content Cash Cow  How Much Does the Meme King Make, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/core-aspects-of-stories-for-2024/"><u>Core Aspects of Stories for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-the-m1-max-clip-functionality/"><u>Decoding the M1 Max Clip Functionality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers-for-2024/"><u>Elevate Your Game on Instagram  5 Key Tactics for Top-Tier Influencers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/flash-through-files-on-your-windows-pc/"><u>Flash Through Files on Your Windows PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hacks-for-hassle-free-podcast-streaming/"><u>Hacks for Hassle-Free Podcast Streaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-m6-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco M6 Pro 5G Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquer-the-webcam-world-with-ease/"><u>In 2024, Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-peak-laughter-edit-suite/"><u>In 2024, Peak Laughter Edit Suite</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>In 2024, Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intro-to-graphic-motion-artistry-and-usage/"><u>Intro to Graphic Motion Artistry and Usage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a78-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A78 5GFRP Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-in-motion-advanced-techniques-for-tiktok-edits/"><u>Mastery in Motion  Advanced Techniques for TikTok Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/paint-your-vision-top-8-best-drawing-apps-for-iphone-enthusiasts/"><u>Paint Your Vision  Top 8 Best Drawing Apps for iPhone Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y36i-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y36i Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-find-n3-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Find N3 Flip Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-scenes-integrating-fade-inout-effects/"><u>Seamless Scenes  Integrating Fade In/Out Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secrets-to-perfecting-snapchats-playback-speed-settings/"><u>Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/starting-with-hauls-a-step-by-step-editing-manual/"><u>Starting with Hauls  A Step-by-Step Editing Manual</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-selecting-podcasts-for-iphone-devices/"><u>The Art of Selecting Podcasts for iPhone Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-role-of-competitive-intelligence-in-effective-market-research/"><u>The Role of Competitive Intelligence in Effective Market Research</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/theta-s-reviewed-detailed-performance-insights/"><u>Theta S Reviewed  Detailed Performance Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-gpus-for-ultra-hd-playback/"><u>Top GPUs for Ultra HD Playback</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-charting-the-top-melodic-havens-s-downloadable-bgm-scores/"><u>Updated In 2024, Charting the Top Melodic Havens S Downloadable BGM Scores</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-universes-clash-metaverse-vs-multiverse/"><u>Virtual Universes Clash  Metaverse V/S Multiverse</u></a></li>
+</ul></div>

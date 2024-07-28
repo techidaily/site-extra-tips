@@ -1,7 +1,7 @@
 ---
 title: "[New] Azure Speech to Text Explained Simply"
-date: 2024-07-07T03:09:27.031Z
-updated: 2024-07-08T03:09:27.031Z
+date: 2024-07-27T09:17:51.433Z
+updated: 2024-07-28T09:17:51.433Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ Are you tired of manually typing texts into document editors like Word and Notep
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Microsoft Azure and Speech Studio?
 
 Microsoft Azure STT and TTS are part of **Microsoft Cognitive Services Speech**. These cognitive services feature state-of-the-art intelligence covering voice recognition, speaker recognition, machine translation, and OCR (Optical Character Recognition). The Microsoft speech to text service uses Azure Machine Learning (Azure ML) to auto-recognize, analyze, and convert human voices to editable and searchable texts.
@@ -48,6 +51,9 @@ Step2After creating a Microsoft Azure portal, you'll see all Azure services. Cli
 
 Step3The program will take a while to deploy an instance. Now tap Keys and endpoints on the left pane and copy the key and region identifier as you may need them later on.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
@@ -56,6 +62,9 @@ Step5Now enter the Azure regional identifier and subscription key on Windows Ter
 
 Step6Now it's time to convert speech to text using Azure STT Service. To do that, run “**spx recognize -microphone**” on Terminal or PowerShell. Azure Speech CLI will listen to sound input and convert it to text. And there is that!
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![icon note](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
@@ -74,6 +83,9 @@ When you want to make perfect videos, you can use Filmora's STT feature. Wonders
 
 What's more, now Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Top Adavantages of Filmora STT
 
 * Supports direct transcription of bilingual subtitles.
@@ -90,16 +102,25 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 Select the audio asset in the timeline, and click the "Speech-to-Text" icon in the toolbar; if there is no supported file type on the timeline, it will not be displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
 ### 2\. Google Docs - Free
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![micrsoft azure speech to text alternative google docs](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-6.jpg)
 
 If you're looking for free voice typing software, you're better off with Google Docs. Most of you may not be aware that Google Docs can accurately convert speech to text. This makes it a handy tool if you find speaking easier than writing. As expected, this voice transcription tool recognizes hundreds of languages, like English, French, Italian, Hindi, etc.
@@ -142,6 +163,9 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Try STT Now](https://tools.techidaily.com/wondershare/filmora/download/) [Explore STT](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 1: What is Microsoft Azure and Speech Studio?
@@ -156,6 +180,9 @@ If you're not good with programming languages, use Speech CLI, a command tool th
 
 It is also worth noting that Azure Speech Studio supports keyword recognition or keyword spotting. You can generate keyword recognition models and specify any short phrase or word. Users can also personalize keywords with the correct punctuations. And best of all, there is no extra cost for customizing keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Step by Step Guide to Transcribe Speech to Text with Microsoft Speech Studio
 
 Now let's learn how to use Microsoft Azure speech recognition services. Remember, the conversion may not be accurate if the audio has lots of domain-industry jargon or ambient noises. Therefore, use crisp-clear audio with an external mic or train the software to recognize specific words or keywords. Let's get started!
@@ -202,18 +229,27 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Use Filmora To Make STT videos
 
 ##### Step 1
 
 Select the audio asset in the timeline, and click the "Speech-to-Text" icon in the toolbar; if there is no supported file type on the timeline, it will not be displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
 ### 2\. Google Docs - Free
@@ -232,8 +268,15 @@ Step2Next, click the language drop-down arrow on the microphone to choose the tr
 
 Step3Click the Microphone icon to start dictating texts on Google Docs. After dictating enough texts, tap the red Microphone icon and edit your text. It's that simple!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3. Audtext
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![micrsoft azure speech to text alternative audtext](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-7.jpg)
 
 If Google's voice recognition service is too slow for your liking, consider Audtext. It's a highly rated online program that uses cutting-edge machine learning technology to transcribe audio to text in 60+ languages. You can easily train this program to identify the speaker in your interview or podcast file.
@@ -248,6 +291,9 @@ Step2Drag-n-drop your video or audio file on the program and then choose the tra
 
 Step3Finally, click the transcribed text file to edit it with new texts and punctuations on the inbuilt editor. You can export your transcription in .txt, .srt, or .docx formats. Directly export to Google Drive is also available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Final Words
 
 Up to this point, you should be ready to get started with the **Microsoft Cognitive Services Speech**. The speech-to-text feature allows you to convert unlimited voices to text on your computer. However, the program can be challenging to set up if you're not a techie.
@@ -282,3 +328,54 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-enhance-info-blocks-templates-for-youtube-titles/"><u>[New] 2024 Approved  Enhance Info Blocks  Templates for YouTube Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-add-effects-on-tiktok/"><u>[New] Add Effects On TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-systems-for-tracking-human-manoeuvres/"><u>[New] Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-alphabetical-arrangement-of-cine-capture-models/"><u>[New] Alphabetical Arrangement of Cine-Capture Models</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-laughter-to-life-kapwing-creator/"><u>[New] Bring Laughter to Life – Kapwing Creator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-still-moments-from-clips-on-windows-11/"><u>[New] Capturing Still Moments From Clips on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-gameplay-and-webcam-captures/"><u>[New] In 2024, Innovative Approaches to Gameplay and Webcam Captures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>[New] The Art of Seamless Editing  Mastering the Filmora Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-artistic-endeavour-exploring-and-ranking-the-finest-8-drawing-apps-for-iphones/"><u>[Updated] Artistic Endeavour  Exploring and Ranking the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-how-to-burn-video-to-dvd-on-mac/"><u>[Updated] How to Burn Video to DVD on Mac</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-rapid-tiktok-filming-techniques-to-enhance-frame-rate-for-2024/"><u>[Updated] Rapid TikTok Filming  Techniques to Enhance Frame Rate for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-subtle-sound-decline-using-logic-pro-for-fading-effects-for-2024/"><u>[Updated] Subtle Sound Decline  Using Logic Pro for Fading Effects for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essential-guide-to-blurring-video-borders-in-teams-for-2024/"><u>[Updated] The Essential Guide to Blurring Video Borders in Teams for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>2024 Approved  Beneath the Ocean’s Veil  Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-practices-for-high-impact-customer-endorsements/"><u>2024 Approved  Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>2024 Approved  Blending Beats and Visuals  A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>2024 Approved  Channel Charisma  Standing Out with Strategic Telegram Promotion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-visionboost-converter-windows-mac-online-version/"><u>2024 Approved  VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/add-life-to-your-footage-title-updating-techniques-in-photos-win-11/"><u>Add Life to Your Footage  Title Updating Techniques in Photos Win 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audacity-guide-creating-fluid-audio-crossfade-for-2024/"><u>Audacity Guide  Creating Fluid Audio Crossfade for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ballot-battlegrounds-prime-political-games-guide-for-2024/"><u>Ballot Battlegrounds  Prime Political Games Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blueprints-for-successful-docu-screenplays-for-2024/"><u>Blueprints for Successful Docu-Screenplays for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost/"><u>Capture Perfection  Dive Into Top 12 Websites Offering Stock Photos Without Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensively-understanding-wm6-setup-for-2024/"><u>Comprehensively Understanding WM6 Setup for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-cinematic-tales-in-documentary-scripts-for-2024/"><u>Crafting Cinematic Tales in Documentary Scripts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-audio-revolution-from-srt-to-xmlssattml/"><u>Digital Audio Revolution  From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-asmrs-impact-on-stress-reduction/"><u>Explore ASMR’s Impact on Stress Reduction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-best-ios-camera-enhancing-apps-all-at-no-cost/"><u>Explore the Best iOS Camera Enhancing Apps - All at No Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-typography-animation-suites/"><u>In 2024, Advanced Typography Animation Suites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>In 2024, Boosting Skype Engagement  Best Zoom Utilization Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-list-of-budget-friendly-online-editors/"><u>In 2024, Comprehensive List of Budget-Friendly Online Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>In 2024, Conquering Subreddit  Mastering the Art of Public Discussion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-views-on-tiktok-unboxing-content/"><u>In 2024, Maximizing Views on TikTok Unboxing Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-beyond-boundaries-with-innovative-wins11-titles/"><u>In 2024, Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-x100-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo X100 Pro Phones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-offline-audio-to-text-applications/"><u>Leading Offline Audio-To-Text Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-job-interviews-with-confidence-and-competence/"><u>Navigating Job Interviews with Confidence and Competence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-how-to-manual-for-time-stamped-videos-on-youtubes/"><u>The How-To Manual for Time-Stamped Videos on YouTubes</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-power-of-ai-thumbnail-generators-for-2024/"><u>The Power of AI Thumbnail Generators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-6-eco-friendly-affordable-4k-home-theaters/"><u>Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-secure-cloud-stores-for-your-android-compiled/"><u>Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-web-portals-finding-perfect-alarm-sounds/"><u>Top Web Portals  Finding Perfect Alarm Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-podcast-broadcast-simplifier/"><u>Ultimate Podcast Broadcast Simplifier</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlimited-premium-slide-decks-for-entrepreneurs/"><u>Unlimited Premium Slide Decks for Entrepreneurs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial/"><u>Unlock Creative Vision with LunaPic's Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-video-creation-with-aiseesofts-capture-capabilities-for-2024/"><u>Unlocking Video Creation with Aiseesoft's Capture Capabilities for 2024</u></a></li>
+</ul></div>

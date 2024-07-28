@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Creative Potential  Installing Windows Movie Maker on W11\""
-date: 2024-07-07T03:09:29.687Z
-updated: 2024-07-08T03:09:29.687Z
+date: 2024-07-27T06:42:46.165Z
+updated: 2024-07-28T06:42:46.165Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,16 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 ![open clipchamp on windows 11](https://images.wondershare.com/filmora/article-images/2022/09/open-clipchamp-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Add videos to the timeline**
 
 * Drag and drop the video from the library to the timeline. One can tap on the "+" button to add a file directly to the timeline, and tap on "Add" to all media files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video to calipchamp editor](https://images.wondershare.com/filmora/article-images/2022/09/drag-video-to-calipchamp-editor.jpg)
 
 * After adding the videos to the timeline, you can start editing and viewing. Users can add numerous videos to the timeline and edit them.
@@ -50,6 +56,9 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * Playing the clips on the timeline is necessary. You can move that scrubber to select the position where you want to start the video.
 * Tap on the Play button, or you can also hit the spacebar on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Zoom in and out of the timeline**
 
 * If you want to zoom in on the video, then use the + button and use the - button to zoom out.
@@ -68,6 +77,9 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * For changing the audio level, you can add the video go timeline.
 * Tap on an audio file, and an option will appear. Tap on Audio and drag your slider to adjust the volume.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Add title**
 
 * To add the title to the video, you can tap on "Text" in the left menu.
@@ -76,6 +88,9 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * Tap on the preferred titles from the sidebar using the drag and drop option to get the desired title to the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### **Export the video**
 
 * After you have finished your edits, you can save the file in MP4 and tap on the export option in the right corner of the screen.
@@ -100,17 +115,26 @@ The outcome, the innocently named "Photos" app, can be pretty confusing. You can
 * Choose the desired color from your color palette to change the background.
 * You can tap on the "+" button under "Custom color" to choose the color by using the color picker.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Time the unwanted parts
 
 * Tap on the "Trim" option and choose the file you wish to trim if you have various video files on the storyboard.
 * Then, click and hold your left mouse button and drag the pointer to adjust the clip.
 * After editing according to your preference, you can tap on the "Done" option.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Add some filters
 
 * You can tap "Filters" on the storyboard pane, choose one, but tap on individual thumbnails on the sidebar.
 * After applying the preferred filter, tap on the "Done" button from the bottom section, and click on confirm and apply.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Export the video
 
 * After you are done with your edit, you can tap "Finish Video" on the top section of the window.
@@ -131,12 +155,18 @@ Users of Wondershare Filmora can add moving graphics by dragging and dropping th
 
 Tap on "New Project" and enter the video editor. Register your product by tapping on the "Register" option. You can visit the "File" menu in the upper section, click "Project setting," and choose aspect ratio.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2Trim and edit the unwanted parts
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![trim and edit the unwanted parts](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 One can add numerous clips, but each clip will get placed after the previously added clip. To rearrange the files, you must drag clips according to your preference.
@@ -145,6 +175,9 @@ One can add numerous clips, but each clip will get placed after the previously a
 
 You have now successfully removed the unnecessary parts from video clips. You will need to detach audio files and add music and transitions to the clips. Tap on the text icon to add subtitles to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
 
 You can get various templates in the software, which you can use for the video.
@@ -155,6 +188,9 @@ One can utilize numerous software filters to add exciting colors to the clip. Dr
 
 Once you finish your edits, you can easily save and publish them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 In this article, you have learned about various video editors available on Windows 11 and an alternative. You can choose your video editors according to your preference and comfortability. Each video editor has unique features, and everyone can deliver the best user results. Clipchamp is the superior alternative option for previous Windows movie makers and comes with lots of features. If you want professional video editing, you can choose Clipchamp or [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -175,6 +211,9 @@ Tap on "New Project" and enter the video editor. Register your product by tappin
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim and edit the unwanted parts](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 One can add numerous clips, but each clip will get placed after the previously added clip. To rearrange the files, you must drag clips according to your preference.
@@ -183,6 +222,9 @@ One can add numerous clips, but each clip will get placed after the previously a
 
 You have now successfully removed the unnecessary parts from video clips. You will need to detach audio files and add music and transitions to the clips. Tap on the text icon to add subtitles to the video.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
 
 You can get various templates in the software, which you can use for the video.
@@ -225,3 +267,67 @@ In this article, you have learned about various video editors available on Windo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-instant-recovery-of-vanished-visuals/"><u>[New] 2024 Approved  Instant Recovery of Vanished Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-flat-canvas-elevating-text-to-new-heights/"><u>[New] Beyond Flat Canvas  Elevating Text to New Heights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-most-impressive-new-additions-decoded/"><u>[New] Facebook's Most Impressive New Additions Decoded</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensively-covering-minecraft-playback-setup/"><u>[Updated] 2024 Approved  Comprehensively Covering Minecraft Playback Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-scholarly-treatise-on-directed-user-engagement/"><u>[Updated] A Scholarly Treatise on Directed User Engagement</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-auditory-cataloguing-pc-noises-and-speech-recordings/"><u>[Updated] Auditory Cataloguing  PC Noises & Speech Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb-for-2024/"><u>[Updated] Rhythm Renders  Infusing Sound Into Your Visual Storytelling (FB) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-4k-spectacle-top-10-monitors-compatible-with-macs/"><u>2024 Approved  4K Spectacle  Top 10 Monitors Compatible with Macs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-easy-steps-to-record-voice-on-your-windows-11-pc/"><u>2024 Approved  5 Easy Steps to Record Voice on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-concise-introduction-to-mastering-final-cut-pro-techniques/"><u>2024 Approved  A Complete, Concise Introduction to Mastering Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-tutorial-starting-and-joining-a-zoom-meeting-on-android/"><u>2024 Approved  A Step-by-Step Tutorial  Starting & Joining a Zoom Meeting on Android</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-advertising-and-analytics-youtubes-universal-monetization-techniques/"><u>2024 Approved  Ace Advertising and Analytics  YouTube's Universal Monetization Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apple-musics-role-in-professional-video-production/"><u>2024 Approved  Apple Music's Role in Professional Video Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>2024 Approved  Authority List  Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-balanced-mounts-capture-clear-shots-every-time/"><u>2024 Approved  Best Balanced Mounts  Capture Clear Shots Every Time</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>2024 Approved  Bridging Beats  Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-360-immersion-to-vr-experience/"><u>2024 Approved  Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>2024 Approved  Create Captivating Photos  Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>2024 Approved  Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-overcoming-the-windows-11-photo-app-hurdles/"><u>2024 Approved  Overcoming the Windows 11 Photo App Hurdles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-secrets-of-snapping-finding-missing-private-images/"><u>2024 Approved  Secrets of Snapping  Finding Missing Private Images</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 Plus to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a14-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A14 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-selection-of-high-quality-tiktok-backdrops-for-2024/"><u>A Selection of High-Quality TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accompanying-audio-whatsapp-statement-boost/"><u>Accompanying Audio  WhatsApp Statement Boost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis-for-2024/"><u>Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augment-canon-imagery-unlimited-freebies-and-customized-purchases/"><u>Augment Canon Imagery  Unlimited Freebies & Customized Purchases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-engagement-with-these-premier-html5-players/"><u>Boost Engagement with These Premier HTML5 Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-boundless-imagination-with-these-android-graphics-tools/"><u>Boost Your Boundless Imagination with These Android Graphics Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-visual-transformation-software-for-pc-mac-linux/"><u>Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clearing-imagery-the-canva-method-for-clean-bounds/"><u>Clearing Imagery  The Canva Method for Clean Bounds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-pro-max-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-precise-notes-using-mematic-software-for-2024/"><u>Craft Precise Notes Using Mematic Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-memes-that-stand-out-the-9gag-way/"><u>Crafting Memes that Stand Out  The 9GAG Way</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-the-art-of-iphones-and-podcasts-downloading/"><u>Decoding the Art of iPhones and Podcasts Downloading</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deconstructing-the-best-podcast-title-examples/"><u>Deconstructing the Best Podcast Title Examples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digitalscreen-app-assessment-review/"><u>DigitalScreen App Assessment Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/download-without-risks-the-pathway-to-secure-free-vlc-on-macos/"><u>Download without Risks  The Pathway to Secure, Free VLC on macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drift-through-shadows-action-cam-prospects/"><u>Drift Through Shadows  Action Cam Prospects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dynamic-color-balance-helper/"><u>Dynamic Color Balance Helper</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ngs-in-the-virtual-playground-for-2024/"><u>Earnings in the Virtual Playground for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-methods-photoshopping-background-out-of-shots/"><u>Efficient Methods  Photoshopping Background Out of Shots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-voice-content-with-garageband-mastery/"><u>Elevate Your Voice Content with GarageBand Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enriching-your-projects-look-by-adding-unique-fonts/"><u>Enriching Your Project's Look by Adding Unique Fonts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/epitome-of-plot-crafting-through-eight-cinematic-fields/"><u>Epitome of Plot Crafting Through Eight Cinematic Fields</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-best-free-video-effect-websites-reviewed-and-rated-by-experts/"><u>Essential Guide  Best Free Video Effect Websites Reviewed & Rated by Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-sites-to-download-stylish-text-images/"><u>Essential Sites to Download Stylish Text Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-winpodcast-software-listings/"><u>Essential WinPodcast Software Listings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-majority-of-mobile-glitches-with-just-a-restart/"><u>Fixing the Majority of Mobile Glitches with Just a Restart</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-page-to-picture-writing-a-film/"><u>From Page to Picture  Writing a Film</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>How Can We Bypass ZTE Nubia Flip 5G FRP?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-efface-license-end-soon-warning-from-your-pc/"><u>How To Efface License End Soon Warning From Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-v30t-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme V30T?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-evaluating-portability-mobile-versus-connected-experience/"><u>How to Pick a Perfect Virtual Reality Device  Evaluating Portability (Mobile) Versus Connected Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/journeying-through-yesteryears-facebook-posts-on-mobilelaptop-for-2024/"><u>Journeying Through Yesteryear's Facebook Posts on Mobile/Laptop for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-performance-memory-for-a7s-ii/"><u>Peak Performance Memory for A7S II</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-installed-nvidia-drivers-again/"><u>Successfully Installed NVIDIA Drivers Again</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unite-film-selections-with-playlist-accumulation/"><u>Unite Film Selections with Playlist Accumulation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/what-you-should-expect-to-make-as-a-podcaster/"><u>What You Should Expect to Make as a Podcaster</u></a></li>
+</ul></div>

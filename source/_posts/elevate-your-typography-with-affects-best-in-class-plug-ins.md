@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Your Typography with Affects' Best-in-Class Plug-Ins\""
-date: 2024-05-24T15:02:55.324Z
-updated: 2024-05-25T15:02:55.324Z
+date: 2024-07-27T08:49:05.017Z
+updated: 2024-07-28T08:49:05.017Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Elevate Your Typography with Affects' Best-in-Class Plug-Ins\""
 excerpt: "\"This Article Describes Elevate Your Typography with Affects' Best-in-Class Plug-Ins\""
 keywords: "\"Elevated Typography,Top Typography Tools,Premium Font Effects,Excellent Type Design,High-Quality Plugin,Affects Plugins,Best Typography Tools\""
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Elevate Your Typography with Affects' Best-in-Class Plug-Ins
@@ -26,6 +26,9 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -34,14 +37,32 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
 ## TextBox
@@ -50,16 +71,28 @@ Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -80,8 +113,14 @@ Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
 
 This is a bundle of more than 80 different templates to add text effects to any text in After Effects. All the templates in the bundle are easily customizable and the plugin is very easy to use, allowing you to create amazing text effects in just a few clicks. The templates are modeled from various titles, quotes, and stories, so there is a little bit of something for everyone. Plus, the bundle gets constant updates and you are likely to get new templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -132,3 +171,46 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-jams-and-indie-project-highlights/"><u>[New] In 2024, Game Jams and Indie Project Highlights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-makeup-maverick-innovative-looks-and-techniques-unveiled/"><u>[New] Makeup Maverick  Innovative Looks & Techniques Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-knowledge-for-optimal-valheim-harvest/"><u>[Updated] 2024 Approved  Essential Knowledge for Optimal Valheim Harvest</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>[Updated] 2024 Approved  Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-your-world-maccam-techniques-unveiled-for-2024/"><u>[Updated] Capturing Your World  MacCam Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-steps-for-turning-pin-videos-into-music-files/"><u>[Updated] Ultimate Steps for Turning Pin Videos Into Music Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-memetic-design-innovators-choices-for-2024/"><u>10 Memetic Design Innovators' Choices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-lighting-strategies-for-superior-iphone-photos/"><u>2024 Approved  Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-asmr-mastery-your-guide-to-nighttime-relaxation/"><u>2024 Approved  ASMR Mastery  Your Guide to Nighttime Relaxation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-webcams-for-podcast/"><u>2024 Approved  Best Webcams for Podcast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-speed-for-periscope-live-video/"><u>2024 Approved  Boosting Speed for Periscope Live Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-inspire-listenership-with-a-great-soundbite-teaser/"><u>2024 Approved  How to Inspire Listenership with a Great Soundbite Teaser</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-powerdirectors-complete-blueprint-for-success/"><u>2024 Approved  PowerDirector's Complete Blueprint for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>2024 Approved  Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-easy-steps-to-a-picture-perfect-instagram-group/"><u>5 Easy Steps to a Picture-Perfect Instagram Group</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-introduction-to-advanced-features-in-final-cut-pro/"><u>A Complete Introduction to Advanced Features in Final Cut Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-peek-into-the-viral-world-of-stock-photo-memes/"><u>A Peek Into the Viral World of Stock Photo Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-strategic-guide-to-unlocking-worlds-secrets-via-vr-for-2024/"><u>A Strategic Guide to Unlocking World's Secrets via VR for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplifying-photos-through-acoustics-internet-based-for-2024/"><u>Amplifying Photos Through Acoustics, Internet-Based for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-a-savvy-user-of-google-photos-for-2024/"><u>Becoming a Savvy User of Google Photos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-lenses-for-4k-professional-production/"><u>Best Lenses for 4K Professional Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-no-cost-cross-platform-laptop-dvd-decoders/"><u>Best No-Cost, Cross-Platform Laptop DVD Decoders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-way-to-use-zoom-for-skype-for-2024/"><u>Best Way to Use Zoom for Skype for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chill-championships-highlighting-cold-climates-sports-for-2024/"><u>Chill Championships  Highlighting Cold Climates Sports for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compreranal-guide-to-best-free-budget-friendly-lut-sources-for-2024/"><u>Compreranal Guide to Best Free, Budget-Friendly LUT Sources for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-professional-tiktoks-mastery-of-numerical-changes-for-2024/"><u>Craft Professional TikToks  Mastery of Numerical Changes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-memorable-content-with-personalized-gifs-for-2024/"><u>Crafting Memorable Content with Personalized GIFS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-auditory-package-for-boxings/"><u>Crafting the Perfect Auditory Package  For Boxings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drafting-an-exciting-cinema-flashbacks-series/"><u>Drafting an Exciting Cinema Flashbacks Series</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C02 Phones with/without a PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphone-imessages-reach-their-destination-a-comprehensive-guide/"><u>How to Ensure Your iPhone iMessages Reach Their Destination: A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audio-adventures-begin-top-10-melodies-for-podcast-intros/"><u>In 2024, Audio Adventures Begin  Top 10 Melodies for Podcast Intros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fixing-disconnected-headphone-unit/"><u>In 2024, Fixing Disconnected Headphone Unit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oneplus-ace-3-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your OnePlus Ace 3 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-live-online-learning-captures/"><u>In 2024, Live Online Learning Captures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Craft Meme Magic, Adobe Edition"
-date: 2024-05-24T14:14:02.225Z
-updated: 2024-05-25T14:14:02.225Z
+date: 2024-07-27T07:23:11.103Z
+updated: 2024-07-28T07:23:11.103Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Craft Meme Magic, Adobe Edition"
 excerpt: "This Article Describes Craft Meme Magic, Adobe Edition"
 keywords: "Craft Memes Adobe,Meme Magic Adobe,Adobe Meme Art,Memes with Adobe,Creative Adobe Memes,Adobe Meme Crafts,Magic Meme Design Adobe"
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Craft Meme Magic, Adobe Edition
@@ -22,6 +22,9 @@ Memes are a common, well-known, and succinct way to communicate various ideas to
 
 Adobe has been making tons of tools for data processing, storing and using. These tools can be used as modern-day meme generators. Using these tools, we can be to make a photoshop meme or adobe meme. Adobe Valorant Meme is quite famous these days where an animation aspect is added to the memes. Adobe can be made use of in order to create after effects memes and also for making premiere pro memes. As under, a few methods of meme creation using Adobe applications are discussed.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1: Meme Making using Adobe Express
 
 The task-based, unified, and online mobile app Adobe Express (formerly known as Adobe Spark) was created by Adobe Inc. Adobe Express uses drag and drop to make it simple for users to create tunning multimedia content by starting with hundreds of famous templates. It allows users to produce a variety of things, including social network posts, articles, invitations, and marketing materials like flyers, banners, and logos. You may create your own memes for any occasion using the Adobe Express meme maker.
@@ -38,6 +41,9 @@ Step1 Initially, you can search for meme in the task bar. After you click on it,
 
 Step2 Any desired design can be made on the meme and text can be written on any part of the template. You can also upload your own template design.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select a size adobe express](https://images.wondershare.com/filmora/article-images/2022/07/select-a-size-adobe-express.jpg)
 
 Step3 There are a number of actions that can be applied on the template, in the image below you can see taskbars on both the sides of the window. After you are done and satisfied with the design; you can save the project and download it for yourself.
@@ -46,18 +52,27 @@ Step3 There are a number of actions that can be applied on the template, in the 
 
 Step4 Even if you do not download it, it will be stored in the Adobe cloud and you can retrieve it anywhere using your email login.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Using Photoshop for Meme Making
 
 Adobe Photoshop was created as a graphic manipulator and modifier; and released by Adobe Inc. for Windows and macOS. Since the release, the program has progressed into an industry standard for editing images, videos as well as all forms of digital art. Adobe Photoshop supports masks, alpha compositing, and a variety of color models, including RGB, CMYK, CIELAB, spot color, and duotone. It can also edit and compose pictures and add multiple layers to it.
 
 To accommodate these functionalities, Photoshop uses special formats of PSD and PSB file. Photoshop has limited capabilities for editing or rendering text, vector graphics (particularly using clipping path for the latter), 3D graphics, and video in addition to make images. Along with all other incredible functions photoshop can perform, it can be easily used as a meme maker.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![photoshop meme maker](https://images.wondershare.com/filmora/article-images/2022/07/photoshop-meme-maker.jpg)
 
 **Steps to Use Adobe Photoshop as Meme Maker**
 
 Step1 Launch a new Photoshop project. Set your image's dimensions to any appropriate size to provide for enough room, preferably 700 x 700 pixels for memes, especially. By pressing Ctrl+I, reverse the background into the black.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open new docs ps](https://images.wondershare.com/filmora/article-images/2022/07/open-new-docs-ps.jpg)
 
 Step2 Download the image you want to use and drag it onto the Photoshop workspace. Select your image in the layer panel after that, then adjust the image's size to fit in the appropriate location. Create the text and place it above the picture. Use the Duplicate Layer option to duplicate the top text rather than writing the bottom content.
@@ -68,10 +83,16 @@ Step3 The meme can then be enhanced by applying different actions after selectio
 
 Step4 Finally, save the meme. Go to file and choose "save". Select any extension you want and save.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Create Meme with After Effects
 
 Adobe After Effects is normally used for staging of a film, video game, and television production. The key objectives behind making after effects were to make a motion graphics, digital visual effects, and compositing technology. Keying, tracking, compositing, and animation are some of the tasks that can be performed with the help of After Effects. A basic media transcoder, non-linear editor and audio editor are also included in its list of capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![create meme in after effects](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-in-after-effects.jpg)
 
 **Steps to Use Adobe After Effects as Meme Maker**
@@ -84,6 +105,18 @@ Step2 If you want to adjust the size of the background layer, you can unlock it 
 
 Step3 Select your image in the layer panel and then change its size to fit in the required spot. Write the text for the top of the image. Instead of typing the bottom content, use the Duplicate Layer option to duplicate the top text and then change it, as required.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change image size ae](https://images.wondershare.com/filmora/article-images/2022/07/change-image-size-ae.jpg)
 
 Step4 After embellishments, you can save the file in your desired extension: By clicking on the file button and saving it.
@@ -96,12 +129,23 @@ Adobe Premiere Pro, created by Adobe Inc. is a non-linear video editing product 
 
 It can be used to generate new or edited versions of videos, that can be exported as a specific format required for distribution. It can also be used to import video, audio, and images. Various films, photos, and audio files can be put together to create videos using Premiere Pro. Videos can have titles and motion graphics added to them, and filters and other effects can also be used.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![create meme adobe premiere](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-adobe-premiere.jpg)
 
 **Steps to Use Adobe Premiere Pro as Meme Maker:**
 
 Step1 By clicking on ‘project’, launch a new Premiere Pro project Set the dimensions of your image to a reasonable size.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch new project pr](https://images.wondershare.com/filmora/article-images/2022/07/launch-new-project-pr.jpg)
 
 Step2 After downloading the selected image, drag it onto the Premiere pro workspace. After choosing your image in the layer panel, adjust its size to make it fit in the designated area.
@@ -110,6 +154,9 @@ Step2 After downloading the selected image, drag it onto the Premiere pro worksp
 
 Step3 Create the project by clicking on ‘create’ which will complete the work.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![start creating meme premiere](https://images.wondershare.com/filmora/article-images/2022/07/start-creating-meme-premiere.jpg)
 
 ## Part 5: Adobe Alternative to Create Memes - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -138,6 +185,9 @@ Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 There are a number of different tools available on internet for meme making. And from this article, it is clear that they are quite easily available. Adobe has been the uncrowned king of media applications. All the adobe tools which were mentioned in this article are very meticulously crafted, each tool has its own extensive detail and requires good practice to understand it. Because of this vast functionality and very detailed setting, Adobe tools are difficult to use at first but with practice they prove to be the best of all. But for a quick job or a first timer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is much simpler and easier to work with.
@@ -158,6 +208,9 @@ Step2 Add your desired text and put it in the right position.
 
 Step3 Complete your meme and download it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 ## The Bottom Line
@@ -188,3 +241,54 @@ There are a number of different tools available on internet for meme making. And
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-free-legal-chants-and-sounds-for-meditation-practice/"><u>[New] 10 Free Legal Chants and Sounds for Meditation Practice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-top-value-hd-cameras-for-extreme-sports/"><u>[New] 10 Top Value HD Cameras for Extreme Sports</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-methods-for-extracting-vimeo-sound-tracks/"><u>[New] 2024 Approved  Efficient Methods for Extracting Vimeo Sound Tracks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>[New] 2024 Approved  The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-2024s-guide-to-superior-soundtracks-adding-srt-to-mp4-files/"><u>[New] 2024’S Guide to Superior Soundtracks – Adding SRT to MP4 Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-high-impact-spotify-marketing-plans/"><u>[New] Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-most-powerful-alternatives-to-vimeo-cameo-editor/"><u>[New] In 2024, Unveiling the Most Powerful Alternatives to Vimeo Cameo Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skys-canvas-transforming-drones-into-dynamic-videos/"><u>[New] Sky's Canvas  Transforming Drones Into Dynamic Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-stock-photos-without-watermarks-a-guide-for-2024/"><u>[New] Stock Photos Without Watermarks – A Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elite-selection-top-downloader-apps-for-vimeo-videos/"><u>[Updated] 2024 Approved  Elite Selection  Top Downloader Apps for Vimeo Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-accelerate-with-these-key-windows-10-tricks/"><u>[Updated] Accelerate with These Key Windows 10 Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-breaking-down-sony-bdp-s6700-updates/"><u>[Updated] Breaking Down Sony BDP-S6700 Updates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-camera-mastery-expert-tips-for-selecting-best-iphone-views/"><u>[Updated] Camera Mastery  Expert Tips for Selecting Best iPhone Views</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-soundtracks-blending-beats-with-video-on-windows-11/"><u>[Updated] Crafting Soundtracks  Blending Beats with Video on Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discovering-the-worlds-most-popular-shorter-videos-free-for-2024/"><u>[Updated] Discovering the World's Most Popular Shorter Videos (FREE) for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ideal-6-economical-projector-brands-for-4k/"><u>[Updated] In 2024, Ideal 6 Economical Projector Brands for 4K</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-smooth-steam-gaming-recordings-guide/"><u>[Updated] In 2024, Smooth Steam Gaming Recordings Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>[Updated] Lens Leaderships  Top Ten Camera Lens Selections for Photographers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-parrot-mambo-complete-review/"><u>[Updated] Parrot Mambo Complete Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-the-essential-audio-interface-for-your-podcaster/"><u>2024 Approved  The Essential Audio Interface for Your Podcaster</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-best-photo-editor-for-android-phone/"><u>5 Best Photo Editor for Android Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>Audio Formatting Guide  From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/banish-zoo-call-audio-glitches-simple-fixes-for-2024/"><u>Banish Zoo Call Audio Glitches  Simple Fixes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-showcasing-book-trailers-for-2024/"><u>Best Showcasing Book Trailers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-mode-switch-failures/"><u>Bypassing Windows 11 Mode Switch Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/camera-prospectus-ranking-the-top-5-superior-motion-cameras-for-2024/"><u>Camera Prospectus  Ranking the Top 5 Superior Motion Cameras for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple/"><u>Expert Tips  Top 6 Apps That Make Storing LinkedIn Videos Simple</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-magix-pixel-mastery-review/"><u>Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-apex-cameras-capturing-sporting-triumphs/"><u>In 2024, Apex Cameras Capturing Sporting Triumphs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-central-luts-in-action-movie-visuals-enhancement/"><u>In 2024, Central Luts in Action  Movie Visuals Enhancement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/kinemasters-secret-to-meme-making-mastery/"><u>KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mac-users-the-best-5-streaming-platforms-revealed/"><u>Mac Users  The Best 5 Streaming Platforms Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-a-world-of-videos-made-easy-with-vidas-aid/"><u>Navigating a World of Videos Made Easy with Vida's Aid</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pros-greatest-hits-10-notable-films-you-need-to-see/"><u>New In 2024, Final Cut Pros Greatest Hits 10 Notable Films You Need to See</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-the-art-of-audio-in-audacity-professionally/"><u>Perfecting the Art of Audio in Audacity Professionally</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-audio-narrative-compositions/"><u>Premium Audio Narrative Compositions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-14-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on 14 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quintessential-gopro-modifications/"><u>Quintessential Gopro Modifications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smartphonedslr-camerass-optimal-gimbals-uncovered-1-10/"><u>Smartphone/DSLR Cameras's Optimal Gimbals Uncovered  #1-#10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategic-pricing-analysis-cloud-services-financial-face-for-2024/"><u>Strategic Pricing Analysis  Cloud Services' Financial Face for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-easy-path-to-professional-instagram-collage/"><u>The Easy Path to Professional Instagram Collage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-elite-screen-hunt-10-monitors-for-your-mac/"><u>The Elite Screen Hunt  #10 Monitors for Your Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/todays-vr-hardware-review/"><u>Today's VR Hardware Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-backdrops-for-dynamic-streaming/"><u>Top Backdrops for Dynamic Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-handheld-video-stabilizer-equipment-to-help-shoot-smooth-scenes/"><u>Top Handheld Video Stabilizer Equipment To Help Shoot Smooth Scenes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15 Plus</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-video-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Video Generator? | Wondershare Virbo Glossary</u></a></li>
+</ul></div>

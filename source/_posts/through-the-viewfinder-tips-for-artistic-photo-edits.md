@@ -1,7 +1,7 @@
 ---
 title: "\"Through the Viewfinder  Tips for Artistic Photo Edits\""
-date: 2024-05-24T14:39:21.255Z
-updated: 2024-05-25T14:39:21.255Z
+date: 2024-07-27T08:07:45.481Z
+updated: 2024-07-28T08:07:45.481Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Through the Viewfinder: Tips for Artistic Photo Edits\""
 excerpt: "\"This Article Describes Through the Viewfinder: Tips for Artistic Photo Edits\""
 keywords: "VFPhotoEditingHacks,ArtPhotoshopTips,CreativePhotoCorrection,ViewfinderEditTricks,PhotoArtisticEnhancement,EditsForVisualStorytelling,LensToCanvasAdjustment"
-thumbnail: https://www.lifewire.com/thmb/5gDgaYKc1yghtNmOZoUL0vdX3g4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-01-28at1.31.59PM-51c7b26d3d0e4393a587f0fd791f18a8.png
+thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979bbda283730a317cf601feb3.png
 ---
 
 ## Through the Viewfinder: Tips for Artistic Photo Edits
@@ -36,6 +36,9 @@ Luckily, every photography editing software offers the primary crop tool. You ca
 
 ![crop the image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Presets are your Friends
 
 When processing multiple images at once, the editing process can be tiring and bothersome. To help you out, most photography editing software comes with a range of presets and tools you can apply to your photos. If all your images need similar changes, these presets can come in handy. You can also create the perfect combination of settings yourself and apply them instantly.
@@ -44,20 +47,32 @@ When processing multiple images at once, the editing process can be tiring and b
 
 Image alt: use presets for image editing
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Play With the Colors
 
 If you look around closely, you can find that everything is associated with a specific color. From the lush green grass to the vibrant dreamy blue skies, everything has its shade. But upon closer inspection, you will find that it’s not just a single constituent color. The grass’s green contains shades of yellow, brown, and orange too.
 
 If you train your eye to see these hidden colors, you can easily make your images pop. Under the right lighting, you can see the various shades underlying seemingly monochromatic things. You can play with these colors using simple color grading techniques to bring a more vibrant look to your image. Adjust the vibrancy, saturation, and tint until you get the look you want in your image.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![play with the image colors](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Adjust the Contrast
 
 One of the main reasons your images are looking flat is low contrast. Without a clear difference between foregrounds and backgrounds, the image can seemingly lack focus. You can play with the blacks and whites to adjust the contrast in your photo. Some of the best photography editing software offers a contrast slider that can help refine your image.
 
 ![adjust the image contrast](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Try Overlays
 
 Layering different textures and images to your photo is a great way to create visual interest in your image. Overlays are easy and helpful tools that are present in nearly all photography editing apps. You can use these to set the mood and create your desired atmosphere in the image.
@@ -72,14 +87,23 @@ Want to create a balanced and stable look for your image? You can easily achieve
 
 You can choose a baseline in your image and then adjust it to straighten the image. Setting the skew during post-processing can help you create impactful images. Usually, the horizon is used as the baseline that needs straightening. You can also choose any other line in your photo and make use of the grid to rotate your image until it is in order.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![straighten the horizon](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-6.jpg)
 
 ### 7\. Split the Tone
 
 During the photography editing process, a little split-tone can go a long way. This means you can add specific colors to the shadows and highlights of your image. You can play with these colors to make your photos fall on the warm or cold end of the spectrum. Split tone can get out of hand pretty fast, so remember to keep it subtle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![use split tone feature](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Know your White Balance
 
 Adjusting your image's white balance is crucial for the photography editing process. All the light sources around you have their specific temperatures. They can thus bring a specific color temperature to the photo. Cameras are usually set at auto white balance, but you can alter that in the post-processing to satisfy your requirements.
@@ -96,10 +120,17 @@ Most of the prime photography editing apps offer spot removal tools. You will of
 
 ![remove the spots from image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. Don’t Take It Too Far
 
 It is quite easy to get carried away during photography editing. Remember not to take your editing a step too far. Try to keep the natural element of the image intact and avoid overdoing the contrast and color saturation. Heavy editing can often cause a perfectly good image to fall apart. Steer clear of unnatural editing and strong color grading.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![do natural image editing](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-10.jpg)
 
 ## Wrapping Up
@@ -132,3 +163,38 @@ You can try the photography editing tips mentioned above to enhance your images 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-accelerate-document-creation-learning-ms-words-speech-feature/"><u>[New] Accelerate Document Creation  Learning MS Word's Speech Feature</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-affordable-customizable-templates-to-elevate-your-biz-talks/"><u>[New] Affordable, Customizable Templates to Elevate Your Biz Talks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-color-grading-plugins-top-15-luts-for-action-cams/"><u>[New] Best Color Grading Plugins  Top 15 LUTs For Action Cams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>[New] Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-becoming-a-pro-in-video-game-broadcasts/"><u>[New] In 2024, Becoming a Pro in Video Game Broadcasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-capture-save-your-guide-to-androidmac-video-savings/"><u>[New] In 2024, Capture, Save  Your Guide to Android/Mac Video Savings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-beam-into-collaborative-spaces-within-tiktok-for-2024/"><u>[Updated] Beam Into Collaborative Spaces Within TikTok for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-cloud-keepers-value-deal-economical-mass-storage/"><u>[Updated] Cloud Keepers' Value Deal  Economical Mass Storage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-marketing-made-simple-free-toolkit-unlocks-potential-for-2024/"><u>[Updated] FB Video Marketing Made Simple  Free Toolkit Unlocks Potential for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat-for-2024/"><u>[Updated] Identifying Unresponsiveness  Signs Someone Has Blocked on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-efficient-ad-elimination-select-7-android-adblockers/"><u>[Updated] In 2024, Efficient Ad Elimination  Select 7 Android AdBlockers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-the-world-of-android-video-snapshots/"><u>[Updated] Navigating the World of Android Video Snapshots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-collage-alchemy-transforming-scraps-into-art/"><u>2024 Approved  Collage Alchemy  Transforming Scraps Into Art</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-implementing-visual-learning-strategies-in-classrooms/"><u>2024 Approved  Implementing Visual Learning Strategies in Classrooms</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-world-within-reach-mondly-languages-two-year-dream-quest/"><u>A World Within Reach: Mondly Languages, Two-Year Dream Quest</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-asmr-capturing-selecting-premium-gear-for-budget-conscious-users-for-2024/"><u>Affordable ASMR Capturing  Selecting Premium Gear for Budget-Conscious Users for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/backpack-essentials-for-filming-tours/"><u>Backpack Essentials for Filming Tours</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/demystifying-google-photos-advanced-options/"><u>Demystifying Google Photos' Advanced Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-graphic-design-skills-master-canvas-background-trimming/"><u>Elevate Your Graphic Design Skills  Master Canva's Background Trimming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-building-a-stunning-video-slideshow-for-2024/"><u>Final Cut Pro Tutorial Building a Stunning Video Slideshow for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1716287834740-how-to-mass-download-tiktok-videos/"><u>How To Mass Download TikTok Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/htc-vive-unveiled-mastering-your-3d-world/"><u>HTC Vive Unveiled  Mastering Your 3D World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories/"><u>Illuminating Interactions  Mastering Animate Texts in Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>In 2024, Boosting Visual Impact  The 11 Best Practices for Color Workflow</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-c67-4g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-gimbals-seamless-video-on-smartphones-and-dslrs/"><u>Innovative Gimbals  Seamless Video on Smartphones & DSLRs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laughlineart-memogallery/"><u>LaughLineArt  MemoGallery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-written-by-john-smith-phd/"><u>Step-By Written by John Smith, PhD</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/testimonials-on-screen-marketings-best-friend/"><u>Testimonials on Screen  Marketing's Best Friend</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-speaks-inspirational-metaverse-quotes-with-arvr/"><u>The Future Speaks  Inspirational Metaverse Quotes with AR/VR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-secrets-to-building-trust-with-fb-giveaways/"><u>Unlocking the Secrets to Building Trust with FB Giveaways</u></a></li>
+</ul></div>

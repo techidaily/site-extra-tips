@@ -1,7 +1,7 @@
 ---
 title: "Innovative Photography with Insights Into LUT Use"
-date: 2024-05-24T14:42:16.101Z
-updated: 2024-05-25T14:42:16.101Z
+date: 2024-07-27T08:12:51.085Z
+updated: 2024-07-28T08:12:51.085Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Innovative Photography with Insights Into LUT Use"
 excerpt: "This Article Describes Innovative Photography with Insights Into LUT Use"
 keywords: "PhotoLUT Tech,Creative Photoshoot,Color Grading Basics,Innovative Imaging,Photography Insight,LUT Applications,Image Processing Tips"
-thumbnail: https://www.lifewire.com/thmb/Y2dFEkloSSnyILemqVCv7_6sfHI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twittermute-5bc42bbd46e0fb002679ac08.jpg
+thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fdbe1e0332d4aba568afc6cd5.jpg
 ---
 
 ## Innovative Photography with Insights Into LUT Use
@@ -50,12 +50,18 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -74,6 +80,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +90,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +107,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +120,10 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +156,37 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-cameras-for-sports-capturing-edge/"><u>[New] Best Cameras for Sports Capturing Edge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-artisanaiphotostudio-seamless-image-magic/"><u>[Updated] ArtisanAiPhotoStudio  Seamless Image Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-photo-realms-on-your-system/"><u>[Updated] Bridging Photo Realms on Your System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-canva-guide-swiftly-erasing-image-borders/"><u>[Updated] Canva Guide  Swiftly Erasing Image Borders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-masterful-snapchat-editing/"><u>[Updated] In 2024, Step-by-Step Guide to Masterful Snapchat Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-maximum-comfort-in-vr-landscape/"><u>2024 Approved  Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-wirecast-top-video-broadcasting-software/"><u>2024 Approved  Beyond WireCast  Top Video Broadcasting Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>2024 Approved  Capturing Moments Like Never Before  Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>2024 Approved  Craftsmanship in Photos & Videos  The Ultimate 8 Mobile Enhancement Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-snapshare-success-the-videoviral-story/"><u>2024 Approved  SnapShare Success  The #VideoViral Story</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>Boosting Engagement  The Key to Successful TikTok Unpack Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklecanvas-funny-images-for-social-media-sharing/"><u>ChuckleCanvas  Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conceal-visages-with-confidence-using-these-select-apps/"><u>Conceal Visages with Confidence Using These Select Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-beautiful-image-arrangements-with-iphone-for-2024/"><u>Crafting Beautiful Image Arrangements with iPhone for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortlessly-enhance-your-urdu-skills-in-minutes/"><u>Effortlessly Enhance Your Urdu Skills in Minutes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-g24-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto G24 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-infuse-your-iphone-pics-with-movement/"><u>How to Infuse Your iPhone Pics with Movement</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-infinix-by-fonelab-android-recover-video/"><u>How to recover old videos from your Infinix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-xs-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone XS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-secrets-of-success-converting-ipv-video-files-with-flair/"><u>In 2024, Secrets of Success  Converting IPV Video Files with Flair</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-motion-graphics-for-texts/"><u>Masterful Motion Graphics for Texts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-collection-of-animated-texts/"><u>Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-applying-skin-secrets-establishing-an-online-beauty-platform-for-2024/"><u>The Art of Applying Skin Secrets  Establishing an Online Beauty Platform for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-metaverse-journey-begins-exploring-6-engrossing-instances/"><u>The Metaverse Journey Begins  Exploring 6 Engrossing Instances</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-science-of-quadcopters-understanding-their-flight-patterns/"><u>The Science of Quadcopters  Understanding Their Flight Patterns</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-premium-podcasters-microphones/"><u>Top 10 Premium Podcaster's Microphones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-8-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>

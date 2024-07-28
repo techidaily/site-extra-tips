@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Avoiding Simulated Reality Ills  Strategies and Tips\""
-date: 2024-05-24T13:59:23.003Z
-updated: 2024-05-25T13:59:23.003Z
+date: 2024-07-27T06:57:42.416Z
+updated: 2024-07-28T06:57:42.416Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes In 2024, Avoiding Simulated Reality Ills: Strategies and Tips\""
 excerpt: "\"This Article Describes In 2024, Avoiding Simulated Reality Ills: Strategies and Tips\""
 keywords: "\"Avoid Real vs Virtual,Reality Wellness Guide,Simulation Harm Prevention,Tips to Avoid Sim-Reality,Healthy Mind Strategies,Ills of Simulated Worlds,Staying Grounded Techniques\""
-thumbnail: https://www.lifewire.com/thmb/l4Zd7Ii3jMW_aPJ27JJQRexiIyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1132289824-17803006e92047d1994c21404918c781.jpg
+thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e9351dbafbf801be610ecb70.jpg
 ---
 
 ## Avoiding Simulated Reality Ills: Strategies and Tips
 
 # How to reduce Virtual reality (VR) sickness
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -52,6 +55,9 @@ thumbnail: https://www.lifewire.com/thmb/l4Zd7Ii3jMW_aPJ27JJQRexiIyg=/400x300/fi
 
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
@@ -68,6 +74,10 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -98,6 +108,18 @@ Follow @Benjamin Arango
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -110,6 +132,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -136,6 +161,9 @@ Follow @Benjamin Arango
 
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
@@ -152,6 +180,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -172,6 +203,10 @@ Follow @Benjamin Arango
 
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
@@ -214,3 +249,58 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capture-your-screen-on-chromebook-methods-4-you/"><u>[New] 2024 Approved  Capture Your Screen on Chromebook  Methods 4 You</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[New] Aperture Allstars  The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bebop-2s-aviary-artistry-reviewed/"><u>[New] Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-broadcast-brains-vs-bodies-finding-the-frontier/"><u>[New] Broadcast Brains Vs Bodies  Finding the Frontier</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chromes-pip-magic-for-seamless-video-playback/"><u>[New] Chrome's PIP Magic for Seamless Video Playback</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-fast-lanes-migrating-iphone-media-to-a-desktop-for-2024/"><u>[New] Fast Lanes  Migrating iPhone Media to a Desktop for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-keeping-track-of-your-google-voice-conversations-for-2024/"><u>[New] Keeping Track of Your Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-audio-techniques-in-audacity/"><u>[New] Professional Audio Techniques in Audacity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-viral-ventures-from-likes-to-lore-in-the-facebook-landscape/"><u>[New] Viral Ventures  From Likes to Lore in the Facebook Landscape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asmr-a-sound-path-to-wellness/"><u>[Updated] ASMR  A Sound Path to Wellness?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-avoiding-common-pitfalls-in-digital-marketing-journey/"><u>[Updated] Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-online-vaults-exclusive-ringtone-archives/"><u>[Updated] Best Online Vaults  Exclusive Ringtone Archives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brightening-tactics-for-android-video-enthusiasts/"><u>[Updated] Brightening Tactics for Android Video Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-filmmakers-companion-for-advanced-lut-expertise/"><u>2024 Approved  A Filmmaker's Companion for Advanced LUT Expertise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerate-creativity-in-photo-editing-using-pixlr/"><u>2024 Approved  Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deeper-insight-into-augmented-reality-stickers-by-google-for-2024/"><u>A Deeper Insight Into Augmented Reality Stickers by Google for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/benq-bl2711u-elevating-professional-monitors-to-new-heights-in-4k-realms/"><u>BenQ BL2711U  Elevating Professional Monitors to New Heights in 4K Realms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-free-webm-players-for-2024/"><u>Best Free WebM Players for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-12t-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 12T Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-your-brand-as-a-reviewer-of-cars-and-automotive-gear-for-2024/"><u>Building Your Brand as a Reviewer of Cars and Automotive Gear for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/co-marketing-brands-and-youtubes-dynamic-duo/"><u>Co-Marketing  Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-unique-logos-using-complimentary-stock-graphics/"><u>Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-video-filmmaking-select-smartphones-with-pinnacle-ois-tech/"><u>Cutting-Edge Video Filmmaking  Select Smartphones With Pinnacle OIS Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-review-of-vsco-editing-techniques-and-tools/"><u>Detailed Review of VSCO Editing Techniques and Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-5-background-swap-apps-compatible-with-iphones-x-7-8/"><u>Elite 5 Background Swap Apps Compatible with iPhones (X, 7, 8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experience-the-future-of-mobile-gaming-iphone-vr-leaderboard/"><u>Experience the Future of Mobile Gaming  IPhone VR Leaderboard</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-t2-pro-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo T2 Pro 5G? Try These Fixes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-video-editing-for-beginners-a-step-by-step-guide-to-getting-started/"><u>Free Video Editing for Beginners A Step-by-Step Guide to Getting Started</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-quality-hd-videos-at-a-tap-top-10-android-choices/"><u>High-Quality Hd Videos at a Tap  Top 10 Android Choices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-oneplus-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from OnePlus</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-shoot-hdr-photos-with-iphone/"><u>How to Shoot HDR Photos with iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-trim-youtube-videos/"><u>How to Trim YouTube Videos?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-best-shot-fixer-duo/"><u>In 2024, Android's Best Shot Fixer Duo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-color-grading-plugins-top-15-luts-for-action-cams/"><u>In 2024, Best Color Grading Plugins  Top 15 LUTs For Action Cams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/joyous-film-grabber-assessment/"><u>Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-narrative-construction-sphere/"><u>Leading Narrative Construction Sphere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-high-quality-image-browser/"><u>Optimal High-Quality Image Browser</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixels-personal-soundtrack-a-selection-guide/"><u>Pixel's Personal Soundtrack  A Selection Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-fast-windows-photo-displayer/"><u>Prime Fast Windows Photo Displayer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-steadicam-devices-for-drones-in-filmmaking/"><u>Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-shifts-creating-timelapse-videos-on-samsung-devices/"><u>Seamless Shifts  Creating Timelapse Videos on Samsung Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secrets-unveiled-successful-podcast-on-apple-store/"><u>Secrets Unveiled  Successful Podcast on Apple Store</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/step-by-step-tips-for-captivating-igtv-backgrounds-for-2024/"><u>Step-By-Step Tips for Captivating IGTV Backgrounds for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-virtuosity-the-best-sites-and-apps-for-frames-on-photos/"><u>Visual Virtuosity  The Best Sites & Apps for Frames on Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vr-comfort-mastery-top-10-strategies/"><u>VR Comfort Mastery  Top 10 Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/watermark-wisdom-for-every-photographers-toolkit/"><u>Watermark Wisdom for Every Photographer's Toolkit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-apple-iphone-12-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>Wondering the Best Alternative to Hola On Apple iPhone 12? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>

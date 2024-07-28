@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Achieving Soft Sound Dissolution in Audacity"
-date: 2024-05-24T16:07:13.732Z
-updated: 2024-05-25T16:07:13.732Z
+date: 2024-07-27T10:43:01.972Z
+updated: 2024-07-28T10:43:01.972Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Achieving Soft Sound Dissolution in Audacity"
 excerpt: "This Article Describes In 2024, Achieving Soft Sound Dissolution in Audacity"
 keywords: "Audacity Audio Smoothness,Dissolve Audio Gently,Clear Sound Transition,Tranquil Sound Editing,Soft Volume Mixing,Peaceful Audio Shift,Easy Dissolve in Sound"
-thumbnail: https://www.lifewire.com/thmb/TTQs-owdidJ3vVxwHNq2QLaJE5k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1124963889-d2e00bd6bec643449b4fe87ca86104d8.jpg
+thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
 ## Achieving Soft Sound Dissolution in Audacity
@@ -40,16 +40,25 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
 
 ![studio fade out audacity](https://images.wondershare.com/filmora/article-images/2022/07/studio-fade-out-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Adjustable Fade
 
 A dialog box will show up on the screen when you choose the customizable fade option. You may customize the form and pattern of the fading using that dialog box. You may use this ability to make partial fades if you'd like. You must maintain the tracks stacked one on top of the other with the lower track underneath the higher track and its end overlapping when employing this form of fade.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Steps to Use Adjustable Fade:**
 
 * Select Effect from the menu.
@@ -61,16 +70,25 @@ A dialog box will show up on the screen when you choose the customizable fade op
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Steps to Use Crossfades:**
 
 Using the Time Shift Tool, place your two clips adjacent to one another in order to apply a crossfade across them on the same track.
 
 Select the area to be crossfaded using the Selection tool, and then click Effect > Crossfade Clips to combine the sounds you've chosen.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Alternative Way to Fade Audio
 
 Even though it's still thought of as difficult, time-consuming work, audio editing is really pretty easy with the correct program or tool. The quality of audio tracks in a video is often disregarded by amateur video producers. In addition to having advanced features like 4K editing support, GIF support, noise removal, color tuning, an advanced text editor, an audio mixer, video stabilization, scene detection, and an audio equalizer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is fairly simple to use and allows for extensive customization of pre-existing templates.
@@ -87,6 +105,10 @@ Installing Filmora, a straightforward platform for starting to edit your audio a
 
 In the step that follows, we'll show you how to use this platform to fade in and out audio. To begin, open Filmora by clicking on the icon on your desktop or using the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
@@ -111,6 +133,9 @@ The last step consists of downloading your modified file to your PC and storing 
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 You may access a variety of tools and services on the platform known as Audacity. You may have all of your recording requirements met here. Additionally, Audacity offers a variety of effects that may be used to improve your recordings and audio files. The fades’ function is used to provide your audio, or any specific area of your audio, various transitions. All of the tools we covered are really good choices. It basically comes down to choosing the one that works best for you; however, we do suggest [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) over Audacity since it is a lot more straightforward yet powerful tool.
@@ -125,6 +150,9 @@ Installing Filmora, a straightforward platform for starting to edit your audio a
 
 In the step that follows, we'll show you how to use this platform to fade in and out audio. To begin, open Filmora by clicking on the icon on your desktop or using the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
@@ -133,12 +161,18 @@ By choosing the Video Editor option from the software's home screen, you may now
 
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 To finish the fade-out, click and drag the other icon in Filmora to the necessary duration. You may hear the music by playing the file within the timeline of the Filmora preview layout.
@@ -177,3 +211,42 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-adapt-video-ratios-through-web-interface/"><u>[New] Adapt Video Ratios Through Web Interface</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-wearable-action-cameras-for-extreme-sport/"><u>[New] Best Wearable Action Cameras For Extreme Sport</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-a-unique-identity-step-by-step-audio-customizations-on-android-phones/"><u>[New] Crafting a Unique Identity  Step-by-Step Audio Customizations on Android Phones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-power-how-to-use-phantoms-retro-vision/"><u>[New] Harnessing Power  How to Use Phantom's Retro Vision</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-logic-pro-guide-gradually-lowering-audio-levels/"><u>[New] Logic Pro Guide  Gradually Lowering Audio Levels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>[Updated] A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>[Updated] Capturing Every Angle  Top Choice Pro 360°Cameras of 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-the-essence-cinematic-techniques-at-their-best/"><u>[Updated] Capturing the Essence  Cinematic Techniques at Their Best</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-highlighted-best-free-efficient-3d-videos-player-software-for-2024/"><u>[Updated] Highlighted  Best Free, Efficient 3D Videos Player Software for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-safedrive-backup-specialists-take/"><u>[Updated] In 2024, SafeDrive Backup Specialists' Take</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-invest-in-quality-best-4k-mirrorless-under-1000/"><u>[Updated] Invest in Quality  Best 4K Mirrorless Under $1,000</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-zero-cost-enhancer-for-digital-photography/"><u>2024 Approved  Best Zero-Cost Enhancer for Digital Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>2024 Approved  Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro-for-2024/"><u>Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-zero-cost-enhancer-for-digital-photography-for-2024/"><u>Best Zero-Cost Enhancer for Digital Photography for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-clarity-high-end-gyroscopic-tripod-gear/"><u>Capture Clarity  High-End Gyroscopic Tripod Gear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b-for-2024/"><u>Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-natural-motion-depth-in-ps/"><u>Craft Natural Motion Depth in PS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-flawless-subtitles-with-precision-and-tips-for-2024/"><u>Crafting Flawless Subtitles with Precision and Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-worlds-revealed-metaverse-vs-multiverse/"><u>Digital Worlds Revealed  Metaverse vs Multiverse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-music-library-top-picks-from-8-exceptional-free-android-downloader-apps/"><u>Elevate Your Music Library - Top Picks From 8 Exceptional Free Android Downloader Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/energize-with-these-10-inspiring-movies/"><u>Energize with These 10 Inspiring Movies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-fixes-for-the-persistent-w10-photos-crashing-issue/"><u>Essential Fixes for the Persistent W10 Photos Crashing Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androidiphone-mastery-discover-the-ultimate-top-8-app-set/"><u>In 2024, Android/iPhone Mastery  Discover the Ultimate Top 8 App Set</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-cadence-top-cameras-for-elegant-slow-movement/"><u>In 2024, Cinematic Cadence  Top Cameras for Elegant Slow Movement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>In 2024, Clarity Unleashed  In-Depth Review of the HP Z32 X Display</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebooks-top-additions-for-savvy-users-unveiled/"><u>In 2024, Facebook's Top Additions for Savvy Users Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-glimpses-video-review/"><u>In 2024, Ghostly Glimpses  Video Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-13-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 13 Pro Before the Plan Expires</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-iphone-podcast-listening/"><u>The Art of iPhone Podcast Listening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-choice-of-lenses-for-industrys-finest-4k-vision/"><u>The Ultimate Choice of Lenses for Industry's Finest 4K Vision</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-value-asmr-gear-premium-sound-affordably-priced/"><u>Top Value ASMR Gear  Premium Sound Affordably Priced</u></a></li>
+</ul></div>

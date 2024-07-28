@@ -1,7 +1,7 @@
 ---
 title: "Fresh Set of Interview Points for Captivated Ears"
-date: 2024-05-24T14:38:52.885Z
-updated: 2024-05-25T14:38:52.885Z
+date: 2024-07-27T08:06:55.035Z
+updated: 2024-07-28T08:06:55.035Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Fresh Set of Interview Points for Captivated Ears"
 excerpt: "This Article Describes Fresh Set of Interview Points for Captivated Ears"
 keywords: "Fresh Interview Tips,Engaging Q&A Techniques,Attractive Conversation Starters,Inspiring Dialogue Points,Captivating Interview Strategies,Dynamic Discussion Ideas,Enthralling Topics for Interviews"
-thumbnail: https://www.lifewire.com/thmb/ntH4Wob_rUFyHlcFT37-lKRbH0w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-458984485-c5d59864b6284b108e5f3005fe62ac34.jpg
+thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a92405de9a612b975012aa5f.jpg
 ---
 
 ## Fresh Set of Interview Points for Captivated Ears
@@ -30,10 +30,17 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
 
 Here are some icebreaker questions that you can ask to start an interview.
@@ -53,6 +60,18 @@ Here are some icebreaker questions that you can ask to start an interview.
 
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
 
 Some leading questions that you can ask are discussed below.
@@ -97,6 +116,9 @@ You can ask questions from the comparison questions given below.
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Great Closing Questions
 
 When we move on to this type of question, typically, it's time to end the show. Closing interview questions are questions the hosts might ask at the end of the podcast to wrap things up. The following question can be asked to conclude the podcast on a happy note.
@@ -116,6 +138,9 @@ When we move on to this type of question, typically, it's time to end the show. 
 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 3\. Tips on How To Come Up and Ask Better Questions
 
 Asking better questions on a podcast requires preparation beforehand. Here are some tips for you to come up with better questions:
@@ -129,10 +154,18 @@ You can get the best information from the person you are interviewing if you do 
 
 ### Ask WHY?
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### What happened next?
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
@@ -158,6 +191,9 @@ So you see how this can continue to move forward by simply mirroring your guest.
 
 The best thing you can extract from someone in a podcast is their story. If you want to pull out a story from someone, phrase it like this, "Tell me about a time when..." After this question, your job is to sit back, listen, and not interrupt the guest.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Podcast Questions to Avoid Asking
 
 Avoiding asking wrong questions is as important as asking good questions. Some questions will negatively impact your podcast's quality, so avoid asking such questions. Here are some questions that you should not ask.
@@ -172,6 +208,9 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Take Your Content to the Next Level and Gets Shared
 
 A podcast is only as good as the questions being asked. By carefully choosing which questions to ask and which to avoid, you can take your content to the next level. It also enhances the interest of listeners.
@@ -208,3 +247,59 @@ Consider the following when picking which of the above questions to use on your 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-methods-to-archive-lol-dueling/"><u>[New] 2024 Approved  Innovative Methods to Archive LOL Dueling</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-closer-look-at-asuss-proart-pa-329q-an-in-depth-review-of-its-professional-standards/"><u>[New] A Closer Look at Asus's ProArt PA 329Q – An In-Depth Review of Its Professional Standards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-sticker-solutions-for-digital-videographers-on-tiktok/"><u>[New] Advanced Sticker Solutions for Digital Videographers on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-your-macs-potential-with-sierra-update-steps/"><u>[New] Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-of-best-win-driven-art-tools/"><u>[New] Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-cinematic-magic-advanced-kinemaster-techniques/"><u>[New] Crafting Cinematic Magic  Advanced Kinemaster Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-you-ask-we-answer-answers-to-questions-related-to-filmora/"><u>[New] You Ask, We Answer- Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>[Updated] 2024 Approved  Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>[Updated] 2024 Approved  The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-synchronize-your-drone-and-its-gimbal/"><u>[Updated] How to Synchronize Your Drone and Its Gimbal</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-8-free-instagram-to-mp4-converters-you-can-try-onlinewindowsmac/"><u>[Updated] In 2024, 8 Free Instagram to MP4 Converters You Can Try [Online/Windows/Mac]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] In 2024, Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-nintendo-switch-fighting-apps-list-max-156/"><u>[Updated] In 2024, Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-a-stepwise-approach-to-twitter-archive-utilization/"><u>2024 Approved  A Stepwise Approach to Twitter Archive Utilization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-at-the-forefront-elite-vr-creators/"><u>2024 Approved  At The Forefront  Elite VR Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chromes-new-soundscape-the-foremost-apps-for-voice-change-exploration/"><u>2024 Approved  Chrome’s New Soundscape  The Foremost Apps for Voice Change Exploration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>2024 Approved  Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-public-domain-calm-vibes-tracks/"><u>2024 Approved  Public Domain Calm Vibes Tracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-professional-chromatic-control/"><u>A Step by Step Approach to Professional Chromatic Control</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-engagement-tactics-for-great-instagram-reels-for-2024/"><u>Boosting Engagement  Tactics for Great Instagram Reels for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/celebrating-love-with-the-perfect-countdown-timer-mobile-app-for-2024/"><u>Celebrating Love with the Perfect Countdown Timer Mobile App for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-insight-visionpro-x-review-the-2023-edition-explored/"><u>Complete Insight  VisionPro X Review – The 2023 Edition Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/concealment-secrets-in-photoshop-master-class/"><u>Concealment Secrets in Photoshop Master Class</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/construct-playlist-with-film-assortments/"><u>Construct Playlist with Film Assortments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-your-interview-game-skills-and-tactics/"><u>Elevating Your Interview Game  Skills & Tactics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-techniques-for-thriving-in-online-meetings-how-to-be-a-zoom-pro/"><u>Expert Techniques for Thriving in Online Meetings  How to Be a Zoom Pro</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153081491-facebook-founder-names-goat-as-crypto-pet/"><u>Facebook Founder Names Goat as 'Crypto' Pet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/financial-motives-in-consumer-video-evaluations/"><u>Financial Motives in Consumer Video Evaluations?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fix-released-windows-now-handles-hd-audio-flawlessly/"><u>Fix Released: Windows Now Handles HD Audio Flawlessly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-boredom-to-attention-unveiling-the-6-key-videos/"><u>From Boredom to Attention  Unveiling the 6 Key Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/funimate-decoded-a-step-by-step-journey/"><u>Funimate Decoded  A Step-by-Step Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-save-your-video-tweets-as-high-quality-mp3-files/"><u>How to Save Your Video Tweets as High-Quality MP3 Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-your-audience-writing-podcast-intros/"><u>In 2024, Captivating Your Audience  Writing Podcast Intros</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-natural-motion-depth-in-ps/"><u>In 2024, Craft Natural Motion Depth in PS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-hot-40-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Hot 40 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-audio-modification-software-with-enchanting-features/"><u>In 2024, Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-photoplusvideo-integration-with-iphone/"><u>Navigating Photo+Video Integration with iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/orchestrate-a-photo-symphony-for-artistic-expression/"><u>Orchestrate a Photo Symphony for Artistic Expression</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-internet-havens-tune-downloads-directory/"><u>Premium Internet Havens  Tune Downloads Directory</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-top-tier-vr-game-equipment-list-for-2024/"><u>Premium Top-Tier VR Game Equipment List for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-12-proplus-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro+ 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamlessly-upgrade-your-pcs-mouse-drivers/"><u>Seamlessly Upgrade Your PC's Mouse Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speech-recognition-and-use-it-free/"><u>Speech Recognition and Use It Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-iphone-photography-top-10-visual-arrangement-tips/"><u>The Art of iPhone Photography  Top 10 Visual Arrangement Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-selection-12-free-video-players-for-pcmobile-enthusiasts/"><u>The Ultimate Selection  12 Free Video Players for PC/Mobile Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-naming-algorithms-for-podcast-mastery/"><u>Top 10 Naming Algorithms for Podcast Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-drone-shopping-list-ready/"><u>Ultimate Drone Shopping List Ready</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vivid-visual-victory-professional-image-coloration/"><u>Vivid Visual Victory  Professional Image Coloration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-ultimate-iphone-podcast-downloading-manual/"><u>Your Ultimate iPhone Podcast Downloading Manual</u></a></li>
+</ul></div>

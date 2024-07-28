@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Arc Architect Suite"
-date: 2024-05-24T13:54:21.495Z
-updated: 2024-05-25T13:54:21.495Z
+date: 2024-07-27T06:48:49.431Z
+updated: 2024-07-28T06:48:49.431Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Arc Architect Suite"
 excerpt: "This Article Describes In 2024, Arc Architect Suite"
 keywords: "Arc Design Software,Suite Architecting Tools,Arcbond Studio,Digital Construction Suite,Architecture Planning System,Comprehensive Design Tool,Professional ARC Suite"
-thumbnail: https://www.lifewire.com/thmb/fAu6_ORb9M5oeIYjTL2bgG5hxho=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-image-creator-from-microsoft-designer-7fad906276724cac96622cfcf3af3322.jpg
+thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b1b806ed68510f39b79036cf.jpg
 ---
 
 ## Arc Architect Suite
@@ -56,6 +56,14 @@ Drag and drop the video that you want to use into the main window of Filmora to 
 
 In the timeline, choose a section of the video that you want to loop and use the “Cut” tool to cut this section of the video from the rest of the video.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select section video](https://images.wondershare.com/filmora/guide/split-video-icon-filmora.jpg)
 
 Then right-click on the clip in the timeline and choose “copy” to create a copy of the clip.
@@ -116,6 +124,9 @@ Step 3: To create the boomerang effect, tap on “1.0x” to change the video pl
 
 Step 4: Then use the slider to trim the video to the desired length and then tap on the “Forward” arrow twice to add a back-and-forth effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Related FAQs About Boomerang Maker
 
 ****Is there a limit on the Size of the Boomerang Video?**
@@ -224,6 +235,9 @@ Yes. Most solutions allow you to use an exciting video to create a boomerang vid
 
 The best tool that you can use to create a boomerang video for any purpose is Wondershare Filmora. This is because not only will you easily loop the video to create the boomerang effect, but you can also use its numerous effects and features to embellish the video as much as you want. Since you can export the video in numerous different formats, it can be used to create videos for all sorts of purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you have long admired the boomerang videos that you see on social media and have been wondering how they are made, now you have four different ways to create your own and share them on social media.
@@ -236,6 +250,9 @@ Once the app is installed, open it on your computer.
 
 **_Step 2: Import the Video into the Timeline_**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![drag video to timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Drag and drop the video that you want to use into the main window of Filmora to open it and it will also appear in the timeline.
@@ -256,6 +273,9 @@ Click on this second clip that you just created and go to “Video” and check 
 
 You now have a boomerang video and you can use the numerous effects in Filmora to customize it in numerous ways.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a Boomerang Video on iPhone
 
 You can easily make a boomerang video on your iPhone using the Boomerang app or using Instagram. Here’s a description of both processes;
@@ -330,6 +350,9 @@ Once the app is installed, open it on your computer.
 
 **_Step 2: Import the Video into the Timeline_**
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag video to timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
 Drag and drop the video that you want to use into the main window of Filmora to open it and it will also appear in the timeline.
@@ -338,6 +361,9 @@ Drag and drop the video that you want to use into the main window of Filmora to 
 
 In the timeline, choose a section of the video that you want to loop and use the “Cut” tool to cut this section of the video from the rest of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![select section video](https://images.wondershare.com/filmora/guide/split-video-icon-filmora.jpg)
 
 Then right-click on the clip in the timeline and choose “copy” to create a copy of the clip.
@@ -350,6 +376,9 @@ Click on this second clip that you just created and go to “Video” and check 
 
 You now have a boomerang video and you can use the numerous effects in Filmora to customize it in numerous ways.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## How to Make a Boomerang Video on iPhone
 
 You can easily make a boomerang video on your iPhone using the Boomerang app or using Instagram. Here’s a description of both processes;
@@ -398,6 +427,9 @@ Step 3: To create the boomerang effect, tap on “1.0x” to change the video pl
 
 Step 4: Then use the slider to trim the video to the desired length and then tap on the “Forward” arrow twice to add a back-and-forth effect.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Related FAQs About Boomerang Maker
 
 ****Is there a limit on the Size of the Boomerang Video?**
@@ -412,6 +444,9 @@ Yes. Most solutions allow you to use an exciting video to create a boomerang vid
 
 The best tool that you can use to create a boomerang video for any purpose is Wondershare Filmora. This is because not only will you easily loop the video to create the boomerang effect, but you can also use its numerous effects and features to embellish the video as much as you want. Since you can export the video in numerous different formats, it can be used to create videos for all sorts of purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you have long admired the boomerang videos that you see on social media and have been wondering how they are made, now you have four different ways to create your own and share them on social media.
@@ -440,3 +475,46 @@ If you have long admired the boomerang videos that you see on social media and h
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-6-cheap-4k-projectors/"><u>[New] Best 6 Cheap 4K Projectors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-budget-friendly-chinese-innovations-in-vr/"><u>[New] Budget-Friendly Chinese Innovations in VR</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-farmers-fields-the-essential-10-agriculture-titles-for-playmates/"><u>[New] In 2024, Farmers' Fields  The Essential 10 Agriculture Titles for Playmates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlocking-high-quality-audio-interpretation-via-google/"><u>[New] In 2024, Unlocking High-Quality Audio Interpretation via Google</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comedic-potential-of-the-metaverses-vast-space/"><u>[New] The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-your-guide-to-the-best-igtv-virtuosos/"><u>[New] Your Guide to the Best IGTV Virtuosos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions/"><u>[Updated] 2024 Approved  A Step-by-Step Guide to MP4 and Beyond  VLC Conversions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-beginners-walkthrough-for-screencastify-recorder/"><u>[Updated] 2024 Approved  Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-archive-your-art-innovative-cost-effective-photo-storage-platforms/"><u>[Updated] Archive Your Art  Innovative, Cost-Effective Photo Storage Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comparing-360-immersion-to-vr-experience/"><u>[Updated] Comparing 360° Immersion to VR Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exclusive-farewell-to-game-costs-for-2024/"><u>[Updated] Exclusive Farewell to Game Costs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-resolving-silence-in-tweeted-video-playbacks-for-2024/"><u>[Updated] Resolving Silence in Tweeted Video Playbacks for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-honor-magic-vs-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Honor Magic Vs 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-access-a-wide-range-of-content-via-12-streaming-apps/"><u>2024 Approved  Access a Wide Range of Content via 12 Streaming Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-conversion-apps-enhance-tweets-with-video/"><u>2024 Approved  Best Conversion Apps  Enhance Tweets with Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>2024 Approved  Canon Camera Experience  No Cost, But Pay for More LUTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-converting-srt-into-sub-quick-effective-ways/"><u>2024 Approved  Converting SRT Into SUB  Quick, Effective Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-best-instagram-extractors-for-memories-saved/"><u>2024 Approved  The Best Instagram Extractors for Memories Saved</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-chrome-os-tts-tools-top-5-online-speech-converters-for-2024/"><u>Best Chrome OS TTS Tools  Top 5 Online Speech Converters for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cut-to-the-chase-with-imovie-audio/"><u>Cut to the Chase with iMovie Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-techniques-how-to-leverage-photoshops-3d-lut-filters/"><u>Cutting-Edge Techniques  How to Leverage Photoshop's 3D LUT Filters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/diving-into-the-ultra-hd-waters-an-lg-27uhd68-monitor-guide/"><u>Diving Into the Ultra HD Waters  An LG 27UHD68 Monitor Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-engagement-posting-video-content-from-twitter-on-snapchat-for-2024/"><u>Elevate Engagement  Posting Video Content From Twitter on Snapchat for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improve-your-zoom-meet-by-sharpening-views-for-2024/"><u>Improve Your Zoom Meet by Sharpening Views for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 6 Plus?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a54-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A54 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-review-the-leading-15-tripodsmounts-for-gopro/"><u>In-Depth Review  The Leading 15 Tripods/Mounts for GoPro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insiders-guide-to-pro-windows-10-expertise/"><u>Insider's Guide to Pro WINDOWS 10 Expertise</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>Pinnacle Graphics  The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv-for-2024/"><u>Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revamp-chromebooks-soundscape-with-our-picks-for-web-extensions/"><u>Revamp Chromebook's Soundscape with Our Picks for Web Extensions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secrets-of-bulk-downloads-maximizing-your-tiktok-video-collection/"><u>Secrets of Bulk Downloads  Maximizing Your TikTok Video Collection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/solidify-your-bio-link-an-easy-tiktok-methodology/"><u>Solidify Your Bio Link  An Easy TikTok Methodology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-periscope-broadcasting-101/"><u>Step-by-Step Periscope Broadcasting 101</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-upload-apples-end-to-end-process-guide/"><u>Streamlining Upload  Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-imagination-into-reality-with-top-animation-software/"><u>Transform Your Imagination Into Reality with Top Animation Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/turbo-speed-photo-browser-for-windows-10/"><u>Turbo Speed Photo Browser for Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-game-potential-custom-audio-in-ps5ps4/"><u>Unleashing Game Potential  Custom Audio in PS5/PS4</u></a></li>
+</ul></div>

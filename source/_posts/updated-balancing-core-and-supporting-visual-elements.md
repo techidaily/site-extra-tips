@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Balancing Core & Supporting Visual Elements"
-date: 2024-05-24T15:52:53.991Z
-updated: 2024-05-25T15:52:53.991Z
+date: 2024-07-27T10:17:38.776Z
+updated: 2024-07-28T10:17:38.776Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Balancing Core & Supporting Visual Elements"
 excerpt: "This Article Describes [Updated] Balancing Core & Supporting Visual Elements"
 keywords: "\"Core-Visual Balance,Visual+Support Keywords,Strategic Image Layout,Essential Design Harmony,Focal Point Integration,Supporting Imagery Tips,Elemental Design Equilibrium\""
-thumbnail: https://www.lifewire.com/thmb/fG6Pu3LhRio7OKkUuoDFn1ttKWw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/airplay-hotels-79786809711d42e9a7827915015cfd17.jpg
+thumbnail: https://thmb.techidaily.com/92290ca438acc7b53d6d463fb220788f23c7aae03036a5859c384dd9ace3b529.jpg
 ---
 
 ## Balancing Core & Supporting Visual Elements
@@ -22,6 +22,9 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -44,6 +47,9 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -56,10 +62,20 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
@@ -72,10 +88,16 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 We sincerely hope that this post will be of use to you in making your films more cinematic. You not only know how to film and edit your videos utilizing B rolls, you also have an extremely effective hack that allows you to generate amazing videos using stock footage. This is both impressive and unique.
@@ -110,3 +132,38 @@ We sincerely hope that this post will be of use to you in making your films more
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hear-the-hd-story-from-youtube-to-twitters-vids/"><u>[New] 2024 Approved  Hear the HD Story  From YouTube to Twitter's Vids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-5-best-finger-tech-for-virtual-reality-mastery/"><u>[New] 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-7-nft-generating-marvels-for-modern-digital-artists-needs/"><u>[New] Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>[Updated] Climb the Fame Hierarchy on Instagram  Discovering #9 Game-Changing Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-revolutionary-q500-the-ultimate-4k-bird/"><u>[Updated] In 2024, Revolutionary Q500  The Ultimate 4K Bird</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-video-freedom-top-8-tools-transforming-youtube-into-avis/"><u>[Updated] Video Freedom  Top 8 Tools Transforming YouTube Into Avis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-to-effective-multiframe-use-in-edge/"><u>2024 Approved  Comprehensive Guide to Effective Multiframe Use in Edge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/50plus-best-text-effects-for-videographers/"><u>50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-samsung-galaxy-a15-4g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy A15 4G FRP Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accessing-your-favorite-pins-top-5-no-fee-download-tools/"><u>Accessing Your Favorite Pins  Top 5 No-Fee Download Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmented-commerce-frontiers/"><u>Augmented Commerce Frontiers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/budding-buyers-guide-monetization-platforms-for-novice-channels-for-2024/"><u>Budding Buyers Guide  Monetization Platforms for Novice Channels for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets-for-2024/"><u>Chasing the Best Deals on Chinese VR Helmets for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chuckles-and-characters-a-guide-to-top-meme-generators-for-2024/"><u>Chuckles & Characters  A Guide to Top Meme Generators for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elemental-story-framework/"><u>Elemental Story Framework</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elite-zero-cost-fb-picturemovie-composer/"><u>Elite Zero-Cost FB Picture/Movie Composer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-vivid-skies-highlighted-hdr-web-platforms/"><u>Explore Vivid Skies  Highlighted HDR Web Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/framefixer-analysis-all-inclusive-report/"><u>FrameFixer Analysis – All-Inclusive Report</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g-stylus-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G Stylus (2023) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-lunapic-wizard-top-editorial-techniques/"><u>In 2024, Become a LunaPic Wizard  Top Editorial Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-ppt-video-play-rate/"><u>In 2024, Boosting PPT Video Play Rate</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-lava-blaze-curve-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Lava Blaze Curve 5G Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-spectacular-journey-of-q500s-4k/"><u>In 2024, The Spectacular Journey of Q500's 4K</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/"><u>Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-video-editing-with-apples-latest-m1-macbook-air/"><u>Navigating Video Editing with Apple’s Latest M1 MacBook Air</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-home-theater-choosing-the-right-3d-blu-ray-devices/"><u>Optimal Home Theater  Choosing the Right 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>Softening Sonic Surge  Gradual Volume Reduction Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-blueprint-for-successful-reddit-contributions/"><u>Step-by-Step Blueprint for Successful Reddit Contributions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xs-100-i-the-action-camera-that-transforms-moments-into-memories/"><u>XS 100 I  The Action Camera That Transforms Moments Into Memories</u></a></li>
+</ul></div>
