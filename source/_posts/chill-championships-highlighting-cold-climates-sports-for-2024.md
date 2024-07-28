@@ -104,25 +104,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/sketchsquad-full-scrutiny-and-step-by-step-guidebook-24/"><u>SketchSquad Full Scrutiny & Step-by-Step Guidebook '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/htc-vives-diving-into-depth-a-vr-experience-review/"><u>HTC Vive's Diving Into Depth  A VR Experience Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-podcast-superheroes-for-2024/"><u>Android's Podcast Superheroes for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-life-in-new-ways-hero-4-and-hero-5-for-2024/"><u>Capturing Life in New Ways  Hero 4 & Hero 5 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/groundbreaking-photo-editor-photonshift-tech/"><u>Groundbreaking Photo Editor  PhotonShift Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-visual-transformation-software-for-pc-mac-linux/"><u>[Updated] Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gaming-beyond-reality-top-5-psvr-games-on-the-approach/"><u>Gaming Beyond Reality  Top 5 PSVR Games on the Approach</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-surveying-with-style-instagrams-polling-protocols-explained-for-2024/"><u>[New] Surveying with Style  Instagram's Polling Protocols Explained for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-starters-manual-to-mastering-screen-clarity/"><u>[Updated] Starter's Manual to Mastering Screen Clarity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-maximizing-your-social-reach-top-30-out-of-the-box-tiktok-nicknames/"><u>[Updated] In 2024, Maximizing Your Social Reach  Top 30 Out-of-the-Box TikTok Nicknames</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>2024 Approved  Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-lenses-and-fixed-angle-gear/"><u>2024 Approved  Panoramic Lenses & Fixed-Angle Gear</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-se-2022-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone SE (2022) without Apple Account</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upgraded-guide-to-android-based-vr-and-full-sphere-films-for-2024/"><u>Upgraded Guide to Android-Based VR and Full-Sphere Films for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
