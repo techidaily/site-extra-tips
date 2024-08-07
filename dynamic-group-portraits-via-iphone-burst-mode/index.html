@@ -663,15 +663,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,900 +693,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/LDGDXhBhUDNkoiB2mRPsMRdSznw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-464529093-3df424fe14bc419cadd93b8408256c80.jpg" alt="Dynamic Group Portraits via iPhone Burst Mode" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Dynamic Group Portraits via iPhone Burst Mode</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:47:15</span>
-        <span class="mobile">2024-07-27 10:47:15</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:47:15</span>
-            <span class="mobile">2024-07-28 10:47:15</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Dynamic-Group-Portraits-via-iPhone-Burst-Mode"><a href="#Dynamic-Group-Portraits-via-iPhone-Burst-Mode" class="headerlink" title="Dynamic Group Portraits via iPhone Burst Mode"></a>Dynamic Group Portraits via iPhone Burst Mode</h2><h1 id="iPhone-Photo-Burst-How-to-Take-Burst-Images"><a href="#iPhone-Photo-Burst-How-to-Take-Burst-Images" class="headerlink" title="iPhone Photo Burst: How to Take Burst Images"></a>iPhone Photo Burst: How to Take Burst Images</h1><!-- affiliate ads begin -->
-<p><a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18134-1692242"
-                      border="0" alt="" width="834" height="592"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1692242/18134"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Ollie-Mattison"><a href="#Ollie-Mattison" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> When it comes to iPhone camera and its functionality, everyone agrees there is another level of delightful experience while working with it. One of the device’s features includes burst mode. Burst photo mode basically offers sequence of photos taken to shoot a movement with 10 frames per second and that too by holding your finger on the screen. You can take as much as photos you want and then choose the perfect one from lots of options. If you also wish to take burst photo with your iPhone, this post is certainly for you. Let’s begin to get the most amazing burst images without the need of any professional burst mode camera.</p>
-<ul>
-<li><a href="#part1">Part1: How to take iPhone burst photo</a></li>
-<li><a href="#part2">Part2: How to save burst photo individually</a></li>
-<li><a href="#part3">Part3: The best scenarios to take burst photos</a></li>
-<li><a href="#part4">Part4: How to disable burst mode in iPhone</a></li>
-</ul>
-<h2 id="Part1-How-to-take-iPhone-burst-photo"><a href="#Part1-How-to-take-iPhone-burst-photo" class="headerlink" title="Part1: How to take iPhone burst photo"></a>Part1: How to take iPhone burst photo</h2><p> iPhone photo burst is by far a great way to get the candid or we can say a perfect shot from any actions going on. A wonderful thing is you can keep that unique or special one and only shot you discover from countless images. Here is how to use iPhone burst mode to capture the desired shot.</p>
-<ul>
-<li>Open the Camera app and keep the camera in front of just what you want to shoot.</li>
-<li>Press and hold down the shutter button for a couple of seconds. You will be able to notice rapidly increasing digits just above the shutter button which implies the images clicked so far.</li>
-<li>Once done with taking photos, tap on the thumbnail located on just left of the shutter button to see your images.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/press.png"
-                      alt="take burst photo"
-                ></p>
-<h2 id="Part2-How-to-save-burst-photo-individually"><a href="#Part2-How-to-save-burst-photo-individually" class="headerlink" title="Part2: How to save burst photo individually"></a>Part2: How to save burst photo individually</h2><p> After learning the tutorial on how you can take burst images, here is how you can save those individually.</p>
-<ul>
-<li>When you click on the thumbnail, you will observe the words, “Burst (no. of photos). Tap on “Select” now and start swiping through all your burst images.</li>
-<li>Now, select each photo you wish to select. The selected ones will get a blue ticked circle at the bottom.</li>
-<li>Choose one and tap on “Done” to save the images.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/save.png"
-                      alt="save burst photo"
-                ></p>
-<h2 id="Part3-The-best-scenarios-to-take-burst-photos"><a href="#Part3-The-best-scenarios-to-take-burst-photos" class="headerlink" title="Part3: The best scenarios to take burst photos"></a>Part3: The best scenarios to take burst photos</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Action-and-sports"><a href="#1-Action-and-sports" class="headerlink" title="1. Action and sports"></a>1. Action and sports</h3><p> When we hear about action and sports, the terms like speed, energy, and momentum usually start hovering over our minds. Since sports arouse excitement to a great degree, it would be interesting to take those running, skating or cycling moments using iPhone camera burst mode. Using this way of burst mode, you will be having no idea when you will get the chance of getting that ideal and flawless photo. How would it look when you are running and reached at the highest pace and the same moment will be recorded perfectly with burst feature? Wouldn’t it be interesting?</p>
-<!-- affiliate ads begin -->
-<p><a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17190-1638364"
-                      border="0" alt="" width="1280" height="720"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1638364/17190"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/sports.jpg"
-                      alt="sports"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19272-2087264"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2087264/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="2-Shoot-the-best-portraits"><a href="#2-Shoot-the-best-portraits" class="headerlink" title="2. Shoot the best portraits"></a>2. Shoot the best portraits</h3><p> The iPhone photo burst will fit best when you need to shoot the excellent portraits. Keeping in mind that portrait shots are not a cake walk. The subject can be shy or not static at times or the facial expressions and poses can be weird sometimes. In such case, shooting with continuous shots will be the best option to get a stress free accomplishment of the task. The burst phot will provide more natural and candid appearance to the portrait.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/kids.jpg"
-                      alt="kids"
-                ></p>
-<h3 id="3-Take-crystal-water-and-waves"><a href="#3-Take-crystal-water-and-waves" class="headerlink" title="3. Take crystal water and waves"></a>3. Take crystal water and waves</h3><p> Another fascinating scenario to make use of burst mode is when you are under water or swimming. The waves and crystal water will look amazingly captivating when captured in your iPhone camera’s burst mode. Also, those bubbles in the water and the crystal clear look inside the water will enhance the picture quality. Therefore, an interesting idea to use burst photography is when you are in your swimming mode.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2097467"
-                      border="0" alt="" width="640" height="640"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2097467/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/water.jpg"
-                      alt="water"
-                ></p>
-<h3 id="4-Take-something-valuable-moment"><a href="#4-Take-something-valuable-moment" class="headerlink" title="4. Take something valuable moment"></a>4. Take something valuable moment</h3><p> We encounter many unexpected moments in our daily life such as a bunch of birds flying together in the sky, baby crawling and nothing can be as special as when baby smiles. These unpredictable instants are so pleasant and what’s going to happen at the next moment is clueless to us. When burst mode is there, the possibility to capture these subjects increases. Also, these kinds of unexpected and precious moments can prove opportunistic when you are planning to begin your photography career and building your portfolio.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/22993-2044747"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2044747/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/dogs.jpg"
-                      alt="dogs"
-                ></p>
-<h2 id="Part4-How-to-disable-burst-mode-in-iPhone"><a href="#Part4-How-to-disable-burst-mode-in-iPhone" class="headerlink" title="Part4: How to disable burst mode in iPhone"></a>Part4: How to disable burst mode in iPhone</h2><p> Sadly, there is no such availability to disable the iPhone burst mode. You can’t actually turn off the burst mode camera which is quite disappointing for the users. Therefore, be attentive while taking a selfie or any other photo as holding capture button beyond the expected time will unknowingly capture 20-30 images.</p>
-<h2 id="Final-Verdict"><a href="#Final-Verdict" class="headerlink" title="Final Verdict"></a>Final Verdict</h2><p> That was all about burst photography and recording the best moment possible. iPhone has always made its impression for its exceptional features and stands out at all times. With its burst mode, one can fulfill their wish to catch the most excellent candid pose which normal photography can’t. Be it, moving leaves due to winds, water splashing or rainy view, the burst mode can help under any scenario. Although iPhone offers this burst image feature and no doubt it’s excellent, but if you are looking for professional photography, this will be not worthy enough. We would recommend you to switch to the motion camera to capture those professional shots.</p>
-<p> We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.</p>
-<p> Images come from the Internet</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-1"><a href="#Ollie-Mattison-1" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> When it comes to iPhone camera and its functionality, everyone agrees there is another level of delightful experience while working with it. One of the device’s features includes burst mode. Burst photo mode basically offers sequence of photos taken to shoot a movement with 10 frames per second and that too by holding your finger on the screen. You can take as much as photos you want and then choose the perfect one from lots of options. If you also wish to take burst photo with your iPhone, this post is certainly for you. Let’s begin to get the most amazing burst images without the need of any professional burst mode camera.</p>
-<ul>
-<li><a href="#part1">Part1: How to take iPhone burst photo</a></li>
-<li><a href="#part2">Part2: How to save burst photo individually</a></li>
-<li><a href="#part3">Part3: The best scenarios to take burst photos</a></li>
-<li><a href="#part4">Part4: How to disable burst mode in iPhone</a></li>
-</ul>
-<h2 id="Part1-How-to-take-iPhone-burst-photo-1"><a href="#Part1-How-to-take-iPhone-burst-photo-1" class="headerlink" title="Part1: How to take iPhone burst photo"></a>Part1: How to take iPhone burst photo</h2><p> iPhone photo burst is by far a great way to get the candid or we can say a perfect shot from any actions going on. A wonderful thing is you can keep that unique or special one and only shot you discover from countless images. Here is how to use iPhone burst mode to capture the desired shot.</p>
-<ul>
-<li>Open the Camera app and keep the camera in front of just what you want to shoot.</li>
-<li>Press and hold down the shutter button for a couple of seconds. You will be able to notice rapidly increasing digits just above the shutter button which implies the images clicked so far.</li>
-<li>Once done with taking photos, tap on the thumbnail located on just left of the shutter button to see your images.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/press.png"
-                      alt="take burst photo"
-                ></p>
-<h2 id="Part2-How-to-save-burst-photo-individually-1"><a href="#Part2-How-to-save-burst-photo-individually-1" class="headerlink" title="Part2: How to save burst photo individually"></a>Part2: How to save burst photo individually</h2><p> After learning the tutorial on how you can take burst images, here is how you can save those individually.</p>
-<ul>
-<li>When you click on the thumbnail, you will observe the words, “Burst (no. of photos). Tap on “Select” now and start swiping through all your burst images.</li>
-<li>Now, select each photo you wish to select. The selected ones will get a blue ticked circle at the bottom.</li>
-<li>Choose one and tap on “Done” to save the images.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/save.png"
-                      alt="save burst photo"
-                ></p>
-<h2 id="Part3-The-best-scenarios-to-take-burst-photos-1"><a href="#Part3-The-best-scenarios-to-take-burst-photos-1" class="headerlink" title="Part3: The best scenarios to take burst photos"></a>Part3: The best scenarios to take burst photos</h2><h3 id="1-Action-and-sports-1"><a href="#1-Action-and-sports-1" class="headerlink" title="1. Action and sports"></a>1. Action and sports</h3><p> When we hear about action and sports, the terms like speed, energy, and momentum usually start hovering over our minds. Since sports arouse excitement to a great degree, it would be interesting to take those running, skating or cycling moments using iPhone camera burst mode. Using this way of burst mode, you will be having no idea when you will get the chance of getting that ideal and flawless photo. How would it look when you are running and reached at the highest pace and the same moment will be recorded perfectly with burst feature? Wouldn’t it be interesting?</p>
-<!-- affiliate ads begin -->
-<p><a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13846-1572622"
-                      border="0" alt="" width="1000" height="1298"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1572622/13846"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/sports.jpg"
-                      alt="sports"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15852-1526796"
-                      border="0" alt="" width="1200" height="628"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1526796/15852"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="2-Shoot-the-best-portraits-1"><a href="#2-Shoot-the-best-portraits-1" class="headerlink" title="2. Shoot the best portraits"></a>2. Shoot the best portraits</h3><p> The iPhone photo burst will fit best when you need to shoot the excellent portraits. Keeping in mind that portrait shots are not a cake walk. The subject can be shy or not static at times or the facial expressions and poses can be weird sometimes. In such case, shooting with continuous shots will be the best option to get a stress free accomplishment of the task. The burst phot will provide more natural and candid appearance to the portrait.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/25579-2093504"
-                      border="0" alt="" width="1200" height="1200"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2093504/25579"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/kids.jpg"
-                      alt="kids"
-                ></p>
-<h3 id="3-Take-crystal-water-and-waves-1"><a href="#3-Take-crystal-water-and-waves-1" class="headerlink" title="3. Take crystal water and waves"></a>3. Take crystal water and waves</h3><p> Another fascinating scenario to make use of burst mode is when you are under water or swimming. The waves and crystal water will look amazingly captivating when captured in your iPhone camera’s burst mode. Also, those bubbles in the water and the crystal clear look inside the water will enhance the picture quality. Therefore, an interesting idea to use burst photography is when you are in your swimming mode.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/water.jpg"
-                      alt="water"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="4-Take-something-valuable-moment-1"><a href="#4-Take-something-valuable-moment-1" class="headerlink" title="4. Take something valuable moment"></a>4. Take something valuable moment</h3><p> We encounter many unexpected moments in our daily life such as a bunch of birds flying together in the sky, baby crawling and nothing can be as special as when baby smiles. These unpredictable instants are so pleasant and what’s going to happen at the next moment is clueless to us. When burst mode is there, the possibility to capture these subjects increases. Also, these kinds of unexpected and precious moments can prove opportunistic when you are planning to begin your photography career and building your portfolio.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075482"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075482/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/dogs.jpg"
-                      alt="dogs"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082529"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082529/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part4-How-to-disable-burst-mode-in-iPhone-1"><a href="#Part4-How-to-disable-burst-mode-in-iPhone-1" class="headerlink" title="Part4: How to disable burst mode in iPhone"></a>Part4: How to disable burst mode in iPhone</h2><p> Sadly, there is no such availability to disable the iPhone burst mode. You can’t actually turn off the burst mode camera which is quite disappointing for the users. Therefore, be attentive while taking a selfie or any other photo as holding capture button beyond the expected time will unknowingly capture 20-30 images.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/uppic/audible-converter-interface.png"
-                      border="0"
-                >Epubor Audible Converter for Win： Download and convert Audible AAXC&#x2F;AA&#x2F;AAX to MP3 with 100% original quality preserved.</a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Verdict-1"><a href="#Final-Verdict-1" class="headerlink" title="Final Verdict"></a>Final Verdict</h2><p> That was all about burst photography and recording the best moment possible. iPhone has always made its impression for its exceptional features and stands out at all times. With its burst mode, one can fulfill their wish to catch the most excellent candid pose which normal photography can’t. Be it, moving leaves due to winds, water splashing or rainy view, the burst mode can help under any scenario. Although iPhone offers this burst image feature and no doubt it’s excellent, but if you are looking for professional photography, this will be not worthy enough. We would recommend you to switch to the motion camera to capture those professional shots.</p>
-<p> We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.</p>
-<p> Images come from the Internet</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png"
-                      border="0"
-                ><br>EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-2"><a href="#Ollie-Mattison-2" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> When it comes to iPhone camera and its functionality, everyone agrees there is another level of delightful experience while working with it. One of the device’s features includes burst mode. Burst photo mode basically offers sequence of photos taken to shoot a movement with 10 frames per second and that too by holding your finger on the screen. You can take as much as photos you want and then choose the perfect one from lots of options. If you also wish to take burst photo with your iPhone, this post is certainly for you. Let’s begin to get the most amazing burst images without the need of any professional burst mode camera.</p>
-<ul>
-<li><a href="#part1">Part1: How to take iPhone burst photo</a></li>
-<li><a href="#part2">Part2: How to save burst photo individually</a></li>
-<li><a href="#part3">Part3: The best scenarios to take burst photos</a></li>
-<li><a href="#part4">Part4: How to disable burst mode in iPhone</a></li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External&#x2F;Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Part1-How-to-take-iPhone-burst-photo-2"><a href="#Part1-How-to-take-iPhone-burst-photo-2" class="headerlink" title="Part1: How to take iPhone burst photo"></a>Part1: How to take iPhone burst photo</h2><p> iPhone photo burst is by far a great way to get the candid or we can say a perfect shot from any actions going on. A wonderful thing is you can keep that unique or special one and only shot you discover from countless images. Here is how to use iPhone burst mode to capture the desired shot.</p>
-<ul>
-<li>Open the Camera app and keep the camera in front of just what you want to shoot.</li>
-<li>Press and hold down the shutter button for a couple of seconds. You will be able to notice rapidly increasing digits just above the shutter button which implies the images clicked so far.</li>
-<li>Once done with taking photos, tap on the thumbnail located on just left of the shutter button to see your images.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/press.png"
-                      alt="take burst photo"
-                ></p>
-<h2 id="Part2-How-to-save-burst-photo-individually-2"><a href="#Part2-How-to-save-burst-photo-individually-2" class="headerlink" title="Part2: How to save burst photo individually"></a>Part2: How to save burst photo individually</h2><p> After learning the tutorial on how you can take burst images, here is how you can save those individually.</p>
-<ul>
-<li>When you click on the thumbnail, you will observe the words, “Burst (no. of photos). Tap on “Select” now and start swiping through all your burst images.</li>
-<li>Now, select each photo you wish to select. The selected ones will get a blue ticked circle at the bottom.</li>
-<li>Choose one and tap on “Done” to save the images.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17092-2042332"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042332/17092"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/save.png"
-                      alt="save burst photo"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.blumentals.net/scrwonder/images/screensaver-software.png"
-                      border="0"
-                >With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a></p>
-<!-- affiliate ads end -->
-<h2 id="Part3-The-best-scenarios-to-take-burst-photos-2"><a href="#Part3-The-best-scenarios-to-take-burst-photos-2" class="headerlink" title="Part3: The best scenarios to take burst photos"></a>Part3: The best scenarios to take burst photos</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Action-and-sports-2"><a href="#1-Action-and-sports-2" class="headerlink" title="1. Action and sports"></a>1. Action and sports</h3><p> When we hear about action and sports, the terms like speed, energy, and momentum usually start hovering over our minds. Since sports arouse excitement to a great degree, it would be interesting to take those running, skating or cycling moments using iPhone camera burst mode. Using this way of burst mode, you will be having no idea when you will get the chance of getting that ideal and flawless photo. How would it look when you are running and reached at the highest pace and the same moment will be recorded perfectly with burst feature? Wouldn’t it be interesting?</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/sports.jpg"
-                      alt="sports"
-                ></p>
-<h3 id="2-Shoot-the-best-portraits-2"><a href="#2-Shoot-the-best-portraits-2" class="headerlink" title="2. Shoot the best portraits"></a>2. Shoot the best portraits</h3><p> The iPhone photo burst will fit best when you need to shoot the excellent portraits. Keeping in mind that portrait shots are not a cake walk. The subject can be shy or not static at times or the facial expressions and poses can be weird sometimes. In such case, shooting with continuous shots will be the best option to get a stress free accomplishment of the task. The burst phot will provide more natural and candid appearance to the portrait.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/kids.jpg"
-                      alt="kids"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="3-Take-crystal-water-and-waves-2"><a href="#3-Take-crystal-water-and-waves-2" class="headerlink" title="3. Take crystal water and waves"></a>3. Take crystal water and waves</h3><p> Another fascinating scenario to make use of burst mode is when you are under water or swimming. The waves and crystal water will look amazingly captivating when captured in your iPhone camera’s burst mode. Also, those bubbles in the water and the crystal clear look inside the water will enhance the picture quality. Therefore, an interesting idea to use burst photography is when you are in your swimming mode.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/water.jpg"
-                      alt="water"
-                ></p>
-<h3 id="4-Take-something-valuable-moment-2"><a href="#4-Take-something-valuable-moment-2" class="headerlink" title="4. Take something valuable moment"></a>4. Take something valuable moment</h3><p> We encounter many unexpected moments in our daily life such as a bunch of birds flying together in the sky, baby crawling and nothing can be as special as when baby smiles. These unpredictable instants are so pleasant and what’s going to happen at the next moment is clueless to us. When burst mode is there, the possibility to capture these subjects increases. Also, these kinds of unexpected and precious moments can prove opportunistic when you are planning to begin your photography career and building your portfolio.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/dogs.jpg"
-                      alt="dogs"
-                ></p>
-<h2 id="Part4-How-to-disable-burst-mode-in-iPhone-2"><a href="#Part4-How-to-disable-burst-mode-in-iPhone-2" class="headerlink" title="Part4: How to disable burst mode in iPhone"></a>Part4: How to disable burst mode in iPhone</h2><p> Sadly, there is no such availability to disable the iPhone burst mode. You can’t actually turn off the burst mode camera which is quite disappointing for the users. Therefore, be attentive while taking a selfie or any other photo as holding capture button beyond the expected time will unknowingly capture 20-30 images.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png"
-                      border="0"
-                ><br>WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)–Yearly</a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Verdict-2"><a href="#Final-Verdict-2" class="headerlink" title="Final Verdict"></a>Final Verdict</h2><p> That was all about burst photography and recording the best moment possible. iPhone has always made its impression for its exceptional features and stands out at all times. With its burst mode, one can fulfill their wish to catch the most excellent candid pose which normal photography can’t. Be it, moving leaves due to winds, water splashing or rainy view, the burst mode can help under any scenario. Although iPhone offers this burst image feature and no doubt it’s excellent, but if you are looking for professional photography, this will be not worthy enough. We would recommend you to switch to the motion camera to capture those professional shots.</p>
-<p> We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.</p>
-<p> Images come from the Internet</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-3"><a href="#Ollie-Mattison-3" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> When it comes to iPhone camera and its functionality, everyone agrees there is another level of delightful experience while working with it. One of the device’s features includes burst mode. Burst photo mode basically offers sequence of photos taken to shoot a movement with 10 frames per second and that too by holding your finger on the screen. You can take as much as photos you want and then choose the perfect one from lots of options. If you also wish to take burst photo with your iPhone, this post is certainly for you. Let’s begin to get the most amazing burst images without the need of any professional burst mode camera.</p>
-<ul>
-<li><a href="#part1">Part1: How to take iPhone burst photo</a></li>
-<li><a href="#part2">Part2: How to save burst photo individually</a></li>
-<li><a href="#part3">Part3: The best scenarios to take burst photos</a></li>
-<li><a href="#part4">Part4: How to disable burst mode in iPhone</a></li>
-</ul>
-<h2 id="Part1-How-to-take-iPhone-burst-photo-3"><a href="#Part1-How-to-take-iPhone-burst-photo-3" class="headerlink" title="Part1: How to take iPhone burst photo"></a>Part1: How to take iPhone burst photo</h2><p> iPhone photo burst is by far a great way to get the candid or we can say a perfect shot from any actions going on. A wonderful thing is you can keep that unique or special one and only shot you discover from countless images. Here is how to use iPhone burst mode to capture the desired shot.</p>
-<ul>
-<li>Open the Camera app and keep the camera in front of just what you want to shoot.</li>
-<li>Press and hold down the shutter button for a couple of seconds. You will be able to notice rapidly increasing digits just above the shutter button which implies the images clicked so far.</li>
-<li>Once done with taking photos, tap on the thumbnail located on just left of the shutter button to see your images.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/press.png"
-                      alt="take burst photo"
-                ></p>
-<h2 id="Part2-How-to-save-burst-photo-individually-3"><a href="#Part2-How-to-save-burst-photo-individually-3" class="headerlink" title="Part2: How to save burst photo individually"></a>Part2: How to save burst photo individually</h2><p> After learning the tutorial on how you can take burst images, here is how you can save those individually.</p>
-<ul>
-<li>When you click on the thumbnail, you will observe the words, “Burst (no. of photos). Tap on “Select” now and start swiping through all your burst images.</li>
-<li>Now, select each photo you wish to select. The selected ones will get a blue ticked circle at the bottom.</li>
-<li>Choose one and tap on “Done” to save the images.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082541"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082541/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/save.png"
-                      alt="save burst photo"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png"
-                      border="0"
-                >Power Tools add-on for Google Sheets, 12-month subscription</a></p>
-<!-- affiliate ads end -->
-<h2 id="Part3-The-best-scenarios-to-take-burst-photos-3"><a href="#Part3-The-best-scenarios-to-take-burst-photos-3" class="headerlink" title="Part3: The best scenarios to take burst photos"></a>Part3: The best scenarios to take burst photos</h2><h3 id="1-Action-and-sports-3"><a href="#1-Action-and-sports-3" class="headerlink" title="1. Action and sports"></a>1. Action and sports</h3><p> When we hear about action and sports, the terms like speed, energy, and momentum usually start hovering over our minds. Since sports arouse excitement to a great degree, it would be interesting to take those running, skating or cycling moments using iPhone camera burst mode. Using this way of burst mode, you will be having no idea when you will get the chance of getting that ideal and flawless photo. How would it look when you are running and reached at the highest pace and the same moment will be recorded perfectly with burst feature? Wouldn’t it be interesting?</p>
-<!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084399"
-                      border="0" alt="" width="1125" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084399/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/sports.jpg"
-                      alt="sports"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19578-1793237"
-                      border="0" alt="" width="1200" height="1200"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793237/19578"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="2-Shoot-the-best-portraits-3"><a href="#2-Shoot-the-best-portraits-3" class="headerlink" title="2. Shoot the best portraits"></a>2. Shoot the best portraits</h3><p> The iPhone photo burst will fit best when you need to shoot the excellent portraits. Keeping in mind that portrait shots are not a cake walk. The subject can be shy or not static at times or the facial expressions and poses can be weird sometimes. In such case, shooting with continuous shots will be the best option to get a stress free accomplishment of the task. The burst phot will provide more natural and candid appearance to the portrait.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/kids.jpg"
-                      alt="kids"
-                ></p>
-<h3 id="3-Take-crystal-water-and-waves-3"><a href="#3-Take-crystal-water-and-waves-3" class="headerlink" title="3. Take crystal water and waves"></a>3. Take crystal water and waves</h3><p> Another fascinating scenario to make use of burst mode is when you are under water or swimming. The waves and crystal water will look amazingly captivating when captured in your iPhone camera’s burst mode. Also, those bubbles in the water and the crystal clear look inside the water will enhance the picture quality. Therefore, an interesting idea to use burst photography is when you are in your swimming mode.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/water.jpg"
-                      alt="water"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="4-Take-something-valuable-moment-3"><a href="#4-Take-something-valuable-moment-3" class="headerlink" title="4. Take something valuable moment"></a>4. Take something valuable moment</h3><p> We encounter many unexpected moments in our daily life such as a bunch of birds flying together in the sky, baby crawling and nothing can be as special as when baby smiles. These unpredictable instants are so pleasant and what’s going to happen at the next moment is clueless to us. When burst mode is there, the possibility to capture these subjects increases. Also, these kinds of unexpected and precious moments can prove opportunistic when you are planning to begin your photography career and building your portfolio.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.easygifanimator.net/images/gif-animator.png"
-                      border="0"
-                >Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that’s why Easy GIF Animator is so popular.</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/dogs.jpg"
-                      alt="dogs"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17885-2072200"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2072200/17885"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part4-How-to-disable-burst-mode-in-iPhone-3"><a href="#Part4-How-to-disable-burst-mode-in-iPhone-3" class="headerlink" title="Part4: How to disable burst mode in iPhone"></a>Part4: How to disable burst mode in iPhone</h2><p> Sadly, there is no such availability to disable the iPhone burst mode. You can’t actually turn off the burst mode camera which is quite disappointing for the users. Therefore, be attentive while taking a selfie or any other photo as holding capture button beyond the expected time will unknowingly capture 20-30 images.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg"
-                      border="0"
-                ><br>    Home Use license is dedicated for personal, non-commercial use only.<br>    If Action! is used for commercial gain or to further any commercial purpose,<br>    a Commercial Use license is required. Multi-license (volume discount) is intended for single </p>
-<pre><code>company, user or members of the same household. Action! - screen and game recorder&lt;/a&gt;
-</code></pre>
-<!-- affiliate ads end -->
-<h2 id="Final-Verdict-3"><a href="#Final-Verdict-3" class="headerlink" title="Final Verdict"></a>Final Verdict</h2><p> That was all about burst photography and recording the best moment possible. iPhone has always made its impression for its exceptional features and stands out at all times. With its burst mode, one can fulfill their wish to catch the most excellent candid pose which normal photography can’t. Be it, moving leaves due to winds, water splashing or rainy view, the burst mode can help under any scenario. Although iPhone offers this burst image feature and no doubt it’s excellent, but if you are looking for professional photography, this will be not worthy enough. We would recommend you to switch to the motion camera to capture those professional shots.</p>
-<p> We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.</p>
-<p> Images come from the Internet</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/new-2024-approved-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>[New] 2024 Approved  Video Mastery  Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-how-to-extract-gif-content-seamlessly-on-various-devices-for-2024/"><u>[New] How To Extract GIF Content Seamlessly on Various Devices for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-ultimate-farming-tactics-in-valheim/"><u>[New] In 2024, Unveiling the Ultimate Farming Tactics in Valheim</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>[Updated] A Comparative Review  SNS HDR Pro and Other Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-airborne-warriors-meet-dji-mavic-2-and-hero5-black/"><u>[Updated] Airborne Warriors Meet  DJi Mavic 2 & HERO5 Black</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audience-friendly-audio-fades-practices-in-audacity/"><u>[Updated] Audience-Friendly Audio Fades  Practices in Audacity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>[Updated] Best Buys  Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/updated-crafting-dynamic-web-pages-with-php-and-html-for-2024/"><u>[Updated] Crafting Dynamic Web Pages with PHP and HTML for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/updated-creating-cost-effective-youtube-closure-elements-for-2024/"><u>[Updated] Creating Cost-Effective YouTube Closure Elements for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adopting-seamless-video-conferencing-via-gmail-and-zoom/"><u>2024 Approved  Adopting Seamless Video Conferencing via Gmail & Zoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-webcams-for-zoom/"><u>2024 Approved  Best Webcams for Zoom</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-posts.techidaily.com/2024-approved-navigating-timecodes-and-text-in-srt-with-macos/"><u>2024 Approved  Navigating Timecodes and Text in SRT with macOS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices-for-2024/"><u>A Tech-Savvy Approach  Securely Storing Snapchat Photos on Devices for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-text-title-effect-types-in-after-effects-for-2024/"><u>Best Text Title Effect Types in After Effects for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-stability-mastering-shaky-images/"><u>Capturing Stability  Mastering Shaky Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/color-mastery-selecting-the-best-luts-for-lightroom-editors-for-2024/"><u>Color Mastery  Selecting the Best LUTs for LightRoom Editors for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-down-the-wait-quick-time-lapse-on-iphone/"><u>Cutting Down the Wait  Quick Time-Lapse on iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/epic-evolutions-digitizing-decades-of-documentary-photographs/"><u>Epic Evolutions  Digitizing Decades of Documentary Photographs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/garmins-ultra-30-action-camera-revealed-in-full-detail/"><u>Garmin's Ultra 30 Action Camera Revealed in Full Detail</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-blur-apps-that-work-wonders-on-iphonesandroids/"><u>In 2024, Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/in-2024-prime-methods-to-adapt-track-paceplay-in-spotify-app/"><u>In 2024, Prime Methods to Adapt Track Paceplay in Spotify App</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-c55-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco C55</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/innovate-w11-notebook-using-ai-guru/"><u>Innovate W11 Notebook Using AI Guru</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/key-insights-mastering-win11-features/"><u>Key Insights  Mastering Win11 Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-media-on-mobile-best-phones-of-the-year/"><u>Mastering Media on Mobile  Best Phones of the Year</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/navigate-your-path-to-prominence-a-precise-guide-to-youtubes-featured-listings-for-2024/"><u>Navigate Your Path to Prominence  A Precise Guide to Youtube's Featured Listings for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/new-2024-approved-best-subtitle-edit-replacements-for-mac-users/"><u>New 2024 Approved Best Subtitle Edit Replacements for Mac Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pixels-of-peaceful-tales-video-critique/"><u>Pixels of Peaceful Tales  Video Critique</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/pro-video-and-photography-harnessing-the-power-of-hero5-black-for-2024/"><u>Pro Video & Photography  Harnessing the Power of Hero5 Black for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/swift-and-precise-image-editing-ioss-leading-tools-for-erasure-techniques/"><u>Swift and Precise Image Editing  IOS's Leading Tools for Erasure Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/top-5-psone-emulators-perfect-play-on-your-pc/"><u>Top 5 PsOne Emulators  Perfect Play on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transitioning-photos-from-physical-to-digital-storage/"><u>Transitioning Photos  From Physical to Digital Storage</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Dynamic Group Portraits via iPhone Burst Mode</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:47:15</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:47:15
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/dynamic-group-portraits-via-iphone-burst-mode/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/educational-transformation-the-vr-revolution/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Educational Transformation  The VR Revolution&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/drone-tech-the-best-for-your-constant-presence/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Drone Tech  The Best for Your Constant Presence&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Dynamic Group Portraits via iPhone Burst Mode</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Dynamic-Group-Portraits-via-iPhone-Burst-Mode"><span class="nav-text">Dynamic Group Portraits via iPhone Burst Mode</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#iPhone-Photo-Burst-How-to-Take-Burst-Images"><span class="nav-text">iPhone Photo Burst: How to Take Burst Images</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Part1-How-to-take-iPhone-burst-photo"><span class="nav-text">Part1: How to take iPhone burst photo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part2-How-to-save-burst-photo-individually"><span class="nav-text">Part2: How to save burst photo individually</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part3-The-best-scenarios-to-take-burst-photos"><span class="nav-text">Part3: The best scenarios to take burst photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Action-and-sports"><span class="nav-text">1. Action and sports</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shoot-the-best-portraits"><span class="nav-text">2. Shoot the best portraits</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Take-crystal-water-and-waves"><span class="nav-text">3. Take crystal water and waves</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Take-something-valuable-moment"><span class="nav-text">4. Take something valuable moment</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part4-How-to-disable-burst-mode-in-iPhone"><span class="nav-text">Part4: How to disable burst mode in iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Verdict"><span class="nav-text">Final Verdict</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part1-How-to-take-iPhone-burst-photo-1"><span class="nav-text">Part1: How to take iPhone burst photo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part2-How-to-save-burst-photo-individually-1"><span class="nav-text">Part2: How to save burst photo individually</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part3-The-best-scenarios-to-take-burst-photos-1"><span class="nav-text">Part3: The best scenarios to take burst photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Action-and-sports-1"><span class="nav-text">1. Action and sports</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shoot-the-best-portraits-1"><span class="nav-text">2. Shoot the best portraits</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Take-crystal-water-and-waves-1"><span class="nav-text">3. Take crystal water and waves</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Take-something-valuable-moment-1"><span class="nav-text">4. Take something valuable moment</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part4-How-to-disable-burst-mode-in-iPhone-1"><span class="nav-text">Part4: How to disable burst mode in iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Verdict-1"><span class="nav-text">Final Verdict</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part1-How-to-take-iPhone-burst-photo-2"><span class="nav-text">Part1: How to take iPhone burst photo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part2-How-to-save-burst-photo-individually-2"><span class="nav-text">Part2: How to save burst photo individually</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part3-The-best-scenarios-to-take-burst-photos-2"><span class="nav-text">Part3: The best scenarios to take burst photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Action-and-sports-2"><span class="nav-text">1. Action and sports</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shoot-the-best-portraits-2"><span class="nav-text">2. Shoot the best portraits</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Take-crystal-water-and-waves-2"><span class="nav-text">3. Take crystal water and waves</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Take-something-valuable-moment-2"><span class="nav-text">4. Take something valuable moment</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part4-How-to-disable-burst-mode-in-iPhone-2"><span class="nav-text">Part4: How to disable burst mode in iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Verdict-2"><span class="nav-text">Final Verdict</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part1-How-to-take-iPhone-burst-photo-3"><span class="nav-text">Part1: How to take iPhone burst photo</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part2-How-to-save-burst-photo-individually-3"><span class="nav-text">Part2: How to save burst photo individually</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part3-The-best-scenarios-to-take-burst-photos-3"><span class="nav-text">Part3: The best scenarios to take burst photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Action-and-sports-3"><span class="nav-text">1. Action and sports</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shoot-the-best-portraits-3"><span class="nav-text">2. Shoot the best portraits</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Take-crystal-water-and-waves-3"><span class="nav-text">3. Take crystal water and waves</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Take-something-valuable-moment-3"><span class="nav-text">4. Take something valuable moment</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part4-How-to-disable-burst-mode-in-iPhone-3"><span class="nav-text">Part4: How to disable burst mode in iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Verdict-3"><span class="nav-text">Final Verdict</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

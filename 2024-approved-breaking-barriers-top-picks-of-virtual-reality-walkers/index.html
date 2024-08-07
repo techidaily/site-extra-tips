@@ -620,15 +620,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -650,584 +650,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/1dejI3qVnuwrOlvxJZ6twafZ1e0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157187140-37e3901e6d024481b1ea394bff30cd84.jpg" alt="&#34;2024 Approved  Breaking Barriers  Top Picks of Virtual Reality Walkers&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;2024 Approved  Breaking Barriers  Top Picks of Virtual Reality Walkers&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:50:57</span>
-        <span class="mobile">2024-07-27 07:50:57</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:50:57</span>
-            <span class="mobile">2024-07-28 07:50:57</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Breaking-Barriers-Top-Picks-of-Virtual-Reality-Walkers"><a href="#Breaking-Barriers-Top-Picks-of-Virtual-Reality-Walkers" class="headerlink" title="Breaking Barriers: Top Picks of Virtual Reality Walkers"></a>Breaking Barriers: Top Picks of Virtual Reality Walkers</h2><h1 id="Top-5-Virtual-Reality-VR-Treadmills-Review"><a href="#Top-5-Virtual-Reality-VR-Treadmills-Review" class="headerlink" title="Top 5 Virtual Reality (VR) Treadmills Review"></a>Top 5 Virtual Reality (VR) Treadmills Review</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Benjamin-Arango"><a href="#Benjamin-Arango" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<!-- affiliate ads begin -->
-<p><a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21774-1920054"
-                      border="0" alt="" width="320" height="100"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1920054/21774"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Top-5-best-VR-treadmills-you-must-know"><a href="#Top-5-best-VR-treadmills-you-must-know" class="headerlink" title="Top 5 best VR treadmills you must know"></a>Top 5 best VR treadmills you must know</h2><h3 id="1-Virtuix-Omni"><a href="#1-Virtuix-Omni" class="headerlink" title="1. Virtuix Omni"></a>1. <a class="link"   target="_blank" rel="noopener" href="http://www.virtuix.com/" >Virtuix Omni <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>These are huge treadmills designs. An enormous foundation that retorts to steps. The join allows to duck, though, how relaxed will it feel to be sit in such a “chair,” particularly when playing some games like GTA? It is compatible with Oculus Rift and HTC Vive. For those users who are absolute to pre-order, these products should know that the problem of space is not a problem anymore. But the foundation of the treadmill machine looks too dense, particularly in judgment with Cyberith.</p>
-<p>It is rated at $699 for pre-order on the certified website of the product. While engaging an order, one must specify the size of the shoe that arises with the set. And also, there are accessible numerous accessories and plug-in apparatuses for the treadmill machines from $60 to $80.</p>
-<p> <strong><em>You may also like:</em></strong><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 8 Best VR Controllers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 10 Mobile VR headsets <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top Virtual Reality (VR) Bikes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em></p>
-<h3 id="2-Cyberith-Virtualizer"><a href="#2-Cyberith-Virtualizer" class="headerlink" title="2. Cyberith Virtualizer"></a>2. <a class="link"   target="_blank" rel="noopener" href="http://cyberith.com/product/" >Cyberith Virtualizer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>It is a lighter and further striking option. The podium here is lesser bulky, and the steps are pursued by the motion sensors. Bowing actions can be achieved more usual due to the opportunity in order to lean on one lap, lacking risk to hurt it. The assembly itself is more moveable, which is the reason it is more attractive, particularly in view of its dimensions. It is also compatible with Oculus Rift and HTC Vive. The lighter structure, and, the very idea of the treadmill guises more auspicious. It is minor, its working technique is based on gliding, not on the crusade of the platform. if the idea of the surface will turn out to be as easy as simple walking, Virtualizer will be the leading product. Furthermore, the device does not need any special shoes, excluding one purchase. There is no official price yet, because of the non-existence of bulk shipment.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075475"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075475/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="3-KatWalk"><a href="#3-KatWalk" class="headerlink" title="3. KatWalk"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.kickstarter.com/projects/katvr/kat-walk-a-new-virtual-reality-locomotion-device" >KatWalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>The basis of this product is similar to the Omni, but the key thing is, according to the designers, is the non-existence of the belt or ring around the user’ waist which confines a user from the reality. A superior fascination is located in the higher part of the structure and will defend the user from dwindling. The procedure of walking does not have a gliding effect, the interaction with the surface is automatic, as present in the Omni. For sure the user will need extra shoes that are given in the form of somewhat weighty shoes. Certainly a questionable prototypical, but it got the utmost considerable funding outside Kickstarter amongst all the others products. The price is unknown yet because of no bulk production.</p>
-<h3 id="4-Spacewalker-VR"><a href="#4-Spacewalker-VR" class="headerlink" title="4. Spacewalker VR"></a>4. <a class="link"   target="_blank" rel="noopener" href="http://spacewalkervr.com/" >Spacewalker VR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Turkish technological corporation SpaceWalkerVR is presently emerging their take on the 360-degree treadmill for VR applications. The hardware structures a spinning treadmill, derived by a gyroscope that wits the user’s actions. Weight sensors beneath the platform notice differences in foot pressure to regulate its power feedback. Apart from its application in the VR, this can also be used as a normal treadmill for aptness training. The SpaceWalkerVR is presently in the prototyping phase and is probable to back the Oculus Rift. Its extra Fantastic Engine provision is predictable to open up SpaceWalkerVR’s apps in virtual gaming surroundings.</p>
-<h3 id="5-Infinadeck"><a href="#5-Infinadeck" class="headerlink" title="5. Infinadeck"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.roadtovr.com/hands-on-with-the-latest-infinadeck-treadmill-at-ces-2016/" >Infinadeck <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Working on the idea of the old treadmill, Infinadeck is a driven omnidirectional treadmill that has the skill to initiate the player in any course he prefers. Dissimilar to the Virtuix Omni, which is basically a still platform, the Infinadeck actually works by powering a square set of corresponding “mini-treadmills” to exactly put on walking and running actions ranged with any virtual reality concept. It bids the sensation of usual action of jogging, running, or walking in the real life by powering the set of treadmills in any of the direction.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg"
-                      border="0"
-                >CollageIt Pro</a></p>
-<!-- affiliate ads end -->
-<h2 id="Why-we-need-VR-treadmills-and-What-is-it"><a href="#Why-we-need-VR-treadmills-and-What-is-it" class="headerlink" title="Why we need VR treadmills and What is it?"></a>Why we need VR treadmills and What is it?</h2><p>You have tried the experience of VR headset and happiness, enjoyment, and bright emotions are what you are certainly going to feel just after 10 minutes of sitting in that chair and relishing some preview provided by the developers. Now, stop your eruption of ecstasy attended by tears of pleasure and then think about a more thoughtful game. An object which is useful in the daily life and for the health purposes as well. Just imagine you are running on the great wall of china, or in the streets of the Antarctica. Isn’t it a great feeling to enjoy such walk. Virtual reality treadmills provide such experiences right in your home. There are two benefits provided by the VR treadmills when you run on this treadmill you feel like running at the most beautiful locations in the world and your health gets better.</p>
-<h2 id="How-Do-VR-treadmills-Work"><a href="#How-Do-VR-treadmills-Work" class="headerlink" title="How Do VR treadmills Work?"></a>How Do VR treadmills Work?</h2><p>As a gamer, you would know that safe, and special shoes will offer the most relaxed experience from running around in VR worlds. In addition to this crouch provision (in Virtuix Omni) and get a satisfactorily gorgeous option for shooters and all kinds of “walk emulators.” In this racing, and other categories that do not include much walking, the maneuver becomes less valuable: a mixture of “wheel + helmet” is still a more suitable option. Though many will ponder even these benefits a luxury, and some of them just cannot or will not want to kill opponents with a plastic rummage that comes within the set. The camera alignment is immovable for the treadmill and the helmet as well, but there is only one snag. In such games where the user can turn his head discretely from the body the feature will work accordingly, but in the mainstream of up-to-date shooters, it will turn out to be one more “backstab”.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803115"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803115/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-1"><a href="#Benjamin-Arango-1" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<h2 id="Top-5-best-VR-treadmills-you-must-know-1"><a href="#Top-5-best-VR-treadmills-you-must-know-1" class="headerlink" title="Top 5 best VR treadmills you must know"></a>Top 5 best VR treadmills you must know</h2><!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084396"
-                      border="0" alt="" width="1920" height="700"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084396/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="1-Virtuix-Omni-1"><a href="#1-Virtuix-Omni-1" class="headerlink" title="1. Virtuix Omni"></a>1. <a class="link"   target="_blank" rel="noopener" href="http://www.virtuix.com/" >Virtuix Omni <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>These are huge treadmills designs. An enormous foundation that retorts to steps. The join allows to duck, though, how relaxed will it feel to be sit in such a “chair,” particularly when playing some games like GTA? It is compatible with Oculus Rift and HTC Vive. For those users who are absolute to pre-order, these products should know that the problem of space is not a problem anymore. But the foundation of the treadmill machine looks too dense, particularly in judgment with Cyberith.</p>
-<p>It is rated at $699 for pre-order on the certified website of the product. While engaging an order, one must specify the size of the shoe that arises with the set. And also, there are accessible numerous accessories and plug-in apparatuses for the treadmill machines from $60 to $80.</p>
-<p> <strong><em>You may also like:</em></strong><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 8 Best VR Controllers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 10 Mobile VR headsets <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top Virtual Reality (VR) Bikes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg"
-                      border="0"
-                >PearlMountain Image Converter</a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Cyberith-Virtualizer-1"><a href="#2-Cyberith-Virtualizer-1" class="headerlink" title="2. Cyberith Virtualizer"></a>2. <a class="link"   target="_blank" rel="noopener" href="http://cyberith.com/product/" >Cyberith Virtualizer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>It is a lighter and further striking option. The podium here is lesser bulky, and the steps are pursued by the motion sensors. Bowing actions can be achieved more usual due to the opportunity in order to lean on one lap, lacking risk to hurt it. The assembly itself is more moveable, which is the reason it is more attractive, particularly in view of its dimensions. It is also compatible with Oculus Rift and HTC Vive. The lighter structure, and, the very idea of the treadmill guises more auspicious. It is minor, its working technique is based on gliding, not on the crusade of the platform. if the idea of the surface will turn out to be as easy as simple walking, Virtualizer will be the leading product. Furthermore, the device does not need any special shoes, excluding one purchase. There is no official price yet, because of the non-existence of bulk shipment.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="3-KatWalk-1"><a href="#3-KatWalk-1" class="headerlink" title="3. KatWalk"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.kickstarter.com/projects/katvr/kat-walk-a-new-virtual-reality-locomotion-device" >KatWalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>The basis of this product is similar to the Omni, but the key thing is, according to the designers, is the non-existence of the belt or ring around the user’ waist which confines a user from the reality. A superior fascination is located in the higher part of the structure and will defend the user from dwindling. The procedure of walking does not have a gliding effect, the interaction with the surface is automatic, as present in the Omni. For sure the user will need extra shoes that are given in the form of somewhat weighty shoes. Certainly a questionable prototypical, but it got the utmost considerable funding outside Kickstarter amongst all the others products. The price is unknown yet because of no bulk production.</p>
-<h3 id="4-Spacewalker-VR-1"><a href="#4-Spacewalker-VR-1" class="headerlink" title="4. Spacewalker VR"></a>4. <a class="link"   target="_blank" rel="noopener" href="http://spacewalkervr.com/" >Spacewalker VR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Turkish technological corporation SpaceWalkerVR is presently emerging their take on the 360-degree treadmill for VR applications. The hardware structures a spinning treadmill, derived by a gyroscope that wits the user’s actions. Weight sensors beneath the platform notice differences in foot pressure to regulate its power feedback. Apart from its application in the VR, this can also be used as a normal treadmill for aptness training. The SpaceWalkerVR is presently in the prototyping phase and is probable to back the Oculus Rift. Its extra Fantastic Engine provision is predictable to open up SpaceWalkerVR’s apps in virtual gaming surroundings.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/22993-2044747"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2044747/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="5-Infinadeck-1"><a href="#5-Infinadeck-1" class="headerlink" title="5. Infinadeck"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.roadtovr.com/hands-on-with-the-latest-infinadeck-treadmill-at-ces-2016/" >Infinadeck <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Working on the idea of the old treadmill, Infinadeck is a driven omnidirectional treadmill that has the skill to initiate the player in any course he prefers. Dissimilar to the Virtuix Omni, which is basically a still platform, the Infinadeck actually works by powering a square set of corresponding “mini-treadmills” to exactly put on walking and running actions ranged with any virtual reality concept. It bids the sensation of usual action of jogging, running, or walking in the real life by powering the set of treadmills in any of the direction.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803116"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803116/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Why-we-need-VR-treadmills-and-What-is-it-1"><a href="#Why-we-need-VR-treadmills-and-What-is-it-1" class="headerlink" title="Why we need VR treadmills and What is it?"></a>Why we need VR treadmills and What is it?</h2><p>You have tried the experience of VR headset and happiness, enjoyment, and bright emotions are what you are certainly going to feel just after 10 minutes of sitting in that chair and relishing some preview provided by the developers. Now, stop your eruption of ecstasy attended by tears of pleasure and then think about a more thoughtful game. An object which is useful in the daily life and for the health purposes as well. Just imagine you are running on the great wall of china, or in the streets of the Antarctica. Isn’t it a great feeling to enjoy such walk. Virtual reality treadmills provide such experiences right in your home. There are two benefits provided by the VR treadmills when you run on this treadmill you feel like running at the most beautiful locations in the world and your health gets better.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg"
-                      border="0"
-                >Greeting Card Builder</a></p>
-<!-- affiliate ads end -->
-<h2 id="How-Do-VR-treadmills-Work-1"><a href="#How-Do-VR-treadmills-Work-1" class="headerlink" title="How Do VR treadmills Work?"></a>How Do VR treadmills Work?</h2><p>As a gamer, you would know that safe, and special shoes will offer the most relaxed experience from running around in VR worlds. In addition to this crouch provision (in Virtuix Omni) and get a satisfactorily gorgeous option for shooters and all kinds of “walk emulators.” In this racing, and other categories that do not include much walking, the maneuver becomes less valuable: a mixture of “wheel + helmet” is still a more suitable option. Though many will ponder even these benefits a luxury, and some of them just cannot or will not want to kill opponents with a plastic rummage that comes within the set. The camera alignment is immovable for the treadmill and the helmet as well, but there is only one snag. In such games where the user can turn his head discretely from the body the feature will work accordingly, but in the mainstream of up-to-date shooters, it will turn out to be one more “backstab”.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-2"><a href="#Benjamin-Arango-2" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<!-- affiliate ads begin -->
-<span id="1997795">
-                    <video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:250px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1997795/23621"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-## Top 5 best VR treadmills you must know
+  &.show-toc
+    gap 30px
 
-<h3 id="1-Virtuix-Omni-2"><a href="#1-Virtuix-Omni-2" class="headerlink" title="1. Virtuix Omni"></a>1. <a class="link"   target="_blank" rel="noopener" href="http://www.virtuix.com/" >Virtuix Omni <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>These are huge treadmills designs. An enormous foundation that retorts to steps. The join allows to duck, though, how relaxed will it feel to be sit in such a “chair,” particularly when playing some games like GTA? It is compatible with Oculus Rift and HTC Vive. For those users who are absolute to pre-order, these products should know that the problem of space is not a problem anymore. But the foundation of the treadmill machine looks too dense, particularly in judgment with Cyberith.</p>
-<p>It is rated at $699 for pre-order on the certified website of the product. While engaging an order, one must specify the size of the shoe that arises with the set. And also, there are accessible numerous accessories and plug-in apparatuses for the treadmill machines from $60 to $80.</p>
-<p> <strong><em>You may also like:</em></strong><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 8 Best VR Controllers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 10 Mobile VR headsets <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top Virtual Reality (VR) Bikes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em></p>
-<h3 id="2-Cyberith-Virtualizer-2"><a href="#2-Cyberith-Virtualizer-2" class="headerlink" title="2. Cyberith Virtualizer"></a>2. <a class="link"   target="_blank" rel="noopener" href="http://cyberith.com/product/" >Cyberith Virtualizer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>It is a lighter and further striking option. The podium here is lesser bulky, and the steps are pursued by the motion sensors. Bowing actions can be achieved more usual due to the opportunity in order to lean on one lap, lacking risk to hurt it. The assembly itself is more moveable, which is the reason it is more attractive, particularly in view of its dimensions. It is also compatible with Oculus Rift and HTC Vive. The lighter structure, and, the very idea of the treadmill guises more auspicious. It is minor, its working technique is based on gliding, not on the crusade of the platform. if the idea of the surface will turn out to be as easy as simple walking, Virtualizer will be the leading product. Furthermore, the device does not need any special shoes, excluding one purchase. There is no official price yet, because of the non-existence of bulk shipment.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="3-KatWalk-2"><a href="#3-KatWalk-2" class="headerlink" title="3. KatWalk"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.kickstarter.com/projects/katvr/kat-walk-a-new-virtual-reality-locomotion-device" >KatWalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>The basis of this product is similar to the Omni, but the key thing is, according to the designers, is the non-existence of the belt or ring around the user’ waist which confines a user from the reality. A superior fascination is located in the higher part of the structure and will defend the user from dwindling. The procedure of walking does not have a gliding effect, the interaction with the surface is automatic, as present in the Omni. For sure the user will need extra shoes that are given in the form of somewhat weighty shoes. Certainly a questionable prototypical, but it got the utmost considerable funding outside Kickstarter amongst all the others products. The price is unknown yet because of no bulk production.</p>
-<h3 id="4-Spacewalker-VR-2"><a href="#4-Spacewalker-VR-2" class="headerlink" title="4. Spacewalker VR"></a>4. <a class="link"   target="_blank" rel="noopener" href="http://spacewalkervr.com/" >Spacewalker VR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Turkish technological corporation SpaceWalkerVR is presently emerging their take on the 360-degree treadmill for VR applications. The hardware structures a spinning treadmill, derived by a gyroscope that wits the user’s actions. Weight sensors beneath the platform notice differences in foot pressure to regulate its power feedback. Apart from its application in the VR, this can also be used as a normal treadmill for aptness training. The SpaceWalkerVR is presently in the prototyping phase and is probable to back the Oculus Rift. Its extra Fantastic Engine provision is predictable to open up SpaceWalkerVR’s apps in virtual gaming surroundings.</p>
-<h3 id="5-Infinadeck-2"><a href="#5-Infinadeck-2" class="headerlink" title="5. Infinadeck"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.roadtovr.com/hands-on-with-the-latest-infinadeck-treadmill-at-ces-2016/" >Infinadeck <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Working on the idea of the old treadmill, Infinadeck is a driven omnidirectional treadmill that has the skill to initiate the player in any course he prefers. Dissimilar to the Virtuix Omni, which is basically a still platform, the Infinadeck actually works by powering a square set of corresponding “mini-treadmills” to exactly put on walking and running actions ranged with any virtual reality concept. It bids the sensation of usual action of jogging, running, or walking in the real life by powering the set of treadmills in any of the direction.</p>
-<h2 id="Why-we-need-VR-treadmills-and-What-is-it-2"><a href="#Why-we-need-VR-treadmills-and-What-is-it-2" class="headerlink" title="Why we need VR treadmills and What is it?"></a>Why we need VR treadmills and What is it?</h2><p>You have tried the experience of VR headset and happiness, enjoyment, and bright emotions are what you are certainly going to feel just after 10 minutes of sitting in that chair and relishing some preview provided by the developers. Now, stop your eruption of ecstasy attended by tears of pleasure and then think about a more thoughtful game. An object which is useful in the daily life and for the health purposes as well. Just imagine you are running on the great wall of china, or in the streets of the Antarctica. Isn’t it a great feeling to enjoy such walk. Virtual reality treadmills provide such experiences right in your home. There are two benefits provided by the VR treadmills when you run on this treadmill you feel like running at the most beautiful locations in the world and your health gets better.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17059-2072819"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2072819/17059"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="How-Do-VR-treadmills-Work-2"><a href="#How-Do-VR-treadmills-Work-2" class="headerlink" title="How Do VR treadmills Work?"></a>How Do VR treadmills Work?</h2><p>As a gamer, you would know that safe, and special shoes will offer the most relaxed experience from running around in VR worlds. In addition to this crouch provision (in Virtuix Omni) and get a satisfactorily gorgeous option for shooters and all kinds of “walk emulators.” In this racing, and other categories that do not include much walking, the maneuver becomes less valuable: a mixture of “wheel + helmet” is still a more suitable option. Though many will ponder even these benefits a luxury, and some of them just cannot or will not want to kill opponents with a plastic rummage that comes within the set. The camera alignment is immovable for the treadmill and the helmet as well, but there is only one snag. In such games where the user can turn his head discretely from the body the feature will work accordingly, but in the mainstream of up-to-date shooters, it will turn out to be one more “backstab”.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-3"><a href="#Benjamin-Arango-3" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<h2 id="Top-5-best-VR-treadmills-you-must-know-2"><a href="#Top-5-best-VR-treadmills-you-must-know-2" class="headerlink" title="Top 5 best VR treadmills you must know"></a>Top 5 best VR treadmills you must know</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/drm-removal-feature2.png"
-                      border="0"
-                >Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Virtuix-Omni-3"><a href="#1-Virtuix-Omni-3" class="headerlink" title="1. Virtuix Omni"></a>1. <a class="link"   target="_blank" rel="noopener" href="http://www.virtuix.com/" >Virtuix Omni <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>These are huge treadmills designs. An enormous foundation that retorts to steps. The join allows to duck, though, how relaxed will it feel to be sit in such a “chair,” particularly when playing some games like GTA? It is compatible with Oculus Rift and HTC Vive. For those users who are absolute to pre-order, these products should know that the problem of space is not a problem anymore. But the foundation of the treadmill machine looks too dense, particularly in judgment with Cyberith.</p>
-<p>It is rated at $699 for pre-order on the certified website of the product. While engaging an order, one must specify the size of the shoe that arises with the set. And also, there are accessible numerous accessories and plug-in apparatuses for the treadmill machines from $60 to $80.</p>
-<p> <strong><em>You may also like:</em></strong><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 8 Best VR Controllers <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top 10 Mobile VR headsets <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em><br><em><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Top Virtual Reality (VR) Bikes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></em></p>
-<h3 id="2-Cyberith-Virtualizer-3"><a href="#2-Cyberith-Virtualizer-3" class="headerlink" title="2. Cyberith Virtualizer"></a>2. <a class="link"   target="_blank" rel="noopener" href="http://cyberith.com/product/" >Cyberith Virtualizer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>It is a lighter and further striking option. The podium here is lesser bulky, and the steps are pursued by the motion sensors. Bowing actions can be achieved more usual due to the opportunity in order to lean on one lap, lacking risk to hurt it. The assembly itself is more moveable, which is the reason it is more attractive, particularly in view of its dimensions. It is also compatible with Oculus Rift and HTC Vive. The lighter structure, and, the very idea of the treadmill guises more auspicious. It is minor, its working technique is based on gliding, not on the crusade of the platform. if the idea of the surface will turn out to be as easy as simple walking, Virtualizer will be the leading product. Furthermore, the device does not need any special shoes, excluding one purchase. There is no official price yet, because of the non-existence of bulk shipment.</p>
-<h3 id="3-KatWalk-3"><a href="#3-KatWalk-3" class="headerlink" title="3. KatWalk"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.kickstarter.com/projects/katvr/kat-walk-a-new-virtual-reality-locomotion-device" >KatWalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>The basis of this product is similar to the Omni, but the key thing is, according to the designers, is the non-existence of the belt or ring around the user’ waist which confines a user from the reality. A superior fascination is located in the higher part of the structure and will defend the user from dwindling. The procedure of walking does not have a gliding effect, the interaction with the surface is automatic, as present in the Omni. For sure the user will need extra shoes that are given in the form of somewhat weighty shoes. Certainly a questionable prototypical, but it got the utmost considerable funding outside Kickstarter amongst all the others products. The price is unknown yet because of no bulk production.</p>
-<h3 id="4-Spacewalker-VR-3"><a href="#4-Spacewalker-VR-3" class="headerlink" title="4. Spacewalker VR"></a>4. <a class="link"   target="_blank" rel="noopener" href="http://spacewalkervr.com/" >Spacewalker VR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Turkish technological corporation SpaceWalkerVR is presently emerging their take on the 360-degree treadmill for VR applications. The hardware structures a spinning treadmill, derived by a gyroscope that wits the user’s actions. Weight sensors beneath the platform notice differences in foot pressure to regulate its power feedback. Apart from its application in the VR, this can also be used as a normal treadmill for aptness training. The SpaceWalkerVR is presently in the prototyping phase and is probable to back the Oculus Rift. Its extra Fantastic Engine provision is predictable to open up SpaceWalkerVR’s apps in virtual gaming surroundings.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16384-2048972"
-                      border="0" alt="" width="1200" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2048972/16384"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="5-Infinadeck-3"><a href="#5-Infinadeck-3" class="headerlink" title="5. Infinadeck"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.roadtovr.com/hands-on-with-the-latest-infinadeck-treadmill-at-ces-2016/" >Infinadeck <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Working on the idea of the old treadmill, Infinadeck is a driven omnidirectional treadmill that has the skill to initiate the player in any course he prefers. Dissimilar to the Virtuix Omni, which is basically a still platform, the Infinadeck actually works by powering a square set of corresponding “mini-treadmills” to exactly put on walking and running actions ranged with any virtual reality concept. It bids the sensation of usual action of jogging, running, or walking in the real life by powering the set of treadmills in any of the direction.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png"
-                      border="0"
-                >Kanto Player Professional</a></p>
-<!-- affiliate ads end -->
-<h2 id="Why-we-need-VR-treadmills-and-What-is-it-3"><a href="#Why-we-need-VR-treadmills-and-What-is-it-3" class="headerlink" title="Why we need VR treadmills and What is it?"></a>Why we need VR treadmills and What is it?</h2><p>You have tried the experience of VR headset and happiness, enjoyment, and bright emotions are what you are certainly going to feel just after 10 minutes of sitting in that chair and relishing some preview provided by the developers. Now, stop your eruption of ecstasy attended by tears of pleasure and then think about a more thoughtful game. An object which is useful in the daily life and for the health purposes as well. Just imagine you are running on the great wall of china, or in the streets of the Antarctica. Isn’t it a great feeling to enjoy such walk. Virtual reality treadmills provide such experiences right in your home. There are two benefits provided by the VR treadmills when you run on this treadmill you feel like running at the most beautiful locations in the world and your health gets better.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png"
-                      border="0"
-                >PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN &amp; WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a></p>
-<!-- affiliate ads end -->
-<h2 id="How-Do-VR-treadmills-Work-3"><a href="#How-Do-VR-treadmills-Work-3" class="headerlink" title="How Do VR treadmills Work?"></a>How Do VR treadmills Work?</h2><p>As a gamer, you would know that safe, and special shoes will offer the most relaxed experience from running around in VR worlds. In addition to this crouch provision (in Virtuix Omni) and get a satisfactorily gorgeous option for shooters and all kinds of “walk emulators.” In this racing, and other categories that do not include much walking, the maneuver becomes less valuable: a mixture of “wheel + helmet” is still a more suitable option. Though many will ponder even these benefits a luxury, and some of them just cannot or will not want to kill opponents with a plastic rummage that comes within the set. The camera alignment is immovable for the treadmill and the helmet as well, but there is only one snag. In such games where the user can turn his head discretely from the body the feature will work accordingly, but in the mainstream of up-to-date shooters, it will turn out to be one more “backstab”.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[New] 2024 Approved  Enlightenment Streams  Foremost Ed Resources Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-2024-approved-step-by-step-building-time-lapse-shots-on-samsung-gear/"><u>[New] 2024 Approved  Step-by-Step  Building Time Lapse Shots on Samsung Gear</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/new-2024-approved-tweaking-your-tweets-audience-engagement-techniques/"><u>[New] 2024 Approved  Tweaking Your Tweets  Audience Engagement Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-symphony-for-photos-on-digital-platforms/"><u>[New] A Symphony for Photos on Digital Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>[New] Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-androidiphones-finest-top-10-cost-effective-image-enhancers-ranked/"><u>[New] Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-becoming-a-pro-streaming-on-youtube-and-twitch-via-obs/"><u>[New] Becoming a Pro  Streaming on YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-combining-audio-and-screens-apples-mix/"><u>[New] Combining Audio & Screens  Apple's Mix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps/"><u>[New] Craft Your Own Cinematic Magic  Making Slow Motion Video From Photo Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/new-exclusive-guide-to-affordable-premium-video-editors-for-2024/"><u>[New] Exclusive Guide to Affordable, Premium Video Editors for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/new-in-2024-8-best-mirrorless-cameras-for-vlogging/"><u>[New] In 2024, 8 Best Mirrorless Cameras for Vlogging</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/new-smooth-transition-of-scale-enhancing-instagram-tv-video-clarity/"><u>[New] Smooth Transition of Scale  Enhancing Instagram TV Video Clarity</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>[New] Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-unleashing-creativity-in-instagram-photography-through-border-use/"><u>[New] Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-virtual-venues-clash-obstwitch-live-for-2024/"><u>[New] Virtual Venues Clash  OBS/Twitch Live for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-4k-visionary-review-blades-spectrum-expansion/"><u>[Updated] 4K Visionary Review  Blade's Spectrum Expansion</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media/"><u>[Updated] A Tutorial for Adding Vintage Touches  Instagram Filters on Existing Media</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>[Updated] Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-awesome-free-apps-to-transform-your-mobile-images/"><u>[Updated] Awesome FREE Apps to Transform Your Mobile Images</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-how-to-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[Updated] How to Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/updated-in-2024-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>[Updated] In 2024, Nifty Editing Edits  Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-in-2024-windows-10-advanced-screen-recorder-software/"><u>[Updated] In 2024, Windows 10 Advanced Screen Recorder Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/updated-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>[Updated] Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-archive-your-art-innovative-cost-effective-photo-storage-platforms/"><u>2024 Approved  Archive Your Art  Innovative, Cost-Effective Photo Storage Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-clarity-catalysts-selecting-online-video-aids/"><u>2024 Approved  Clarity Catalysts  Selecting Online Video Aids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-cinematic-experiences-in-w11-interface/"><u>2024 Approved  Crafting Cinematic Experiences in W11 Interface</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/2024-approved-framing-frontiers-cutting-edge-app-innovations-24/"><u>2024 Approved  Framing Frontiers  Cutting-Edge App Innovations '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-critical-review-of-the-newest-vegaspro-for-2024/"><u>A Critical Review of the Newest VegasPro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/assessing-64gb-for-video-file-storing-power/"><u>Assessing 64GB for Video File Storing Power</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-of-the-web-the-10-leading-sites-for-purchasing-mystery-boxes-for-2024/"><u>Best of the Web  The 10 Leading Sites for Purchasing Mystery Boxes for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/beyond-vlc-a-deep-dive-into-media-players-for-2024/"><u>Beyond VLC  A Deep Dive Into Media Players for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/clear-shots-a-guide-to-still-image-stability-for-2024/"><u>Clear Shots  A Guide to Still Image Stability for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-strong-introduction-url/"><u>Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-illusions-spatial-and-temporal-shifts-for-2024/"><u>Crafting Illusions  Spatial and Temporal Shifts for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-tips-for-quicker-windows-images/"><u>Cutting-Edge Tips for Quicker Windows Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-tablets-for-enhancing-photos-move-past-filmora/"><u>Essential Tablets for Enhancing Photos  Move Past Filmora</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-zoom-settings-for-peak-performance-meetings/"><u>Essential Zoom Settings for Peak Performance Meetings</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-monotonous-to-magical-techniques-for-animate-text-in-insta-stories/"><u>From Monotonous to Magical  Techniques for Animate Text in Insta Stories</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g24-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G24 to Other Android devices | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-ace-3-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus Ace 3 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-building-connections-interacting-with-your-viewers/"><u>In 2024, Building Connections  Interacting With Your Viewers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>In 2024, Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-2023-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 2023 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-iphone-and-ipad-video-players-the-10-best-options/"><u>Innovative iPhone & iPad Video Players  The 10 Best Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/interactive-design-best-practices-for-srgb-and-rgb/"><u>Interactive Design  Best Practices for Srgb and Rgb</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/mastering-transitions-in-audition-fade-in-basics-for-2024/"><u>Mastering Transitions in Audition  Fade-In Basics for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-novice-level-nft-production-with-precision/"><u>Navigating Novice-Level NFT Production with Precision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pre-upgrade-essentials-a-comprehensive-guide/"><u>Pre-Upgrade Essentials  A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-picks-best-selling-oculus-rift-games/"><u>Premier Picks  Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/progressive-presentation-kick-off/"><u>Progressive Presentation Kick-Off</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sharpen-your-snaps-top-10-internet-photo-tenderizers-listed/"><u>Sharpen Your Snaps  Top 10 Internet Photo Tenderizers Listed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vuze-media-player-open-source-multimedia-hub/"><u>Vuze Media Player  Open Source Multimedia Hub</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-topics.techidaily.com/what-is-an-ai-script-generator/"><u>What Is an AI Script Generator?</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;2024 Approved  Breaking Barriers  Top Picks of Virtual Reality Walkers&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:50:57</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:50:57
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/2024-approved-breaking-barriers-top-picks-of-virtual-reality-walkers/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/2024-approved-breaking-free-from-virtual-reality-discomfort/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Breaking Free From Virtual Reality Discomfort&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/new-best-tvs-to-accompany-your-highest-rated-consoles/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[New] Best TVs to Accompany Your Highest Rated Consoles</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;2024 Approved  Breaking Barriers  Top Picks of Virtual Reality Walkers&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Breaking-Barriers-Top-Picks-of-Virtual-Reality-Walkers"><span class="nav-text">Breaking Barriers: Top Picks of Virtual Reality Walkers</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Top-5-Virtual-Reality-VR-Treadmills-Review"><span class="nav-text">Top 5 Virtual Reality (VR) Treadmills Review</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Top-5-best-VR-treadmills-you-must-know"><span class="nav-text">Top 5 best VR treadmills you must know</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Virtuix-Omni"><span class="nav-text">1. Virtuix Omni </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cyberith-Virtualizer"><span class="nav-text">2. Cyberith Virtualizer </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-KatWalk"><span class="nav-text">3. KatWalk </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Spacewalker-VR"><span class="nav-text">4. Spacewalker VR </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Infinadeck"><span class="nav-text">5. Infinadeck </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Why-we-need-VR-treadmills-and-What-is-it"><span class="nav-text">Why we need VR treadmills and What is it?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-Do-VR-treadmills-Work"><span class="nav-text">How Do VR treadmills Work?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Top-5-best-VR-treadmills-you-must-know-1"><span class="nav-text">Top 5 best VR treadmills you must know</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Virtuix-Omni-1"><span class="nav-text">1. Virtuix Omni </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cyberith-Virtualizer-1"><span class="nav-text">2. Cyberith Virtualizer </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-KatWalk-1"><span class="nav-text">3. KatWalk </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Spacewalker-VR-1"><span class="nav-text">4. Spacewalker VR </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Infinadeck-1"><span class="nav-text">5. Infinadeck </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Why-we-need-VR-treadmills-and-What-is-it-1"><span class="nav-text">Why we need VR treadmills and What is it?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-Do-VR-treadmills-Work-1"><span class="nav-text">How Do VR treadmills Work?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Virtuix-Omni-2"><span class="nav-text">1. Virtuix Omni </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cyberith-Virtualizer-2"><span class="nav-text">2. Cyberith Virtualizer </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-KatWalk-2"><span class="nav-text">3. KatWalk </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Spacewalker-VR-2"><span class="nav-text">4. Spacewalker VR </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Infinadeck-2"><span class="nav-text">5. Infinadeck </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Why-we-need-VR-treadmills-and-What-is-it-2"><span class="nav-text">Why we need VR treadmills and What is it?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-Do-VR-treadmills-Work-2"><span class="nav-text">How Do VR treadmills Work?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Top-5-best-VR-treadmills-you-must-know-2"><span class="nav-text">Top 5 best VR treadmills you must know</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Virtuix-Omni-3"><span class="nav-text">1. Virtuix Omni </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Cyberith-Virtualizer-3"><span class="nav-text">2. Cyberith Virtualizer </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-KatWalk-3"><span class="nav-text">3. KatWalk </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Spacewalker-VR-3"><span class="nav-text">4. Spacewalker VR </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Infinadeck-3"><span class="nav-text">5. Infinadeck </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Why-we-need-VR-treadmills-and-What-is-it-3"><span class="nav-text">Why we need VR treadmills and What is it?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-Do-VR-treadmills-Work-3"><span class="nav-text">How Do VR treadmills Work?</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

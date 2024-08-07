@@ -612,15 +612,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -642,550 +642,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/qx60cS4CmTRezctL0-71-tWrmCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MountainLionInstall-570abf063df78c7d9edd5072.jpg" alt="&#34;Beat Explorers&#39; Playlist  Accessible, Free Online Tools&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Beat Explorers&#39; Playlist  Accessible, Free Online Tools&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 08:57:38</span>
-        <span class="mobile">2024-07-27 08:57:38</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 08:57:38</span>
-            <span class="mobile">2024-07-28 08:57:38</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Beat-Explorers’-Playlist-Accessible-Free-Online-Tools"><a href="#Beat-Explorers’-Playlist-Accessible-Free-Online-Tools" class="headerlink" title="Beat Explorers’ Playlist: Accessible, Free Online Tools"></a>Beat Explorers’ Playlist: Accessible, Free Online Tools</h2><p>Creating mixtapes is an easy task to engage in when you have a professional beat detector at your fingertips.</p>
-<p>There are several software programs available on the net claiming to provide this service. However, selecting the best amongst them can be quite challenging because of the low-quality results the majority provide.</p>
-<p>With this challenge in mind, our team decided to come to your rescue by creating a list of top-quality beat detectors. Kindly check them out.</p>
-<h2 id="Part-1-How-to-Figure-Out-A-Song’s-BPM"><a href="#Part-1-How-to-Figure-Out-A-Song’s-BPM" class="headerlink" title="Part 1. How to Figure Out A Song’s BPM?"></a>Part 1. How to Figure Out A Song’s BPM?</h2><p>BPM, also known as Beat Per Minutes, is the value that indicates the tempo of a song. The value is important to artists as it often helps them understand how intense a song is or should be.</p>
-<p>Calculating this value is easy. All you need is a beat detector. We have a few to share with you in this article.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.neowise.com/images/nd-ss-w200.jpg"
-                      border="0"
-                >NeoDownloader - Fast and fully automatic image&#x2F;video&#x2F;music downloader. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-What-is-the-Best-Online-Free-Beat-Detectors"><a href="#Part-2-What-is-the-Best-Online-Free-Beat-Detectors" class="headerlink" title="Part 2. What is the Best Online Free Beat Detectors?"></a>Part 2. What is the Best Online Free Beat Detectors?</h2><p>Find below, the best 3 online free beat detectors:</p>
-<ol>
-<li><strong>Tunebat</strong></li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-1.jpg"
-                      alt="tunebat a top quality program"
-                ></p>
-<p>Tunebat is a top-quality program designed to help you analyze the speed of a song and the number of beats the song produces per minute. The program can also be used to search the key of a song, remove vocals from an audio file, and enhance track sounds. This intuitive online beat detector program has a clean user interface. Thus, whether you are a novice or a professional in the tech industry, navigating around Tunebat shouldn’t be a problem.</p>
-<p><strong>Stepwise Guide to Analyze a Song BPM with Tunebat</strong></p>
-<ul>
-<li>With the aid of an internet-enabled computer, visit the Tunebat website</li>
-<li>Next, tap on the <strong>Select Files</strong>  Tunebat will immediately direct you to your local drive where your songs are stored</li>
-<li>Select your desired song that you wish to analyze, and then tap on <strong>Open</strong> to import the file</li>
-<li>Tunebat will then automatically measure the BPM of the song, and an interface showing the BPM value will pop up just as below:</li>
-</ul>
-<ol>
-<li><strong>Audio Alter</strong></li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg"
-                      border="0"
-                >CollageIt Pro</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-2.jpg"
-                      alt="audio alter an all in one audio editing program"
-                ></p>
-<p>Audio Alter is an all-in-one audio editing program built with rich editing features such as equalizer, noise reducer, pitch shifter, bass booster, and many others. The program also functions as a beat detector as you can use it to calculate the BPM of a song. You can also use it to convert audio files from one format to another. Audio Alter offers its services for free. You don’t need to download or install it, it’s a web-based program.</p>
-<p><strong>Stepwise Guide to Analyze a Song’s BPM Using Audio Alter</strong></p>
-<ul>
-<li>Visit Audio Alter website</li>
-<li>Import your desired song that you wish to analyze the BPM by clicking on <strong>Browse Computer</strong></li>
-<li>Kindly wait a while for Audio Alter to add the song you selected, then you tap on <strong>Detect BPM</strong></li>
-<li>Next, Audio Alter will analyze the song and then display the actual BPM</li>
-</ul>
-<ol>
-<li><strong>Audio Tool Set</strong></li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-3.jpg"
-                      alt="audio tool set online beat detector"
-                ></p>
-<p>Audio Tool Set is another dedicated online beat detector that offers quality results to its end-users. This powerful audio editor is open source and easy to operate. It lets you calculate the BPM of a song easily and quickly without stress. Do you wish to convert your audio files from one format to another? Use Audio Tool Set. The software program supports several audio formats which you can select to convert your audio files.</p>
-<p><strong>Stepwise Guide to Analyze a Song’s BPM Using Audio Tool Set</strong></p>
-<ul>
-<li>Go on the Audio Tool Set webpage</li>
-<li>Select <strong>BPM Counter</strong> underneath the <strong>Audio Tools</strong> section</li>
-<li>Add your preferred song to analyze the BPM</li>
-<li>Click on the <strong>Start</strong> button so Audio Tool Set can commence BPM measurement</li>
-<li>Wait a while for the program to complete the measurement then you click on <strong>Stop</strong> to complete the process</li>
-</ul>
-<ol>
-<li><strong>Highly Accessible Online Metronome</strong></li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-4.jpg"
-                      alt="highly accessible online metronome"
-                ></p>
-<p>With Highly Accessible Online Metronome, you can also measure the beat per minute (BPM) of a song accurately. Musicians often use the software program to enhance their timing so as to maintain tempo. Novices and professionals in the tech industry find the online best detector program easy to operate due to the simple user interface. Highly Accessible Online Metronome like the aforementioned programs is free to use.</p>
-<p><strong>Stepwise Guide to Analyze a Song’s BPM Using Highly Accessible Online Metronome</strong></p>
-<ul>
-<li>Go on the official website for Highly Accessible Online Metronome</li>
-<li>Import your desired music file</li>
-<li>Tap on <strong>Start</strong> so the program can analyze and fetch you the correct BOM for your song</li>
-</ul>
-<ol>
-<li><strong>Simple Metronome Online</strong></li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17885-2072200"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2072200/17885"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-5.jpg"
-                      alt="powerful cloud based bpm counter"
-                ></p>
-<p>Simple Metronome Online is a simple, but yet powerful cloud-based BPM counter. The program is well-known for top-quality services as it often provides end-users with accurate results. Simple Metronome is very easy to navigate- thanks to the interactive user interface.</p>
-<p><strong>Stepwise Guide to Analyze a Song’s BPM Using Simple Metronome Online</strong></p>
-<ul>
-<li>Visit Simple Metronome Online</li>
-<li>Add your desired music from your local drive</li>
-<li>Click on <strong>Start</strong> to initiate the BPM analysis of your desired music</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16384-2048972"
-                      border="0" alt="" width="1200" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2048972/16384"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Can-You-Detect-Beats-and-Sync-Them-Automatically"><a href="#Part-3-Can-You-Detect-Beats-and-Sync-Them-Automatically" class="headerlink" title="Part 3. Can You Detect Beats and Sync Them Automatically?"></a>Part 3. Can You Detect Beats and Sync Them Automatically?</h2><p>Yes, you can detect beats and sync them automatically. However, you must have professional audio&#x2F;video editing software at hand. Here we recommend Filmora, an all-in-one video editing software.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://filmora.wondershare.com/video-editor/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is no doubt the best video editor, and second to none. The software supports rich editing features such as screen splitting, video effects, and more. You can also use the software to create stunning videos with professional output.</p>
-<p>Besides video editing, this software can also function as a BPM analyzer as the latest version now supports the Auto Beat Sync feature. With this feature, end-users can automatically detect beats and sync them. Filmora works with multiple operating systems such as Windows, and Mac. One amazing feature of the software which makes it stand out amongst its competition is the quality results.</p>
-<p><strong>Stepwise Guide to Detect Beats and Sync Them Automatically with Filmora</strong></p>
-<p>Download and install Filmora on your Windows, or Mac OS, and then follow the stepwise guide below to detect and sync beats:</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1Launch the Filmora video editing software, select <strong>My Media</strong> at the top panel, and you will be directed to your local drive where your songs are saved. Kindly select a song of your choice then proceed.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-6.jpg"
-                      alt="launch the filmora video editing software"
-                ></p>
-<p>Step2Next, right-click on the song you imported, and then select <strong>Beat Detection</strong> from the list of options that comes up. Filmora will automatically analyze the song for the correct BPM.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-7.jpg"
-                      alt="right click on the song"
-                ></p>
-<!-- affiliate ads begin -->
-<h3 id="200610"><a class="link"   target="_blank" rel="noopener" href="https://sentrypc.7eer.net/c/5597632/200610/3022" >Parental Control Software <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3>
-<span class="text-ad-content">
-    #1 Rated Parental Control Software.<br/>
-    Monitor & Control all PC Activity!<br/>
-        <cite style="color:green">sentrypc.com/parental-controls/</cite>
-    </span><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/200610/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-## Part 4\. Frequently Asked Questions
+  &.show-toc
+    gap 30px
 
-<p>Here are some frequently asked questions and answers to cater for people who ask:</p>
-<h3 id="Q1-How-is-Beat-Detected"><a href="#Q1-How-is-Beat-Detected" class="headerlink" title="Q1. How is Beat Detected?"></a>Q1. How is Beat Detected?</h3><p>The best of a song is detected using a BPM analyzer or beat detector- a computer program designed to calculate&#x2F;measure the BPM of a song. There are lots of these programs available online. We have selected the best 6 with the Filmora video editor being the most versatile amongst them.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17238-1496243"
-                      border="0" alt="" width="1000" height="1221"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1496243/17238"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Q2-Can-I-access-YouTube-with-Filmora"><a href="#Q2-Can-I-access-YouTube-with-Filmora" class="headerlink" title="Q2. Can I access YouTube with Filmora?"></a>Q2. Can I access YouTube with Filmora?</h3><p>Yes, you can. Filmora supports the editing of video clips directly on YouTube. You can also use the software to adjust the beat of music on YouTube easily and quickly without involving a third party.</p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Now you have the top 6 best detectors at your fingertips, which would you employ in your next best detection project? Our recommended software program from the list is the <a class="link"   target="_blank" rel="noopener" href="https://filmora.wondershare.com/video-editor/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> video editor. The software is well-designed with mind-blowing features. It’s well-known for excellent results. You should try it out.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1Launch the Filmora video editing software, select <strong>My Media</strong> at the top panel, and you will be directed to your local drive where your songs are saved. Kindly select a song of your choice then proceed.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-6.jpg"
-                      alt="launch the filmora video editing software"
-                ></p>
-<p>Step2Next, right-click on the song you imported, and then select <strong>Beat Detection</strong> from the list of options that comes up. Filmora will automatically analyze the song for the correct BPM.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075482"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075482/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/online-beat-detectors-try-now-7.jpg"
-                      alt="right click on the song"
-                ></p>
-<h2 id="Part-4-Frequently-Asked-Questions"><a href="#Part-4-Frequently-Asked-Questions" class="headerlink" title="Part 4. Frequently Asked Questions"></a>Part 4. Frequently Asked Questions</h2><p>Here are some frequently asked questions and answers to cater for people who ask:</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG"
-                      border="0"
-                >The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a></p>
-<!-- affiliate ads end -->
-<h3 id="Q1-How-is-Beat-Detected-1"><a href="#Q1-How-is-Beat-Detected-1" class="headerlink" title="Q1. How is Beat Detected?"></a>Q1. How is Beat Detected?</h3><p>The best of a song is detected using a BPM analyzer or beat detector- a computer program designed to calculate&#x2F;measure the BPM of a song. There are lots of these programs available online. We have selected the best 6 with the Filmora video editor being the most versatile amongst them.</p>
-<h3 id="Q2-Can-I-access-YouTube-with-Filmora-1"><a href="#Q2-Can-I-access-YouTube-with-Filmora-1" class="headerlink" title="Q2. Can I access YouTube with Filmora?"></a>Q2. Can I access YouTube with Filmora?</h3><p>Yes, you can. Filmora supports the editing of video clips directly on YouTube. You can also use the software to adjust the beat of music on YouTube easily and quickly without involving a third party.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg"
-                      border="0"
-                >OtsAV TV Webcaster</a></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Now you have the top 6 best detectors at your fingertips, which would you employ in your next best detection project? Our recommended software program from the list is the <a class="link"   target="_blank" rel="noopener" href="https://filmora.wondershare.com/video-editor/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> video editor. The software is well-designed with mind-blowing features. It’s well-known for excellent results. You should try it out.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bring-a-smile-with-adobe-creations/"><u>[New] Bring a Smile with Adobe Creations</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones/"><u>[New] In 2024, Crafting Captivating YouTube Presence  The Ultimate Guide to Making Thumbnails on Phones</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-harness-youtube-opportunities-via-strategic-creator-studio-application/"><u>[New] In 2024, Harness YouTube Opportunities via Strategic Creator Studio Application</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-mastering-mac-screen-recording-via-keyboard-tricks/"><u>[New] Mastering Mac  Screen Recording via Keyboard Tricks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-top-earners-on-youtube/"><u>[New] Top Earners on YouTube</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/updated-2024-approved-android-sdk-update-essential-tools-for-fb-video-extraction/"><u>[Updated] 2024 Approved  Android SDK Update  Essential Tools for FB Video Extraction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-android-lens-mastery-techniques-and-apps/"><u>[Updated] Android Lens Mastery  Techniques & Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/updated-capturing-consoles-step-by-step-pc-playback-guide-for-2024/"><u>[Updated] Capturing Consoles  Step-by-Step PC Playback Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-the-perfect-voice-and-vision-for-docs/"><u>[Updated] Crafting the Perfect Voice and Vision for Docs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes/"><u>[Updated] Crafting Wisdom for the Virtual Realm  30+ Metaverse Quotes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-measuring-igtv-video-quality/"><u>[Updated] In 2024, Mastering the Art of Measuring IGTV Video Quality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-in-2024-revealing-hidden-group-media-on-messenger-app/"><u>[Updated] In 2024, Revealing Hidden Group Media on Messenger App</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-motorola-g54-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Motorola G54 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/2024-approved-experiences-with-the-syma-x8c-drone/"><u>2024 Approved  Experiences with the Syma X8C Drone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/2024-approved-navigating-through-an-absent-obs-camera-input/"><u>2024 Approved  Navigating Through an Absent OBS Camera Input</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/2024-approved-pioneering-vr-cycling-choose-wisely/"><u>2024 Approved  Pioneering VR Cycling  Choose Wisely</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-videos.techidaily.com/2024-approved-quick-guide-to-faster-tiktok-creation/"><u>2024 Approved  Quick Guide to Faster TikTok Creation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/2024-approved-resizing-imagery-on-iphone-without-hassle/"><u>2024 Approved  Resizing Imagery on iPhone Without Hassle</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-ultimate-slomo-app-assessment-insights/"><u>2024 Approved  Ultimate SloMo App Assessment - Insights</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-itel-s23plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Itel S23+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/8-best-webcam-for-live-streaming-for-2024/"><u>8 Best Webcam for Live Streaming for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>Advanced Color Techniques  Incorporating Luts for Cinematic Flair</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-hd-action-recorder-brands-under-100/"><u>Best HD Action Recorder Brands Under $100</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo V29 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/cross-device-synchronization-aligning-zoom-with-calendar-events/"><u>Cross-Device Synchronization  Aligning Zoom with Calendar Events</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-spark-review-best-mini-drone-for-taking-selfie/"><u>DJI Spark Review   Best Mini Drone for Taking Selfie</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/green-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>Green Walls in Grey Buildings  A Step Towards Eco-Cities for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-brighten-a-video-on-android-step-by-step-explained/"><u>How To Brighten A Video On Android – Step By Step Explained</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-4k-cameras-guide-(1k-top-picks/"><u>In 2024, Affordable 4K Cameras Guide (<$1K) - Top Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising/"><u>In 2024, Budding Entrepreneurs Guide  Mastering the Art of Social Media Advertising</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-can-you-change-your-voice-magically-explore-alternative-tools/"><u>In 2024, Can You Change Your Voice Magically? Explore Alternative Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-composing-an-alluring-cinematic-teaser-track/"><u>In 2024, Composing an Alluring Cinematic Teaser Track</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-seamless-sounds-for-your-podcasts-using-garageband/"><u>In 2024, Crafting Seamless Sounds for Your Podcasts Using GarageBand</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/in-2024-mirrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>In 2024, Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-guide-jpegpng-to-pdf-conversion-techniques/"><u>IPhone Guide  JPEG/PNG to PDF Conversion Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-translation.techidaily.com/new-in-2024-convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>New In 2024, Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/night-avenger-black-vs-day-defender-silver/"><u>Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/paramounts-best-vr-movies-to-watch-now/"><u>Paramount's Best VR Movies to Watch Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shedding-the-gloom-brighten-your-iphone-vids/"><u>Shedding the Gloom  Brighten Your Iphone Vids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>Smoothing Playback  The Truth Behind Frozen Photo Booth Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>Snap-Happy with Hero5 Black  Tips for Stunning Visuals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlined-qanda-guide-for-attractive-podcasts/"><u>Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-for-chrono-synergy-effects/"><u>Techniques for Chrono-Synergy Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/the-peak-of-data-preservation-cloud-service-guide-for-2024/"><u>The Peak of Data Preservation  Cloud Service Guide for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/timing-translation-from-20mb-to-seconds-measurement/"><u>Timing Translation  From 20Mb to Seconds Measurement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-free-to-use-game-soundtracks-online/"><u>Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-websites-aimed-at-enhancing-text-appearance/"><u>Top Websites Aimed at Enhancing Text Appearance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/triumph-through-film-the-top-10-motivating-titles/"><u>Triumph Through Film  The Top 10 Motivating Titles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/video-talk-with-ease-how-to-utilize-whatsapp-web-on-your-notebook/"><u>Video Talk with Ease  How to Utilize WhatsApp Web on Your Notebook</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Beat Explorers&#39; Playlist  Accessible, Free Online Tools&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 08:57:38</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 08:57:38
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/beat-explorers-playlist-accessible-free-online-tools/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/best-10-drones-for-high-quality-cinematography/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Best 10 Drones for High-Quality Cinematography&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/android-gamers-rejoice-heres-kinemaster-unleashed/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Android Gamers Rejoice! Here&#39;s KineMaster Unleashed</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Beat Explorers&#39; Playlist  Accessible, Free Online Tools&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Beat-Explorers%E2%80%99-Playlist-Accessible-Free-Online-Tools"><span class="nav-text">Beat Explorers’ Playlist: Accessible, Free Online Tools</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-to-Figure-Out-A-Song%E2%80%99s-BPM"><span class="nav-text">Part 1. How to Figure Out A Song’s BPM?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-What-is-the-Best-Online-Free-Beat-Detectors"><span class="nav-text">Part 2. What is the Best Online Free Beat Detectors?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Can-You-Detect-Beats-and-Sync-Them-Automatically"><span class="nav-text">Part 3. Can You Detect Beats and Sync Them Automatically?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#200610"><span class="nav-text">Parental Control Software </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q1-How-is-Beat-Detected"><span class="nav-text">Q1. How is Beat Detected?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q2-Can-I-access-YouTube-with-Filmora"><span class="nav-text">Q2. Can I access YouTube with Filmora?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Frequently-Asked-Questions"><span class="nav-text">Part 4. Frequently Asked Questions</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Q1-How-is-Beat-Detected-1"><span class="nav-text">Q1. How is Beat Detected?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q2-Can-I-access-YouTube-with-Filmora-1"><span class="nav-text">Q2. Can I access YouTube with Filmora?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

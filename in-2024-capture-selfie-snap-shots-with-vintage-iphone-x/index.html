@@ -644,15 +644,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -674,807 +674,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/GBGvn97grrge9ClmlTYceS9WtUY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Holding-iPhone-Emergency-SOS-Power-Off-Screen-8630001-1896d5a5d1e84350b096a0098f4e45c4.jpg" alt="&#34;In 2024, Capture Selfie  Snap Shots with Vintage iPhone X&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;In 2024, Capture Selfie  Snap Shots with Vintage iPhone X&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:24</span>
-        <span class="mobile">2024-07-27 09:24</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:24</span>
-            <span class="mobile">2024-07-28 09:24</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Capture-Selfie-Snap-Shots-with-Vintage-iPhone-X"><a href="#Capture-Selfie-Snap-Shots-with-Vintage-iPhone-X" class="headerlink" title="Capture Selfie: Snap Shots with Vintage iPhone X"></a>Capture Selfie: Snap Shots with Vintage iPhone X</h2><h1 id="How-to-Take-Portrait-Photo-with-Old-iPhone-X-8-Plus-7-Plus"><a href="#How-to-Take-Portrait-Photo-with-Old-iPhone-X-8-Plus-7-Plus" class="headerlink" title="How to Take Portrait Photo with Old iPhone X&#x2F;8 Plus&#x2F;7 Plus"></a>How to Take Portrait Photo with Old iPhone X&#x2F;8 Plus&#x2F;7 Plus</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Ollie-Mattison"><a href="#Ollie-Mattison" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Until recently, iPhone cameras didn’t have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple’s smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.</p>
-<p>In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.</p>
-<h2 id="Tips-for-iPhone-portrait-photos"><a href="#Tips-for-iPhone-portrait-photos" class="headerlink" title="Tips for iPhone portrait photos"></a>Tips for iPhone portrait photos</h2><ul>
-<li><a href="#part1">Part 1: For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</a></li>
-<li><a href="#part2">Part 1: For iPhone 8, 7 or older iPhones users</a></li>
-</ul>
-<h3 id="For-iPhone-7-Plus-8-Plus-X-users"><a href="#For-iPhone-7-Plus-8-Plus-X-users" class="headerlink" title="For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users"></a>For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</h3><p> <strong>Using the Portrait Mode on an iPhone</strong></p>
-<p>The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple’s twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.</p>
-<p>However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device’s iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/22993-2044747"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2044747/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg"
-                      alt="portrait-mode-iphone"
-                ></p>
-<p>Image resource: 9to5mac</p>
-<p>Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn’t allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don’t point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn’t perform great in low-light conditions.</p>
-<p><strong>Taking selfies in Portrait Mode with iPhone X</strong></p>
-<p>The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn’t have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg"
-                      alt="portrait-mode-selfie-iphone-x"
-                ></p>
-<p>Image resource: imore</p>
-<p>Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera’s Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.</p>
-<p>If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn’t allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.</p>
-<h3 id="For-iPhone-8-7-or-older-iPhones-users"><a href="#For-iPhone-8-7-or-older-iPhones-users" class="headerlink" title="For iPhone 8, 7 or older iPhones users"></a>For iPhone 8, 7 or older iPhones users</h3><h4 id="FabFocus"><a href="#FabFocus" class="headerlink" title="FabFocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8" >FabFocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg"
-                      alt="ezy-watermark-lite-photo"
-                ></p>
-<p>Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.</p>
-<h4 id="Tadaa-SLR"><a href="#Tadaa-SLR" class="headerlink" title="Tadaa SLR"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8" >Tadaa SLR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2068425"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2068425/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg"
-                      alt="iwatermark-watermark-photos"
-                ></p>
-<p>Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn’t offer a lot of photo editing options.</p>
-<h4 id="Bokeh-Lens"><a href="#Bokeh-Lens" class="headerlink" title="Bokeh Lens"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8" >Bokeh Lens <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $0.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.coolmuster.com/uploads/image/20201228/feature02.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg"
-                      alt="signature-photo-annotator"
-                ></p>
-<p>The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.</p>
-<h4 id="Defocus"><a href="#Defocus" class="headerlink" title="Defocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/defocus/id1048310180?mt=8" >Defocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $1.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg"
-                      alt="my-watermarks-a-personal-logo-signature-maker"
-                ></p>
-<p>The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app’s users while uploading a photo from the iPhone’s camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-1"><a href="#Ollie-Mattison-1" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Until recently, iPhone cameras didn’t have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple’s smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.</p>
-<p>In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.</p>
-<h2 id="Tips-for-iPhone-portrait-photos-1"><a href="#Tips-for-iPhone-portrait-photos-1" class="headerlink" title="Tips for iPhone portrait photos"></a>Tips for iPhone portrait photos</h2><ul>
-<li><a href="#part1">Part 1: For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</a></li>
-<li><a href="#part2">Part 1: For iPhone 8, 7 or older iPhones users</a></li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16446-1657397"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1657397/16446"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="For-iPhone-7-Plus-8-Plus-X-users-1"><a href="#For-iPhone-7-Plus-8-Plus-X-users-1" class="headerlink" title="For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users"></a>For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</h3><p> <strong>Using the Portrait Mode on an iPhone</strong></p>
-<p>The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple’s twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.</p>
-<p>However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device’s iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png"
-                      border="0"
-                >Easy and Safe Partition Software &amp; Hard Disk Manager</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg"
-                      alt="portrait-mode-iphone"
-                ></p>
-<p>Image resource: 9to5mac</p>
-<p>Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn’t allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don’t point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn’t perform great in low-light conditions.</p>
-<p><strong>Taking selfies in Portrait Mode with iPhone X</strong></p>
-<p>The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn’t have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.</p>
-<!-- affiliate ads begin -->
+  &.show-toc
+    gap 30px
 
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg"
-                      alt="portrait-mode-selfie-iphone-x"
-                ></p>
-<p>Image resource: imore</p>
-<p>Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera’s Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.</p>
-<p>If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn’t allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png"
-                      border="0"
-                ></a><br><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="For-iPhone-8-7-or-older-iPhones-users-1"><a href="#For-iPhone-8-7-or-older-iPhones-users-1" class="headerlink" title="For iPhone 8, 7 or older iPhones users"></a>For iPhone 8, 7 or older iPhones users</h3><h4 id="FabFocus-1"><a href="#FabFocus-1" class="headerlink" title="FabFocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8" >FabFocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg"
-                      alt="ezy-watermark-lite-photo"
-                ></p>
-<p>Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.</p>
-<h4 id="Tadaa-SLR-1"><a href="#Tadaa-SLR-1" class="headerlink" title="Tadaa SLR"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8" >Tadaa SLR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg"
-                      alt="iwatermark-watermark-photos"
-                ></p>
-<p>Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn’t offer a lot of photo editing options.</p>
-<h4 id="Bokeh-Lens-1"><a href="#Bokeh-Lens-1" class="headerlink" title="Bokeh Lens"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8" >Bokeh Lens <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $0.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg"
-                      alt="signature-photo-annotator"
-                ></p>
-<p>The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.</p>
-<h4 id="Defocus-1"><a href="#Defocus-1" class="headerlink" title="Defocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/defocus/id1048310180?mt=8" >Defocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $1.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg"
-                      alt="my-watermarks-a-personal-logo-signature-maker"
-                ></p>
-<p>The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app’s users while uploading a photo from the iPhone’s camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-2"><a href="#Ollie-Mattison-2" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Until recently, iPhone cameras didn’t have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple’s smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.</p>
-<p>In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.</p>
-<h2 id="Tips-for-iPhone-portrait-photos-2"><a href="#Tips-for-iPhone-portrait-photos-2" class="headerlink" title="Tips for iPhone portrait photos"></a>Tips for iPhone portrait photos</h2><ul>
-<li><a href="#part1">Part 1: For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</a></li>
-<li><a href="#part2">Part 1: For iPhone 8, 7 or older iPhones users</a></li>
-</ul>
-<h3 id="For-iPhone-7-Plus-8-Plus-X-users-2"><a href="#For-iPhone-7-Plus-8-Plus-X-users-2" class="headerlink" title="For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users"></a>For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</h3><p> <strong>Using the Portrait Mode on an iPhone</strong></p>
-<p>The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple’s twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.</p>
-<p>However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device’s iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803116"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803116/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg"
-                      alt="portrait-mode-iphone"
-                ></p>
-<p>Image resource: 9to5mac</p>
-<p>Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn’t allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don’t point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn’t perform great in low-light conditions.</p>
-<p><strong>Taking selfies in Portrait Mode with iPhone X</strong></p>
-<p>The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn’t have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg"
-                      alt="portrait-mode-selfie-iphone-x"
-                ></p>
-<p>Image resource: imore</p>
-<p>Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera’s Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.</p>
-<p>If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn’t allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.</p>
-<h3 id="For-iPhone-8-7-or-older-iPhones-users-2"><a href="#For-iPhone-8-7-or-older-iPhones-users-2" class="headerlink" title="For iPhone 8, 7 or older iPhones users"></a>For iPhone 8, 7 or older iPhones users</h3><h4 id="FabFocus-2"><a href="#FabFocus-2" class="headerlink" title="FabFocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8" >FabFocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<span id="1993652">
-                    <video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:720px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1993652/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-![ezy-watermark-lite-photo](https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg)
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-<p>Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.</p>
-<h4 id="Tadaa-SLR-2"><a href="#Tadaa-SLR-2" class="headerlink" title="Tadaa SLR"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8" >Tadaa SLR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png"
-                      border="0"
-                >Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg"
-                      alt="iwatermark-watermark-photos"
-                ></p>
-<p>Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn’t offer a lot of photo editing options.</p>
-<h4 id="Bokeh-Lens-2"><a href="#Bokeh-Lens-2" class="headerlink" title="Bokeh Lens"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8" >Bokeh Lens <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $0.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png"
-                      border="0"
-                >  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. </p>
-<p> It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. </p>
-<p>  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. </p>
-<p>  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg"
-                      alt="signature-photo-annotator"
-                ></p>
-<p>The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.</p>
-<h4 id="Defocus-2"><a href="#Defocus-2" class="headerlink" title="Defocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/defocus/id1048310180?mt=8" >Defocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $1.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg"
-                      alt="my-watermarks-a-personal-logo-signature-maker"
-                ></p>
-<p>The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app’s users while uploading a photo from the iPhone’s camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-3"><a href="#Ollie-Mattison-3" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Until recently, iPhone cameras didn’t have lenses that enabled its users to produce smooth blurry backgrounds around the subject of a photo. The so-called Bokeh effect adds depth to the photo and it also allows the photographer to separate the model in the foreground from the background. Furthermore, creating a portrait photo with Apple’s smartphones has never been easier, because the latest models of iPhones that have a twin-lens system make this process fun and easy.</p>
-<p>In this article, we are going to show you how to take photos in Portrait Mode, on iPhone X, 8 Plus, and 7 Plus, but we are also going to take a look at a few apps for older versions of iPhone that also enable you to create amazing portraits.</p>
-<h2 id="Tips-for-iPhone-portrait-photos-3"><a href="#Tips-for-iPhone-portrait-photos-3" class="headerlink" title="Tips for iPhone portrait photos"></a>Tips for iPhone portrait photos</h2><ul>
-<li><a href="#part1">Part 1: For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</a></li>
-<li><a href="#part2">Part 1: For iPhone 8, 7 or older iPhones users</a></li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17238-1496243"
-                      border="0" alt="" width="1000" height="1221"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1496243/17238"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="For-iPhone-7-Plus-8-Plus-X-users-3"><a href="#For-iPhone-7-Plus-8-Plus-X-users-3" class="headerlink" title="For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users"></a>For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</h3><p> <strong>Using the Portrait Mode on an iPhone</strong></p>
-<p>The quality of cameras on iPhones has been improving over the years, and Portrait Mode on Apple’s twin-lens devices is the clear result of that process. All twin-lens iPhones have a Portrait mode that can be accessed through the menu located near the bottom of the camera app screen. Pano, Square or Time-Lapse modes are also available.</p>
-<p>However, the Portrait Mode is only featured on iOS 10.1 or some more recent versions of the iOS, so if you want to use the Portrait Mode you need to upgrade your device’s iOS. After you launched the camera app, swipe left and look for the Portrait Mode. Once you find the feature, make sure it is marked yellow, in order to start using its tools. The app will display several different lighting options including the Natural Light preset that is essential for creating photos with Portrait Lightning.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg"
-                      alt="portrait-mode-iphone"
-                ></p>
-<p>Image resource: 9to5mac</p>
-<p>Portrait mode enables you to set the timer, turn off the flash or apply photo filters, but it doesn’t allow its users to create live photos. When using this mode you only have to apply basic photography rules, like don’t point your camera in the direction from which the light is coming from and do your best to get within a reasonable distance from the subject of your photos. If you decide to take photos in this mode indoors, you may get slightly underwhelming results because it still doesn’t perform great in low-light conditions.</p>
-<p><strong>Taking selfies in Portrait Mode with iPhone X</strong></p>
-<p>The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera system. Unlike the rear camera system, the front-facing camera doesn’t have multiple physical camera lenses; instead, it uses sensors from the TrueDepth system to measure a precise depth map.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17634-1509856"
-                      border="0" alt="" width="730" height="383"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg"
-                      alt="portrait-mode-selfie-iphone-x"
-                ></p>
-<p>Image resource: imore</p>
-<p>Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera’s Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.</p>
-<p>If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn’t allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.</p>
-<h3 id="For-iPhone-8-7-or-older-iPhones-users-3"><a href="#For-iPhone-8-7-or-older-iPhones-users-3" class="headerlink" title="For iPhone 8, 7 or older iPhones users"></a>For iPhone 8, 7 or older iPhones users</h3><h4 id="FabFocus-3"><a href="#FabFocus-3" class="headerlink" title="FabFocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/fabfocus-portraits-with-depth-and-bokeh/id1080434313?mt=8" >FabFocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-2016067"
-                      border="0" alt="" width="1020" height="380"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2016067/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ezy-watermark-lite-photo.jpg"
-                      alt="ezy-watermark-lite-photo"
-                ></p>
-<p>Older iPhone models may not have a twin-lens system, but with the aid of a camera app such as FabFocus, iPhone photographers can easily take photos with smooth blurry backgrounds. The Automatic Depth of Field and Bokeh options enable you to add as much blur as you want to your photos and create DSLR-like images. The app also contains basic photo editing tools that can be used to touch-up the photo before you share it with your friends.</p>
-<h4 id="Tadaa-SLR-3"><a href="#Tadaa-SLR-3" class="headerlink" title="Tadaa SLR"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/tadaa-slr/id724662909?mt=8" >Tadaa SLR <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $3.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg"
-                      alt="iwatermark-watermark-photos"
-                ></p>
-<p>Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn’t offer a lot of photo editing options.</p>
-<h4 id="Bokeh-Lens-3"><a href="#Bokeh-Lens-3" class="headerlink" title="Bokeh Lens"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/bokeh-lens/id587849880?mt=8" >Bokeh Lens <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $0.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<!-- affiliate ads begin -->
-<p><a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/11305-924299"
-                      border="0" alt="" width="520" height="100"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/signature-photo-annotator.jpg"
-                      alt="signature-photo-annotator"
-                ></p>
-<p>The term Bokeh comes from the Japanese language and it represents the aesthetic quality of the out of focus parts of photos. The Bokeh Lens app is designed to make the process of creating a shallow depth of field as fast and fun as it can be. The app lets you fine-tune the level of bokeh you are creating a photo, while it also allows you to select the areas you want to keep in focus.</p>
-<h4 id="Defocus-3"><a href="#Defocus-3" class="headerlink" title="Defocus"></a><a class="link"   target="_blank" rel="noopener" href="https://itunes.apple.com/us/app/defocus/id1048310180?mt=8" >Defocus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h4><p><strong>Price:</strong> $1.99</p>
-<p><strong>Compatible with:</strong> iOS 8.0 or later</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/my-watermarks-a-personal-logo-signature-maker.jpg"
-                      alt="my-watermarks-a-personal-logo-signature-maker"
-                ></p>
-<p>The plethora of blur options provided by the Defocus camera app is impressive. Dynamic Blur and Pain Blur tools provide a lot of creative freedom to the app’s users while uploading a photo from the iPhone’s camera roll and adding a bokeh effect to a photo is also an option. Defocus offers superb photo sharing features, which means that you can share your photos on any social media network directly from the app.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17091-2042323"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042323/17091"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-2024-approved-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] 2024 Approved  How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-artful-distortion-transform-your-photography-skills/"><u>[New] Artful Distortion  Transform Your Photography Skills</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chart-topping-stock-photos-and-their-narratives/"><u>[New] Chart-Topping Stock Photos and Their Narratives</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-in-2024-premium-fb-video-tools-optimized-for-firefox-users/"><u>[New] In 2024, Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-worthy-captures-for-iphones/"><u>[Updated] Chuckle-Worthy Captures for IPhones</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/updated-digital-dream-team-best-screen-capture-software-online-for-2024/"><u>[Updated] Digital Dream Team  Best Screen Capture Software Online for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>[Updated] From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-frame-rate-for-slow-motion-videos/"><u>2024 Approved  Best Frame Rate for Slow Motion Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brief-cinematic-story-outline/"><u>2024 Approved  Brief Cinematic Story Outline</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cheerful-footage-extractor-analysis/"><u>2024 Approved  Cheerful Footage Extractor Analysis</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/2024-approved-hot-oculus-vr-games-that-everyones-playing/"><u>2024 Approved  Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/2024-approved-optimal-room-decorations-for-livestreams/"><u>2024 Approved  Optimal Room Decorations for Livestreams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/6-excellent-apps-to-capture-and-save-linkedin-videos-successfully-for-2024/"><u>6 Excellent Apps to Capture and Save LinkedIn Videos Successfully for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 8 Plus? How to Fix it?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-10-ways-to-convert-youtube-to-mpeg-for-2024/"><u>Best 10 Ways to Convert YouTube to MPEG for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-drawing-apps-for-iphones-for-2024/"><u>Best Drawing Apps for iPhones for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blend-visuals-and-soundtracks-for-movie-making-for-2024/"><u>Blend Visuals and Soundtracks for Movie Making for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brainiacs-guide-to-best-gk-quizzes-online/"><u>Brainiac's Guide to Best GK Quizzes Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-stunning-imagesfilms-using-easy-shifts/"><u>Capture Stunning Images/Films Using Easy Shifts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chucklecrafts-create-meme-delight-for-2024/"><u>ChuckleCrafts  Create Meme Delight for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>Comparing Core Titles  Oculus, HTC Vive & PS VR in Gaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-review-for-samsung-gear-360-camera/"><u>Complete Review for Samsung Gear 360 Camera</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/detailed-analysis-and-overview-of-du-recorders-capabilities/"><u>Detailed Analysis and Overview of Du Recorder’s Capabilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-process-of-integrating-subtitles-into-mp4-videos/"><u>Detailed Process of Integrating Subtitles Into MP4 Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dissecting-pickus-dominance-in-android-photo-editing-tools/"><u>Dissecting PickU's Dominance in Android Photo Editing Tools</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://printer-issues.techidaily.com/efficiently-end-print-job-wait/"><u>Efficiently End Print Job Wait</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/enhance-your-gameplay-top-gaming-monitor-extensions/"><u>Enhance Your Gameplay  Top Gaming Monitor Extensions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhanced-perceptions-the-ultimate-list-of-pcs-best-vr-playback-devices/"><u>Enhanced Perceptions  The Ultimate List of PC's Best VR Playback Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/essential-guide-to-manipulating-time-with-phantom/"><u>Essential Guide to Manipulating Time with Phantom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fundamentals-of-visual-communication-through-motion/"><u>Fundamentals of Visual Communication Through Motion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>In 2024, A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-camera-review-the-ultimate-guide-to-best-videographics/"><u>In 2024, Camera Review - The Ultimate Guide to Best Videographics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-brilliance-in-canon-photos-with-free-and-premium-luts/"><u>In 2024, Capture Brilliance in Canon Photos with Free and Premium LUTs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Ace 3 Phone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-revolutionize-online-sharing-with-these-top-18-webcam-devices/"><u>In 2024, Revolutionize Online Sharing with These Top 18 Webcam Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/layer-chords-over-ppt-slides/"><u>Layer Chords over PPT Slides</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/luts-utilization-in-movie-color-grading/"><u>Luts Utilization in Movie Color Grading</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/make-your-images-pop-with-backdrop-removal-techniques-in-canva/"><u>Make Your Images Pop with Backdrop Removal Techniques in Canva</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pros-choice-top-10-cameras-with-advanced-stabilization/"><u>Pro's Choice  Top 10 Cameras With Advanced Stabilization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-start-zooming-into-success-with-win11/"><u>Quick Start  Zooming Into Success with Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a14-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A14 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skybound-innovations-with-djis-latest-pro-drone-review/"><u>Skybound Innovations with DJI's Latest Pro Drone Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skyline-secrets-expert-iphone-landscape-tips-unveiled/"><u>Skyline Secrets  Expert iPhone Landscape Tips Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/soons-review-diverse-perspectives/"><u>Soon's Review  Diverse Perspectives</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/step-by-step-full-screen-preview-in-premiere/"><u>Step-by-Step Full Screen Preview in Premiere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-30-webcams-elevating-audio-quality/"><u>Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-list-10-top-ae-text-ideas/"><u>Ultimate List  10 Top AE Text Ideas</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unraveling-filmora-editing-inquiries/"><u>Unraveling Filmora Editing Inquiries</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic/"><u>Virtual Chuckles Await  Tips & Tricks to Metaverse Meme Magic</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-excellence-key-steps-to-maximize-video-format-shifts/"><u>Zoom Excellence  Key Steps to Maximize Video Format Shifts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-transcoding-mastery-essential-three-step-approach/"><u>Zoom Transcoding Mastery  Essential Three-Step Approach</u></a></li>
-</ul></div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        </div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;In 2024, Capture Selfie  Snap Shots with Vintage iPhone X&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:24:00</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:24:00
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/in-2024-capture-selfie-snap-shots-with-vintage-iphone-x/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-            </div>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
+    .article-content-container
+      width 100% !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/updated-building-a-professional-online-network-hub/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Building a Professional Online Network Hub</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/in-2024-building-captivating-visual-puzzles-a-mosaic-journey/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;In 2024, Building Captivating Visual Puzzles  A Mosaic Journey&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    &.show-toc
+      .toc-content-container
+        display none
 
+      .article-content-container
+        width 100% !important
 
-        
-    </div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;In 2024, Capture Selfie  Snap Shots with Vintage iPhone X&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Capture-Selfie-Snap-Shots-with-Vintage-iPhone-X"><span class="nav-text">Capture Selfie: Snap Shots with Vintage iPhone X</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#How-to-Take-Portrait-Photo-with-Old-iPhone-X-8-Plus-7-Plus"><span class="nav-text">How to Take Portrait Photo with Old iPhone X&#x2F;8 Plus&#x2F;7 Plus</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Tips-for-iPhone-portrait-photos"><span class="nav-text">Tips for iPhone portrait photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-7-Plus-8-Plus-X-users"><span class="nav-text">For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-8-7-or-older-iPhones-users"><span class="nav-text">For iPhone 8, 7 or older iPhones users</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tips-for-iPhone-portrait-photos-1"><span class="nav-text">Tips for iPhone portrait photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-7-Plus-8-Plus-X-users-1"><span class="nav-text">For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-8-7-or-older-iPhones-users-1"><span class="nav-text">For iPhone 8, 7 or older iPhones users</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tips-for-iPhone-portrait-photos-2"><span class="nav-text">Tips for iPhone portrait photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-7-Plus-8-Plus-X-users-2"><span class="nav-text">For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-8-7-or-older-iPhones-users-2"><span class="nav-text">For iPhone 8, 7 or older iPhones users</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Tips-for-iPhone-portrait-photos-3"><span class="nav-text">Tips for iPhone portrait photos</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-7-Plus-8-Plus-X-users-3"><span class="nav-text">For iPhone 7 Plus&#x2F;8 Plus&#x2F;X users</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#For-iPhone-8-7-or-older-iPhones-users-3"><span class="nav-text">For iPhone 8, 7 or older iPhones users</span></a></li></ol></li></ol>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-    </div>
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
-        </div>
-    
-</div>
+    .article-header, .article-header-meta-info
+      margin-top 16px
 
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

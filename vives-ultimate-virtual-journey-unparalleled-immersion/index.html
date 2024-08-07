@@ -651,15 +651,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -681,889 +681,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3697b076251aa5b51f323de0.jpg" alt="&#34;Vive&#39;s Ultimate Virtual Journey  Unparalleled Immersion&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Vive&#39;s Ultimate Virtual Journey  Unparalleled Immersion&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 06:37:02</span>
-        <span class="mobile">2024-07-27 06:37:02</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 06:37:02</span>
-            <span class="mobile">2024-07-28 06:37:02</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Vive’s-Ultimate-Virtual-Journey-Unparalleled-Immersion"><a href="#Vive’s-Ultimate-Virtual-Journey-Unparalleled-Immersion" class="headerlink" title="Vive’s Ultimate Virtual Journey: Unparalleled Immersion"></a>Vive’s Ultimate Virtual Journey: Unparalleled Immersion</h2><h1 id="HTC-Vive-headset-Review"><a href="#HTC-Vive-headset-Review" class="headerlink" title="HTC Vive headset Review"></a>HTC Vive headset Review</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Liza-Brown"><a href="#Liza-Brown" class="headerlink" title="Liza Brown"></a>Liza Brown</h5><p> Mar 27, 2024• Proven solutions</p>
-<p><strong><em>Pros:</em></strong></p>
-<ul>
-<li>Offers immersive free moving VR experience.</li>
-<li>Designed with intuitive controllers that offer great battery life.</li>
-<li>Users can enjoy solid selection of classic games.</li>
-<li>Head tracking feature added that provides stunning experience when compared to Oculus Rift.</li>
-<li>Efficient motion controllers.</li>
-</ul>
-<p><strong><em>Cons:</em></strong></p>
-<ul>
-<li>Set task is quite complicated.</li>
-<li>Buggy software can spoil experience.</li>
-<li>Expensive solution.</li>
-<li>Demands lots of space in your VR room.</li>
-</ul>
-<p><strong><em>Key Features:</em></strong></p>
-<ul>
-<li>It handles 1200x1080 resolution type AMOLED screen.</li>
-<li>Can work impressively if you have a powerful gaming PC.</li>
-<li>Advanced HTC vive controllers available for each hand.</li>
-<li>Comes with two tracking sensors.</li>
-<li>Offers Bluetooth for easy phone connectivity.</li>
-<li>Front facing camera included.</li>
-<li>Price: £759.00</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21553-1922358"
-                      border="0" alt="" width="1080" height="1080"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1922358/21553"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="1-The-design-of-HTC-Vive"><a href="#1-The-design-of-HTC-Vive" class="headerlink" title="1. The design of HTC Vive"></a>1. The design of HTC Vive</h2><p> There are so many things to discuss about HTC Vive but let us first collect some valuable information about its headset. Developers have designed this headset with highly comfortable material that provides soft touch to user. The memory foam-esque type construction is added to edges so that all skin irritation issues can be avoided even after long hour usage. The Velcro addition further provides easy switching options between materials. Users can definitely enjoy wide and thin fit options with uniquely shaped faces.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082541"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082541/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="The-headset"><a href="#The-headset" class="headerlink" title="The headset"></a>The headset</h3><p> You will definitely love its matte black color; people use to say that no VR headset has been designed with such an impressive look till date. It is equipped with sensors at outer portion and they assists in easy connectivity with base stations so that your tracks can stay tuned over entire virtual space. The added head strap serves with quality weight adjustment options so that you do not feel it much heavier on your face. Velcro makes this strap adjustable with a little dial that is attached to one side of headset. All these arrangements make this headset comfortable enough for routine usage and you can definitely enjoy long hour gaming experience without any complaint.</p>
-<h3 id="Controllers"><a href="#Controllers" class="headerlink" title="Controllers"></a>Controllers</h3><p> HTC can manage all signals transferred from headsets while handling two additional handheld controllers. You will find these controls quite similar to those offers by Xbox One with its Oculus Rift but there is no doubt to say that this collection is versatile enough with impressive options to stay connected to the stunning virtual world. These controllers possess trigger options along with well designed touch enabled circular panel whereas a range of physical buttons having build in sensors make virtual space tracking much easier. These advanced sensor units make users enable to establish direct connection with virtual world; this is definitely an outstanding experience for all users and no one can describe it in words.</p>
-<h3 id="Downside-of-the-design"><a href="#Downside-of-the-design" class="headerlink" title="Downside of the design"></a>Downside of the design</h3><p> Although, HTC has added great efforts to make this Virtual Reality module and it serves users with incredible VR experience but still one major drawback is reported by users. The whole arrangement is wired; if it could be wireless then it could be much easier to manage even for beginners. Many users have suffered troubles with this wire based complicated setup arrangement; these wires can even get damaged with little mishandling. HTC is given a try to improve this problem with its added camera arrangement that can be easily toggled on or off. With this high quality camera unit, you can easily observe the physical world while enjoying incredible experience over Virtual Reality.</p>
-<p> HTC has also added heavy duty cable to its design that makes usage much complicated. Especially when you are working with highly interactive games that demand continuous movements then this heavy duty cable can disturb your moves. However, it is well understood that wireless technology is quite expensive and it is little difficult to design light weight VR headsets but it is also difficult to manage movements within limited VR room space. When you are enjoying with a robot in your VR world and suddenly a wire catches you from real world then it will definitely ruin the whole magical experience. The great news is that HTC has recently announced a wires VR headset for near future that can allow gamers to enjoy joyful moves. Further, it is also expected to get a pocket friendly version of VR headsets; hope it will be with us by 2017.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2087407"
-                      border="0" alt="" width="600" height="500"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2087407/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-design.jpg"
-                      alt="htc-design "
-                ></p>
-<h2 id="2-Features-and-Setup"><a href="#2-Features-and-Setup" class="headerlink" title="2. Features and Setup"></a>2. Features and Setup</h2><h3 id="Features-and-Specs"><a href="#Features-and-Specs" class="headerlink" title="Features and Specs"></a>Features and Specs</h3><p> HTC Vive is designed with a high resolution display that offers 1080x1200 content quality; further, its well designed headset makes viewing experience more wonderful. The 90Hz refresh rate ensures smooth video feed whereas combination of 70 advanced sensors make tracking task much easier in your VR room. It can easily track your head movements up to 1&#x2F;10 of degree range that means it can immediately respond to smallest movements.</p>
-<p> HTC vive comes with two base stations that offer impressive tracking facilities in a space of 15x15ft. It enables users to have trouble free movements in whole tracking area so that they can enjoy incredible gaming experience with ease.</p>
-<h3 id="Setup"><a href="#Setup" class="headerlink" title="Setup"></a>Setup</h3><p> Once you receive your HTC Vive box then you may have to install few setup specific software tools. They are easily available on official website of vive and you simply need to follow on screen instructions to complete the procedure. The guide will help you to get setup for all components one by one, including controllers, base stations etc. You also need to install special software for your PC and a SteamVR platform is also required along with Steam.</p>
-<p> Most of the gamers face one common issue with HTC vive setup and that is related to base station placement. It is really difficult to decide about which location will be suitable for particular base station. But the best thing to know is that Vive base stations are well screwed into tripods and they have light stands that help them to fix at any suitable location with ease. You can easily adjust them on different angles with adjustable height and position parameters.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-set-up.jpg"
-                      alt="htc-set-up "
-                ></p>
-<h2 id="3-Content-and-Performance"><a href="#3-Content-and-Performance" class="headerlink" title="3. Content and Performance"></a>3. Content and Performance</h2><h3 id="Games-and-Apps"><a href="#Games-and-Apps" class="headerlink" title="Games and Apps"></a>Games and Apps</h3><p> HTC has impressively combined so many potential titles with it: Job Simulator, Fantastic Contraption and Virtual Puzzle etc. You will also be able to enjoy 3D painting and Google’s tilt brush. All of these collections can provide you stunning VR experience.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Performance"><a href="#Performance" class="headerlink" title="Performance"></a>Performance</h3><p> You may find troubles due to wired system that cause noticeable delays but still the advanced system of VR can provide you intelligent tracking support for whole VR room. All the demos as well as games that you will play on HTC vive will offer great levity with crazy firefights, low stress romps and lots of casual moves. You can also have the real horror experience with its stunning crystal clear impressions. Overall, Vive offers versatile performance for all VR needs without causing any motion sickness issue.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="PC-requirement"><a href="#PC-requirement" class="headerlink" title="PC requirement"></a>PC requirement</h3><p> HTC Vive demands a powerful PC that can handle its advanced controls with ease. HTC recommends getting this VR module installed over an Intel Core i5 4590 system or any other with equivalent features. Prefer to get a system with 4GB Ram, AMD Radeon R9 290 GPU or NVIDIA GTX970. These requirements are almost same as that of Oculus demands from its users.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-content.jpg"
-                      alt=" htc-content"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17882-1611407"
-                      border="0" alt="" width="300" height="485"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1611407/17882"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="4-How-to-choose"><a href="#4-How-to-choose" class="headerlink" title="4. How to choose?"></a>4. How to choose?</h2><p> It is definitely difficult to decide. If you have enough budgets then you will definitely find wide range of options in market. Get Vive with investment of $800, Oculus Rift is priced at $600 and many more brands are available in market. There is no second opinion about quality of HTC Vive; you will definitely appreciate its technical capabilities. Note that, at the same time you have to think about comfort too as you will be wearing headset for hours so it must be trouble free. In terms of comfort, professionals rate Oculus Rift as best VR model.</p>
-<h2 id="5-Conclusion"><a href="#5-Conclusion" class="headerlink" title="5. Conclusion"></a>5. Conclusion</h2><p> HTC Vive is capable enough to provide fantastic VR experience with its rich controllers and impressive sensor units. The 90Hz display serves users with smooth viewing experience.</p>
-<p> For PC Gamers: You definitely need a powerful system to run HTC Vive setup otherwise you may face unmatched standard issues.</p>
-<p> For Casual users: There is no doubt that it can offer incredible VR experience but you have to think about price tag as well as required time to time upgrades.</p>
-<p> For first time users: If you have not yet used VR in your life then you will definitely go crazy with HTC Vive but yet you have to mess us with the set up and learn tricks to manage VR room.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Liza Brown</p>
-<p>Liza Brown is a writer and a lover of all things video.</p>
-<p>Follow @Liza Brown</p>
-<h5 id="Liza-Brown-1"><a href="#Liza-Brown-1" class="headerlink" title="Liza Brown"></a>Liza Brown</h5><p> Mar 27, 2024• Proven solutions</p>
-<p><strong><em>Pros:</em></strong></p>
-<ul>
-<li>Offers immersive free moving VR experience.</li>
-<li>Designed with intuitive controllers that offer great battery life.</li>
-<li>Users can enjoy solid selection of classic games.</li>
-<li>Head tracking feature added that provides stunning experience when compared to Oculus Rift.</li>
-<li>Efficient motion controllers.</li>
-</ul>
-<p><strong><em>Cons:</em></strong></p>
-<ul>
-<li>Set task is quite complicated.</li>
-<li>Buggy software can spoil experience.</li>
-<li>Expensive solution.</li>
-<li>Demands lots of space in your VR room.</li>
-</ul>
-<p><strong><em>Key Features:</em></strong></p>
-<ul>
-<li>It handles 1200x1080 resolution type AMOLED screen.</li>
-<li>Can work impressively if you have a powerful gaming PC.</li>
-<li>Advanced HTC vive controllers available for each hand.</li>
-<li>Comes with two tracking sensors.</li>
-<li>Offers Bluetooth for easy phone connectivity.</li>
-<li>Front facing camera included.</li>
-<li>Price: £759.00</li>
-</ul>
-<h2 id="1-The-design-of-HTC-Vive-1"><a href="#1-The-design-of-HTC-Vive-1" class="headerlink" title="1. The design of HTC Vive"></a>1. The design of HTC Vive</h2><p> There are so many things to discuss about HTC Vive but let us first collect some valuable information about its headset. Developers have designed this headset with highly comfortable material that provides soft touch to user. The memory foam-esque type construction is added to edges so that all skin irritation issues can be avoided even after long hour usage. The Velcro addition further provides easy switching options between materials. Users can definitely enjoy wide and thin fit options with uniquely shaped faces.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453720"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453720/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="The-headset-1"><a href="#The-headset-1" class="headerlink" title="The headset"></a>The headset</h3><p> You will definitely love its matte black color; people use to say that no VR headset has been designed with such an impressive look till date. It is equipped with sensors at outer portion and they assists in easy connectivity with base stations so that your tracks can stay tuned over entire virtual space. The added head strap serves with quality weight adjustment options so that you do not feel it much heavier on your face. Velcro makes this strap adjustable with a little dial that is attached to one side of headset. All these arrangements make this headset comfortable enough for routine usage and you can definitely enjoy long hour gaming experience without any complaint.</p>
-<h3 id="Controllers-1"><a href="#Controllers-1" class="headerlink" title="Controllers"></a>Controllers</h3><p> HTC can manage all signals transferred from headsets while handling two additional handheld controllers. You will find these controls quite similar to those offers by Xbox One with its Oculus Rift but there is no doubt to say that this collection is versatile enough with impressive options to stay connected to the stunning virtual world. These controllers possess trigger options along with well designed touch enabled circular panel whereas a range of physical buttons having build in sensors make virtual space tracking much easier. These advanced sensor units make users enable to establish direct connection with virtual world; this is definitely an outstanding experience for all users and no one can describe it in words.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Downside-of-the-design-1"><a href="#Downside-of-the-design-1" class="headerlink" title="Downside of the design"></a>Downside of the design</h3><p> Although, HTC has added great efforts to make this Virtual Reality module and it serves users with incredible VR experience but still one major drawback is reported by users. The whole arrangement is wired; if it could be wireless then it could be much easier to manage even for beginners. Many users have suffered troubles with this wire based complicated setup arrangement; these wires can even get damaged with little mishandling. HTC is given a try to improve this problem with its added camera arrangement that can be easily toggled on or off. With this high quality camera unit, you can easily observe the physical world while enjoying incredible experience over Virtual Reality.</p>
-<p> HTC has also added heavy duty cable to its design that makes usage much complicated. Especially when you are working with highly interactive games that demand continuous movements then this heavy duty cable can disturb your moves. However, it is well understood that wireless technology is quite expensive and it is little difficult to design light weight VR headsets but it is also difficult to manage movements within limited VR room space. When you are enjoying with a robot in your VR world and suddenly a wire catches you from real world then it will definitely ruin the whole magical experience. The great news is that HTC has recently announced a wires VR headset for near future that can allow gamers to enjoy joyful moves. Further, it is also expected to get a pocket friendly version of VR headsets; hope it will be with us by 2017.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082529"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082529/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-design.jpg"
-                      alt="htc-design "
-                ></p>
-<h2 id="2-Features-and-Setup-1"><a href="#2-Features-and-Setup-1" class="headerlink" title="2. Features and Setup"></a>2. Features and Setup</h2><h3 id="Features-and-Specs-1"><a href="#Features-and-Specs-1" class="headerlink" title="Features and Specs"></a>Features and Specs</h3><p> HTC Vive is designed with a high resolution display that offers 1080x1200 content quality; further, its well designed headset makes viewing experience more wonderful. The 90Hz refresh rate ensures smooth video feed whereas combination of 70 advanced sensors make tracking task much easier in your VR room. It can easily track your head movements up to 1&#x2F;10 of degree range that means it can immediately respond to smallest movements.</p>
-<p> HTC vive comes with two base stations that offer impressive tracking facilities in a space of 15x15ft. It enables users to have trouble free movements in whole tracking area so that they can enjoy incredible gaming experience with ease.</p>
-<h3 id="Setup-1"><a href="#Setup-1" class="headerlink" title="Setup"></a>Setup</h3><p> Once you receive your HTC Vive box then you may have to install few setup specific software tools. They are easily available on official website of vive and you simply need to follow on screen instructions to complete the procedure. The guide will help you to get setup for all components one by one, including controllers, base stations etc. You also need to install special software for your PC and a SteamVR platform is also required along with Steam.</p>
-<p> Most of the gamers face one common issue with HTC vive setup and that is related to base station placement. It is really difficult to decide about which location will be suitable for particular base station. But the best thing to know is that Vive base stations are well screwed into tripods and they have light stands that help them to fix at any suitable location with ease. You can easily adjust them on different angles with adjustable height and position parameters.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif"
-                      border="0"
-                >Forex Robotron Basic Package</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-set-up.jpg"
-                      alt="htc-set-up "
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2087484"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2087484/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="3-Content-and-Performance-1"><a href="#3-Content-and-Performance-1" class="headerlink" title="3. Content and Performance"></a>3. Content and Performance</h2><h3 id="Games-and-Apps-1"><a href="#Games-and-Apps-1" class="headerlink" title="Games and Apps"></a>Games and Apps</h3><p> HTC has impressively combined so many potential titles with it: Job Simulator, Fantastic Contraption and Virtual Puzzle etc. You will also be able to enjoy 3D painting and Google’s tilt brush. All of these collections can provide you stunning VR experience.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/11832-863039"
-                      border="0" alt="" width="300" height="250"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Performance-1"><a href="#Performance-1" class="headerlink" title="Performance"></a>Performance</h3><p> You may find troubles due to wired system that cause noticeable delays but still the advanced system of VR can provide you intelligent tracking support for whole VR room. All the demos as well as games that you will play on HTC vive will offer great levity with crazy firefights, low stress romps and lots of casual moves. You can also have the real horror experience with its stunning crystal clear impressions. Overall, Vive offers versatile performance for all VR needs without causing any motion sickness issue.</p>
-<h3 id="PC-requirement-1"><a href="#PC-requirement-1" class="headerlink" title="PC requirement"></a>PC requirement</h3><p> HTC Vive demands a powerful PC that can handle its advanced controls with ease. HTC recommends getting this VR module installed over an Intel Core i5 4590 system or any other with equivalent features. Prefer to get a system with 4GB Ram, AMD Radeon R9 290 GPU or NVIDIA GTX970. These requirements are almost same as that of Oculus demands from its users.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-content.jpg"
-                      alt=" htc-content"
-                ></p>
-<h2 id="4-How-to-choose-1"><a href="#4-How-to-choose-1" class="headerlink" title="4. How to choose?"></a>4. How to choose?</h2><p> It is definitely difficult to decide. If you have enough budgets then you will definitely find wide range of options in market. Get Vive with investment of $800, Oculus Rift is priced at $600 and many more brands are available in market. There is no second opinion about quality of HTC Vive; you will definitely appreciate its technical capabilities. Note that, at the same time you have to think about comfort too as you will be wearing headset for hours so it must be trouble free. In terms of comfort, professionals rate Oculus Rift as best VR model.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<h2 id="5-Conclusion-1"><a href="#5-Conclusion-1" class="headerlink" title="5. Conclusion"></a>5. Conclusion</h2><p> HTC Vive is capable enough to provide fantastic VR experience with its rich controllers and impressive sensor units. The 90Hz display serves users with smooth viewing experience.</p>
-<p> For PC Gamers: You definitely need a powerful system to run HTC Vive setup otherwise you may face unmatched standard issues.</p>
-<p> For Casual users: There is no doubt that it can offer incredible VR experience but you have to think about price tag as well as required time to time upgrades.</p>
-<p> For first time users: If you have not yet used VR in your life then you will definitely go crazy with HTC Vive but yet you have to mess us with the set up and learn tricks to manage VR room.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Liza Brown</p>
-<p>Liza Brown is a writer and a lover of all things video.</p>
-<p>Follow @Liza Brown</p>
-<h5 id="Liza-Brown-2"><a href="#Liza-Brown-2" class="headerlink" title="Liza Brown"></a>Liza Brown</h5><p> Mar 27, 2024• Proven solutions</p>
-<p><strong><em>Pros:</em></strong></p>
-<ul>
-<li>Offers immersive free moving VR experience.</li>
-<li>Designed with intuitive controllers that offer great battery life.</li>
-<li>Users can enjoy solid selection of classic games.</li>
-<li>Head tracking feature added that provides stunning experience when compared to Oculus Rift.</li>
-<li>Efficient motion controllers.</li>
-</ul>
-<p><strong><em>Cons:</em></strong></p>
-<ul>
-<li>Set task is quite complicated.</li>
-<li>Buggy software can spoil experience.</li>
-<li>Expensive solution.</li>
-<li>Demands lots of space in your VR room.</li>
-</ul>
-<p><strong><em>Key Features:</em></strong></p>
-<ul>
-<li>It handles 1200x1080 resolution type AMOLED screen.</li>
-<li>Can work impressively if you have a powerful gaming PC.</li>
-<li>Advanced HTC vive controllers available for each hand.</li>
-<li>Comes with two tracking sensors.</li>
-<li>Offers Bluetooth for easy phone connectivity.</li>
-<li>Front facing camera included.</li>
-<li>Price: £759.00</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17634-1509856"
-                      border="0" alt="" width="730" height="383"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="1-The-design-of-HTC-Vive-2"><a href="#1-The-design-of-HTC-Vive-2" class="headerlink" title="1. The design of HTC Vive"></a>1. The design of HTC Vive</h2><p> There are so many things to discuss about HTC Vive but let us first collect some valuable information about its headset. Developers have designed this headset with highly comfortable material that provides soft touch to user. The memory foam-esque type construction is added to edges so that all skin irritation issues can be avoided even after long hour usage. The Velcro addition further provides easy switching options between materials. Users can definitely enjoy wide and thin fit options with uniquely shaped faces.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2095369"
-                      border="0" alt="" width="1024" height="512"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2095369/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="The-headset-2"><a href="#The-headset-2" class="headerlink" title="The headset"></a>The headset</h3><p> You will definitely love its matte black color; people use to say that no VR headset has been designed with such an impressive look till date. It is equipped with sensors at outer portion and they assists in easy connectivity with base stations so that your tracks can stay tuned over entire virtual space. The added head strap serves with quality weight adjustment options so that you do not feel it much heavier on your face. Velcro makes this strap adjustable with a little dial that is attached to one side of headset. All these arrangements make this headset comfortable enough for routine usage and you can definitely enjoy long hour gaming experience without any complaint.</p>
-<h3 id="Controllers-2"><a href="#Controllers-2" class="headerlink" title="Controllers"></a>Controllers</h3><p> HTC can manage all signals transferred from headsets while handling two additional handheld controllers. You will find these controls quite similar to those offers by Xbox One with its Oculus Rift but there is no doubt to say that this collection is versatile enough with impressive options to stay connected to the stunning virtual world. These controllers possess trigger options along with well designed touch enabled circular panel whereas a range of physical buttons having build in sensors make virtual space tracking much easier. These advanced sensor units make users enable to establish direct connection with virtual world; this is definitely an outstanding experience for all users and no one can describe it in words.</p>
-<h3 id="Downside-of-the-design-2"><a href="#Downside-of-the-design-2" class="headerlink" title="Downside of the design"></a>Downside of the design</h3><p> Although, HTC has added great efforts to make this Virtual Reality module and it serves users with incredible VR experience but still one major drawback is reported by users. The whole arrangement is wired; if it could be wireless then it could be much easier to manage even for beginners. Many users have suffered troubles with this wire based complicated setup arrangement; these wires can even get damaged with little mishandling. HTC is given a try to improve this problem with its added camera arrangement that can be easily toggled on or off. With this high quality camera unit, you can easily observe the physical world while enjoying incredible experience over Virtual Reality.</p>
-<p> HTC has also added heavy duty cable to its design that makes usage much complicated. Especially when you are working with highly interactive games that demand continuous movements then this heavy duty cable can disturb your moves. However, it is well understood that wireless technology is quite expensive and it is little difficult to design light weight VR headsets but it is also difficult to manage movements within limited VR room space. When you are enjoying with a robot in your VR world and suddenly a wire catches you from real world then it will definitely ruin the whole magical experience. The great news is that HTC has recently announced a wires VR headset for near future that can allow gamers to enjoy joyful moves. Further, it is also expected to get a pocket friendly version of VR headsets; hope it will be with us by 2017.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp"
-                      border="0"
-                >EmEditor Professional (Lifetime License, non-store app)</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-design.jpg"
-                      alt="htc-design "
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="2-Features-and-Setup-2"><a href="#2-Features-and-Setup-2" class="headerlink" title="2. Features and Setup"></a>2. Features and Setup</h2><!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453719"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453719/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Features-and-Specs-2"><a href="#Features-and-Specs-2" class="headerlink" title="Features and Specs"></a>Features and Specs</h3><p> HTC Vive is designed with a high resolution display that offers 1080x1200 content quality; further, its well designed headset makes viewing experience more wonderful. The 90Hz refresh rate ensures smooth video feed whereas combination of 70 advanced sensors make tracking task much easier in your VR room. It can easily track your head movements up to 1&#x2F;10 of degree range that means it can immediately respond to smallest movements.</p>
-<p> HTC vive comes with two base stations that offer impressive tracking facilities in a space of 15x15ft. It enables users to have trouble free movements in whole tracking area so that they can enjoy incredible gaming experience with ease.</p>
-<h3 id="Setup-2"><a href="#Setup-2" class="headerlink" title="Setup"></a>Setup</h3><p> Once you receive your HTC Vive box then you may have to install few setup specific software tools. They are easily available on official website of vive and you simply need to follow on screen instructions to complete the procedure. The guide will help you to get setup for all components one by one, including controllers, base stations etc. You also need to install special software for your PC and a SteamVR platform is also required along with Steam.</p>
-<p> Most of the gamers face one common issue with HTC vive setup and that is related to base station placement. It is really difficult to decide about which location will be suitable for particular base station. But the best thing to know is that Vive base stations are well screwed into tripods and they have light stands that help them to fix at any suitable location with ease. You can easily adjust them on different angles with adjustable height and position parameters.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16836-2090698"
-                      border="0" alt="" width="720" height="300"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-set-up.jpg"
-                      alt="htc-set-up "
-                ></p>
-<h2 id="3-Content-and-Performance-2"><a href="#3-Content-and-Performance-2" class="headerlink" title="3. Content and Performance"></a>3. Content and Performance</h2><h3 id="Games-and-Apps-2"><a href="#Games-and-Apps-2" class="headerlink" title="Games and Apps"></a>Games and Apps</h3><p> HTC has impressively combined so many potential titles with it: Job Simulator, Fantastic Contraption and Virtual Puzzle etc. You will also be able to enjoy 3D painting and Google’s tilt brush. All of these collections can provide you stunning VR experience.</p>
-<h3 id="Performance-2"><a href="#Performance-2" class="headerlink" title="Performance"></a>Performance</h3><p> You may find troubles due to wired system that cause noticeable delays but still the advanced system of VR can provide you intelligent tracking support for whole VR room. All the demos as well as games that you will play on HTC vive will offer great levity with crazy firefights, low stress romps and lots of casual moves. You can also have the real horror experience with its stunning crystal clear impressions. Overall, Vive offers versatile performance for all VR needs without causing any motion sickness issue.</p>
-<h3 id="PC-requirement-2"><a href="#PC-requirement-2" class="headerlink" title="PC requirement"></a>PC requirement</h3><p> HTC Vive demands a powerful PC that can handle its advanced controls with ease. HTC recommends getting this VR module installed over an Intel Core i5 4590 system or any other with equivalent features. Prefer to get a system with 4GB Ram, AMD Radeon R9 290 GPU or NVIDIA GTX970. These requirements are almost same as that of Oculus demands from its users.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-content.jpg"
-                      alt=" htc-content"
-                ></p>
-<h2 id="4-How-to-choose-2"><a href="#4-How-to-choose-2" class="headerlink" title="4. How to choose?"></a>4. How to choose?</h2><p> It is definitely difficult to decide. If you have enough budgets then you will definitely find wide range of options in market. Get Vive with investment of $800, Oculus Rift is priced at $600 and many more brands are available in market. There is no second opinion about quality of HTC Vive; you will definitely appreciate its technical capabilities. Note that, at the same time you have to think about comfort too as you will be wearing headset for hours so it must be trouble free. In terms of comfort, professionals rate Oculus Rift as best VR model.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15852-1526796"
-                      border="0" alt="" width="1200" height="628"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1526796/15852"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="5-Conclusion-2"><a href="#5-Conclusion-2" class="headerlink" title="5. Conclusion"></a>5. Conclusion</h2><p> HTC Vive is capable enough to provide fantastic VR experience with its rich controllers and impressive sensor units. The 90Hz display serves users with smooth viewing experience.</p>
-<p> For PC Gamers: You definitely need a powerful system to run HTC Vive setup otherwise you may face unmatched standard issues.</p>
-<p> For Casual users: There is no doubt that it can offer incredible VR experience but you have to think about price tag as well as required time to time upgrades.</p>
-<p> For first time users: If you have not yet used VR in your life then you will definitely go crazy with HTC Vive but yet you have to mess us with the set up and learn tricks to manage VR room.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Liza Brown</p>
-<p>Liza Brown is a writer and a lover of all things video.</p>
-<p>Follow @Liza Brown</p>
-<h5 id="Liza-Brown-3"><a href="#Liza-Brown-3" class="headerlink" title="Liza Brown"></a>Liza Brown</h5><p> Mar 27, 2024• Proven solutions</p>
-<p><strong><em>Pros:</em></strong></p>
-<ul>
-<li>Offers immersive free moving VR experience.</li>
-<li>Designed with intuitive controllers that offer great battery life.</li>
-<li>Users can enjoy solid selection of classic games.</li>
-<li>Head tracking feature added that provides stunning experience when compared to Oculus Rift.</li>
-<li>Efficient motion controllers.</li>
-</ul>
-<p><strong><em>Cons:</em></strong></p>
-<ul>
-<li>Set task is quite complicated.</li>
-<li>Buggy software can spoil experience.</li>
-<li>Expensive solution.</li>
-<li>Demands lots of space in your VR room.</li>
-</ul>
-<p><strong><em>Key Features:</em></strong></p>
-<ul>
-<li>It handles 1200x1080 resolution type AMOLED screen.</li>
-<li>Can work impressively if you have a powerful gaming PC.</li>
-<li>Advanced HTC vive controllers available for each hand.</li>
-<li>Comes with two tracking sensors.</li>
-<li>Offers Bluetooth for easy phone connectivity.</li>
-<li>Front facing camera included.</li>
-<li>Price: £759.00</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="1-The-design-of-HTC-Vive-3"><a href="#1-The-design-of-HTC-Vive-3" class="headerlink" title="1. The design of HTC Vive"></a>1. The design of HTC Vive</h2><p> There are so many things to discuss about HTC Vive but let us first collect some valuable information about its headset. Developers have designed this headset with highly comfortable material that provides soft touch to user. The memory foam-esque type construction is added to edges so that all skin irritation issues can be avoided even after long hour usage. The Velcro addition further provides easy switching options between materials. Users can definitely enjoy wide and thin fit options with uniquely shaped faces.</p>
-<h3 id="The-headset-3"><a href="#The-headset-3" class="headerlink" title="The headset"></a>The headset</h3><p> You will definitely love its matte black color; people use to say that no VR headset has been designed with such an impressive look till date. It is equipped with sensors at outer portion and they assists in easy connectivity with base stations so that your tracks can stay tuned over entire virtual space. The added head strap serves with quality weight adjustment options so that you do not feel it much heavier on your face. Velcro makes this strap adjustable with a little dial that is attached to one side of headset. All these arrangements make this headset comfortable enough for routine usage and you can definitely enjoy long hour gaming experience without any complaint.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21774-1920054"
-                      border="0" alt="" width="320" height="100"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1920054/21774"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Controllers-3"><a href="#Controllers-3" class="headerlink" title="Controllers"></a>Controllers</h3><p> HTC can manage all signals transferred from headsets while handling two additional handheld controllers. You will find these controls quite similar to those offers by Xbox One with its Oculus Rift but there is no doubt to say that this collection is versatile enough with impressive options to stay connected to the stunning virtual world. These controllers possess trigger options along with well designed touch enabled circular panel whereas a range of physical buttons having build in sensors make virtual space tracking much easier. These advanced sensor units make users enable to establish direct connection with virtual world; this is definitely an outstanding experience for all users and no one can describe it in words.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png"
-                      border="0"
-                >Video Converter Factory Pro</a></p>
-<!-- affiliate ads end -->
-<h3 id="Downside-of-the-design-3"><a href="#Downside-of-the-design-3" class="headerlink" title="Downside of the design"></a>Downside of the design</h3><p> Although, HTC has added great efforts to make this Virtual Reality module and it serves users with incredible VR experience but still one major drawback is reported by users. The whole arrangement is wired; if it could be wireless then it could be much easier to manage even for beginners. Many users have suffered troubles with this wire based complicated setup arrangement; these wires can even get damaged with little mishandling. HTC is given a try to improve this problem with its added camera arrangement that can be easily toggled on or off. With this high quality camera unit, you can easily observe the physical world while enjoying incredible experience over Virtual Reality.</p>
-<p> HTC has also added heavy duty cable to its design that makes usage much complicated. Especially when you are working with highly interactive games that demand continuous movements then this heavy duty cable can disturb your moves. However, it is well understood that wireless technology is quite expensive and it is little difficult to design light weight VR headsets but it is also difficult to manage movements within limited VR room space. When you are enjoying with a robot in your VR world and suddenly a wire catches you from real world then it will definitely ruin the whole magical experience. The great news is that HTC has recently announced a wires VR headset for near future that can allow gamers to enjoy joyful moves. Further, it is also expected to get a pocket friendly version of VR headsets; hope it will be with us by 2017.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-design.jpg"
-                      alt="htc-design "
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="2-Features-and-Setup-3"><a href="#2-Features-and-Setup-3" class="headerlink" title="2. Features and Setup"></a>2. Features and Setup</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png"
-                      border="0"
-                > Take advantage of PREMIUM features for 12 months.<br>Create your texts &#x2F; logos without any limitation.<br>No attribution required when downloading.<br>No advertising on the website.<br> TextStudio.com  PREMIUM - Yearly Membership</a></p>
-<!-- affiliate ads end -->
-<h3 id="Features-and-Specs-3"><a href="#Features-and-Specs-3" class="headerlink" title="Features and Specs"></a>Features and Specs</h3><p> HTC Vive is designed with a high resolution display that offers 1080x1200 content quality; further, its well designed headset makes viewing experience more wonderful. The 90Hz refresh rate ensures smooth video feed whereas combination of 70 advanced sensors make tracking task much easier in your VR room. It can easily track your head movements up to 1&#x2F;10 of degree range that means it can immediately respond to smallest movements.</p>
-<p> HTC vive comes with two base stations that offer impressive tracking facilities in a space of 15x15ft. It enables users to have trouble free movements in whole tracking area so that they can enjoy incredible gaming experience with ease.</p>
-<h3 id="Setup-3"><a href="#Setup-3" class="headerlink" title="Setup"></a>Setup</h3><p> Once you receive your HTC Vive box then you may have to install few setup specific software tools. They are easily available on official website of vive and you simply need to follow on screen instructions to complete the procedure. The guide will help you to get setup for all components one by one, including controllers, base stations etc. You also need to install special software for your PC and a SteamVR platform is also required along with Steam.</p>
-<p> Most of the gamers face one common issue with HTC vive setup and that is related to base station placement. It is really difficult to decide about which location will be suitable for particular base station. But the best thing to know is that Vive base stations are well screwed into tripods and they have light stands that help them to fix at any suitable location with ease. You can easily adjust them on different angles with adjustable height and position parameters.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-set-up.jpg"
-                      alt="htc-set-up "
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF 2-Year Plan</a></p>
-<!-- affiliate ads end -->
-<h2 id="3-Content-and-Performance-3"><a href="#3-Content-and-Performance-3" class="headerlink" title="3. Content and Performance"></a>3. Content and Performance</h2><h3 id="Games-and-Apps-3"><a href="#Games-and-Apps-3" class="headerlink" title="Games and Apps"></a>Games and Apps</h3><p> HTC has impressively combined so many potential titles with it: Job Simulator, Fantastic Contraption and Virtual Puzzle etc. You will also be able to enjoy 3D painting and Google’s tilt brush. All of these collections can provide you stunning VR experience.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17326-1657301"
-                      border="0" alt="" width="1920" height="933"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1657301/17326"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Performance-3"><a href="#Performance-3" class="headerlink" title="Performance"></a>Performance</h3><p> You may find troubles due to wired system that cause noticeable delays but still the advanced system of VR can provide you intelligent tracking support for whole VR room. All the demos as well as games that you will play on HTC vive will offer great levity with crazy firefights, low stress romps and lots of casual moves. You can also have the real horror experience with its stunning crystal clear impressions. Overall, Vive offers versatile performance for all VR needs without causing any motion sickness issue.</p>
-<h3 id="PC-requirement-3"><a href="#PC-requirement-3" class="headerlink" title="PC requirement"></a>PC requirement</h3><p> HTC Vive demands a powerful PC that can handle its advanced controls with ease. HTC recommends getting this VR module installed over an Intel Core i5 4590 system or any other with equivalent features. Prefer to get a system with 4GB Ram, AMD Radeon R9 290 GPU or NVIDIA GTX970. These requirements are almost same as that of Oculus demands from its users.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/htc-content.jpg"
-                      alt=" htc-content"
-                ></p>
-<h2 id="4-How-to-choose-3"><a href="#4-How-to-choose-3" class="headerlink" title="4. How to choose?"></a>4. How to choose?</h2><p> It is definitely difficult to decide. If you have enough budgets then you will definitely find wide range of options in market. Get Vive with investment of $800, Oculus Rift is priced at $600 and many more brands are available in market. There is no second opinion about quality of HTC Vive; you will definitely appreciate its technical capabilities. Note that, at the same time you have to think about comfort too as you will be wearing headset for hours so it must be trouble free. In terms of comfort, professionals rate Oculus Rift as best VR model.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13846-1572622"
-                      border="0" alt="" width="1000" height="1298"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1572622/13846"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="5-Conclusion-3"><a href="#5-Conclusion-3" class="headerlink" title="5. Conclusion"></a>5. Conclusion</h2><p> HTC Vive is capable enough to provide fantastic VR experience with its rich controllers and impressive sensor units. The 90Hz display serves users with smooth viewing experience.</p>
-<p> For PC Gamers: You definitely need a powerful system to run HTC Vive setup otherwise you may face unmatched standard issues.</p>
-<p> For Casual users: There is no doubt that it can offer incredible VR experience but you have to think about price tag as well as required time to time upgrades.</p>
-<p> For first time users: If you have not yet used VR in your life then you will definitely go crazy with HTC Vive but yet you have to mess us with the set up and learn tricks to manage VR room.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Liza Brown</p>
-<p>Liza Brown is a writer and a lover of all things video.</p>
-<p>Follow @Liza Brown</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-chromes-pip-magic-for-seamless-video-playback/"><u>[New] Chrome's PIP Magic for Seamless Video Playback</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-optimal-tools-for-high-quality-zoom-recordings/"><u>[New] Optimal Tools for High-Quality Zoom Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-detailed-guide-to-advanced-human-interface-systems/"><u>[Updated] A Detailed Guide to Advanced Human Interface Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-efficiency-learning-free-timers-functionality/"><u>[Updated] Boost Efficiency  Learning FREE Timers' Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-brightening-tactics-for-android-video-enthusiasts/"><u>[Updated] Brightening Tactics for Android Video Enthusiasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-creating-a-unique-identity-in-the-flood-of-live-streams/"><u>[Updated] Creating a Unique Identity in the Flood of Live Streams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-in-2024-obs-review-comprehensive-look-at-screen-recorder-excellence/"><u>[Updated] In 2024, OBS Review  Comprehensive Look at Screen Recorder Excellence</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/2024-approved-ultimate-checklist-for-installing-vrecorder/"><u>2024 Approved  Ultimate Checklist for Installing VRecorder</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/are-earnings-linked-to-assessing-merchandise-in-2024/"><u>Are Earnings Linked to Assessing Merchandise, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-barriers-masterful-techniques-for-photosvideos-in-win11/"><u>Breaking Barriers  Masterful Techniques for Photos/Videos in Win11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/-success-using-youtube-statistics-to-grow-engagement/"><u>Chart Success  Using YouTube Statistics to Grow Engagement</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/clever-ways-to-neglect-edge-academy-vids-for-2024/"><u>Clever Ways to Neglect EDGE Academy Vids for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-review-of-vsco-editing-techniques-and-tools/"><u>Detailed Review of VSCO Editing Techniques and Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-5-background-swap-apps-compatible-with-iphones-x-7-8/"><u>Elite 5 Background Swap Apps Compatible with iPhones (X, 7, 8)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-basic-to-expert-mastering-the-art-of-adobe-ps-background-removal/"><u>From Basic to Expert  Mastering the Art of Adobe PS Background Removal</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fundamentals-of-animated-branding/"><u>Fundamentals of Animated Branding</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-infinix-note-30-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Infinix Note 30</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-image-manipulation-with-pixlr-tips/"><u>In 2024, Advanced Image Manipulation with Pixlr Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-astute-beginners-treatise-on-vector-types-and-software-selection/"><u>In 2024, Astute Beginners' Treatise on Vector Types & Software Selection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-15-luts-for-enhanced-gopro-footage-quality/"><u>In 2024, Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 Pro Max and iPad</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to Samsung Phone | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-s23plus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy S23+ FRP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-beyond-boundaries-revitalizing-vr-content/"><u>Innovating Beyond Boundaries  Revitalizing VR Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jpegpng-to-pdf-on-iphone-step-by-step-approach/"><u>JPEG/PNG to PDF on iPhone - Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/potplayer-plus-windows-media-counterpart/"><u>PotPlayer Plus  Windows Media Counterpart</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-picks-the-ultimate-gopro-upgrades/"><u>Premium Picks  The Ultimate Gopro Upgrades</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-s21-fe-5g-2023-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy S21 FE 5G (2023) Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>Ultimate Mix  Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Vive&#39;s Ultimate Virtual Journey  Unparalleled Immersion&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 06:37:02</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 06:37:02
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/vives-ultimate-virtual-journey-unparalleled-immersion/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/what-are-the-alternatives-to-googles-ar-appearance/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">What Are The Alternatives To Google&#39;s AR Appearance?</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/visual-vibrancy-a-step-by-step-on-animating-story-captions/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Visual Vibrancy  A Step-by-Step on Animating Story Captions&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Vive&#39;s Ultimate Virtual Journey  Unparalleled Immersion&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Vive%E2%80%99s-Ultimate-Virtual-Journey-Unparalleled-Immersion"><span class="nav-text">Vive’s Ultimate Virtual Journey: Unparalleled Immersion</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#HTC-Vive-headset-Review"><span class="nav-text">HTC Vive headset Review</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#1-The-design-of-HTC-Vive"><span class="nav-text">1. The design of HTC Vive</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-headset"><span class="nav-text">The headset</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Controllers"><span class="nav-text">Controllers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Downside-of-the-design"><span class="nav-text">Downside of the design</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Features-and-Setup"><span class="nav-text">2. Features and Setup</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Features-and-Specs"><span class="nav-text">Features and Specs</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup"><span class="nav-text">Setup</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Content-and-Performance"><span class="nav-text">3. Content and Performance</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Games-and-Apps"><span class="nav-text">Games and Apps</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Performance"><span class="nav-text">Performance</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PC-requirement"><span class="nav-text">PC requirement</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-How-to-choose"><span class="nav-text">4. How to choose?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-Conclusion"><span class="nav-text">5. Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-The-design-of-HTC-Vive-1"><span class="nav-text">1. The design of HTC Vive</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-headset-1"><span class="nav-text">The headset</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Controllers-1"><span class="nav-text">Controllers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Downside-of-the-design-1"><span class="nav-text">Downside of the design</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Features-and-Setup-1"><span class="nav-text">2. Features and Setup</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Features-and-Specs-1"><span class="nav-text">Features and Specs</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup-1"><span class="nav-text">Setup</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Content-and-Performance-1"><span class="nav-text">3. Content and Performance</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Games-and-Apps-1"><span class="nav-text">Games and Apps</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Performance-1"><span class="nav-text">Performance</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PC-requirement-1"><span class="nav-text">PC requirement</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-How-to-choose-1"><span class="nav-text">4. How to choose?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-Conclusion-1"><span class="nav-text">5. Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-The-design-of-HTC-Vive-2"><span class="nav-text">1. The design of HTC Vive</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-headset-2"><span class="nav-text">The headset</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Controllers-2"><span class="nav-text">Controllers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Downside-of-the-design-2"><span class="nav-text">Downside of the design</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Features-and-Setup-2"><span class="nav-text">2. Features and Setup</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Features-and-Specs-2"><span class="nav-text">Features and Specs</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup-2"><span class="nav-text">Setup</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Content-and-Performance-2"><span class="nav-text">3. Content and Performance</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Games-and-Apps-2"><span class="nav-text">Games and Apps</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Performance-2"><span class="nav-text">Performance</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PC-requirement-2"><span class="nav-text">PC requirement</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-How-to-choose-2"><span class="nav-text">4. How to choose?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-Conclusion-2"><span class="nav-text">5. Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-The-design-of-HTC-Vive-3"><span class="nav-text">1. The design of HTC Vive</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#The-headset-3"><span class="nav-text">The headset</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Controllers-3"><span class="nav-text">Controllers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Downside-of-the-design-3"><span class="nav-text">Downside of the design</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Features-and-Setup-3"><span class="nav-text">2. Features and Setup</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Features-and-Specs-3"><span class="nav-text">Features and Specs</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Setup-3"><span class="nav-text">Setup</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Content-and-Performance-3"><span class="nav-text">3. Content and Performance</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Games-and-Apps-3"><span class="nav-text">Games and Apps</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Performance-3"><span class="nav-text">Performance</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PC-requirement-3"><span class="nav-text">PC requirement</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-How-to-choose-3"><span class="nav-text">4. How to choose?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#5-Conclusion-3"><span class="nav-text">5. Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

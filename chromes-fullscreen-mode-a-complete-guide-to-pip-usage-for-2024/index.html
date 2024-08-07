@@ -599,15 +599,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,467 +629,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29f573eb68f13f17cdd7b780f.jpg" alt="&#34;Chrome&#39;s Fullscreen Mode  A Complete Guide to PIP Usage for 2024&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Chrome&#39;s Fullscreen Mode  A Complete Guide to PIP Usage for 2024&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:51:13</span>
-        <span class="mobile">2024-07-27 07:51:13</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:51:13</span>
-            <span class="mobile">2024-07-28 07:51:13</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Chrome’s-Fullscreen-Mode-A-Complete-Guide-to-PIP-Usage"><a href="#Chrome’s-Fullscreen-Mode-A-Complete-Guide-to-PIP-Usage" class="headerlink" title="Chrome’s Fullscreen Mode: A Complete Guide to PIP Usage"></a>Chrome’s Fullscreen Mode: A Complete Guide to PIP Usage</h2><p>Picture in picture is a feature on smartphones and desktop computers that enables you to use different applications and programs at the same time. If you have ever imagined watching a tutorial video as you code as a beginner or making a video call as you type on the same screen, this feature is for you. And if you literally want to enjoy the experience of your windows or MacBook, PIP by Google will boost your spirits greatly.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-How-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop"><a href="#Part-1-How-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop" class="headerlink" title="Part 1. How to Enable Picture in Picture on Chrome on Desktop"></a>Part 1. How to Enable Picture in Picture on Chrome on Desktop</h2><p>Here is how to use picture-in-picture in both Mac and Windows platforms.</p>
-<!-- affiliate ads begin -->
-<h3 id="200610"><a class="link"   target="_blank" rel="noopener" href="https://sentrypc.7eer.net/c/5597632/200610/3022" >Parental Control Software <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3>
-<span class="text-ad-content">
-    #1 Rated Parental Control Software.<br/>
-    Monitor & Control all PC Activity!<br/>
-        <cite style="color:green">sentrypc.com/parental-controls/</cite>
-    </span><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/200610/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-### Mac
+  &.show-toc
+    gap 30px
 
-<ol>
-<li>Open a file from YouTube on Chrome</li>
-<li><strong>Right-Click</strong> twice on the video. Or click on the trumpet icon and select <strong>“Enter Picture in Picture”</strong>.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-1.jpg"
-                      alt="enter picture in picture"
-                ></p>
-<ol>
-<li>Select picture in picture on the menu that appears, and the video will appear on a smaller window.</li>
-<li>Move your mouse over the small window of the playing video relocate and resize it to your required size. Drag the window to a corner and enjoy other activities on your parent’s screen with a playing video.</li>
-<li>To move out of the PIP mode, simply click the <strong>X button</strong> in the right top corner of the playing video.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/drm-removal-feature2.png"
-                      border="0"
-                >Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a></p>
-<!-- affiliate ads end -->
-<h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>On Windows, specifically, you can enable Picture in Picture on Chrome in different ways. Here are simple steps to enable PIP on Chrome on your Windows desktop without involving tumbling with apps.</p>
-<ol>
-<li>Open a video file from a website, like YouTube on Chrome.</li>
-<li><strong>Right-Click twice</strong> on the video that is playing.</li>
-<li>On the menu that pops on the screen, select picture in picture.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-2.jpg"
-                      alt="select picture in picture"
-                ></p>
-<ol>
-<li>Resize the overlaid window that plays the video to your favorite size.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13794-1116855"
-                      border="0" alt="" width="767" height="285"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1116855/13794"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-Using-Extension-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop"><a href="#Part-2-Using-Extension-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop" class="headerlink" title="Part 2. Using Extension to Enable Picture in Picture on Chrome on Desktop"></a>Part 2. Using Extension to Enable Picture in Picture on Chrome on Desktop</h2><p>There is a general way to activate and enjoy the picture in picture mode on your desktop regardless of the operating system installed and this is what to do:</p>
-<ol>
-<li>Log into Chrome on your PC and type <a target="_blank" rel="noopener" href="https://chrome.google.com/webstore"><strong>Chrome Web Store</strong></a>.</li>
-<li>Visit the <strong>Chrome Web Store</strong> and navigate to the <strong>Search Box</strong>.</li>
-<li>Type <strong>PIP by Google</strong> in the search box to bring the extension <a target="_blank" rel="noopener" href="https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg"><strong>Picture-in-Picture Extension (by Google)</strong></a> on the screen.</li>
-<li>Click <strong>Add to Chrome</strong> on the extension and further click on <strong>Add extension</strong> on the extension that pops up on the screen.</li>
-<li>Wait for some seconds for a confirmation extension to appear on top of the screen, and you are done.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/pip-on-chrome-on-all-platforms-3.jpg"
-                      alt="confirmation extension"
-                ></p>
-<h2 id="Part-3-How-to-Enable-Picture-in-Picture-on-Chrome-on-Mobile"><a href="#Part-3-How-to-Enable-Picture-in-Picture-on-Chrome-on-Mobile" class="headerlink" title="Part 3. How to Enable Picture in Picture on Chrome on Mobile"></a>Part 3. How to Enable Picture in Picture on Chrome on Mobile</h2><p>You can enable this picture-in-picture feature on your mobile’s chrome while following this easy method.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png"
-                      border="0"
-                >  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. </p>
-<p> It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. </p>
-<p>  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. </p>
-<p>  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a></p>
-<!-- affiliate ads end -->
-<h3 id="iPhone"><a href="#iPhone" class="headerlink" title="iPhone"></a>iPhone</h3><p>On iPhone smartphones, if you subscribe to premium YouTube, you can enable PIP on your web browser through the following steps:</p>
-<ol>
-<li>Open Chrome and visit <strong>YouTube</strong></li>
-<li>Open to play any video on full screen.</li>
-<li>Tap on the <strong>PiP icon</strong> on top of the screen.</li>
-<li>You can also achieve PiP mode by simply tapping the home button to move&#x2F;navigate away from the web browser.</li>
-</ol>
-<p>You can then control PiP by doing the following activities:</p>
-<ol>
-<li><strong>Double-tap</strong> on the video to adjust the size.</li>
-<li>Tap once to access other commands like <strong>Pause, Rewind, Forward</strong>, and many more.</li>
-<li>Tap on the <strong>X icon</strong> in the top right corner of the PiP window to exit PiP mode.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png"
-                      border="0"
-                >EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe &amp; convert audio to text freely </a></p>
-<!-- affiliate ads end -->
-<h3 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h3><p>Picture in picture is also available on your Android smartphone and here are simple steps to enable PIP mode on your mobile on Chrome.</p>
-<ol>
-<li>Open Chrome</li>
-<li>Open a video file from a website on Chrome and play it full screen.</li>
-<li>Press the <strong>Home</strong> button to get back to the Android Home Screen. And the video will change to Picture-in-Picture automatically.</li>
-<li>Drag the video over the screen and position it well to allow enough space for other activities.</li>
-</ol>
-<h2 id="Part-4-How-to-Fix-Picture-In-Picture-Mode-Not-Working"><a href="#Part-4-How-to-Fix-Picture-In-Picture-Mode-Not-Working" class="headerlink" title="Part 4. How to Fix Picture-In-Picture Mode Not Working"></a>Part 4. How to Fix Picture-In-Picture Mode Not Working</h2><p>Picture in Picture allows you to watch videos while using other apps on your device. However, you may face challenges while using PIP on your computers. Both hand mobile phones and desktop computers may draw concerns with executing Picture-in-Picture because of different reasons.</p>
-<h3 id="Mobile"><a href="#Mobile" class="headerlink" title="Mobile"></a>Mobile</h3><p>If your Picture-in-Picture feature doesn’t work even after following all the above steps to the end, there are two methods to fix such difficulties.</p>
-<ol>
-<li>Clear Cache Memory of the YouTube App</li>
-<li>Enable Picture-in-Picture mode on your device</li>
-</ol>
-<p>Here is how to clear the Cache Memory of the YouTube App.</p>
-<ol>
-<li>Go to <strong>Settings &gt; Apps &amp; Notifications&#x2F;Application Manager&#x2F;Installed Apps</strong></li>
-<li>In the list of Apps, go to <strong>YouTube &gt; Storage</strong></li>
-<li>Tap the <strong>Clear Cache</strong> button then restart your phone</li>
-</ol>
-<p>And to enable PIP on your device, follow the steps</p>
-<ol>
-<li>Go to <strong>Settings &gt; Apps &amp; Notifications</strong> on your phone</li>
-<li>Tap <strong>Advance &gt; Special App Access &gt; Picture-in-Picture</strong></li>
-<li>Tap <strong>YouTube</strong> and toggle <strong>Allow Picture-in-Picture</strong></li>
-</ol>
-<p>Sometimes you may face difficulties when PIP is just disabled on YouTube, so correct this with three simple steps on your YouTube App.</p>
-<ol>
-<li>Open <strong>YouTube</strong></li>
-<li>Go to <strong>Settings &gt; General</strong></li>
-<li>Verify if Picture-in-Picture is disabled to enable this PIP feature on your phone.</li>
-</ol>
-<p>Another concern comes when PIP is not available in your country. There are two ways to solve this. Using a web browser or VPN. Chrome enables you to use PIP even in countries where it is not enabled.</p>
-<p>To enable PIP using Chrome on your Android smartphone, follow the steps below;</p>
-<ol>
-<li>Open Google Chrome then visit <strong>com</strong></li>
-<li>Tap the <strong>3 Dots icon</strong> to enable the Desktop site and allow the page to refresh into a desktop version</li>
-<li>Play the video in full-screen mode</li>
-<li>As the video starts to play, tap the <strong>Home button</strong> on your device.</li>
-</ol>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Picture-in-Picture is a feature on computers that is developing widely across the world. It has not been launched in some countries, but hopefully, it will be easily accessible on all platforms and countries. PIP is a good feature to make video calls.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/new-2024-approved-fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap/"><u>[New] 2024 Approved  Fiscal Football Footage  How To Capture and Edit for Dirt-Cheap</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-2024-approved-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[New] 2024 Approved  Insta-Turn Techniques  Flipping Your Photos and Gaining Followers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming/"><u>[New] Achieving Flawless FB Live via Zoom Streaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-assessing-magixs-multimedia-capabilities/"><u>[New] Assessing MAGIX's Multimedia Capabilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-in-class-slideshow-maker-xi-to-x-series-iphones/"><u>[New] Best-in-Class Slideshow Maker  XI to X Series iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>[New] ChortleChamps  Excellent Platforms for Hilarious Tones</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/n-2024-first-timers-manual-for-cool-mac-crafted-youtube-clips/"><u>[New] In 2024, First-Timer's Manual for Cool, Mac-Crafted YouTube Clips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-making-photographs-larger-without-losing-quality/"><u>[New] Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/new-motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>[New] Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-mac-captures-compilation-under-156-chars/"><u>[Updated] 2024 Approved  Essential Mac Captures Compilation (Under 156 Chars)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/updated-starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>[Updated] Starting Out Right  Budget-Friendly Game Editing Software for Beginners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20-must-haves-free-copyright-compliant-relaxation-tracks/"><u>20 Must-Haves  Free, Copyright-Compliant Relaxation Tracks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-straightforward-approach-to-image-distortion/"><u>2024 Approved  A Straightforward Approach to Image Distortion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ai-powered-best-titles-makers-online/"><u>2024 Approved  AI-Powered Best Titles Makers Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-best-picks-for-dynamic-collage-designers/"><u>2024 Approved  Android's Best Picks for Dynamic Collage Designers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-cloud-apps-android-list-seamless-backup-and-sync-edition/"><u>2024 Approved  Best-Cloud-Apps-Android-List  Seamless Backup and Sync Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-blueprint-for-successful-metaverse-campaigns/"><u>2024 Approved  Blueprint for Successful Metaverse Campaigns</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-cinematographic-capabilities-essential-iphone-gear/"><u>2024 Approved  Boost Cinematographic Capabilities  Essential iPhone Gear</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cinemas-craftsmanship-the-best-camera-tricks-and-techniques-24-edition/"><u>2024 Approved  Cinema's Craftsmanship  The Best Camera Tricks & Techniques - '24 Edition</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/2024-approved-create-unique-endings-anytime-its-free-my-friends/"><u>2024 Approved  Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-assembling-picture-panoramas-for-2024/"><u>A Step-by-Step Approach to Assembling Picture Panoramas for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-of-the-best-smartphone-ready-vr-headset-roundup-for-2024/"><u>Best of the Best  Smartphone-Ready VR Headset Roundup for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-the-light-filmographys-five-essential-camera-techniques-of-24-for-2024/"><u>Capture the Light  Filmography's Five Essential Camera Techniques of '24 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/clarityai-creatives-unleash-editing-potential-for-2024/"><u>ClarityAI Creatives  Unleash Editing Potential for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-powerdirector-24-analysis-and-tutorial/"><u>Comprehensive PowerDirector '24 Analysis and Tutorial</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-13-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 13</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-in-streaming-zooms-6-cam-selection/"><u>Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/get-acquainted-a-quick-guide-to-windows-11-basics/"><u>Get Acquainted  A Quick Guide to Windows 11 Basics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/grids-for-greatness-photographs-next-step-up/"><u>Grids for Greatness  Photographs' Next Step Up</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hololens-review-unleashing-virtual-potential-with-microsoft/"><u>HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/how-to-cast-itel-s23plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel S23+ Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>In 2024, A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beaming-login-logout-directions/"><u>In 2024, Beaming Login / Logout Directions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>In 2024, Craft Top-Notch Episodes  Learn Podcast Editing Secrets with GarageBand</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/in-2024-navigating-through-the-top-8-blended-mobile-video-collage-choices-on-android/"><u>In 2024, Navigating Through the Top 8 Blended Mobile Video Collage Choices on Android</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-install.techidaily.com/instantaneously-revamp-ati-radeon-hd-4800-drivers/"><u>Instantaneously Revamp: ATI Radeon HD 4800 Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leveraging-xbox-ones-zoom-features-effectively/"><u>Leveraging Xbox One's Zoom Features Effectively</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-tools-for-subs-to-srt-unveiling-the-top-8-win-and-mac-software/"><u>Pinnacle Tools for Subs to SRT  Unveiling the Top 8 Win & Mac Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor 90 Lite)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-acquiring-top-notch-clip-art-without-a-price-tag/"><u>Step-by-Step  Acquiring Top-Notch Clip Art Without a Price Tag</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/tailored-minecraft-filming-techniques-for-gamers/"><u>Tailored Minecraft Filming Techniques for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-hp-envy-27s-4k-features/"><u>The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-checklist-for-effortless-chapter-insertion-on-youtube/"><u>The Essential Checklist for Effortless Chapter Insertion on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-film-previews-collection/"><u>Ultimate Film Previews Collection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-podcast-experience-on-googles-platform/"><u>Ultimate Podcast Experience on Google's Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone 11?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/your-complete-guide-to-reset-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A2 | Dr.fone</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Chrome&#39;s Fullscreen Mode  A Complete Guide to PIP Usage for 2024&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:51:13</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:51:13
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/chromes-fullscreen-mode-a-complete-guide-to-pip-usage-for-2024/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/in-2024-charting-the-course-a-graphic-designers-blueprint-to-progress/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;In 2024, Charting the Course  A Graphic Designer&#39;s Blueprint to Progress&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/2024-approved-choosing-spiritual-audio-for-your-cellphone/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Choosing Spiritual Audio for Your Cellphone&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Chrome&#39;s Fullscreen Mode  A Complete Guide to PIP Usage for 2024&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Chrome%E2%80%99s-Fullscreen-Mode-A-Complete-Guide-to-PIP-Usage"><span class="nav-text">Chrome’s Fullscreen Mode: A Complete Guide to PIP Usage</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop"><span class="nav-text">Part 1. How to Enable Picture in Picture on Chrome on Desktop</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#200610"><span class="nav-text">Parental Control Software </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Windows"><span class="nav-text">Windows</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Using-Extension-to-Enable-Picture-in-Picture-on-Chrome-on-Desktop"><span class="nav-text">Part 2. Using Extension to Enable Picture in Picture on Chrome on Desktop</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-How-to-Enable-Picture-in-Picture-on-Chrome-on-Mobile"><span class="nav-text">Part 3. How to Enable Picture in Picture on Chrome on Mobile</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#iPhone"><span class="nav-text">iPhone</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Android"><span class="nav-text">Android</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-How-to-Fix-Picture-In-Picture-Mode-Not-Working"><span class="nav-text">Part 4. How to Fix Picture-In-Picture Mode Not Working</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Mobile"><span class="nav-text">Mobile</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

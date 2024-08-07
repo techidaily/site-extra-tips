@@ -604,15 +604,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -634,483 +634,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/6bI4-FcZSWTVUZEJxVaAcTGWDhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JPEG-vs-TIFF-vs-RAW-fb85f34808b8471fb24a1e197c9d7ac3.jpg" alt="&#34;Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 11:11:48</span>
-        <span class="mobile">2024-07-27 11:11:48</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 11:11:48</span>
-            <span class="mobile">2024-07-28 11:11:48</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Streamline-Multitasking-Switch-Between-PIP-and-Normal-Screen-Mode-iOS"><a href="#Streamline-Multitasking-Switch-Between-PIP-and-Normal-Screen-Mode-iOS" class="headerlink" title="Streamline Multitasking: Switch Between PIP and Normal Screen Mode (iOS)"></a>Streamline Multitasking: Switch Between PIP and Normal Screen Mode (iOS)</h2><p>Picture in Picture is now available on YouTube on all platforms and devices in the USA. You can manipulate this magic quality of your device to enjoy the experience. You can enable or disable PIP on iPhone or any other device anytime anywhere so that you use the feature desirably. When you enable PIP in any app on your device, it means that as you open any video, the video will automatically start on Picture in Picture mode.</p>
-<p>After opening the video in PIP mode, you can do things around on the screen of your device as the video plays on a floating window. You will be able to resize and drag the window along as you carry along with other activities on your phone or PC.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-How-to-enable-Picture-in-Picture-for-YouTube-on-iPhone"><a href="#Part-1-How-to-enable-Picture-in-Picture-for-YouTube-on-iPhone" class="headerlink" title="Part 1. How to enable Picture in Picture for YouTube on iPhone"></a>Part 1. How to enable Picture in Picture for YouTube on iPhone</h2><p>To enable PIP on iPhone on YouTube and use it better, you should be a premium YouTube subscriber. Picture in Picture on iPhone depends on the version of your phone. And here, I am going to tell you how to enable PIP on the latest versions of iPhones.</p>
-<p>On iOS 14.5 or 14.6, here is a simple step-by-step guide to enable Picture in Picture for YouTube PIP. You will need two additional apps to do this: Shortcuts and Scriptable. And both are freely accessible from the App Store.</p>
-<ol>
-<li>Go to <strong>Settings</strong> of your device</li>
-<li>Tap the <strong>Shortcut</strong> extension in Settings</li>
-<li>Turn on <strong>Allow Untrusted Shortcuts</strong>. If this option is not available for your device, go to <strong>Screen Time extension</strong> and disable any screen time restrictions. So, you will proceed successfully.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-1.jpg"
-                      alt="enable pip on iphone"
-                ></p>
-<ol>
-<li>If you require a <strong>YouTube PIP</strong> shortcut app on your device to proceed, you can download it from App Store or <a class="link"   target="_blank" rel="noopener" href="https://shortcutsgallery.com/shortcuts/youtube-pip/" >the Shortcuts Gallery browser <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and then add it to your Shortcut Library.</li>
-<li>Open the <strong>YouTube PIP</strong> Shortcut and tap <strong>Get Shortcut</strong> on the App. You will be redirected to the shortcut application on your phone. If you don’t have the shortcut application, you can download it from the App Store.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/drm-removal-feature2.png"
-                      border="0"
-                >Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-2.jpg"
-                      alt="shortcut application"
-                ></p>
-<ol>
-<li>Tap <strong>Allow Untrusted Shortcuts</strong> in the Shortcut Application on your device</li>
-<li>Now go to the actual YouTube App and start to play a video</li>
-<li>As the video plays, tap on the <strong>Share icon</strong> then scroll to the right end of the list of sharing options for platforms and Apps. Tap the <strong>More icon</strong> at the right end.</li>
-<li>On the list of additional sharing options, go to YouTube PIP.</li>
-<li>Tap on <strong>YouTube PIP</strong> and a burner will pop out at the top of your phone.</li>
-<li>Tap on the burner that pops out. It will direct you to the actual shortcut for YouTube. And you will need to install an additional Application (Scriptable App).</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-3.jpg"
-                      alt="scriptable app"
-                ></p>
-<ol>
-<li>Tap on <strong>View in App Store</strong> on the screen that appears. This will direct you to the App Store.</li>
-<li>On the next screen that appears, download <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/scriptable/id1405459188"><strong>Scriptable App</strong></a>. Get back to the home screen and launch Scriptable App once.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453720"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453720/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-4.jpg"
-                      alt="download scriptable app"
-                ></p>
-<ol>
-<li>Go to YouTube again and start any video. Tap the <strong>Share icon</strong>, scroll to the right and tap the <strong>More icon</strong>, go ahead and tap the YouTube PIP. And on the burner that pops up at the top of the screen of your phone, tap <strong>OK</strong>.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-5.jpg"
-                      alt="floating screen"
-                ></p>
-<p>And there you go, now you will be able to watch your videos on a floating screen. This procedure may be pretty tedious, but it is all worth it if you follow keenly to the end. You will do it only once.</p>
-<h2 id="Part-2-How-to-Disable-Picture-in-Picture-for-YouTube-on-iPhone"><a href="#Part-2-How-to-Disable-Picture-in-Picture-for-YouTube-on-iPhone" class="headerlink" title="Part 2. How to Disable Picture in Picture for YouTube on iPhone"></a>Part 2. How to Disable Picture in Picture for YouTube on iPhone</h2><p>To use PIP on iPhone effectively, you may sometime need to deactivate it so that everything goes your way. And here is a very simple way to disable Picture in Picture in YouTube on your iPhone.</p>
-<ol>
-<li>Log in to YouTube</li>
-<li>Go to your profile and tap the profile icon</li>
-<li>Go to <strong>“</strong> <strong>Settings &gt; General Settings”</strong></li>
-<li>Scroll down. You will see the <strong>Picture-in-Picture</strong></li>
-<li>Tap the switch button to switch it off. And there you are. You have disabled PIP for YouTube on iPhone.</li>
-</ol>
-<h2 id="Part-3-How-to-enable-Picture-in-Picture-for-YouTube-on-Mac-and-iPad"><a href="#Part-3-How-to-enable-Picture-in-Picture-for-YouTube-on-Mac-and-iPad" class="headerlink" title="Part 3. How to enable Picture in Picture for YouTube on Mac and iPad"></a>Part 3. How to enable Picture in Picture for YouTube on Mac and iPad</h2><p>Picture in Picture is now a native quality utility feature on many Apps on different platforms. PIP has stayed for some time since it was developed and introduced for third-party utilization. However, YouTube is still left out of this. To enable PIP on Mac, you will need to go a step ahead to do it. Enjoying PIP on an iPad is also not a straightforward thing. All the same, Mac and iPad require very simple instructions to allow you to use Picture in Picture with them.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17108-2027209"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2027209/17108"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="PIP-on-iPad"><a href="#PIP-on-iPad" class="headerlink" title="PIP on iPad"></a>PIP on iPad</h3><p>To activate PIP on your iPad, you only need your phone settings and a supported browser like Safari. However, you have to update your iPad to the iOS 14 version that fully supports the feature.</p>
-<p>Here is how to enable PIP on an iPad.</p>
-<ol>
-<li>Go to <strong>Settings</strong> of the device</li>
-<li>Go to <strong>Home Screen &amp; Dock</strong> and tap Multitasking</li>
-<li>Turn on <strong>Allow Multiple Apps</strong> You will have enabled Picture in Picture on your iPad.</li>
-</ol>
-<p>Before you use Picture in Picture in YouTube, you require two Apps on your device: Shortcuts and Scriptable. You can get them free from the App Store. But here is an option.</p>
-<ol>
-<li>Go to <strong>Safari</strong> and download <strong>YouTube PIP</strong>, then add it to your shortcut library.</li>
-<li>Log in YouTube app to use PIP on YouTube on your iPad.</li>
-<li>Start a video and tap the Share icon button.</li>
-<li>Tap the <strong>More icon</strong>.</li>
-<li>Tap <strong>YouTube PIP</strong> and select <strong>OK</strong> on the burner that appears on the screen. This will produce a new floating window automatically on the screen. You can select a window resolution that fits you and go back to Home Screen. Your video will play in a floating window on your home screen.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/20702-1864921"
-                      border="0" alt="" width="1251" height="1042"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-6.jpg"
-                      alt="floating window"
-                ></p>
-<h3 id="PIP-on-Mac"><a href="#PIP-on-Mac" class="headerlink" title="PIP on Mac"></a>PIP on Mac</h3><p>On your Mac, there are two ways to get into Picture in Picture mode. You can use Control Command and Mouse together, or simply the mouse itself&#x2F;touchpad. And here is how to do it with a Mouse only.</p>
-<ol>
-<li>Go to a Web browser like Safari or Chrome.</li>
-<li>Start a video on YouTube.</li>
-<li><strong>Right-click twice</strong> on the video to get a new Menu on the screen</li>
-<li>Click on <strong>Enter Picture in Picture</strong> and you are ready to go</li>
-<li>You can resize and drag the floating window around to your preferred location.</li>
-</ol>
-<p>And with the Control Commands, you can get into PIP on Mac very easily in only two steps.</p>
-<ol>
-<li>Open a video on YouTube on a Web browser</li>
-<li>Press and hold on to the <strong>Ctrl key</strong> on your keyboard as you <strong>left click</strong> on the video twice, and you will be successful.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/outlook-recovery.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/picture-in-picture-for-youtube-on-iphone-7.jpg"
-                      alt="get into pip on mac"
-                ></p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Picture in Picture is a computer utility feature in the USA. It has not been launched in most parts of the globe. Therefore, these instructions may not work for everyone because they are only supported on devices in the USA. Very soon everyone will be able to enjoy Picture in Picture everywhere as its development attract the world.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/new-2024-approved-utilizing-zooms-snap-functionality/"><u>[New] 2024 Approved  Utilizing Zoom's Snap Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-primer-on-dynamic-visual-expression/"><u>[New] A Primer on Dynamic Visual Expression</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>[New] Color Perfection  The Essential List of Best LUTs for LightRoom Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-in-2024-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[New] In 2024, Prioritizing Visibility  A Guide to Insta Highlights Perfection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/new-ultimate-fcp-tutorial-for-new-users/"><u>[New] Ultimate FCP Tutorial for New Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-arctic-acrobatics-2022s-olympians/"><u>[Updated] Arctic Acrobatics  2022'S Olympians</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-apps-and-programs-for-image-video-integration/"><u>[Updated] Best Apps and Programs for Image Video Integration</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/updated-leading-360-degree-pro-cams-2023-edition-review-for-2024/"><u>[Updated] Leading 360-Degree Pro Cams  2023 Edition Review for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/ed-unveiling-how-you-can-profit-from-youtube-content/"><u>[Updated] Unveiling How You Can Profit From YouTube Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-20-gratis-plus-purchasable-luts-enhance-canon-cams/"><u>2024 Approved  20 Gratis + Purchasable LUTs  Enhance Canon Cams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-if-sns-hdr-deserves-your-investment-time/"><u>2024 Approved  Assessing If SNS HDR Deserves Your Investment Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovid-synergy-community-online/"><u>2024 Approved  AudioVid Synergy Community Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-balancing-work-and-leisure-enhancing-podcast-listening/"><u>2024 Approved  Balancing Work and Leisure  Enhancing Podcast Listening</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-bargain-stopwatches-online/"><u>2024 Approved  Best Bargain Stopwatches Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-the-big-one-best-fishing-camers-ranked/"><u>2024 Approved  Capture the Big One  Best Fishing Camers Ranked</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/2024-approved-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>2024 Approved  Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/2024-approved-instagram-share-of-todays-thought-provoking-talk/"><u>2024 Approved  Instagram Share of Today's Thought-Provoking Talk</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-playlist-turnaround-a-simple-4-step-plan/"><u>2024 Approved  YouTube Playlist Turnaround  A Simple 4-Step Plan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/3-best-smartphones-for-recording-video/"><u>3 Best Smartphones for Recording Video</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/5-ways-to-reset-the-windows-firewall-settings/"><u>5 Ways to Reset the Windows Firewall Settings</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/best-budget-friendly-high-quality-ae-templates-for-2024/"><u>Best Budget-Friendly, High-Quality AE Templates for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-connections-interacting-with-your-viewers/"><u>Building Connections  Interacting With Your Viewers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/compendium-of-different-photographic-gadgets/"><u>Compendium of Different Photographic Gadgets</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/complete-tutorial-for-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-humorous-memes-with-giphy/"><u>Craft Humorous Memes with Giphy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-softer-beats-with-ableton-for-2024/"><u>Crafting Softer Beats with Ableton for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-free-livestream-platforms-and-programs-reviewed-here/"><u>Cutting-Edge Free Livestream Platforms and Programs Reviewed Here</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-elite-ranked-10-tv-streaming-platforms/"><u>Discover the Elite  Ranked 10 TV Streaming Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embracing-change-transition-to-windows-11-upgrade/"><u>Embracing Change  Transition to Windows 11 Upgrade</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/expert-advice-on-resolving-iphone-pc-connection-problems-quickly-and-easily/"><u>Expert Advice on Resolving iPhone PC Connection Problems Quickly and Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>Finest Pencil Masters  Free vs Paid Windows Apps Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/game-on-android-a-deep-dive-into-kinemaster-features/"><u>Game On Android  A Deep Dive Into KineMaster Features</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/gleeful-loginsign-up-step-guide-for-2024/"><u>Gleeful Login/Sign Up Step Guide for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/hard-reset-xiaomi-redmi-note-12-pro-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi Note 12 Pro 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highlights-the-5-most-advanced-low-speed-recorders/"><u>Highlights  The 5 Most Advanced Low-Speed Recorders</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-11-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 11 without Password?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/how-to-seamlessly-add-chapters-to-your-youtube-masterpieces/"><u>How to Seamlessly Add Chapters to Your YouTube Masterpieces</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6s Plus</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/implementing-gradual-audio-reduction-tricks-in-audacity-for-2024/"><u>Implementing Gradual Audio Reduction Tricks in Audacity for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-6-video-translators-to-translate-video/"><u>In 2024, Best 6 Video Translators to Translate Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-compelling-podcast-titles-for-max-impact/"><u>In 2024, Crafting Compelling Podcast Titles for Max Impact</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-infinix-smart-7-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix Smart 7 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-investment-introspection-the-podcasts-financial-frontier/"><u>In-Depth Investment Introspection  The Podcast's Financial Frontier</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-angles-shooting-vertical-smartphone-panos/"><u>Innovative Angles  Shooting Vertical Smartphone Panos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-virtuality-metaverse-vs-omniverse-in-focus/"><u>Inside Virtuality  Metaverse Vs. Omniverse in Focus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/kinemaster-unveiled-the-best-game-on-your-android-device/"><u>KineMaster Unveiled  The Best Game on Your Android Device</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/leading-graphics-cards-in-4k-resolution/"><u>Leading Graphics Cards in 4K Resolution</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/merriment-joining-and-leaving-rituals/"><u>Merriment  Joining & Leaving Rituals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-reddit-submissions-practical-steps-unveiled/"><u>Navigating Reddit Submissions  Practical Steps Unveiled</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-tools.techidaily.com/new-bring-your-ideas-to-life-top-5-online-stop-motion-tools-for-2024/"><u>New Bring Your Ideas to Life Top 5 Online Stop Motion Tools for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revamping-images-with-advanced-features/"><u>Revamping Images with Advanced Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/scan-the-market-identifying-the-top-9-free-mp3-grabbers-for-android/"><u>Scan the Market  Identifying the Top 9 Free MP3 Grabbers for Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/silverleaf-studio-exploring-lightroom-substitutes/"><u>Silverleaf Studio  Exploring Lightroom Substitutes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlined-methods-for-masking-facial-features-in-picscanner/"><u>Streamlined Methods for Masking Facial Features in PicScanner</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/the-future-of-healing-ais-contribution-to-medicine/"><u>The Future of Healing: AI's Contribution to Medicine</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/the-hidden-reasons-behind-imovies-cuts-for-2024/"><u>The Hidden Reasons Behind iMovie’s Cuts for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-ps4ps5-voice-modification-handbook/"><u>The Ultimate PS4/PS5 Voice Modification Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>Top Picks  Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-macbook-writable-screen-with-these-wallpapers/"><u>Transform Your MacBook' Writable Screen with These Wallpapers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-the-full-potential-of-pixiz-in-video-making/"><u>Unlock the Full Potential of Pixiz in Video Making</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/zeroing-in-on-audio-quality-achievable-sans-mic/"><u>Zeroing in on Audio Quality  Achievable Sans Mic</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 11:11:48</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 11:11:48
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/superior-selection-of-free-high-definition-software-for-both-oss/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Superior Selection of Free, High-Definition Software for Both OS&#39;s&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/streaming-galore-top-nine-game-portals/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Streaming Galore  Top Nine Game Portals&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Streamline Multitasking  Switch Between PIP and Normal Screen Mode (iOS)&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Streamline-Multitasking-Switch-Between-PIP-and-Normal-Screen-Mode-iOS"><span class="nav-text">Streamline Multitasking: Switch Between PIP and Normal Screen Mode (iOS)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-to-enable-Picture-in-Picture-for-YouTube-on-iPhone"><span class="nav-text">Part 1. How to enable Picture in Picture for YouTube on iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-Disable-Picture-in-Picture-for-YouTube-on-iPhone"><span class="nav-text">Part 2. How to Disable Picture in Picture for YouTube on iPhone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-How-to-enable-Picture-in-Picture-for-YouTube-on-Mac-and-iPad"><span class="nav-text">Part 3. How to enable Picture in Picture for YouTube on Mac and iPad</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#PIP-on-iPad"><span class="nav-text">PIP on iPad</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#PIP-on-Mac"><span class="nav-text">PIP on Mac</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

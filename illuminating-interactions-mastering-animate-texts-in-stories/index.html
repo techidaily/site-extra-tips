@@ -617,15 +617,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -647,511 +647,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/-0MBD0KYnjJzMBLZp46Yr63glUw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/IsAmazonDown-2c0665c6b0db42e2ba578b9fe11bad92.jpg" alt="&#34;Illuminating Interactions  Mastering Animate Texts in Stories&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Illuminating Interactions  Mastering Animate Texts in Stories&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:55:46</span>
-        <span class="mobile">2024-07-27 09:55:46</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:55:46</span>
-            <span class="mobile">2024-07-28 09:55:46</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Illuminating-Interactions-Mastering-Animate-Texts-in-Stories"><a href="#Illuminating-Interactions-Mastering-Animate-Texts-in-Stories" class="headerlink" title="Illuminating Interactions: Mastering Animate Texts in Stories"></a>Illuminating Interactions: Mastering Animate Texts in Stories</h2><p>Instagram text animations let you publish more frankly and provide behind-the-scenes glimpses of your media. Users like this kind of material because it gives them a glimpse into your company’s culture and internal operations. There is no denying that Instagram stories have developed into a potent method of engaging your audience more deeply. Utilizing Instagram story text animation will put you at the top of the app, giving you more opportunities to expand your brand with consistent photographs and video.</p>
-<p>An engaging Instagram animated text video may help you bring your concept to life. With the help of our animated text guide, you can access typographic templates that have been expertly produced and animated scenarios that you can use to effectively communicate with your audience. Instagram stories provide users the chance to post images and videos that vanish after 24 hours. As Instagram users now have the opportunity to post their animated text Instagram story to a highlights area beneath their bio, here are some ways to add Instagram text animations.</p>
-<h2 id="Way-1-Use-Instagram-App"><a href="#Way-1-Use-Instagram-App" class="headerlink" title="Way 1. Use Instagram App"></a>Way 1. Use Instagram App</h2><p>Instagram has made animated text for stories available to all users. More than half of viewers pay close attention to videos, making them the most engaging content format. A new button to make your text animated has been added to the top of the text editing menu in tale creation mode. Your text may flicker or slide from the left depending on the font style.</p>
-<p><strong>Steps to Add Animation to Text on Instagram:</strong></p>
-<p>The easiest method to ensure that people remember what they’ve read is to deliver it in a video format. How to Add Animation to Text on Instagram. To accomplish it on the Instagram app, adhere to the procedures below:</p>
-<p>Step1 Swipe right on Instagram after it’s open to go to the story’s creator. Use the create feature to make a stories post, take or upload a picture or video, or both.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png"
-                      border="0"
-                >Software Update Pro - Check and update software installed on your computer. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/swipe-right-on-instagram.jpg"
-                      alt="swipe right on instagram"
-                ></p>
-<p>Step2 To add words to your tales post, use the text tool. Typing, fading in, bouncing, stretching, swaying, and illuminating are all examples of text animation.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21554-1941789"
-                      border="0" alt="" width="650" height="800"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1941789/21554"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/add-words-to-post-instagram.jpg"
-                      alt="add words to post instagram"
-                ></p>
-<p>Step3 The Animate button, which is shown above the other text-related buttons for alignment and color, gives your text some extra life by causing it to glide up and down the screen. Click the symbol for the animation.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/choose-animate-button-instagram.jpg"
-                      alt="choose animate button instagram"
-                ></p>
-<p>Step4 You may check a preview of the dynamic text on Instagram. The animation will alter whenever the font is changed. Press “Done” in the upper right corner to finish revising your story post or to publish it after you are satisfied with your writing.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg"
-                      alt="revise story post instagram"
-                ></p>
-<h2 id="Way-2-Use-Filmora"><a href="#Way-2-Use-Filmora" class="headerlink" title="Way 2. Use Filmora"></a>Way 2. Use Filmora</h2><p>Get distinctive word animations that will wow your friends and followers for anything from promotional videos to corporate presentations. Start right now for nothing! Each video scene may be edited separately, and scenes can be added or removed as you go. Enter your text, choose your preferred font, and then select the kind of text animation you want from the dropdown menu. You may also import any photographs or video clips that you wish to utilize. With the app’s record function, you may even create brand-new video clips, or you can add a voiceover to go along with your animated text.</p>
-<p><strong>Steps To Add Animation to Videos with Filmora:</strong></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<h5 id="Step1-Launch-and-Import-Instagram-Story"><a href="#Step1-Launch-and-Import-Instagram-Story" class="headerlink" title="Step1 Launch and Import Instagram Story"></a>Step1 Launch and Import Instagram Story</h5><p>Right after you have downloaded and installed this toolkit to you PC. You can launch the software on the go. After you are into the initial launch of the Software, here you can select the Video editor and hit the Import button afterwards to add your Instagram stories to the Project media as shown here:</p>
-<h5 id="Step2-Customize-the-Media"><a href="#Step2-Customize-the-Media" class="headerlink" title="Step2 Customize the Media"></a>Step2 Customize the Media</h5><p>After choosing your scenes, go to the editor to begin creating your animation. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie. Don’t forget to add a narration or a rhythm to make your animated text stand out.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/add-titles-win-1.png"
-                      alt="customize the media"
-                ></p>
-<h5 id="Step3-Use-Animated-Text-Templates"><a href="#Step3-Use-Animated-Text-Templates" class="headerlink" title="Step3 Use Animated Text Templates"></a>Step3 Use Animated Text Templates</h5><p>Filmora is here to spark your creativity if you’re at a stage when it’s lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/text-animation-win-1.png"
-                      alt="use animated text templates"
-                ></p>
-<h5 id="Step4-Export-the-Animated-Instagram-Story"><a href="#Step4-Export-the-Animated-Instagram-Story" class="headerlink" title="Step4 Export the Animated Instagram Story"></a>Step4 Export the Animated Instagram Story</h5><p>Go to the “Preview” section to see the video after you’ve completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the “Share” button to immediately share your text animation on social media.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17108-2027209"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2027209/17108"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Way-3-Create-Instagram-Text-animation-Online"><a href="#Way-3-Create-Instagram-Text-animation-Online" class="headerlink" title="Way 3. Create Instagram Text animation Online"></a>Way 3. Create Instagram Text animation Online</h2><p>Even if you may submit a picture to your Instagram Story with animated text, the function doesn’t allow you to add whatever text you want, just like a regular post. Use the FlexClip to do it online instead. Start creating your animation by going to the online editor. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie.</p>
-<p><strong>Steps to Add Instagram Text Animation with FlexClip:</strong></p>
-<h5 id="Step1-Upload-Your-Video-Gif-Or-Image"><a href="#Step1-Upload-Your-Video-Gif-Or-Image" class="headerlink" title="Step1 Upload Your Video, Gif, Or Image"></a>Step1 Upload Your Video, Gif, Or Image</h5><p>Launch the FlexClip video editor after uploading your video, GIF, or picture and choose “Local Files.” Click the “Plus” button to transfer it to the storyboard where it will be updated. The video may also be dragged from the folder and put straight into the editor. Directly upload a movie, GIF, or picture to FlexClip. Additionally, you may post a link from Twitter, YouTube, etc.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg"
-                      alt="upload video into flexclip"
-                ></p>
-<h5 id="Step2-Pick-a-template-or-start-from-scratch"><a href="#Step2-Pick-a-template-or-start-from-scratch" class="headerlink" title="Step2 Pick a template or start from scratch"></a>Step2 Pick a template or start from scratch</h5><p>Choose a template to use first from the enormous collection of text animation templates. Visit the ever-expanding template collection of our animated text generator to choose the template for your next text animation. Choose the video that best suits your project by previewing the available ones. A wide variety of animated text scenarios are included in templates to suit all demands. To begin making your animation, choose and include your favorite moments.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg"
-                      alt="pick a tempalte flexclip"
-                ></p>
-<h5 id="Step3-Animate-your-Font"><a href="#Step3-Animate-your-Font" class="headerlink" title="Step3 Animate your Font"></a>Step3 Animate your Font</h5><p>By producing the video from scratch, you may also practice your creativity. Click “Add Text” and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click “Animate.”</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg"
-                      alt="animate text font flexclip"
-                ></p>
-<h5 id="Step4-Share-it-with-your-audience"><a href="#Step4-Share-it-with-your-audience" class="headerlink" title="Step4 Share it with your audience"></a>Step4 Share it with your audience</h5><p>Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg"
-                      alt="share media flexclip"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="The-Bottom-Line"><a href="#The-Bottom-Line" class="headerlink" title="The Bottom Line"></a>The Bottom Line</h2><p>The success or failure of your Instagram company depends in large part on engagement. If you add some artistic flare to this behind-the-scenes material, viewers will be tuning in every day. Instagram pushes your stories to fewer users if viewers repeatedly close them or skip through them. This highlights the personality of your writing and adds a new aspect designed to increase reader retention and engagement. Impress yourself with flawless text animation. The text video creator on <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is all you need.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<h5 id="Step1-Launch-and-Import-Instagram-Story-1"><a href="#Step1-Launch-and-Import-Instagram-Story-1" class="headerlink" title="Step1 Launch and Import Instagram Story"></a>Step1 Launch and Import Instagram Story</h5><p>Right after you have downloaded and installed this toolkit to you PC. You can launch the software on the go. After you are into the initial launch of the Software, here you can select the Video editor and hit the Import button afterwards to add your Instagram stories to the Project media as shown here:</p>
-<h5 id="Step2-Customize-the-Media-1"><a href="#Step2-Customize-the-Media-1" class="headerlink" title="Step2 Customize the Media"></a>Step2 Customize the Media</h5><p>After choosing your scenes, go to the editor to begin creating your animation. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie. Don’t forget to add a narration or a rhythm to make your animated text stand out.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/add-titles-win-1.png"
-                      alt="customize the media"
-                ></p>
-<h5 id="Step3-Use-Animated-Text-Templates-1"><a href="#Step3-Use-Animated-Text-Templates-1" class="headerlink" title="Step3 Use Animated Text Templates"></a>Step3 Use Animated Text Templates</h5><p>Filmora is here to spark your creativity if you’re at a stage when it’s lacking. Utilize this technology to make a design stand out from the competition. You may look at the Templates in the Stock to see how well animated designs capture our attention. Choose from hundreds of text animation modes, many of which include further customization options, such as fade, slide, typewriter, flicker, and more. Select a template, then remix it with your own images and touches.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/text-animation-win-1.png"
-                      alt="use animated text templates"
-                ></p>
-<h5 id="Step4-Export-the-Animated-Instagram-Story-1"><a href="#Step4-Export-the-Animated-Instagram-Story-1" class="headerlink" title="Step4 Export the Animated Instagram Story"></a>Step4 Export the Animated Instagram Story</h5><p>Go to the “Preview” section to see the video after you’ve completely altered it to your tastes. You may quickly return to the editor and make any necessary adjustments to your text animation. Export the finished video in the resolution you desire. When the movie exports, you can either save it to your device or click the “Share” button to immediately share your text animation on social media.</p>
-<h2 id="Way-3-Create-Instagram-Text-animation-Online-1"><a href="#Way-3-Create-Instagram-Text-animation-Online-1" class="headerlink" title="Way 3. Create Instagram Text animation Online"></a>Way 3. Create Instagram Text animation Online</h2><p>Even if you may submit a picture to your Instagram Story with animated text, the function doesn’t allow you to add whatever text you want, just like a regular post. Use the FlexClip to do it online instead. Start creating your animation by going to the online editor. Text, pictures, movies, and logo animations may all be included. You may simply continue to customize by changing the text size, font, colors, and even the length of the movie.</p>
-<p><strong>Steps to Add Instagram Text Animation with FlexClip:</strong></p>
-<h5 id="Step1-Upload-Your-Video-Gif-Or-Image-1"><a href="#Step1-Upload-Your-Video-Gif-Or-Image-1" class="headerlink" title="Step1 Upload Your Video, Gif, Or Image"></a>Step1 Upload Your Video, Gif, Or Image</h5><p>Launch the FlexClip video editor after uploading your video, GIF, or picture and choose “Local Files.” Click the “Plus” button to transfer it to the storyboard where it will be updated. The video may also be dragged from the folder and put straight into the editor. Directly upload a movie, GIF, or picture to FlexClip. Additionally, you may post a link from Twitter, YouTube, etc.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/upload-video-into-flexclip.jpg"
-                      alt="upload video into flexclip"
-                ></p>
-<h5 id="Step2-Pick-a-template-or-start-from-scratch-1"><a href="#Step2-Pick-a-template-or-start-from-scratch-1" class="headerlink" title="Step2 Pick a template or start from scratch"></a>Step2 Pick a template or start from scratch</h5><p>Choose a template to use first from the enormous collection of text animation templates. Visit the ever-expanding template collection of our animated text generator to choose the template for your next text animation. Choose the video that best suits your project by previewing the available ones. A wide variety of animated text scenarios are included in templates to suit all demands. To begin making your animation, choose and include your favorite moments.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/11305-924299"
-                      border="0" alt="" width="520" height="100"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/pick-a-tempalte-flexclip.jpg"
-                      alt="pick a tempalte flexclip"
-                ></p>
-<h5 id="Step3-Animate-your-Font-1"><a href="#Step3-Animate-your-Font-1" class="headerlink" title="Step3 Animate your Font"></a>Step3 Animate your Font</h5><p>By producing the video from scratch, you may also practice your creativity. Click “Add Text” and choose one of the animation choices to accomplish it. To adjust the location, just drag and drop. You may also quickly alter the font and color choices. Choose a font style from the fantastic font library or just upload your own font style to your video project, and then use the free text animation tool to add some magic to your projects. To animate text, just pick it and click “Animate.”</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.aiseesoft.com/avangate/30p/banner.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/animate-text-font-flexclip.jpg"
-                      alt="animate text font flexclip"
-                ></p>
-<h5 id="Step4-Share-it-with-your-audience-1"><a href="#Step4-Share-it-with-your-audience-1" class="headerlink" title="Step4 Share it with your audience"></a>Step4 Share it with your audience</h5><p>Once finished, you can either instantly share the finished product on various social networking networks with a single click or export it to your computer. There are no downloads necessary to use FlexClip, and it is totally free!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/share-media-flexclip.jpg"
-                      alt="share media flexclip"
-                ></p>
-<h2 id="The-Bottom-Line-1"><a href="#The-Bottom-Line-1" class="headerlink" title="The Bottom Line"></a>The Bottom Line</h2><p>The success or failure of your Instagram company depends in large part on engagement. If you add some artistic flare to this behind-the-scenes material, viewers will be tuning in every day. Instagram pushes your stories to fewer users if viewers repeatedly close them or skip through them. This highlights the personality of your writing and adds a new aspect designed to increase reader retention and engagement. Impress yourself with flawless text animation. The text video creator on <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is all you need.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-2024-approved-downloading-facebook-videos-ultimate-5-list-ranked/"><u>[New] 2024 Approved  Downloading Facebook Videos  Ultimate 5 List Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-above-average-cloud-service-selections/"><u>[New] Above-Average Cloud Service Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bridging-distances-with-easy-to-use-xbox-zooming/"><u>[New] Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-captivate-with-crafted-cost-free-comic-templates/"><u>[New] Captivate with Crafted, Cost-Free Comic Templates</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/new-strategic-use-of-slug-lines-in-blogging-for-2024/"><u>[New] Strategic Use of Slug Lines in Blogging for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clearing-the-vision-zoom-mastery-for-intimate-online-gatherings/"><u>[Updated] Clearing the Vision  Zoom Mastery for Intimate Online Gatherings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-conversational-magic-how-to-write-podcast-scripts/"><u>[Updated] Crafting Conversational Magic  How to Write Podcast Scripts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/updated-recommendation-best-websites-to-download-game-of-thrones-ringtones/"><u>[Updated] Recommendation  Best Websites to Download Game of Thrones Ringtones</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-streaming-fb-video-content-on-television-devices/"><u>[Updated] Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-7-key-reddit-techniques-to-elevate-your-startups-brand-visibility/"><u>2024 Approved  7 Key Reddit Techniques to Elevate Your Startup's Brand Visibility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-top-5-best-microphones-for-4k-camera/"><u>2024 Approved  Top 5 Best Microphones for 4K Camera</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/2024-approved-unveiling-top-online-markets-for-quality-tamil-ringtone-downloads/"><u>2024 Approved  Unveiling Top Online Markets for Quality Tamil Ringtone Downloads</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/advanced-tactics-to-boost-file-organization-with-multi-folder-setup-in-windows-1011/"><u>Advanced Tactics to Boost File Organization with Multi-Folder Setup in Windows 10/11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-techniques-for-embedding-srt-into-mp4-files/"><u>Advanced Techniques for Embedding SRT Into MP4 Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bring-life-to-stills-motion-blur-technique-for-2024/"><u>Bring Life to Stills  Motion Blur Technique for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/bypass-reset-vivo-y100-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Vivo Y100 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/click-into-art-ultimate-edits-for-stunning-snaps-for-2024/"><u>Click Into Art  Ultimate Edits for Stunning Snaps for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-precision-of-lg-ud88-w-monitor-specifications/"><u>Discover the Precision of LG UD88-W Monitor Specifications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>Elevate Your Photos  Learn Bg Removal with Picsart Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-collaboration-the-seamless-merge-of-zoom-and-gmail/"><u>Enhancing Collaboration  The Seamless Merge of Zoom & Gmail</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-watchlist-15-must-see-stop-motion-classics/"><u>Essential Watchlist  15 Must-See Stop-Motion Classics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expanding-screen-coverage-of-youtube-videos/"><u>Expanding Screen Coverage of YouTube Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/friendship-in-folded-space-top-vr-games/"><u>Friendship in Folded Space  Top VR Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/how-can-honor-x50mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor X50Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/in-2024-formulating-final-fact-finding-flourishes/"><u>In 2024, Formulating Final Fact-Finding Flourishes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>In 2024, Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-storm-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Storm 5G To Phone | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a34-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A34 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/kodi-streaming-service-windows-media-replacement/"><u>Kodi Streaming Service  Windows Media Replacement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-innovations-the-future-explained-today/"><u>SRT Innovations  The Future Explained Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/temporal-twist-rewinding-videos-on-apple-tech/"><u>Temporal Twist  Rewinding Videos on Apple Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visionupgrade-pro-universal-platform-edition/"><u>VisionUpgrade Pro – Universal Platform Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-vanguard-cutting-edge-cinematographic-insights-year-of-24/"><u>Visual Vanguard  Cutting-Edge Cinematographic Insights - Year of '24</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Illuminating Interactions  Mastering Animate Texts in Stories&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:55:46</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:55:46
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/intuitive-method-for-adjusting-iphone-screen/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Intuitive Method for Adjusting iPhone Screen</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/humor-hubs-the-most-enjoyable-ringtone-downloads/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Humor Hubs  The Most Enjoyable Ringtone Downloads&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Illuminating Interactions  Mastering Animate Texts in Stories&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Illuminating-Interactions-Mastering-Animate-Texts-in-Stories"><span class="nav-text">Illuminating Interactions: Mastering Animate Texts in Stories</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Way-1-Use-Instagram-App"><span class="nav-text">Way 1. Use Instagram App</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Way-2-Use-Filmora"><span class="nav-text">Way 2. Use Filmora</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Way-3-Create-Instagram-Text-animation-Online"><span class="nav-text">Way 3. Create Instagram Text animation Online</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Bottom-Line"><span class="nav-text">The Bottom Line</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Way-3-Create-Instagram-Text-animation-Online-1"><span class="nav-text">Way 3. Create Instagram Text animation Online</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Bottom-Line-1"><span class="nav-text">The Bottom Line</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

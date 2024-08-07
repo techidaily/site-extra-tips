@@ -612,15 +612,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -642,482 +642,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/lWZM0bYeaxTVCPOx626dZ9nbfmE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-650468252-59a498fa845b340011488900.jpg" alt="Best Free Photo Enhancer Online and App for Mobile Phone for 2024" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Best Free Photo Enhancer Online and App for Mobile Phone for 2024</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:42:02</span>
-        <span class="mobile">2024-07-27 09:42:02</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:42:02</span>
-            <span class="mobile">2024-07-28 09:42:02</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Best-Free-Photo-Enhancer-Online-and-App-for-Mobile-Phone"><a href="#Best-Free-Photo-Enhancer-Online-and-App-for-Mobile-Phone" class="headerlink" title="Best Free Photo Enhancer Online and App for Mobile Phone"></a>Best Free Photo Enhancer Online and App for Mobile Phone</h2><p>Photo enhancers are famous for their ability to eliminate blemishes and faults in colors and remove unwanted objects from the background. If the photo is tedious and boring, you can instantly make it creative and exciting. Also, experts rely on photo enhancers to make drastic changes to the images to tell a unique story through them. By combining all these factors, photo enhancers will always be in high demand all over the world.</p>
-<p>This article will help to find you a reliable free photo enhancer that you can find on mobile apps or across online sites. So, get ready to use the best photo enhancer app to beautify your images quickly. Let’s get started!</p>
-<h2 id="Part-1-5-Best-Free-Photo-Enhancer-Online-Sites"><a href="#Part-1-5-Best-Free-Photo-Enhancer-Online-Sites" class="headerlink" title="Part 1: 5 Best Free Photo Enhancer Online Sites"></a>Part 1: 5 Best Free Photo Enhancer Online Sites</h2><p>In this section, we will describe the top 5 free photo enhancers online that can help you to edit pictures by utilizing numerous features. They’re discussed as follows.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png"
-                      border="0"
-                >Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Wondershare-PixStudio"><a href="#1-Wondershare-PixStudio" class="headerlink" title="1. Wondershare PixStudio"></a>1. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/fotophire/download/" >Wondershare PixStudio <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Do you want a complete editing toolbox for your pictures? Wondershare PixStudio stands out as the best online photo enhancer containing multiple options, templates, and tools to enhance the images. It provides the users with advanced features like background remover and watermark remover to generate faultless results. Moreover, it has an in-built feature to design an image according to the suitable size for its type.</p>
-<p>You can also build excellent Instagram posts, magazine covers, invitations, and event tickets through a single image. You can also explore and check their pre-established templates to know about trendy designs and features to enhance the photos quickly. Thus, it’s a complete enhancing tool that can help you to remove unwanted objects from the picture frame with a single click. Isn’t it great?</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-1.jpg"
-                      alt="wondershare pixstudio editor"
-                ></p>
-<h3 id="2-Fotor"><a href="#2-Fotor" class="headerlink" title="2. Fotor"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://www.fotor.com/" >Fotor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Fotor is a free photo enhancer online that can assist you in resizing and cropping the images flawlessly. You can crop a picture by perfectly putting the subject in the center and correcting the faulty angles by adjusting the ratios. This tool gained popularity due to its exclusive feature of the enhancer, as it can automatically correct the brightness, saturation, and light in your picture through a single click.</p>
-<p>You can also use other effects such as HDR to naturally add more dimensions and sharpness to the images. You don’t need to utilize tons of features to produce an end result; in fact, the HDR effect is enough to enhance the colors of your image professionally. Are you looking forward to using it?</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg"
-                      border="0"
-                ><br>    Home Use license is dedicated for personal, non-commercial use only.<br>    If Action! is used for commercial gain or to further any commercial purpose,<br>    a Commercial Use license is required. Multi-license (volume discount) is intended for single </p>
-<pre><code>company, user or members of the same household. Action! - screen and game recorder&lt;/a&gt;
-</code></pre>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-2.jpg"
-                      alt="fotor photo enhancer tool"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg"
-                      border="0"
-                >Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It’s fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a></p>
-<!-- affiliate ads end -->
-<h3 id="3-Pixlr"><a href="#3-Pixlr" class="headerlink" title="3. Pixlr"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://pixlr.com/" >Pixlr <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Are you looking forward to an interesting yet effective photo enhancer? You can visit Pixlr to retouch your photos and apply interesting effects to the images. The user interface of this tool is classic and offers all the necessary tools and key features that a user would need to perform basic image editing. Through this tool, you can paint on the image by its drawing tool and can select the color, opacity, and size of the drawing tool.</p>
-<p>Also, you can apply various effects to define the genre of the photo, such as grain, vignette, blur, and many more. Thus, it works as a simple yet effective free photo enhancer online to generate stunning photo results. That sounds perfect!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-3.jpg"
-                      alt="pixlr online photo editor"
-                ></p>
-<h3 id="4-Canva"><a href="#4-Canva" class="headerlink" title="4. Canva"></a>4. <a class="link"   target="_blank" rel="noopener" href="https://www.canva.com/photo-editor/" >Canva <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Canva is another good option to add various elements to the picture in a simpler manner. This online site contains tons of funky graphics and stickers, and just by adding them, you can set a new perspective on your image. You can utilize its key features like autofocus, smart mockups, styling effects, and unique picture frames to enhance your image.</p>
-<p>This best photo enhancer also comprises diverse effects and filters that you can apply according to your preferences. Once done with enhancement, you can share the image to other platforms. It surely is great!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-4.jpg"
-                      alt="canva free photo enhancer"
-                ></p>
-<h3 id="5-BeFunky"><a href="#5-BeFunky" class="headerlink" title="5. BeFunky"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.befunky.com/features/photo-editor/" >BeFunky <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Are you in search of an advanced photo enhancer? BeFunky stands out as an effective image editing online platform that helps experts and individuals to beautify their images quickly. To give attention to the small details, you can manage the exposure light of your photo by manually controlling the highlights and shadows of your image.</p>
-<p>You can also use its feature “AI Image Enhancer,” which can automatically fix the flaws present in your images. Through this feature, you can save your time, and just with a single click, you can enhance the image. You should definitely try it.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.aiseesoft.com/avangate/30p/banner.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-5.jpg"
-                      alt="befunky ai photo enhance feature"
-                ></p>
-<h2 id="Part-2-5-Best-Free-Photo-Enhancer-App"><a href="#Part-2-5-Best-Free-Photo-Enhancer-App" class="headerlink" title="Part 2: 5 Best Free Photo Enhancer App"></a>Part 2: 5 Best Free Photo Enhancer App</h2><p>By reading the following part, you will get to know about free photo enhancers that are compatible with your mobile devices. Just by installing these, you can quickly edit and enhance any image on your phone. All of the below-mentioned apps are supported by both Android and iOS devices. Let’s proceed!</p>
-<!-- affiliate ads begin -->
-<p><a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16446-1657399"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1657399/16446"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="1-1-Snapseed-Android-iOS"><a href="#1-1-Snapseed-Android-iOS" class="headerlink" title="1. 1. Snapseed (Android &#x2F; iOS)"></a>1. 1. Snapseed (<a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en&gl=US" >Android <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/snapseed/id439438619" >iOS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</h3><p>Do you want to open JPG and RAW files on your mobile phone? Use Snapseed as this best photo enhancer app can easily open these files at a fast speed. Just like other photo editing tools, this app also includes options like white balance, HDR scape, glamour glow, and other filter effects.</p>
-<p>You can also enhance specific parts of the image by its “Selective” feature and can save time from editing and changing the whole image. You can also store your regular and favorite looks on this app and can easily implement them on the new photos later. You should consider it!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-6.jpg"
-                      alt="snapseed best photo enhancer app"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Adobe-Lightroom-Android-iOS"><a href="#2-Adobe-Lightroom-Android-iOS" class="headerlink" title="2. Adobe Lightroom (Android &#x2F; iOS)"></a>2. Adobe Lightroom (<a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en&gl=US" >Android <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/adobe-lightroom-photo-editor/id878783582" >iOS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</h3><p>Adobe Lightroom is a professional photo enhancer app that is highly compatible with all Android and iOS devices. This free photo enhancer is able to recommend you suitable and appropriate filters with AI support to save you from wasting time unnecessarily. It contains more than 150 effects and filters that are more than enough to enhance your images at home.</p>
-<p>The camera of this app allows the users to control light exposure, HDR effect, presets, and timer. Thus, enhance your photography and editing skills through this tool. Isn’t it good?</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg"
-                      border="0"
-                >Greeting Card Builder</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-7.jpg"
-                      alt=" adobe lightroom free photo enhancer"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png"
-                      border="0"
-                >Power Tools add-on for Google Sheets, Lifetime subscription</a></p>
-<!-- affiliate ads end -->
-<h3 id="3-VSCO-Android-iOS"><a href="#3-VSCO-Android-iOS" class="headerlink" title="3. VSCO (Android &#x2F; iOS)"></a>3. VSCO (<a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US" >Android <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838" >iOS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</h3><p>VSCO is one of the best photo enhancers with multiple options to conveniently enhance the images. You can add frames to the photos by choosing the style and the suitable color. To define your photo more closely, you can add grain or fade effects within this tool. Another feature to enhance images by giving them a vintage look is applying analog film effects that many people prefer.</p>
-<p>The advanced features of VSCO include HSL and split tone that various photographers use to give artistic and alluring touch. This is mesmerizing!</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-8.jpg"
-                      alt="vsco photo editor app"
-                ></p>
-<h3 id="4-Prisma-Android-iOS"><a href="#4-Prisma-Android-iOS" class="headerlink" title="4. Prisma (Android &#x2F; iOS)"></a>4. Prisma (<a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.neuralprisma&hl=en&gl=US" >Android <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/prisma-photo-editor-filters/id1122649984" >iOS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</h3><p>If you are a beginner at editing images, use Prisma as a free photo enhancer that has a friendly and organized interface. This tool releases new creative filters every day to provide its community with distinctive options. Want to know more about it?</p>
-<p>This tool also includes funny and interesting filters that you can apply to cartoon images. Moreover, it offers skin editor tools to retouch and tune the skin tone naturally without using a fake filter. You can also use other beauty filters on this app to share your selfies and pictures on social media platforms.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17238-1496243"
-                      border="0" alt="" width="1000" height="1221"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1496243/17238"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-9.jpg"
-                      alt="prisma photo enhancer app"
-                ></p>
-<h3 id="5-Adobe-Photoshop-Express-Android-iOS"><a href="#5-Adobe-Photoshop-Express-Android-iOS" class="headerlink" title="5. Adobe Photoshop Express (Android &#x2F; iOS)"></a>5. Adobe Photoshop Express (<a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.adobe.psmobile&hl=en&gl=US" >Android <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/photoshop-express-photo-editor/id331975235" >iOS <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</h3><p>People in the professional field use Photoshop Express as a proficient image enhancer tool as it offers multiple options to eliminate present flaws. For example. You can deduct the noise from your image by smoothing the image’s texture and making the colors look subtle.</p>
-<p>As one of the best photo enhancer apps, you can effortlessly correct the disrupted camera frames and angles. Also, you can customize the image by adding layouts, frames, texts, and watermarks.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/best-free-photo-enhancer-10.jpg"
-                      alt="adobe photoshop express app"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/pdf-unlocker.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="The-Bottom-Line"><a href="#The-Bottom-Line" class="headerlink" title="The Bottom Line"></a>The Bottom Line</h2><p>Professional editing skills are not required if you are using a reliable photo enhancer. This article has combined the best photo enhancers that you can use to make any sort of image distinctive and flawless. You can read the description of each tool to select any of the best online photo enhancers. You would surely learn a lot!</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bright-futures-in-film-revolutionary-setup-tips/"><u>[New] Bright Futures in Film  Revolutionary Setup Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-camera-mastery-expert-tips-for-selecting-best-iphone-views/"><u>[New] Camera Mastery  Expert Tips for Selecting Best iPhone Views</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-cost-effective-cumulus-vault-for-colossal-archives/"><u>[New] Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-simplified-youtube-live-streaming-with-obs/"><u>[New] In 2024, From Novice to Pro  Simplified YouTube Live Streaming with OBS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/n-2024-your-blueprint-to-top-ranked-business-youtube-channels/"><u>[New] In 2024, Your Blueprint to Top-Ranked Business YouTube Channels</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-prime-picks-the-best-in-bike-gaming-for-2024/"><u>[New] Prime Picks  The Best in Bike Gaming for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-diverse-iptv-platforms-integration/"><u>[Updated] 2024 Approved  Diverse IPTV Platforms Integration</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-2024-approved-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>[Updated] 2024 Approved  Mobile Cinema  Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-become-a-photo-editing-wizard-with-lunapic-expertise/"><u>[Updated] Become a Photo Editing Wizard with LunaPic Expertise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-cameras-in-phones-for-professional-videos/"><u>[Updated] Best Cameras in Phones for Professional Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-mobile-photography-note-taking-tools/"><u>[Updated] Best Mobile Photography Note-Taking Tools</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos-for-2024/"><u>[Updated] From Ideation to Implementation  A Comprehensive Approach for Quality Edu-Videos for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/updated-in-2024-flashback-screen-recorder-review-in-depth/"><u>[Updated] In 2024, FlashBack Screen Recorder Review in Depth</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[Updated] In 2024, Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/updated-in-2024-the-essential-guide-to-integrating-voice-over-in-ppts/"><u>[Updated] In 2024, The Essential Guide to Integrating Voice Over in PPTs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-saving-stratospheric-storage-for-heavy-dumps/"><u>2024 Approved  Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Itel P55+ | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/addressing-file-history-misconfiguration-in-windows/"><u>Addressing File History Misconfiguration in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/amplify-your-profile-pull-clever-hacks-that-work-on-tinder-for-2024/"><u>Amplify Your Profile Pull  Clever Hacks That Work on Tinder for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-video-content-with-effective-srt-file-management/"><u>Boosting Video Content with Effective SRT File Management</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bringing-smiles-without-dollars-the-mememakers-way-for-2024/"><u>Bringing Smiles without Dollars – The MemeMaker’s Way for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/direct-gif-to-video-upgrade-no-download-just-click-and-convert/"><u>Direct GIF-to-Video Upgrade  No Download, Just Click & Convert</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-tiktok-unboxer-experience-for-maximum-likes/"><u>Elevate Your TikTok Unboxer Experience for Maximum Likes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/exploring-options-when-facebook-takes-down-my-content/"><u>Exploring Options When Facebook Takes Down My Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/how-to-edit-360-degree-video-in-premiere-pro/"><u>How to Edit 360 Degree Video in Premiere Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-11-pro-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-redmi-note-12-proplus-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Redmi Note 12 Pro+ 5G.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>In 2024, Accelerate Your Facebook Video Journey  In-Depth App & Extension Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-v27e-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo V27e</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>In 2024, Android/iPhone's Ultimate Guide  Top 10 Free Photo Overlay Hacks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos/"><u>In 2024, Boost Visual Impact  Learning to Edit Videos Using StoryRemix and Windows Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-churn-out-custom-internet-echo-jokes/"><u>In 2024, Churn Out Custom Internet Echo Jokes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 5G 2023 Turbo to Outlook | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-official-method-to-unlock-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Official Method to Unlock Your Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>Incorporate Subtitles for Improved Viewing  WMP Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/interlinkers-companion-navigating-instra-to-tiktok/"><u>Interlinker's Companion  Navigating Instra-to-TikTok</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/echniques-for-assessing-youtube-engagement-and-profitability/"><u>Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>Lunar Luster Online  A Curated List of HDR Sky Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-meme-design-collection/"><u>The Ultimate Meme Design Collection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-selections-top-rated-webcam-platforms/"><u>Ultimate Selections  Top-Rated Webcam Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-your-inner-comedy-with-gif-mastery/"><u>Unleash Your Inner Comedy with GIF Mastery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-potential-angular-video-editing-on-your-android-device/"><u>Unlocking Potential  Angular Video Editing on Your Android Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-visual-treasures-without-cost/"><u>Unlocking Visual Treasures Without Cost</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Best Free Photo Enhancer Online and App for Mobile Phone for 2024</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:42:02</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:42:02
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/best-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/best-in-class-steadicam-equipment-for-drone-cinematography-for-2024/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Best-in-Class Steadicam Equipment for Drone Cinematography for 2024&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/2024-approved-best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Best Metaverse Tech  The Ultimate Goggles and HMDs List&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Best Free Photo Enhancer Online and App for Mobile Phone for 2024</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Best-Free-Photo-Enhancer-Online-and-App-for-Mobile-Phone"><span class="nav-text">Best Free Photo Enhancer Online and App for Mobile Phone</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-5-Best-Free-Photo-Enhancer-Online-Sites"><span class="nav-text">Part 1: 5 Best Free Photo Enhancer Online Sites</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Wondershare-PixStudio"><span class="nav-text">1. Wondershare PixStudio </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Fotor"><span class="nav-text">2. Fotor </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Pixlr"><span class="nav-text">3. Pixlr </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Canva"><span class="nav-text">4. Canva </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-BeFunky"><span class="nav-text">5. BeFunky </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-5-Best-Free-Photo-Enhancer-App"><span class="nav-text">Part 2: 5 Best Free Photo Enhancer App</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-1-Snapseed-Android-iOS"><span class="nav-text">1. 1. Snapseed (Android  &#x2F; iOS )</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Adobe-Lightroom-Android-iOS"><span class="nav-text">2. Adobe Lightroom (Android  &#x2F; iOS )</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-VSCO-Android-iOS"><span class="nav-text">3. VSCO (Android  &#x2F; iOS )</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Prisma-Android-iOS"><span class="nav-text">4. Prisma (Android  &#x2F; iOS )</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Adobe-Photoshop-Express-Android-iOS"><span class="nav-text">5. Adobe Photoshop Express (Android  &#x2F; iOS )</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Bottom-Line"><span class="nav-text">The Bottom Line</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

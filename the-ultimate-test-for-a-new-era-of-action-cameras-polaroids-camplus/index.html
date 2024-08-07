@@ -611,15 +611,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -641,902 +641,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416dfe9f4fbdd744755993fb5c2e.png" alt="&#34;The Ultimate Test for a New Era of Action Cameras - Polaroid&#39;s Cam+&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;The Ultimate Test for a New Era of Action Cameras - Polaroid&#39;s Cam+&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:09:12</span>
-        <span class="mobile">2024-07-27 07:09:12</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:09:12</span>
-            <span class="mobile">2024-07-28 07:09:12</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="The-Ultimate-Test-for-a-New-Era-of-Action-Cameras-Polaroid’s-Cam"><a href="#The-Ultimate-Test-for-a-New-Era-of-Action-Cameras-Polaroid’s-Cam" class="headerlink" title="The Ultimate Test for a New Era of Action Cameras - Polaroid’s Cam+"></a>The Ultimate Test for a New Era of Action Cameras - Polaroid’s Cam+</h2><h1 id="Polaroid-Cube-Action-Camera-Review"><a href="#Polaroid-Cube-Action-Camera-Review" class="headerlink" title="Polaroid Cube+ Action Camera Review"></a>Polaroid Cube+ Action Camera Review</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Max-Wales"><a href="#Max-Wales" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> Polaroid Cube+ is well known as Life Style Action Camera that assists users in efficient recording of all adventurous of life. Same as the original Cube, this device also inherits 1.4 inch cube shape but the imaging capabilities are much improved as compared to its predecessors. This device can provide 1440p resolution level at 30fps whereas 1080p can be captured at 60 fps. In case of 720p you will be able to manage frame rate of 120fps with slow motion recording abilities. Other than this, your Cube+ camera can capture images at 8MP and the advanced image stabilized feature is also added to this design. It can definitely make all your videos much smoother and impressive one.</p>
-<p> The built in type Wi-Fi connectivity offers easy synchronization with Android as well as iOS devices via Cube+ application. This application will provide you so many advanced editing and control options so that captured images and recorded videos can be easily saved, printed or shared on other platforms. All these advanced features make this device stand in top choice list of athletes and adventure sports lovers. No matter whether you are a professional or beginners with action camera series, Polaroid Cube+ will offer you intuitive controls with user friendly interface so that everything becomes much easier to manage.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17212-1450763"
-                      border="0" alt="" width="2560" height="1440"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1450763/17212"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg"
-                      alt="ploaroid-cube-plus-image"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check price at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h2 id="Complete-Review-of-Polaroid-Cube"><a href="#Complete-Review-of-Polaroid-Cube" class="headerlink" title="Complete Review of Polaroid Cube+"></a>Complete Review of Polaroid Cube+</h2><h4 id="Specs-table"><a href="#Specs-table" class="headerlink" title="Specs table:"></a><strong>Specs table:</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Item name</strong></th>
-<th>Polaroid Cube+</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Manufacture</strong></td>
-<td>Polaroid (US)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>2015</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Price:</strong></td>
-<td>Official:$99.99</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Basic Specification</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>60g only</td>
-<td><strong>Shape</strong></td>
-<td>Cube shaped model</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>Micro SD up to 128GB</td>
-<td><strong>Dimensions</strong></td>
-<td>35mm x 35mm</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>It can Record up to 107 minutes with 600MAH Built In Battery</td>
-<td><strong>Waterproof</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 8mp</td>
-<td><strong>Video resolution</strong></td>
-<td>1440p at 30 fps &#x2F; 1080p up to 60 fps</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No</td>
-<td><strong>Feature</strong></td>
-<td>Image stabilization, splash proof&#x2F;shock proof, weather resistant, Wifi and App supported</td>
-</tr>
-</tbody></table>
-<h4 id="Pros-and-Cons"><a href="#Pros-and-Cons" class="headerlink" title="Pros and Cons"></a><strong>Pros and Cons</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Pros</strong></th>
-<th><strong>Cons</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>This device can support HD Resolutions</td>
-<td>Integrated battery that offers very short battery life</td>
-</tr>
-<tr>
-<td>Super small and lightweight design</td>
-<td>You have to compromise for Video and photo quality</td>
-</tr>
-<tr>
-<td>You have to compromise for Video and photo quality</td>
-<td>No screen available</td>
-</tr>
-</tbody></table>
-<h4 id="What-is-Inside-Box"><a href="#What-is-Inside-Box" class="headerlink" title="What is Inside Box?"></a><strong>What is Inside Box?</strong></h4><p> Following things will come out of your package:</p>
-<ol>
-<li>Lanyard</li>
-<li>Pendant Case</li>
-<li>8GB Polaroid type MicroSD memory card</li>
-<li>Micro USB cable</li>
-<li>Polaroid Cube+ Camera</li>
-<li>Instruction manual</li>
-</ol>
-<h4 id="Design-and-Accessories"><a href="#Design-and-Accessories" class="headerlink" title="Design and Accessories:"></a><strong>Design and Accessories:</strong></h4><p> This action camera comes with so many attractive accessories that can make your purchase worth useful. You will get a standard tripod mount of ¼-20 specification but the sad part is that it is made up of plastic material. All these mounts are designed with quick connect type clip system that assists users in easy connection and disconnection between mount and camera. This clip can be easily fixed with tripod socket of camera and then it perfectly slides over mount leading to a safe lock. If you want to mount this device on helmet or handlebars then you can take benefit from socket and ball mounts available with this device. You can also buy additional accessories from online stores to make your device more suitable for action photography. If you want to use this device under water then it is important to buy additional dedicated protective housing as it is not available inside your package. Also you can buy some additional mounts online to set up your camera at rough and difficult positions.</p>
-<h4 id="Video-and-Photo"><a href="#Video-and-Photo" class="headerlink" title="Video and Photo:"></a><strong>Video and Photo:</strong></h4><p> Top resolution level of this camera is listed up to 1440p that works with 30 fps frame rate. This device cannot record footage with 2560x1440 pixels that is known as wide screen type resolution but you will be limited to 1920x1440 pixel level. This resolution level serves with 4:3 aspect ratio. In case if you want to record videos with wide screen focus then it is good to switch to 1080p resolution or to 720p level that provides 16:9 aspect ratio.</p>
-<p> The videos can be developed with high quality digital image stabilization and it works perfectly with snowboarding, bike riding and moving car like motion oriented scenes. Users can also introduce some impressive effects into their fast moving videos to get customized results. The photo resolutions of Polaroid Cube + can be switched between 3MP, 6MP and 8MP level as per need. The files are produced with JPG compression so file size usually vary with changing resolution level. You will be glad to use its self timer feature that can be adjusted to 3 seconds as well as 10 seconds for capturing any still image.</p>
-<h4 id="Recommend-best-video-editing-software-for-action-camera-users"><a href="#Recommend-best-video-editing-software-for-action-camera-users" class="headerlink" title="Recommend best video editing software for action camera users"></a><strong>Recommend best video editing software for action camera users</strong></h4><p> If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.</p>
-<p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/download-btn-win.jpg"
-                      alt="Download Win Version"
-                ></a> <a class="link"   target="_blank" rel="noopener" href="https://images.wondershare.com/filmora/guide/download-btn-mac.jpg" >Download Mac Version <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>](<a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >https://tools.techidaily.com/wondershare/filmora/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</p>
-<h4 id="App-and-Wi-Fi"><a href="#App-and-Wi-Fi" class="headerlink" title="App and Wi-Fi:"></a><strong>App and Wi-Fi:</strong></h4><p> This camera does not contain any screen so users definitely need fast connectivity with smart phone screen so that footage can be viewed at the time of recording. This device comes with built in Wi-Fi facility so it is much easier to connect your action camera with Android as well as Apple devices. With this remote connectivity option you will be able to have wide variety of options for basic controls as well as for video shooting. The Cube+ application is designed to serve users with easy switching between physical buttons and software initiated controls. Users can easily change settings from remote location to adjust time lapse, photo modes and video modes.</p>
-<h4 id="Battery-Life-and-Memory"><a href="#Battery-Life-and-Memory" class="headerlink" title="Battery Life and Memory:"></a><strong>Battery Life and Memory:</strong></h4><p> If we talk about battery life of Polaroid Cube+ device then it will not give you much pleasure; with HD recording your camera can serve you only up to one hour. You have to connect it via USB port for charging and it takes about one hour to complete full charging. In case if you need a camera to shoot your full day shoots on adventurous trips then definitely this is not right choice because you cannot remove or replace its battery. With this fixed and limited power source it becomes difficult to get services for long hour usage.</p>
-<p> The camera can accept MicroSD card up to maximum capacity of 128GB and you can easily add MicroSDXC and MicroSDHC cards to this unit. As videos are heavily compressed with JPG type compression technology so, there is no need for any fixed MicroSD card speed limit. You will find the SD card slot at backside of your camera that is hidden below protective cover.</p>
-<h4 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p> After observing all incredible features we can say that Polaroid Cube+ is a classic device for action camera seekers. It possesses variety of controls and advanced user friendly interface. Some people have reported negative results for its audio abilities and sometimes the controls also freeze up while switching between physical buttons and smart phone application. Professionals as well as beginners love its image quality and the intuitive controls that make everything much easier to access. This action camera falls in reasonable budget range but still offers all competing results. You can order your product from online stores as well as go to buy at local retail stores.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp"
-                      border="0"
-                >EmEditor Professional (Lifetime License, non-store app)</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-1"><a href="#Max-Wales-1" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> Polaroid Cube+ is well known as Life Style Action Camera that assists users in efficient recording of all adventurous of life. Same as the original Cube, this device also inherits 1.4 inch cube shape but the imaging capabilities are much improved as compared to its predecessors. This device can provide 1440p resolution level at 30fps whereas 1080p can be captured at 60 fps. In case of 720p you will be able to manage frame rate of 120fps with slow motion recording abilities. Other than this, your Cube+ camera can capture images at 8MP and the advanced image stabilized feature is also added to this design. It can definitely make all your videos much smoother and impressive one.</p>
-<p> The built in type Wi-Fi connectivity offers easy synchronization with Android as well as iOS devices via Cube+ application. This application will provide you so many advanced editing and control options so that captured images and recorded videos can be easily saved, printed or shared on other platforms. All these advanced features make this device stand in top choice list of athletes and adventure sports lovers. No matter whether you are a professional or beginners with action camera series, Polaroid Cube+ will offer you intuitive controls with user friendly interface so that everything becomes much easier to manage.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg"
-                      alt="ploaroid-cube-plus-image"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check price at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h2 id="Complete-Review-of-Polaroid-Cube-1"><a href="#Complete-Review-of-Polaroid-Cube-1" class="headerlink" title="Complete Review of Polaroid Cube+"></a>Complete Review of Polaroid Cube+</h2><h4 id="Specs-table-1"><a href="#Specs-table-1" class="headerlink" title="Specs table:"></a><strong>Specs table:</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Item name</strong></th>
-<th>Polaroid Cube+</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Manufacture</strong></td>
-<td>Polaroid (US)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>2015</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Price:</strong></td>
-<td>Official:$99.99</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Basic Specification</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>60g only</td>
-<td><strong>Shape</strong></td>
-<td>Cube shaped model</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>Micro SD up to 128GB</td>
-<td><strong>Dimensions</strong></td>
-<td>35mm x 35mm</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>It can Record up to 107 minutes with 600MAH Built In Battery</td>
-<td><strong>Waterproof</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 8mp</td>
-<td><strong>Video resolution</strong></td>
-<td>1440p at 30 fps &#x2F; 1080p up to 60 fps</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No</td>
-<td><strong>Feature</strong></td>
-<td>Image stabilization, splash proof&#x2F;shock proof, weather resistant, Wifi and App supported</td>
-</tr>
-</tbody></table>
-<h4 id="Pros-and-Cons-1"><a href="#Pros-and-Cons-1" class="headerlink" title="Pros and Cons"></a><strong>Pros and Cons</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Pros</strong></th>
-<th><strong>Cons</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>This device can support HD Resolutions</td>
-<td>Integrated battery that offers very short battery life</td>
-</tr>
-<tr>
-<td>Super small and lightweight design</td>
-<td>You have to compromise for Video and photo quality</td>
-</tr>
-<tr>
-<td>You have to compromise for Video and photo quality</td>
-<td>No screen available</td>
-</tr>
-</tbody></table>
-<h4 id="What-is-Inside-Box-1"><a href="#What-is-Inside-Box-1" class="headerlink" title="What is Inside Box?"></a><strong>What is Inside Box?</strong></h4><p> Following things will come out of your package:</p>
-<ol>
-<li>Lanyard</li>
-<li>Pendant Case</li>
-<li>8GB Polaroid type MicroSD memory card</li>
-<li>Micro USB cable</li>
-<li>Polaroid Cube+ Camera</li>
-<li>Instruction manual</li>
-</ol>
-<h4 id="Design-and-Accessories-1"><a href="#Design-and-Accessories-1" class="headerlink" title="Design and Accessories:"></a><strong>Design and Accessories:</strong></h4><p> This action camera comes with so many attractive accessories that can make your purchase worth useful. You will get a standard tripod mount of ¼-20 specification but the sad part is that it is made up of plastic material. All these mounts are designed with quick connect type clip system that assists users in easy connection and disconnection between mount and camera. This clip can be easily fixed with tripod socket of camera and then it perfectly slides over mount leading to a safe lock. If you want to mount this device on helmet or handlebars then you can take benefit from socket and ball mounts available with this device. You can also buy additional accessories from online stores to make your device more suitable for action photography. If you want to use this device under water then it is important to buy additional dedicated protective housing as it is not available inside your package. Also you can buy some additional mounts online to set up your camera at rough and difficult positions.</p>
-<h4 id="Video-and-Photo-1"><a href="#Video-and-Photo-1" class="headerlink" title="Video and Photo:"></a><strong>Video and Photo:</strong></h4><p> Top resolution level of this camera is listed up to 1440p that works with 30 fps frame rate. This device cannot record footage with 2560x1440 pixels that is known as wide screen type resolution but you will be limited to 1920x1440 pixel level. This resolution level serves with 4:3 aspect ratio. In case if you want to record videos with wide screen focus then it is good to switch to 1080p resolution or to 720p level that provides 16:9 aspect ratio.</p>
-<p> The videos can be developed with high quality digital image stabilization and it works perfectly with snowboarding, bike riding and moving car like motion oriented scenes. Users can also introduce some impressive effects into their fast moving videos to get customized results. The photo resolutions of Polaroid Cube + can be switched between 3MP, 6MP and 8MP level as per need. The files are produced with JPG compression so file size usually vary with changing resolution level. You will be glad to use its self timer feature that can be adjusted to 3 seconds as well as 10 seconds for capturing any still image.</p>
-<h4 id="Recommend-best-video-editing-software-for-action-camera-users-1"><a href="#Recommend-best-video-editing-software-for-action-camera-users-1" class="headerlink" title="Recommend best video editing software for action camera users"></a><strong>Recommend best video editing software for action camera users</strong></h4><p> If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.blumentals.net/scrwonder/images/screensaver-software.png"
-                      border="0"
-                >With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a></p>
-<!-- affiliate ads end -->
-<p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/download-btn-win.jpg"
-                      alt="Download Win Version"
-                ></a> <a class="link"   target="_blank" rel="noopener" href="https://images.wondershare.com/filmora/guide/download-btn-mac.jpg" >Download Mac Version <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>](<a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >https://tools.techidaily.com/wondershare/filmora/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</p>
-<h4 id="App-and-Wi-Fi-1"><a href="#App-and-Wi-Fi-1" class="headerlink" title="App and Wi-Fi:"></a><strong>App and Wi-Fi:</strong></h4><p> This camera does not contain any screen so users definitely need fast connectivity with smart phone screen so that footage can be viewed at the time of recording. This device comes with built in Wi-Fi facility so it is much easier to connect your action camera with Android as well as Apple devices. With this remote connectivity option you will be able to have wide variety of options for basic controls as well as for video shooting. The Cube+ application is designed to serve users with easy switching between physical buttons and software initiated controls. Users can easily change settings from remote location to adjust time lapse, photo modes and video modes.</p>
-<h4 id="Battery-Life-and-Memory-1"><a href="#Battery-Life-and-Memory-1" class="headerlink" title="Battery Life and Memory:"></a><strong>Battery Life and Memory:</strong></h4><p> If we talk about battery life of Polaroid Cube+ device then it will not give you much pleasure; with HD recording your camera can serve you only up to one hour. You have to connect it via USB port for charging and it takes about one hour to complete full charging. In case if you need a camera to shoot your full day shoots on adventurous trips then definitely this is not right choice because you cannot remove or replace its battery. With this fixed and limited power source it becomes difficult to get services for long hour usage.</p>
-<p> The camera can accept MicroSD card up to maximum capacity of 128GB and you can easily add MicroSDXC and MicroSDHC cards to this unit. As videos are heavily compressed with JPG type compression technology so, there is no need for any fixed MicroSD card speed limit. You will find the SD card slot at backside of your camera that is hidden below protective cover.</p>
-<h4 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p> After observing all incredible features we can say that Polaroid Cube+ is a classic device for action camera seekers. It possesses variety of controls and advanced user friendly interface. Some people have reported negative results for its audio abilities and sometimes the controls also freeze up while switching between physical buttons and smart phone application. Professionals as well as beginners love its image quality and the intuitive controls that make everything much easier to access. This action camera falls in reasonable budget range but still offers all competing results. You can order your product from online stores as well as go to buy at local retail stores.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-2"><a href="#Max-Wales-2" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> Polaroid Cube+ is well known as Life Style Action Camera that assists users in efficient recording of all adventurous of life. Same as the original Cube, this device also inherits 1.4 inch cube shape but the imaging capabilities are much improved as compared to its predecessors. This device can provide 1440p resolution level at 30fps whereas 1080p can be captured at 60 fps. In case of 720p you will be able to manage frame rate of 120fps with slow motion recording abilities. Other than this, your Cube+ camera can capture images at 8MP and the advanced image stabilized feature is also added to this design. It can definitely make all your videos much smoother and impressive one.</p>
-<p> The built in type Wi-Fi connectivity offers easy synchronization with Android as well as iOS devices via Cube+ application. This application will provide you so many advanced editing and control options so that captured images and recorded videos can be easily saved, printed or shared on other platforms. All these advanced features make this device stand in top choice list of athletes and adventure sports lovers. No matter whether you are a professional or beginners with action camera series, Polaroid Cube+ will offer you intuitive controls with user friendly interface so that everything becomes much easier to manage.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg"
-                      alt="ploaroid-cube-plus-image"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check price at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Complete-Review-of-Polaroid-Cube-2"><a href="#Complete-Review-of-Polaroid-Cube-2" class="headerlink" title="Complete Review of Polaroid Cube+"></a>Complete Review of Polaroid Cube+</h2><h4 id="Specs-table-2"><a href="#Specs-table-2" class="headerlink" title="Specs table:"></a><strong>Specs table:</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Item name</strong></th>
-<th>Polaroid Cube+</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Manufacture</strong></td>
-<td>Polaroid (US)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>2015</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Price:</strong></td>
-<td>Official:$99.99</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Basic Specification</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>60g only</td>
-<td><strong>Shape</strong></td>
-<td>Cube shaped model</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>Micro SD up to 128GB</td>
-<td><strong>Dimensions</strong></td>
-<td>35mm x 35mm</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>It can Record up to 107 minutes with 600MAH Built In Battery</td>
-<td><strong>Waterproof</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 8mp</td>
-<td><strong>Video resolution</strong></td>
-<td>1440p at 30 fps &#x2F; 1080p up to 60 fps</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No</td>
-<td><strong>Feature</strong></td>
-<td>Image stabilization, splash proof&#x2F;shock proof, weather resistant, Wifi and App supported</td>
-</tr>
-</tbody></table>
-<h4 id="Pros-and-Cons-2"><a href="#Pros-and-Cons-2" class="headerlink" title="Pros and Cons"></a><strong>Pros and Cons</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Pros</strong></th>
-<th><strong>Cons</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>This device can support HD Resolutions</td>
-<td>Integrated battery that offers very short battery life</td>
-</tr>
-<tr>
-<td>Super small and lightweight design</td>
-<td>You have to compromise for Video and photo quality</td>
-</tr>
-<tr>
-<td>You have to compromise for Video and photo quality</td>
-<td>No screen available</td>
-</tr>
-</tbody></table>
-<h4 id="What-is-Inside-Box-2"><a href="#What-is-Inside-Box-2" class="headerlink" title="What is Inside Box?"></a><strong>What is Inside Box?</strong></h4><p> Following things will come out of your package:</p>
-<ol>
-<li>Lanyard</li>
-<li>Pendant Case</li>
-<li>8GB Polaroid type MicroSD memory card</li>
-<li>Micro USB cable</li>
-<li>Polaroid Cube+ Camera</li>
-<li>Instruction manual</li>
-</ol>
-<h4 id="Design-and-Accessories-2"><a href="#Design-and-Accessories-2" class="headerlink" title="Design and Accessories:"></a><strong>Design and Accessories:</strong></h4><p> This action camera comes with so many attractive accessories that can make your purchase worth useful. You will get a standard tripod mount of ¼-20 specification but the sad part is that it is made up of plastic material. All these mounts are designed with quick connect type clip system that assists users in easy connection and disconnection between mount and camera. This clip can be easily fixed with tripod socket of camera and then it perfectly slides over mount leading to a safe lock. If you want to mount this device on helmet or handlebars then you can take benefit from socket and ball mounts available with this device. You can also buy additional accessories from online stores to make your device more suitable for action photography. If you want to use this device under water then it is important to buy additional dedicated protective housing as it is not available inside your package. Also you can buy some additional mounts online to set up your camera at rough and difficult positions.</p>
-<h4 id="Video-and-Photo-2"><a href="#Video-and-Photo-2" class="headerlink" title="Video and Photo:"></a><strong>Video and Photo:</strong></h4><p> Top resolution level of this camera is listed up to 1440p that works with 30 fps frame rate. This device cannot record footage with 2560x1440 pixels that is known as wide screen type resolution but you will be limited to 1920x1440 pixel level. This resolution level serves with 4:3 aspect ratio. In case if you want to record videos with wide screen focus then it is good to switch to 1080p resolution or to 720p level that provides 16:9 aspect ratio.</p>
-<p> The videos can be developed with high quality digital image stabilization and it works perfectly with snowboarding, bike riding and moving car like motion oriented scenes. Users can also introduce some impressive effects into their fast moving videos to get customized results. The photo resolutions of Polaroid Cube + can be switched between 3MP, 6MP and 8MP level as per need. The files are produced with JPG compression so file size usually vary with changing resolution level. You will be glad to use its self timer feature that can be adjusted to 3 seconds as well as 10 seconds for capturing any still image.</p>
-<h4 id="Recommend-best-video-editing-software-for-action-camera-users-2"><a href="#Recommend-best-video-editing-software-for-action-camera-users-2" class="headerlink" title="Recommend best video editing software for action camera users"></a><strong>Recommend best video editing software for action camera users</strong></h4><p> If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png"
-                      border="0"
-                > PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a></p>
-<!-- affiliate ads end -->
-<p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/download-btn-win.jpg"
-                      alt="Download Win Version"
-                ></a> <a class="link"   target="_blank" rel="noopener" href="https://images.wondershare.com/filmora/guide/download-btn-mac.jpg" >Download Mac Version <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>](<a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >https://tools.techidaily.com/wondershare/filmora/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</p>
-<h4 id="App-and-Wi-Fi-2"><a href="#App-and-Wi-Fi-2" class="headerlink" title="App and Wi-Fi:"></a><strong>App and Wi-Fi:</strong></h4><p> This camera does not contain any screen so users definitely need fast connectivity with smart phone screen so that footage can be viewed at the time of recording. This device comes with built in Wi-Fi facility so it is much easier to connect your action camera with Android as well as Apple devices. With this remote connectivity option you will be able to have wide variety of options for basic controls as well as for video shooting. The Cube+ application is designed to serve users with easy switching between physical buttons and software initiated controls. Users can easily change settings from remote location to adjust time lapse, photo modes and video modes.</p>
-<h4 id="Battery-Life-and-Memory-2"><a href="#Battery-Life-and-Memory-2" class="headerlink" title="Battery Life and Memory:"></a><strong>Battery Life and Memory:</strong></h4><p> If we talk about battery life of Polaroid Cube+ device then it will not give you much pleasure; with HD recording your camera can serve you only up to one hour. You have to connect it via USB port for charging and it takes about one hour to complete full charging. In case if you need a camera to shoot your full day shoots on adventurous trips then definitely this is not right choice because you cannot remove or replace its battery. With this fixed and limited power source it becomes difficult to get services for long hour usage.</p>
-<p> The camera can accept MicroSD card up to maximum capacity of 128GB and you can easily add MicroSDXC and MicroSDHC cards to this unit. As videos are heavily compressed with JPG type compression technology so, there is no need for any fixed MicroSD card speed limit. You will find the SD card slot at backside of your camera that is hidden below protective cover.</p>
-<h4 id="Conclusion-2"><a href="#Conclusion-2" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p> After observing all incredible features we can say that Polaroid Cube+ is a classic device for action camera seekers. It possesses variety of controls and advanced user friendly interface. Some people have reported negative results for its audio abilities and sometimes the controls also freeze up while switching between physical buttons and smart phone application. Professionals as well as beginners love its image quality and the intuitive controls that make everything much easier to access. This action camera falls in reasonable budget range but still offers all competing results. You can order your product from online stores as well as go to buy at local retail stores.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-3"><a href="#Max-Wales-3" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> Polaroid Cube+ is well known as Life Style Action Camera that assists users in efficient recording of all adventurous of life. Same as the original Cube, this device also inherits 1.4 inch cube shape but the imaging capabilities are much improved as compared to its predecessors. This device can provide 1440p resolution level at 30fps whereas 1080p can be captured at 60 fps. In case of 720p you will be able to manage frame rate of 120fps with slow motion recording abilities. Other than this, your Cube+ camera can capture images at 8MP and the advanced image stabilized feature is also added to this design. It can definitely make all your videos much smoother and impressive one.</p>
-<p> The built in type Wi-Fi connectivity offers easy synchronization with Android as well as iOS devices via Cube+ application. This application will provide you so many advanced editing and control options so that captured images and recorded videos can be easily saved, printed or shared on other platforms. All these advanced features make this device stand in top choice list of athletes and adventure sports lovers. No matter whether you are a professional or beginners with action camera series, Polaroid Cube+ will offer you intuitive controls with user friendly interface so that everything becomes much easier to manage.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png"
-                      border="0"
-                >Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg"
-                      alt="ploaroid-cube-plus-image"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check price at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e" >Check at Amazon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<h2 id="Complete-Review-of-Polaroid-Cube-3"><a href="#Complete-Review-of-Polaroid-Cube-3" class="headerlink" title="Complete Review of Polaroid Cube+"></a>Complete Review of Polaroid Cube+</h2><h4 id="Specs-table-3"><a href="#Specs-table-3" class="headerlink" title="Specs table:"></a><strong>Specs table:</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Item name</strong></th>
-<th>Polaroid Cube+</th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Manufacture</strong></td>
-<td>Polaroid (US)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>2015</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Price:</strong></td>
-<td>Official:$99.99</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Basic Specification</strong></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>60g only</td>
-<td><strong>Shape</strong></td>
-<td>Cube shaped model</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>Micro SD up to 128GB</td>
-<td><strong>Dimensions</strong></td>
-<td>35mm x 35mm</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>It can Record up to 107 minutes with 600MAH Built In Battery</td>
-<td><strong>Waterproof</strong></td>
-<td>No</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 8mp</td>
-<td><strong>Video resolution</strong></td>
-<td>1440p at 30 fps &#x2F; 1080p up to 60 fps</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No</td>
-<td><strong>Feature</strong></td>
-<td>Image stabilization, splash proof&#x2F;shock proof, weather resistant, Wifi and App supported</td>
-</tr>
-</tbody></table>
-<h4 id="Pros-and-Cons-3"><a href="#Pros-and-Cons-3" class="headerlink" title="Pros and Cons"></a><strong>Pros and Cons</strong></h4><table>
-<thead>
-<tr>
-<th><strong>Pros</strong></th>
-<th><strong>Cons</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>This device can support HD Resolutions</td>
-<td>Integrated battery that offers very short battery life</td>
-</tr>
-<tr>
-<td>Super small and lightweight design</td>
-<td>You have to compromise for Video and photo quality</td>
-</tr>
-<tr>
-<td>You have to compromise for Video and photo quality</td>
-<td>No screen available</td>
-</tr>
-</tbody></table>
-<h4 id="What-is-Inside-Box-3"><a href="#What-is-Inside-Box-3" class="headerlink" title="What is Inside Box?"></a><strong>What is Inside Box?</strong></h4><p> Following things will come out of your package:</p>
-<ol>
-<li>Lanyard</li>
-<li>Pendant Case</li>
-<li>8GB Polaroid type MicroSD memory card</li>
-<li>Micro USB cable</li>
-<li>Polaroid Cube+ Camera</li>
-<li>Instruction manual</li>
-</ol>
-<h4 id="Design-and-Accessories-3"><a href="#Design-and-Accessories-3" class="headerlink" title="Design and Accessories:"></a><strong>Design and Accessories:</strong></h4><p> This action camera comes with so many attractive accessories that can make your purchase worth useful. You will get a standard tripod mount of ¼-20 specification but the sad part is that it is made up of plastic material. All these mounts are designed with quick connect type clip system that assists users in easy connection and disconnection between mount and camera. This clip can be easily fixed with tripod socket of camera and then it perfectly slides over mount leading to a safe lock. If you want to mount this device on helmet or handlebars then you can take benefit from socket and ball mounts available with this device. You can also buy additional accessories from online stores to make your device more suitable for action photography. If you want to use this device under water then it is important to buy additional dedicated protective housing as it is not available inside your package. Also you can buy some additional mounts online to set up your camera at rough and difficult positions.</p>
-<h4 id="Video-and-Photo-3"><a href="#Video-and-Photo-3" class="headerlink" title="Video and Photo:"></a><strong>Video and Photo:</strong></h4><p> Top resolution level of this camera is listed up to 1440p that works with 30 fps frame rate. This device cannot record footage with 2560x1440 pixels that is known as wide screen type resolution but you will be limited to 1920x1440 pixel level. This resolution level serves with 4:3 aspect ratio. In case if you want to record videos with wide screen focus then it is good to switch to 1080p resolution or to 720p level that provides 16:9 aspect ratio.</p>
-<p> The videos can be developed with high quality digital image stabilization and it works perfectly with snowboarding, bike riding and moving car like motion oriented scenes. Users can also introduce some impressive effects into their fast moving videos to get customized results. The photo resolutions of Polaroid Cube + can be switched between 3MP, 6MP and 8MP level as per need. The files are produced with JPG compression so file size usually vary with changing resolution level. You will be glad to use its self timer feature that can be adjusted to 3 seconds as well as 10 seconds for capturing any still image.</p>
-<h4 id="Recommend-best-video-editing-software-for-action-camera-users-3"><a href="#Recommend-best-video-editing-software-for-action-camera-users-3" class="headerlink" title="Recommend best video editing software for action camera users"></a><strong>Recommend best video editing software for action camera users</strong></h4><p> If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.</p>
-<p><a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/download-btn-win.jpg"
-                      alt="Download Win Version"
-                ></a> <a class="link"   target="_blank" rel="noopener" href="https://images.wondershare.com/filmora/guide/download-btn-mac.jpg" >Download Mac Version <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>](<a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >https://tools.techidaily.com/wondershare/filmora/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)</p>
-<h4 id="App-and-Wi-Fi-3"><a href="#App-and-Wi-Fi-3" class="headerlink" title="App and Wi-Fi:"></a><strong>App and Wi-Fi:</strong></h4><p> This camera does not contain any screen so users definitely need fast connectivity with smart phone screen so that footage can be viewed at the time of recording. This device comes with built in Wi-Fi facility so it is much easier to connect your action camera with Android as well as Apple devices. With this remote connectivity option you will be able to have wide variety of options for basic controls as well as for video shooting. The Cube+ application is designed to serve users with easy switching between physical buttons and software initiated controls. Users can easily change settings from remote location to adjust time lapse, photo modes and video modes.</p>
-<h4 id="Battery-Life-and-Memory-3"><a href="#Battery-Life-and-Memory-3" class="headerlink" title="Battery Life and Memory:"></a><strong>Battery Life and Memory:</strong></h4><p> If we talk about battery life of Polaroid Cube+ device then it will not give you much pleasure; with HD recording your camera can serve you only up to one hour. You have to connect it via USB port for charging and it takes about one hour to complete full charging. In case if you need a camera to shoot your full day shoots on adventurous trips then definitely this is not right choice because you cannot remove or replace its battery. With this fixed and limited power source it becomes difficult to get services for long hour usage.</p>
-<p> The camera can accept MicroSD card up to maximum capacity of 128GB and you can easily add MicroSDXC and MicroSDHC cards to this unit. As videos are heavily compressed with JPG type compression technology so, there is no need for any fixed MicroSD card speed limit. You will find the SD card slot at backside of your camera that is hidden below protective cover.</p>
-<h4 id="Conclusion-3"><a href="#Conclusion-3" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p> After observing all incredible features we can say that Polaroid Cube+ is a classic device for action camera seekers. It possesses variety of controls and advanced user friendly interface. Some people have reported negative results for its audio abilities and sometimes the controls also freeze up while switching between physical buttons and smart phone application. Professionals as well as beginners love its image quality and the intuitive controls that make everything much easier to access. This action camera falls in reasonable budget range but still offers all competing results. You can order your product from online stores as well as go to buy at local retail stores.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/024-approved-quick-fixes-for-professional-looking-youtube-thumbnails/"><u>[New] 2024 Approved  Quick Fixes for Professional-Looking YouTube Thumbnails</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-2024-approved-top-webcam-recording-apps-in-windows-10-reviewed/"><u>[New] 2024 Approved  Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>[New] Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-actors-agreement-for-public-viewing/"><u>[New] Actors' Agreement for Public Viewing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-authoritative-insights-on-premium-auto-cam-tech/"><u>[New] Authoritative Insights on Premium Auto Cam Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>[New] Breaking the Myth of Color Standards  Z32X Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-brilliance-on-screen-an-examination-of-hps-4k-z32x/"><u>[New] Brilliance on Screen  An Examination of HP’s 4K Z32X</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/new-in-2024-discover-the-5-best-android-software-for-ps2-games/"><u>[New] In 2024, Discover the 5 Best Android Software for PS2 Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/new-the-complete-roadmap-to-feeding-your-youtube-plays-with-content/"><u>[New] The Complete Roadmap to Feeding Your YouTube Plays with Content</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/new-unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps/"><u>[New] Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/ed-2024-approved-content-creators-den/"><u>[Updated] 2024 Approved  Content Creator's Den</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/updated-2024-approved-voice-tactics-for-playstation-45-gamers/"><u>[Updated] 2024 Approved  Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/updated-a-guide-to-picking-top-quality-free-srt-translation-platforms/"><u>[Updated] A Guide to Picking Top-Quality, Free SRT Translation Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-the-world-in-hd-with-yis-4k-camera/"><u>[Updated] Capturing the World in HD with YI's 4K Camera</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinematic-beats-composing-music-for-imovie-projects/"><u>[Updated] Cinematic Beats  Composing Music for iMovie Projects</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-free-fires-voice-alteration-strategies/"><u>[Updated] Free Fire's Voice Alteration Strategies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/updated-in-2024-digging-into-the-data-top-10-twitvideos/"><u>[Updated] In 2024, Digging Into the Data  Top 10 TwitVideos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/updated-ultimate-list-of-win-11-hd-webcam-recording-kits-for-2024/"><u>[Updated] Ultimate List of Win 11 HD Webcam Recording Kits for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deeper-dive-into-the-game-five-easy-zooming-methods/"><u>2024 Approved  A Deeper Dive Into the Game  Five Easy Zooming Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-action-replay-gopro-hero5-black-meets-hero4-silver-edition/"><u>2024 Approved  Action Replay  GoPro Hero5 Black Meets Hero4 Silver Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bypass-spotifys-predicted-podcast-selections/"><u>2024 Approved  Bypass Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-covert-measures-for-efficient-home-based-learning/"><u>2024 Approved  Covert Measures for Efficient Home-Based Learning</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-immersive-experiences-with-audio-in-canva/"><u>2024 Approved  Crafting Immersive Experiences with Audio in Canva</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-microphones-ranked-perfect-companions-for-4k-cinematography/"><u>Best Microphones Ranked  Perfect Companions for 4K Cinematography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-panoramic-views-fisheye-techniques-for-2024/"><u>Capturing Panoramic Views  Fisheye Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chronological-clarity-in-your-photographic-work/"><u>Chronological Clarity in Your Photographic Work</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/clearing-the-list-of-auto-recommended-podcasts-in-spotify-for-2024/"><u>Clearing the List of Auto-Recommended Podcasts in Spotify for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/compose-chuckling-content-for-giphy-audience/"><u>Compose Chuckling Content for Giphy Audience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/comprehensive-tips-for-film-recording-on-multiple-platforms-for-2024/"><u>Comprehensive Tips for Film Recording on Multiple Platforms for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-freeaudmagic-a-thorough-examination-of-2024-tech/"><u>Decoding FreeAudMagic  A Thorough Examination of 2024 Tech</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-mini-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-rankings-top-10-apps-to-watch-football-and-volleyball-in-the-moment/"><u>Elite Rankings  Top 10 Apps to Watch Football & Volleyball in the Moment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-15-film-look-up-tables-for-gopro-videos/"><u>Essential 15 Film Look-Up Tables for GoPro Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://graphic-issues.techidaily.com/fixing-fuzzy-fonts-on-far-cry-6-screen/"><u>Fixing Fuzzy Fonts on Far Cry 6 Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-stills-to-songs-the-art-of-audio-visual-fusion/"><u>From Stills to Songs  The Art of Audio-Visual Fusion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/giggle-engineer-apocalyptic-comic-relief/"><u>Giggle Engineer  Apocalyptic Comic Relief</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo V29e | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Realme C67 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ignite-passion-a-selection-of-10-invigorating-films/"><u>Ignite Passion  A Selection of 10 Invigorating Films</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/improve-iphone-filmingphotography-premium-accessory-guide/"><u>Improve iPhone Filming/Photography  Premium Accessory Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-15-pro-max-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chucklechain-master-the-art-of-memes-at-home/"><u>In 2024, ChuckleChain  Master the Art of Memes at Home</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/in-2024-direct-pathway-streamlined-capturing-techniques-dell/"><u>In 2024, Direct Pathway  Streamlined Capturing Techniques (Dell)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/in-2024-highest-rated-panoramic-video-capture-systems/"><u>In 2024, Highest Rated Panoramic Video Capture Systems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/in-2024-the-art-of-aerial-cinematography-drone-editing-insights/"><u>In 2024, The Art of Aerial Cinematography  Drone Editing Insights</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/in-2024-top-8-cameras-unmatched-live-stream-quality/"><u>In 2024, Top 8 Cameras  Unmatched Live Stream Quality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/in-2024-unique-expression-modifying-voices-on-instagram-media-features/"><u>In 2024, Unique Expression  Modifying Voices on Instagram Media Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-cinematic-coloring-the-11-best-tutorials-ever/"><u>Mastering Cinematic Coloring  The 11 Best Tutorials Ever</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>Mastering StoryRemix for Windows 11  Enhancing Videos with Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigate-the-digital-world-prime-twitters-converters/"><u>Navigate the Digital World  Prime Twitters Converters</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/prime-18-webcam-recorders-your-ultimate-tech-companion-for-2024/"><u>Prime 18 Webcam Recorders  Your Ultimate Tech Companion for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Zero 30 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sdr-vs-hdr-choosing-the-best-for-professional-outputs/"><u>SDR vs HDR  Choosing the Best for Professional Outputs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/tailor-made-youtube-closings-how-to-get-them-right/"><u>Tailor-Made YouTube Closings  How to Get Them Right</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/the-ultimate-movie-companion-best-free-and-paid-iphone-apps/"><u>The Ultimate Movie Companion  Best Free and Paid iPhone Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-rankings-top-budget-friendly-photo-editors-online/"><u>The Ultimate Rankings  Top Budget-Friendly Photo Editors Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-14-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi 14</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/top-notch-chromebook-snapshot-tool/"><u>Top-Notch Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-trailer-highlight-hodgepodge/"><u>Ultimate Trailer Highlight Hodgepodge</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/unlock-a-million-eyes-engaging-content-strategy/"><u>Unlock a Million Eyes  Engaging Content Strategy</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-video-recordings.techidaily.com/unlock-youtubes-earnings-in-cp2024-guide/"><u>Unlock YouTube's Earnings in CP2024 Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-in-your-podcasts-xml-structure/"><u>Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/voice-vaults-acclaimed-transcription-apps-for-no-connectivity/"><u>Voice Vaults  Acclaimed Transcription Apps for No Connectivity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/voice-only-visionaries-vs-youtube-enthusiasts/"><u>Voice-Only Visionaries Vs. YouTube Enthusiasts</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;The Ultimate Test for a New Era of Action Cameras - Polaroid&#39;s Cam+&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:09:12</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:09:12
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/the-ultimate-test-for-a-new-era-of-action-cameras-polaroids-camplus/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/top-8-live-video-enhancers-for-online-broadcasts/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Top 8 Live Video Enhancers for Online Broadcasts</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/the-testimonial-toolkit-for-effective-promotion/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">The Testimonial Toolkit for Effective Promotion</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;The Ultimate Test for a New Era of Action Cameras - Polaroid&#39;s Cam+&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Ultimate-Test-for-a-New-Era-of-Action-Cameras-Polaroid%E2%80%99s-Cam"><span class="nav-text">The Ultimate Test for a New Era of Action Cameras - Polaroid’s Cam+</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Polaroid-Cube-Action-Camera-Review"><span class="nav-text">Polaroid Cube+ Action Camera Review</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Complete-Review-of-Polaroid-Cube"><span class="nav-text">Complete Review of Polaroid Cube+</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Complete-Review-of-Polaroid-Cube-1"><span class="nav-text">Complete Review of Polaroid Cube+</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Complete-Review-of-Polaroid-Cube-2"><span class="nav-text">Complete Review of Polaroid Cube+</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Complete-Review-of-Polaroid-Cube-3"><span class="nav-text">Complete Review of Polaroid Cube+</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

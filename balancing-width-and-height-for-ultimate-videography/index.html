@@ -600,15 +600,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -630,418 +630,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea27a15b8c369fc3e51785f1d6.jpg" alt="Balancing Width and Height for Ultimate Videography" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Balancing Width and Height for Ultimate Videography</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:30:14</span>
-        <span class="mobile">2024-07-27 09:30:14</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:30:14</span>
-            <span class="mobile">2024-07-28 09:30:14</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Balancing-Width-and-Height-for-Ultimate-Videography"><a href="#Balancing-Width-and-Height-for-Ultimate-Videography" class="headerlink" title="Balancing Width and Height for Ultimate Videography"></a>Balancing Width and Height for Ultimate Videography</h2><p>Video aspect ratios are changing depending on which platform you are using. Knowing the characteristics about aspect ratios is crucial to accomplish the ideal visual appeal across any platform.</p>
-<p>If you want to learn more about video aspect ratios, how to apply them to different social media platforms, then you are in the right place! This article will explain what a video aspect ratio is, it includes common video aspect ratios you see nowadays, and includes recommended aspect ratios for video on various social media platforms.</p>
-<p>With that said, let’s dive right into it!</p>
-<h2 id="1-What-is-a-video-aspect-ratio"><a href="#1-What-is-a-video-aspect-ratio" class="headerlink" title="1. What is a video aspect ratio?"></a>1. What is a video aspect ratio?</h2><p>Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16. 9 refers to the width and 16 to the height.</p>
-<h2 id="2-Commonly-used-aspect-ratios"><a href="#2-Commonly-used-aspect-ratios" class="headerlink" title="2. Commonly used aspect ratios"></a>2. Commonly used aspect ratios</h2><p>There is no same aspect ratio that is used across all social media platforms. Depending on which social media platform you are planning to upload, you have to make sure you have the correct aspect ratio for your target audience. The optimal viewing experience is what matters.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="16-9-Widescreen"><a href="#16-9-Widescreen" class="headerlink" title="16:9 Widescreen"></a>16:9 Widescreen</h3><p>This aspect ratio is recognized as the worldwide reference format for film, mobile devides, DSLR cameras, streaming platforms, social media platforms, and many more. It is known as landscape viewing which include 720p, 1080p HD and 4K resolution.</p>
-<h3 id="4-3-Standard"><a href="#4-3-Standard" class="headerlink" title="4:3 Standard"></a>4:3 Standard</h3><p>This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="9-16-Vertical"><a href="#9-16-Vertical" class="headerlink" title="9:16 Vertical"></a>9:16 Vertical</h3><p>The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.</p>
-<h3 id="21-9-Cinematic-Widescreen"><a href="#21-9-Cinematic-Widescreen" class="headerlink" title="21:9 Cinematic Widescreen"></a>21:9 Cinematic Widescreen</h3><p>The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It’s mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.</p>
-<h2 id="3-Which-aspect-ratio-should-I-choose"><a href="#3-Which-aspect-ratio-should-I-choose" class="headerlink" title="3. Which aspect ratio should I choose?"></a>3. Which aspect ratio should I choose?</h2><p>Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19576-2086436"
-                      border="0" alt="" width="1500" height="400"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2086436/19576"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Facebook"><a href="#Facebook" class="headerlink" title="Facebook"></a>Facebook</h3><p>Facebook is one of the most used website across the world on both computer and the mobile app. This is a great platform to let people discover your content. In order to please new viewers, let’s look at the resolutions Facebook supports and which one would be your best option depending on your content.</p>
-<p>4:3 or 1:1 for Facebook feed videos</p>
-<p>16:9 for in-stream ads on Facebook</p>
-<p>9:16 for Facebook live videos</p>
-<p>9:16 for Facebook stories</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="YouTube"><a href="#YouTube" class="headerlink" title="YouTube"></a>YouTube</h3><p>To this day, it’s safe to say that YouTube is the leading platform in the video industry. Not only because of how long they have been around, but also about how much content is uploaded every minute and how many users it has each month. To give the viewers the best experience, here are the top aspect ratios we recommend when posting content onto your YouTube channel.</p>
-<p>16:9 for YouTube live streams</p>
-<p>9:16 for YouTube Shorts</p>
-<p>16:9 for regular HD videos</p>
-<p>21:9 for cinematic videos&#x2F;shortfilms</p>
-<h3 id="Instagram"><a href="#Instagram" class="headerlink" title="Instagram"></a>Instagram</h3><p>When talking about Instagram, which is very similar to Facebook, use these aspect ratios to ensure that your quality will be the best of the best.</p>
-<p>9:16 for Instagram Reels</p>
-<p>4:3 for Instagram feed advertisements</p>
-<p>9:16 for Instagram Story advertisements</p>
-<p>9:16 for Instagram Stories</p>
-<p>4:3 or 1:1 for Instagram feed videos</p>
-<p>9:16 for Instagram Live streams</p>
-<p>9:16 for IGTV</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17092-2042332"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042332/17092"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="TikTok"><a href="#TikTok" class="headerlink" title="TikTok"></a>TikTok</h3><p>Before Musical.ly users were migrated to a new platform called TikTok in 2018, it has been the leader on the board for a long time, and here are the recommended resolutions we think give the best results. Tik Tok allows you to share short videos, and is used by young people as an outlet to show their talents whether it’s dancing, singing, cooking, comedy or any other form of entertainment they can express and use on the platform. There’s also a feature to work together and collaborate with other Tik Tok creators across the globe.</p>
-<p>16:9 for organic Tik Tok feed videos</p>
-<p>16:9 for Tik Tok live videos</p>
-<p>1:1; 16:9 or 9:16 for TikTok advertisements</p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803116"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803116/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="4-How-to-adjust-the-aspect-ratio-of-a-video"><a href="#4-How-to-adjust-the-aspect-ratio-of-a-video" class="headerlink" title="4. How to adjust the aspect ratio of a video?"></a>4. How to adjust the aspect ratio of a video?</h2><p>A very important point we’d like to mention is that we don’t recommend changing the aspect ratio after filming, because it could harm the video quality and we think it’s best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.</p>
-<h3 id="Black-bars"><a href="#Black-bars" class="headerlink" title="Black bars"></a>Black bars</h3><p>When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won’t automatically make the platform adjust the video and it will affect the viewer experience.</p>
-<h3 id="Cropping"><a href="#Cropping" class="headerlink" title="Cropping"></a>Cropping</h3><p>Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17882-1611407"
-                      border="0" alt="" width="300" height="485"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1611407/17882"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Having your video tested on multiple devices will allow you to see a preview of what the viewer will see and make necessary changes if needed. When your video looks perfect, you can be sure that it will give a seamless experience across all platforms, without the fear of losing video quality.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-</article
+  &.show-toc
+    gap 30px
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/new-2024-approved-hunt-for-impactful-personalities-navigating-influencer-spaces/"><u>[New] 2024 Approved  Hunt for Impactful Personalities  Navigating Influencer Spaces</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/new-2024-approved-simple-tips-for-capturing-google-voice-conversations/"><u>[New] 2024 Approved  Simple Tips for Capturing Google Voice Conversations</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-exploring-copyright-policy-instantaneous-removal-of-personal-videos-for-2024/"><u>[New] Exploring Copyright Policy  Instantaneous Removal of Personal Videos for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-professional-edge-in-instagram-videos-with-green-screen-tech-for-2024/"><u>[New] Professional Edge in Instagram Videos with Green Screen Tech for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/new-real-time-streaming-vs-recorded-videos-twitch-vs-youtube-showdown/"><u>[New] Real-Time Streaming vs Recorded Videos  Twitch vs YouTube Showdown</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>[Updated] Capture Heights with DJI Spark  The Small Drone Selfie Powerhouse</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/updated-in-2024-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>[Updated] In 2024, Panoramic Precision Battle  Gear Vs LGCam Showdown</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/updated-leading-360-degree-pro-cams-2023-edition-review-for-2024/"><u>[Updated] Leading 360-Degree Pro Cams  2023 Edition Review for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/11-innovative-metaverse-projects-for-insightful-analysis/"><u>11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-accuracy-and-artistry-in-altered-image-tones/"><u>2024 Approved  Achieving Accuracy and Artistry in Altered Image Tones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-banishing-vibration-effects-in-uav-videos/"><u>2024 Approved  Banishing Vibration Effects in UAV Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-stream-modifiers-for-flawless-webcam-videos/"><u>2024 Approved  Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/2024-approved-icicle-impressions-2022s-olympic-skaters/"><u>2024 Approved  Icicle Impressions  2022'S Olympic Skaters</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/2024-approved-leveraging-hdtv-for-fb-videos-playback/"><u>2024 Approved  Leveraging HDTV for FB Videos Playback</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/2024-approved-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>2024 Approved  Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/activate-windows-xp-movie-creation-toolkit/"><u>Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/avoid-payment-secure-your-free-fcp-copy/"><u>Avoid Payment  Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-bargains-in-the-market-6-leading-4k-projectors/"><u>Best Bargains in the Market  6 Leading 4K Projectors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/connect-and-conquer-metagames-top-friendly-games-for-2024/"><u>Connect and Conquer  Metagame's Top Friendly Games for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-airborne-prototype-scrutiny/"><u>DJI Airborne Prototype Scrutiny</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/fast-cash-on-reddit-check-out-these-top-13-skillless-strategies/"><u>Fast Cash on Reddit? Check Out These Top 13 Skillless Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fine-tuning-virtual-presence-in-ms-teams/"><u>Fine-Tuning Virtual Presence in MS Teams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-narzo-60x-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme Narzo 60x 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-acid-pro-alternatives-a-comprehensive-guide/"><u>In 2024, ACID Pro Alternatives  A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-assemble-your-own-google-vr-viewing-device/"><u>In 2024, Assemble Your Own Google VR Viewing Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-automatic-high-quality-imaging-the-role-of-auto-and-smart-hdr-3-and-4/"><u>In 2024, Automatic High-Quality Imaging  The Role of Auto and Smart HDR 3 & 4</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a18-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A18</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/in-2024-timeless-clip-creator-program/"><u>In 2024, Timeless Clip Creator Program</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-use-and-maintenance-of-m1-max-clips/"><u>Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-excellent-church-streaming-services/"><u>Navigating the Excellent Church Streaming Services</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-payment-necessary-download-farewell-soundtracks/"><u>No Payment Necessary  Download Farewell Soundtracks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-cost-nature-inspired-screen-images/"><u>No-Cost, Nature Inspired Screen Images</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/nvidias-shift-to-rtx-need-an-rtx-upgrade/"><u>Nvidia's Shift to RTX: Need an RTX Upgrade?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-zoom-for-your-videos-top-10-editor-guide/"><u>Optimal Zoom for Your Videos - Top 10 Editor Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-playwriting-for-podcasts-and-radios/"><u>Premier Playwriting for Podcasts & Radios</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-pick-extensive-digital-vaults/"><u>Prime Pick  Extensive Digital Vaults</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/simplify-and-beautify-your-w11-desktop-with-ease/"><u>Simplify & Beautify Your W11 Desktop with Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>Singing Alerts  Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>Sizzling Skills  7 Keys for Scrumptious Video Cooking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-transition-subbed-content-conversion-strategies/"><u>SRT Transition  Subbed Content Conversion Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/syncing-songs-safely-with-insta-rules/"><u>Syncing Songs Safely with Insta Rules</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>The Sky's Playground  Discovering the Husqvarna X4 FPV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-drone-racing-headset-compilation/"><u>The Ultimate Drone Racing Headset Compilation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/twisting-images-expert-tips-on-photo-manipulation/"><u>Twisting Images  Expert Tips on Photo Manipulation</u></a></li>
-</ul></div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        </div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Balancing Width and Height for Ultimate Videography</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:30:14</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:30:14
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/balancing-width-and-height-for-ultimate-videography/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-            </div>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
+    .article-content-container
+      width 100% !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/blending-realms-a-guide-to-photomosaic-creation/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Blending Realms  A Guide to PhotoMosaic Creation&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Backtracking Live on Twitch  Fifteen Ingenious Ways to Revamp Streams&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    &.show-toc
+      .toc-content-container
+        display none
 
+      .article-content-container
+        width 100% !important
 
-        
-    </div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Balancing Width and Height for Ultimate Videography</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Balancing-Width-and-Height-for-Ultimate-Videography"><span class="nav-text">Balancing Width and Height for Ultimate Videography</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-What-is-a-video-aspect-ratio"><span class="nav-text">1. What is a video aspect ratio?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-Commonly-used-aspect-ratios"><span class="nav-text">2. Commonly used aspect ratios</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#16-9-Widescreen"><span class="nav-text">16:9 Widescreen</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-3-Standard"><span class="nav-text">4:3 Standard</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-16-Vertical"><span class="nav-text">9:16 Vertical</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#21-9-Cinematic-Widescreen"><span class="nav-text">21:9 Cinematic Widescreen</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#3-Which-aspect-ratio-should-I-choose"><span class="nav-text">3. Which aspect ratio should I choose?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Facebook"><span class="nav-text">Facebook</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#YouTube"><span class="nav-text">YouTube</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Instagram"><span class="nav-text">Instagram</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#TikTok"><span class="nav-text">TikTok</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#4-How-to-adjust-the-aspect-ratio-of-a-video"><span class="nav-text">4. How to adjust the aspect ratio of a video?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Black-bars"><span class="nav-text">Black bars</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Cropping"><span class="nav-text">Cropping</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol></li></ol>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-    </div>
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
-        </div>
-    
-</div>
+    .article-header, .article-header-meta-info
+      margin-top 16px
 
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

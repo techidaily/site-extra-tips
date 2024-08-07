@@ -628,15 +628,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -658,642 +658,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/qx60cS4CmTRezctL0-71-tWrmCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MountainLionInstall-570abf063df78c7d9edd5072.jpg" alt="&#34;[Updated] A Nostalgic Journey Through Time with Stop-Motion Classics&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;[Updated] A Nostalgic Journey Through Time with Stop-Motion Classics&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 08:41:30</span>
-        <span class="mobile">2024-07-27 08:41:30</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 08:41:30</span>
-            <span class="mobile">2024-07-28 08:41:30</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="A-Nostalgic-Journey-Through-Time-with-Stop-Motion-Classics"><a href="#A-Nostalgic-Journey-Through-Time-with-Stop-Motion-Classics" class="headerlink" title="A Nostalgic Journey Through Time with Stop-Motion Classics"></a>A Nostalgic Journey Through Time with Stop-Motion Classics</h2><p>Stop motion is considered to be a filmmaking technique used in animated films. The objects are physically manipulated frame by frame to exhibit independent motion. In this way, the illusion of fluid movement is maintained. Therefore, the article presented 15 film stop motion and their important information.</p>
-<p>Let us look at some of the best stop motion films in the industry. So, let us begin this!</p>
-<h2 id="Part-1-15-Best-Stop-Motion-Films-of-All-Time"><a href="#Part-1-15-Best-Stop-Motion-Films-of-All-Time" class="headerlink" title="Part 1: 15 Best Stop Motion Films of All Time"></a>Part 1: 15 Best Stop Motion Films of All Time</h2><p>Stop motion films are famous in the animated genre of the creative industry. For this very reason, the sub-section shall reflect upon 15 first stop motion films with their famous quotes, names of directors, and the release date. Time to start!</p>
-<h3 id="1-Consuming-Spirits"><a href="#1-Consuming-Spirits" class="headerlink" title="1. Consuming Spirits"></a>1. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt2253947/" >Consuming Spirits <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Consuming Spirits</p>
-<p>Release Date: 2012</p>
-<p>Director: Chris Sullivan</p>
-<p>Quote: “I do not suggest using ashes as fertilizer – these bitter urns of charred memories soak into the soil and leave a blackened taste on the lips.”</p>
-<p>Consuming Spirits is an animated movie about three residents who lead interconnected life. Robert, Nancy, and Chris are from a Rust Belt town.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg"
-                      alt="consuming spirits"
-                ></p>
-<h3 id="2-Coraline"><a href="#2-Coraline" class="headerlink" title="2. Coraline"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0327597/" >Coraline <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Coraline</p>
-<p>Release Date: 2009</p>
-<p>Director: Henry Selick</p>
-<p>Quote: “When you’re scared, but you still do it anyway, that’s brave.”</p>
-<p>Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17190-1725213"
-                      border="0" alt="" width="1000" height="1000"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1725213/17190"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg"
-                      alt="coraline"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15391-1455723"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1455723/15391"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="3-Fantastic-Mr-Fox"><a href="#3-Fantastic-Mr-Fox" class="headerlink" title="3. Fantastic Mr. Fox"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0432283/" >Fantastic Mr. Fox <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Fantastic Mr. Fox</p>
-<p>Release Date: 2009</p>
-<p>Director: Wes Anderson</p>
-<p>Quote: “You are, without a doubt, the five and a half most wonderful wild animals I have ever met in my life.”</p>
-<p>Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into his animal instincts and starts stealing. However, some farmers trap him as the story progresses.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg"
-                      alt="fantastic mr.fox"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075475"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075475/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="4-Wallace-Gromit-The-Curse-of-the-Were-Rabbit"><a href="#4-Wallace-Gromit-The-Curse-of-the-Were-Rabbit" class="headerlink" title="4. Wallace &amp; Gromit: The Curse of the Were-Rabbit"></a>4. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0312004/" >Wallace &amp; Gromit: The Curse of the Were-Rabbit <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Wallace &amp; Gromit: The Curse of the Were-Rabbit</p>
-<p>Release Date: 2005</p>
-<p>Director: Steve Box and Nick Park</p>
-<p>Quote: “I’m sorry, Gromit—I know you’re doing this for my good, but the fact is I’m just crackers about cheese.”</p>
-<p>The famous animated stop motion film is about Lady Tottington and Wallace, who go on a mission to rescue their village from a beast destroying the plots.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg"
-                      alt="wellace &amp; gromit in the curse of the were-rabbit"
-                ></p>
-<h3 id="5-Early-Man"><a href="#5-Early-Man" class="headerlink" title="5. Early Man"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt4701724/" >Early Man <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Early Man</p>
-<p>Release Date: 2018</p>
-<p>Director: Nick Park</p>
-<p>Quote: “The age of stone is over. Long live the age of bronze.”</p>
-<p>Early Man is yet another stop motion film that got considerable fame. The story is about Lord Nooth, who wishes to turn the land into a mine for his selfish gains. Dug and his sidekick has to fight against him.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg"
-                      alt="early man"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/3022-398453"
-                      border="0" alt="www.sentrypc.com" width="580" height="400"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/398453/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="6-Kubo-and-Two-Strings"><a href="#6-Kubo-and-Two-Strings" class="headerlink" title="6. Kubo and Two Strings"></a>6. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt4302938/" >Kubo and Two Strings <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Kubo and Two Strings</p>
-<p>Release Date: 2016</p>
-<p>Director: Travis Knight</p>
-<p>Quote: “If you must blink, do it now.”</p>
-<p>Kubo and Two Strings is one of the best stop motion films. The movie is about Kubo and his two strings, Monkey and Beetle. All three of them are expected to find a legendary suit of armor to defeat an evil spirit.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15155-1246754"
-                      border="0" alt="" width="600" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1246754/15155"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg"
-                      alt="kubo and two strings"
-                ></p>
-<h3 id="7-My-Life-as-a-Zucchini"><a href="#7-My-Life-as-a-Zucchini" class="headerlink" title="7. My Life as a Zucchini"></a>7. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt2321405/" >My Life as a Zucchini <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: My Life as a Zucchini</p>
-<p>Release Date: 2016</p>
-<p>Director: Claude Barras</p>
-<p>Quote: “We are all the same. There is nobody left to love us.”</p>
-<p>My Life as a Zucchini is about an orphan who is sent to the orphanage where he learns how to make friends and trust.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg"
-                      alt="my life as a zucchini"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="8-Corpse-Bride"><a href="#8-Corpse-Bride" class="headerlink" title="8. Corpse Bride"></a>8. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0121164/" >Corpse Bride <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Corpse Bride</p>
-<p>Release Date: 2005</p>
-<p>Director: Mike Johnson, Tim Burton</p>
-<p>Quote: “I was a bride. My dreams were taken from me. But now I’ve stolen them from someone else. I love you, Victor, but you are not mine.”</p>
-<p>Corpse Bride is one of the best stop motion films in the industry. The story is about Victor practicing his wedding vows in the forest where he accidentally marries skeleton-shaped Emily.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg"
-                      alt="corpse bride"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18134-1692242"
-                      border="0" alt="" width="834" height="592"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1692242/18134"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="9-Chicken-Run"><a href="#9-Chicken-Run" class="headerlink" title="9. Chicken Run"></a>9. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0120630/" >Chicken Run <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Chicken Run</p>
-<p>Release Date: 2000</p>
-<p>Director: Peter Lord, Nick Park</p>
-<p>Quote: “The most important thing is, we have to work as a team, which means you do everything I tell you.”</p>
-<p>Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They decide to run from the chicken farm when they find out their owner is trying to kill them.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/12108-1678785"
-                      border="0" alt="" width="300" height="250"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg"
-                      alt="chicken run"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/23719-1988416"
-                      border="0" alt="" width="600" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1988416/23719"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="10-Mary-and-Max"><a href="#10-Mary-and-Max" class="headerlink" title="10. Mary and Max"></a>10. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0978762/" >Mary and Max <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: Mary and Max</p>
-<p>Release Date: 2009</p>
-<p>Director: Adam Elliot</p>
-<p>Quote: “The reason I forgive you is that you are not perfect. You are imperfect. And so am I. All humans are imperfect.”</p>
-<p>Mary and Max is a story about two unlikely people who befriended each other in a long-distance relationship through letters. Mary is an 8-year old lonely girl, and Max is a 44-year old obese man.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg"
-                      border="0"
-                >Greeting Card Builder</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg"
-                      alt="mary and max"
-                ></p>
-<h3 id="11-ParaNorman"><a href="#11-ParaNorman" class="headerlink" title="11. ParaNorman"></a>11. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt1623288/" >ParaNorman <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: ParaNorman</p>
-<p>Release Date: 2012</p>
-<p>Director: Chris Butler, Sam Fell</p>
-<p>Quote: “You can’t stop bullying - it’s part of human nature. If you were bigger and more stupid, you’d probably be a bully too. It’s called “survival of the thickest.”</p>
-<p>ParaNorman is a film stop motion with a fun supernatural story. Norman had a unique ability to talk to ghosts, and he was expected to save the town from a curse.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg"
-                      alt="paranorman"
-                ></p>
-<!-- affiliate ads begin -->
-<span id="1993650">
-                    <video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:720px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1993650/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
+  &.show-toc
+    gap 30px
 
-<p>Movie Name: Missing Link</p>
-<p>Release Date: 2019</p>
-<p>Director: Chris Butler</p>
-<p>Quote: “These men do not like you; they do not respect you; they do not believe the things that you believe.”</p>
-<p>As the best stop motion film, Missing Link is about Mr.Link, who hired a private investigator of myths and monsters to find his missing relatives.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18460-2006123"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2006123/18460"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg"
-                      alt="missing link"
-                ></p>
-<h3 id="13-The-Pirates-In-An-Adventure-With-Scientists"><a href="#13-The-Pirates-In-An-Adventure-With-Scientists" class="headerlink" title="13. The Pirates! In An Adventure With Scientists"></a>13. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt1430626/" >The Pirates! In An Adventure With Scientists <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: The Pirates! In An Adventure With Scientists</p>
-<p>Release Date: 2012</p>
-<p>Director: Peter Lord</p>
-<p>Quote: “Don’t look so worried. I’ve sailed the seven seas, and I’ve never had an unsuccessful adventure yet!”</p>
-<p>The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain and his crew who want to win the Pirate of the Year Award. They have to travel to the Victorian land and pillage the booty.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg"
-                      alt="the pirates in an adventure with scientists"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png"
-                      border="0"
-                ><br>WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)–Yearly</a></p>
-<!-- affiliate ads end -->
-<h3 id="14-The-Boxtrolls"><a href="#14-The-Boxtrolls" class="headerlink" title="14. The Boxtrolls"></a>14. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0787474/" >The Boxtrolls <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: The Boxtrolls</p>
-<p>Release Date: 2014</p>
-<p>Director: Graham Annable, Anthony Stacchi</p>
-<p>Quote: “Where are the rivers of blood, and the mountains of bones? I was promised rivers of blood!”</p>
-<p>The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend each other for a cause. They were expected to save the Boxtrolls from the evil eyes of the exterminator.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg"
-                      alt="the boxtrolls"
-                ></p>
-<h3 id="15-The-LEGO"><a href="#15-The-LEGO" class="headerlink" title="15. The LEGO"></a>15. <a class="link"   target="_blank" rel="noopener" href="https://www.imdb.com/title/tt1490017/" >The LEGO <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Movie Name: The LEGO</p>
-<p>Release Date: 2014</p>
-<p>Director: Phil Lord and Christopher Miller</p>
-<p>Quote: “You don’t have to be the bad guy. You are the most talented, interesting, and extraordinary person in the universe. And you are capable of amazing things.”</p>
-<p>The LEGO movie is about a LEGO construction worker recruited to stop an evil tyrant from destroying the world of LEGO. Emmet is a lead character in this best stop motion film.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-15.jpg"
-                      alt="the lego"
-                ></p>
-<h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>The creative industry needs to offer strong animation to bring the audience on the verge of their seats. The objects are often manipulated by the use of film stop motion techniques. You can review around 15 such movies to inspire and bring innovation to the lot.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-high-quality-recordings-with-these-5-windows-11-tips/"><u>[New] Achieve High-Quality Recordings with These 5 Windows 11 Tips</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/new-best-virtual-reality-bike-adventures-listed-here/"><u>[New] Best Virtual Reality Bike Adventures Listed Here</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-dominate-youtube-traffic-with-proficient-use-of-creator-studio-for-2024/"><u>[New] Dominate YouTube Traffic with Proficient Use of Creator Studio for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/new-fb-hd-stream-to-local-storage-for-2024/"><u>[New] FB HD Stream to Local Storage for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-pitch-perfect-a-handbook-to-modifying-sound-on-ig-media-for-2024/"><u>[New] Pitch Perfect  A Handbook to Modifying Sound on IG Media for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-excellent-facial-editors-for-smartphones/"><u>[Updated] 10 Excellent Facial Editors for Smartphones</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screen-commanders-face-off/"><u>[Updated] 2024 Approved  Screen Commanders Face-Off</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-approaches-to-non-audio-recording/"><u>[Updated] 2024 Approved  Top Approaches to Non-Audio Recording</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/updated-how-to-broadcast-vlogs-on-twitter-using-mobile-devices-for-2024/"><u>[Updated] How to Broadcast Vlogs on Twitter Using Mobile Devices for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-incor-written-by-sarah-johnson/"><u>2024 Approved  Advanced Techniques for Incor Written By  Sarah Johnson</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-and-paid-drawing-apps-for-android-os/"><u>2024 Approved  Best Free and Paid Drawing Apps for Android OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-a-masterpiece-techniques-for-engaging-viral-tiktok-unpacks/"><u>2024 Approved  Craft a Masterpiece  Techniques for Engaging, Viral TikTok Unpacks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-visual-magic-the-power-of-luts-in-ar-environments/"><u>2024 Approved  Crafting Visual Magic  The Power of LUTs in AR Environments</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/2024-approved-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>2024 Approved  Learn to Record, Save, & Share YouTube Content  A Cost-Free Approach</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/2024-approved-soft-shadows-on-smiles-introducing-motion-blur-to-faces-in-photos-with-picsart/"><u>2024 Approved  Soft Shadows on Smiles  Introducing Motion Blur to Faces in Photos with Picsart</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/7-reasons-why-you-should-learn-afrikaans-with-mondly/"><u>7 Reasons Why You Should Learn Afrikaans With Mondly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-epic-live-gaming-stations-unlocked/"><u>9 Epic Live Gaming Stations Unlocked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audience-enhancement-with-audition-fades-for-2024/"><u>Audience Enhancement with Audition Fades for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/decoding-digital-dazzle-an-initial-journey-into-video-standards/"><u>Decoding Digital Dazzle  An Initial Journey Into Video Standards</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/elevate-your-mac-experience-leading-speech-to-text-software-reviewed/"><u>Elevate Your Mac Experience  Leading Speech-to-Text Software Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-reversed-color-effects-in-pictures/"><u>Expert Tips  Reversed Color Effects in Pictures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-new-horizons-with-iphone-xs-camera-tech/"><u>Exploring New Horizons with iPhone X's Camera Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>From Zip to Sub  Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-hot-40i-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Hot 40i Phone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-7-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 7 to Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-lightroom-app-a-complete-evaluation/"><u>In 2024, Android's Lightroom App  A Complete Evaluation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-becoming-a-visionary-in-the-field-of-lut-artistry/"><u>In 2024, Becoming a Visionary in the Field of LUT Artistry</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-color-grading-mastery-utilizing-cg-centrals-standardized-looks/"><u>In 2024, Color Grading Mastery  Utilizing CG Central's Standardized Looks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A54 5G Phone? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/in-2024-ideal-set-17-software-solutions-for-clear-picture-edits/"><u>In 2024, Ideal Set  17 Software Solutions for Clear Picture Edits</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/insightful-evaluation-androids-photography-tool-lightroom/"><u>Insightful Evaluation  Android's Photography Tool, Lightroom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-video-mastery-from-fast-to-extremely-slow-motion-content/"><u>IPhone Video Mastery  From Fast to Extremely Slow Motion Content</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/new-2024-approved-mts-video-editing-software-review-top-5-contenders/"><u>New 2024 Approved MTS Video Editing Software Review Top 5 Contenders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-playlists-10-music-selections-to-open-your-podcast/"><u>Perfect Playlists  10 Music Selections to Open Your Podcast</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/photoshop-color-adjustments-for-beginners/"><u>Photoshop Color Adjustments for Beginners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>Pivotal Video Moments  Secrets to Stellar Text Enhancements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/proiphone-techniques-capturing-perfect-close-up-and-macro-shots/"><u>Proiphone Techniques  Capturing Perfect Close-Up and Macro Shots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sparkle-with-style-animating-text-in-your-insta-stories/"><u>Sparkle with Style  Animating Text in Your Insta Stories</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/step-by-step-guide-for-using-zoom-via-gmail/"><u>Step-by-Step Guide for Using Zoom via Gmail</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-s24plus-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy S24+ Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-premium-free-srt-translation-websites-for-business-use/"><u>Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor Magic Vs 2? | Dr.fone</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;[Updated] A Nostalgic Journey Through Time with Stop-Motion Classics&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 08:41:30</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 08:41:30
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/updated-a-nostalgic-journey-through-time-with-stop-motion-classics/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/updated-a-step-by-step-guide-to-perfect-voice-recording/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[Updated] A Step-by-Step Guide to Perfect Voice Recording&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/in-2024-a-step-by-step-approach-to-boosting-your-podcasts-seo/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;In 2024, A Step-by-Step Approach to Boosting Your Podcast&#39;s SEO&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;[Updated] A Nostalgic Journey Through Time with Stop-Motion Classics&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#A-Nostalgic-Journey-Through-Time-with-Stop-Motion-Classics"><span class="nav-text">A Nostalgic Journey Through Time with Stop-Motion Classics</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-15-Best-Stop-Motion-Films-of-All-Time"><span class="nav-text">Part 1: 15 Best Stop Motion Films of All Time</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Consuming-Spirits"><span class="nav-text">1. Consuming Spirits </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Coraline"><span class="nav-text">2. Coraline </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Fantastic-Mr-Fox"><span class="nav-text">3. Fantastic Mr. Fox </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Wallace-Gromit-The-Curse-of-the-Were-Rabbit"><span class="nav-text">4. Wallace &amp; Gromit: The Curse of the Were-Rabbit </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Early-Man"><span class="nav-text">5. Early Man </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Kubo-and-Two-Strings"><span class="nav-text">6. Kubo and Two Strings </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-My-Life-as-a-Zucchini"><span class="nav-text">7. My Life as a Zucchini </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-Corpse-Bride"><span class="nav-text">8. Corpse Bride </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-Chicken-Run"><span class="nav-text">9. Chicken Run </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-Mary-and-Max"><span class="nav-text">10. Mary and Max </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#11-ParaNorman"><span class="nav-text">11. ParaNorman </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#13-The-Pirates-In-An-Adventure-With-Scientists"><span class="nav-text">13. The Pirates! In An Adventure With Scientists </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#14-The-Boxtrolls"><span class="nav-text">14. The Boxtrolls </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#15-The-LEGO"><span class="nav-text">15. The LEGO </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

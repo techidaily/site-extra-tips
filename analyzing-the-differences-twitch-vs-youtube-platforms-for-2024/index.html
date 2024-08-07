@@ -615,15 +615,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -645,509 +645,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/GMODQIsI915ixpaiTofmagG7Ki0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/original-pixel-fold-9fd8926119f846c9bc51c701453dd6c2.png" alt="&#34;Analyzing the Differences  Twitch vs YouTube Platforms for 2024&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Analyzing the Differences  Twitch vs YouTube Platforms for 2024&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:26:34</span>
-        <span class="mobile">2024-07-27 09:26:34</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:26:34</span>
-            <span class="mobile">2024-07-28 09:26:34</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Analyzing-the-Differences-Twitch-vs-YouTube-Platforms"><a href="#Analyzing-the-Differences-Twitch-vs-YouTube-Platforms" class="headerlink" title="Analyzing the Differences: Twitch vs YouTube Platforms"></a>Analyzing the Differences: Twitch vs YouTube Platforms</h2><p>In recent years, the popularity of streaming content has exploded. This is due to the launch of platforms like Twitch and Youtube, which have made it easier for content creators&#x2F;streamers to reach a wide audience. But how do these two platforms differ?</p>
-<p>In this article, we’ll take a comprehensive look at <strong>Twitch vs. Youtube</strong> by comparing their browsing, content rule leniency, growth, and monetization. By the end, you’ll have a good understanding of which platform is right for you.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg"
-                      border="0"
-                >vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/twitch-vs-youtube.jpg"
-                      alt="twitch vs youtube"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15852-1526796"
-                      border="0" alt="" width="1200" height="628"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1526796/15852"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-The-Key-Differences-Between-Twitch-and-YouTube"><a href="#Part-1-The-Key-Differences-Between-Twitch-and-YouTube" class="headerlink" title="Part 1. The Key Differences Between Twitch and YouTube"></a>Part 1. The Key Differences Between Twitch and YouTube</h2><p>Though Twitch and YouTube share some similarities, there are also some key differences between the two:</p>
-<p><strong>Browsing:</strong> Twitch and YouTube are search engines, but they differ in how they recommend videos to viewers. Twitch focuses on more popular streamers and doesn’t let users edit their thumbnails, while YouTube makes it easier for newbies to be found with a customizable thumbnail feature.</p>
-<p><strong>Content Rule Leniency:</strong> Twitch and YouTube’s content guidelines are slightly different. YouTube is more easygoing when it comes to what videos can be posted. On the other hand, Twitch has a reputation for banning streamers without any justification. Even streamers with contracts seem to be treated the same as anyone else when this happens.</p>
-<p><strong>Growth:</strong> YouTube offers more advantages over Twitch in terms of growth as it is more accessible and has a better algorithm that allows small content creators to grow their channels quickly. However, Twitch mainly focuses on popular content streamers and offers fewer growth opportunities for newbies.</p>
-<p><strong>Monetization:</strong> When it comes to monetization, both platforms offer different options for content creators. On Twitch, content creators can earn revenue from subscriptions, sponsored advertisements, donations, affiliate programs, merchandise sales, etc. On YouTube, content creators can earn revenue from direct advertisements, sponsorships, partnership programs, streams, donations, etc.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-1873313"
-                      border="0" alt="" width="1080" height="1263"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1873313/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/youtube-monetization.jpg"
-                      alt="youtube monetization"
-                ></p>
-<p><strong>Chat and Moderation Policies:</strong> Twitch uses a time-based strict chat moderation policy and does not have the pause or rewind option. While on YouTube, the chat is arranged based on relevance and comes with only standard emojis for visual presentation.</p>
-<h2 id="Part-2-Comparison-of-Two-Important-Features-Between-Twitch-and-YOUTUBE-Partnership-and-Gaming"><a href="#Part-2-Comparison-of-Two-Important-Features-Between-Twitch-and-YOUTUBE-Partnership-and-Gaming" class="headerlink" title="Part 2. Comparison of Two Important Features Between Twitch and YOUTUBE: Partnership and Gaming"></a>Part 2. Comparison of Two Important Features Between Twitch and YOUTUBE: Partnership and Gaming</h2><h3 id="YouTube-vs-Twitch-Partnership"><a href="#YouTube-vs-Twitch-Partnership" class="headerlink" title="YouTube vs. Twitch Partnership"></a>YouTube vs. Twitch Partnership</h3><p>Affiliate programs are accessible on both Twitch and YouTube with specific requirements that you need to adhere to. These include a consistent uploading or streaming schedule, viewer engagement on your content, certain watch times, and the required number of subscribers on your channel.</p>
-<p>Unlike YouTube, Twitch offers both affiliate and partnership programs. To learn how to join Twitch as an affiliate, read our <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Simple Guide to Becoming a Twitch Affiliate. <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16836-2090698"
-                      border="0" alt="" width="720" height="300"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/twitch-vs-youtube-partner-ship.jpg"
-                      alt="twitch vs youtube partnership"
-                ></p>
-<h3 id="Gaming-on-Twitch-vs-YouTube"><a href="#Gaming-on-Twitch-vs-YouTube" class="headerlink" title="Gaming on Twitch vs. YouTube"></a>Gaming on Twitch vs. YouTube</h3><p>The world of online video gaming is massive and continues to grow every year. Over the past few years, two of the biggest platforms for streaming gaming content have been Twitch and YouTube. So which platform is worth using? Let’s find out!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/twitch-gaming.jpg"
-                      alt="twitch gaming"
-                ></p>
-<p><strong>Algorithm:</strong> Twitch algorithm is mainly based on the number of viewers on your videos. Moreover, when browsing, it mainly suggests only the popular streamers with a strong subscriber base.</p>
-<p>On the other hand, YouTube is owned by Google and creates more opportunities for streamers to be found. Also, its search algorithm takes into account the number of likes, comments, and shares on your video.</p>
-<p><strong>Streamer-Viewer Dynamics:</strong> On Twitch, viewers often get more involved with the streamer as opposed to YouTube gaming viewers, who prefer to watch videos without commentary.</p>
-<p><strong>Engagement Requirements For Streamers:</strong> To grow on YouTube, you need at least 4000 hours of watch time and a good number of likes, shares, and comments on your video. While on Twitch, you need at least a 20-30% engagement rate and a large number of subscribers.</p>
-<p><strong>Competition Level Of Streamer:</strong> YouTube has fewer streamers but a 20 times more extensive user base. The potential for growth for new streamers is much higher due to the lower competition on the platform. Additionally, the platform provides more prominent exposure for new content creators.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453721"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453721/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Verdict"><a href="#Verdict" class="headerlink" title="Verdict"></a>Verdict</h3><p>Twitch is a better streaming platform if you want to cultivate a following around your content. Although creating your followers’ community at first can be difficult, it largely depends on how engaging and compelling your content is.</p>
-<p>As a new content creator or a streamer to create and upload pre-recorded videos, YouTube is a better choice for you. Make sure to upload the most enthralling games to keep your audience captivating and interested.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png"
-                      border="0"
-                >WonderFox DVD Ripper Pro</a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Does-Twitch-Or-YouTube-Pay-More"><a href="#Part-3-Does-Twitch-Or-YouTube-Pay-More" class="headerlink" title="Part 3. Does Twitch Or YouTube Pay More?"></a>Part 3. Does Twitch Or YouTube Pay More?</h2><p>The amount of revenue you can make on Twitch or YouTube is directly related to your follower base. The higher the number of followers&#x2F;viewers, the more you will earn. Here’s how each platform pays its streamers.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/4704-748964"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://united.elfm.net/i/5597632/748964/4704"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="How-Twitch-Pay-Their-Streamers"><a href="#How-Twitch-Pay-Their-Streamers" class="headerlink" title="How Twitch Pay Their Streamers"></a>How Twitch Pay Their Streamers</h3><p>There are five ways in which you can make money while streaming your content on Twitch:</p>
-<p><strong>Ads:</strong> You can turn on ads on your content when your stream gets the affiliate’s status. Ad revenues are based on the number of impressions (views) your content receives, and the average payout is $0.25 - $1.50 per 1,000 views.</p>
-<p><strong>Bits</strong>: As a streamer on Twitch, you can also receive donations from your viewers in the form of a unique currency on the platform known as Bits. It’s important to note that Twitch takes a 29% cut-off of all donations made this way, leaving the streamer with 71% of the total donation. We have a complete guide to help you understand <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >what Twitch Bits are and how to earn&#x2F;get them for free. <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/twitch-bits.jpg"
-                      alt="twitch bits"
-                ></p>
-<p><strong>Donations:</strong> Donations made through Paypal or other monetary exchange platforms benefit the streamer as they will receive 100% of the donation. This is the cheaper way of ensuring that the streamer gets the entire donation amount from the viewer.</p>
-<p><strong>Subscribers:</strong> Subscribers can support your channel by getting a subscription for a minimum of $4.99 per month. Twitch only takes 50% of subscription fees. This makes it much more profitable for streamers, as they can earn $2.50 per subscription per month.</p>
-<p><strong>Merchandise:</strong> In terms of merchandise, Twitch has an advantage over YouTube because it comes with various merchandising extensions that can help you to make sales directly to your viewers during a live stream without the need for them to leave the screen.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/twitch-monetization.jpg"
-                      alt="twitch monetization"
-                ></p>
-<h3 id="How-YouTube-Pay-Their-Streamers"><a href="#How-YouTube-Pay-Their-Streamers" class="headerlink" title="How YouTube Pay Their Streamers"></a>How YouTube Pay Their Streamers</h3><p>YouTube pays its streamers in three different ways:</p>
-<p><strong>Ads:</strong> Once your channel reaches a specific threshold, you become eligible for displaying ads on your YouTube channel. YouTube ads pay more than Twitch. For each 1000 ad views, you will get $18, which means you can earn up to $3 to $5 per 1k video views.</p>
-<p><strong>Members:</strong> YouTube members are equivalent to Twitch’s subscribers. YouTube pays 70% of membership fees to the creators. The eligibility to offer channel memberships opens up at 30,000 subscribers for all types of channels, but for gaming channels, in particular, a minimum of 1,000 subscribers are required. Additionally, creators must also be a part of the YouTube Partner Program.</p>
-<p><strong>Super Chat:</strong> Youtube pays streamers 70% of each super chat donation made on the platform and retains 30%. While this may seem to be expensive, it helps cover the costs of hosting a Livestream. Without this donation, Youtube would not be able to function as smoothly.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/11/youtube-super-chat.jpg"
-                      alt="youtube super chat"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803115"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803115/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Which-Pays-More"><a href="#Which-Pays-More" class="headerlink" title="Which Pays More?"></a>Which Pays More?</h3><p>Due to the lower threshold for monetization, Twitch pays more to the new content creators and offers more monetization options. However, it is difficult to grow on Twitch compared to YouTube, which has a stronger user base.</p>
-<p>YouTube is easier to generate income in the long run as you can upload recorded gaming videos which can get more viewers as it is always available on the platform. Moreover, you can also make more from YouTube ads than on Twitch.</p>
-<p><strong>Video - Where Should You Stream in 2022? - Twitch vs YouTube Live</strong></p>
-<h2 id="FAQs"><a href="#FAQs" class="headerlink" title="FAQs"></a>FAQs</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="How-Much-Do-YouTube-Gaming-Streamers-Make"><a href="#How-Much-Do-YouTube-Gaming-Streamers-Make" class="headerlink" title="How Much Do YouTube Gaming Streamers Make?"></a>How Much Do YouTube Gaming Streamers Make?</h3><p>On YouTube, a streamer mainly gets paid based on the ads, which is $0.10 to $0.30 per ad view. Therefore, if your video gets up to 50,000 views, you can earn between $5,000 to $15,000 for that content alone.</p>
-<h3 id="Why-Do-YouTubers-Stream-on-Twitch"><a href="#Why-Do-YouTubers-Stream-on-Twitch" class="headerlink" title="Why Do YouTubers Stream on Twitch?"></a>Why Do YouTubers Stream on Twitch?</h3><p>Most YouTubers stream on Twitch because it pays better than YouTube, has a better community, extensions, and bots</p>
-<h3 id="Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time"><a href="#Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time" class="headerlink" title="Can You Stream On YouTube And Twitch At The Same Time?"></a>Can You Stream On YouTube And Twitch At The Same Time?</h3><p>Yes, by using streaming service software, you can stream on YouTube and Twitch at the same time.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2097466"
-                      border="0" alt="" width="2048" height="1024"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2097466/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch"><a href="#Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch" class="headerlink" title="Is It Easier to Grow on YouTube Gaming Than Twitch?"></a>Is It Easier to Grow on YouTube Gaming Than Twitch?</h3><p>YouTube offers much higher viewership compared to Twitch. Therefore, there is more potential to grow depending on the quality of your content.</p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In this article, we’ve provided a complete comparison of Twitch vs. YouTube. We discussed their key differences, partnership, and monetization.</p>
-<p>While Twitch is more popular and has more streamers, it offers less opportunity for growth. If you want to be more successful as a streamer, then you should be on YouTube.</p>
-<p>However, both platforms have great benefits and can help you reach your goals faster. Which one you ultimately decide to use is up to you. Hopefully, you liked this article, and your queries have been resolved.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png"
-                      border="0"
-                >Easy and Safe Partition Software &amp; Hard Disk Manager</a></p>
-<!-- affiliate ads end -->
-<h2 id="FAQs-1"><a href="#FAQs-1" class="headerlink" title="FAQs"></a>FAQs</h2><h3 id="How-Much-Do-YouTube-Gaming-Streamers-Make-1"><a href="#How-Much-Do-YouTube-Gaming-Streamers-Make-1" class="headerlink" title="How Much Do YouTube Gaming Streamers Make?"></a>How Much Do YouTube Gaming Streamers Make?</h3><p>On YouTube, a streamer mainly gets paid based on the ads, which is $0.10 to $0.30 per ad view. Therefore, if your video gets up to 50,000 views, you can earn between $5,000 to $15,000 for that content alone.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Why-Do-YouTubers-Stream-on-Twitch-1"><a href="#Why-Do-YouTubers-Stream-on-Twitch-1" class="headerlink" title="Why Do YouTubers Stream on Twitch?"></a>Why Do YouTubers Stream on Twitch?</h3><p>Most YouTubers stream on Twitch because it pays better than YouTube, has a better community, extensions, and bots</p>
-<h3 id="Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time-1"><a href="#Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time-1" class="headerlink" title="Can You Stream On YouTube And Twitch At The Same Time?"></a>Can You Stream On YouTube And Twitch At The Same Time?</h3><p>Yes, by using streaming service software, you can stream on YouTube and Twitch at the same time.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch-1"><a href="#Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch-1" class="headerlink" title="Is It Easier to Grow on YouTube Gaming Than Twitch?"></a>Is It Easier to Grow on YouTube Gaming Than Twitch?</h3><p>YouTube offers much higher viewership compared to Twitch. Therefore, there is more potential to grow depending on the quality of your content.</p>
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In this article, we’ve provided a complete comparison of Twitch vs. YouTube. We discussed their key differences, partnership, and monetization.</p>
-<p>While Twitch is more popular and has more streamers, it offers less opportunity for growth. If you want to be more successful as a streamer, then you should be on YouTube.</p>
-<p>However, both platforms have great benefits and can help you reach your goals faster. Which one you ultimately decide to use is up to you. Hopefully, you liked this article, and your queries have been resolved.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/new-2024-approved-comprehensive-list-audio-pace-modification-tools/"><u>[New] 2024 Approved  Comprehensive List  Audio Pace Modification Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-further-in-animation-innovative-techniques-using-movie-maker/"><u>[New] A Step Further in Animation  Innovative Techniques Using Movie Maker</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-insights-into-polarr-photo-enhancer/"><u>[New] Comprehensive Insights Into Polarr Photo Enhancer</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/new-elevate-videos-with-gif-a-simple-guide-for-vimeo-creators-for-2024/"><u>[New] Elevate Videos with GIF  A Simple Guide for Vimeo Creators for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-in-2024-air-lift-extraordinaire-top-industrial-drones/"><u>[New] In 2024, Air-Lift Extraordinaire  Top Industrial Drones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-best-photo-grid-apps-to-make-your-pictures-stand-out/"><u>[Updated] 10 Best Photo Grid Apps to Make Your Pictures Stand Out</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-artistic-techniques-for-3d-text-effect/"><u>[Updated] Artistic Techniques for 3D Text Effect</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-bandicam-vs-camtasia-which-one-is-better-for-2024/"><u>[Updated] Bandicam vs Camtasia, Which One Is Better for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-gear-for-comprehensively-filmed-action/"><u>[Updated] Best Gear for Comprehensively Filmed Action</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-in-2024-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>[Updated] In 2024, Discover the Best in Class  Our List of 12 High-Performing Flip Cameras</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/2024-approved-essential-techniques-for-insta-photo-cover-highlights/"><u>2024 Approved  Essential Techniques for Insta Photo Cover Highlights</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/approved-pro-editors-top-list-best-portable-devices-for-visual-storytelling/"><u>2024 Approved  Pro-Editors' Top List  Best Portable Devices for Visual Storytelling</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/2024-approved-unveiling-the-secrets-of-m1-max-clips/"><u>2024 Approved  Unveiling the Secrets of M1 Max Clips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-stepwise-journey-through-windows-10-recording-for-2024/"><u>A Stepwise Journey Through Windows 10 Recording for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/analyzing-the-dji-phantom-4-vision-tech-for-2024/"><u>Analyzing the DJI Phantom 4 Vision Tech for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-your-content-companion-the-future-in-podcasts-or-youtube/"><u>Choosing Your Content Companion  The Future in Podcasts or YouTube</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users-for-2024/"><u>Converting YouTube Journeys Into Animated Expressions  A Comprehensive Guide for Mobile/Desktop Users for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/create-brand-symbols-from-templates-at-no-cost-for-2024/"><u>Create Brand Symbols From Templates at No Cost for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/fading-flourishes-invisible-audio-adjustments-in-garageband/"><u>Fading Flourishes  Invisible Audio Adjustments in Garageband</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/from-favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>From Favorites to Featured  The Journey to a Unique YouTube List for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android/"><u>From Standard to Personalized  Installing Unique Ringtones & Sounds on Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/humorous-hacks-the-ultimate-guide-to-funny-memes/"><u>Humorous Hacks  The Ultimate Guide to Funny Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-basic-tips-for-windows-clown-phonetics-modification/"><u>In 2024, Basic Tips for Windows Clown Phonetics Modification</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/laugh-labyrits-undead-sarcasm-spawners/"><u>Laugh Labyrits  Undead Sarcasm Spawners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-palette-primer-compreenasive-guide-to-coloring/"><u>The Palette Primer  Compreenasive Guide to Coloring</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging  Expertise in Adobe's High Dynamic Range</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unite-auditory-elements-with-visuals-in-ppt/"><u>Unite Auditory Elements with Visuals in PPT</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-new-wave-of-video-editing-with-powerdirector-24/"><u>Unveiling the New Wave of Video Editing with PowerDirector '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zip-to-subrip-conversion-techniques/"><u>Zip-to-SubRip Conversion Techniques</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Analyzing the Differences  Twitch vs YouTube Platforms for 2024&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:26:34</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:26:34
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/analyzing-the-differences-twitch-vs-youtube-platforms-for-2024/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/new-analyzing-the-features-of-vegaspros-latest-release/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[New] Analyzing the Features of VegasPro&#39;s Latest Release</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/updated-advanced-techniques-for-proximity-viewing-in-roblox/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Advanced Techniques for Proximity Viewing in Roblox</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Analyzing the Differences  Twitch vs YouTube Platforms for 2024&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Analyzing-the-Differences-Twitch-vs-YouTube-Platforms"><span class="nav-text">Analyzing the Differences: Twitch vs YouTube Platforms</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-The-Key-Differences-Between-Twitch-and-YouTube"><span class="nav-text">Part 1. The Key Differences Between Twitch and YouTube</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Comparison-of-Two-Important-Features-Between-Twitch-and-YOUTUBE-Partnership-and-Gaming"><span class="nav-text">Part 2. Comparison of Two Important Features Between Twitch and YOUTUBE: Partnership and Gaming</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#YouTube-vs-Twitch-Partnership"><span class="nav-text">YouTube vs. Twitch Partnership</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Gaming-on-Twitch-vs-YouTube"><span class="nav-text">Gaming on Twitch vs. YouTube</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Verdict"><span class="nav-text">Verdict</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Does-Twitch-Or-YouTube-Pay-More"><span class="nav-text">Part 3. Does Twitch Or YouTube Pay More?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#How-Twitch-Pay-Their-Streamers"><span class="nav-text">How Twitch Pay Their Streamers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-YouTube-Pay-Their-Streamers"><span class="nav-text">How YouTube Pay Their Streamers</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Which-Pays-More"><span class="nav-text">Which Pays More?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#FAQs"><span class="nav-text">FAQs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#How-Much-Do-YouTube-Gaming-Streamers-Make"><span class="nav-text">How Much Do YouTube Gaming Streamers Make?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Why-Do-YouTubers-Stream-on-Twitch"><span class="nav-text">Why Do YouTubers Stream on Twitch?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time"><span class="nav-text">Can You Stream On YouTube And Twitch At The Same Time?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch"><span class="nav-text">Is It Easier to Grow on YouTube Gaming Than Twitch?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#FAQs-1"><span class="nav-text">FAQs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#How-Much-Do-YouTube-Gaming-Streamers-Make-1"><span class="nav-text">How Much Do YouTube Gaming Streamers Make?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Why-Do-YouTubers-Stream-on-Twitch-1"><span class="nav-text">Why Do YouTubers Stream on Twitch?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Can-You-Stream-On-YouTube-And-Twitch-At-The-Same-Time-1"><span class="nav-text">Can You Stream On YouTube And Twitch At The Same Time?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Is-It-Easier-to-Grow-on-YouTube-Gaming-Than-Twitch-1"><span class="nav-text">Is It Easier to Grow on YouTube Gaming Than Twitch?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

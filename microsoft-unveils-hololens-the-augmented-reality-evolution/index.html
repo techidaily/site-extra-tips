@@ -604,15 +604,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -634,588 +634,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d559912a6d4e6e048b474186.jpg" alt="&#34;Microsoft Unveils HoloLens  The Augmented Reality Evolution&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Microsoft Unveils HoloLens  The Augmented Reality Evolution&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:46:55</span>
-        <span class="mobile">2024-07-27 09:46:55</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:46:55</span>
-            <span class="mobile">2024-07-28 09:46:55</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Microsoft-Unveils-HoloLens-The-Augmented-Reality-Evolution"><a href="#Microsoft-Unveils-HoloLens-The-Augmented-Reality-Evolution" class="headerlink" title="Microsoft Unveils HoloLens: The Augmented Reality Evolution"></a>Microsoft Unveils HoloLens: The Augmented Reality Evolution</h2><h1 id="Microsoft-HoloLens-Review-a-glimpse-of-holographic-future"><a href="#Microsoft-HoloLens-Review-a-glimpse-of-holographic-future" class="headerlink" title="Microsoft HoloLens Review- a glimpse of holographic future"></a>Microsoft HoloLens Review- a glimpse of holographic future</h1><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Benjamin-Arango"><a href="#Benjamin-Arango" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="The-First-Impression-of-Microsoft-HoloLens"><a href="#The-First-Impression-of-Microsoft-HoloLens" class="headerlink" title="The First Impression of Microsoft HoloLens"></a>The First Impression of Microsoft HoloLens</h2><p> Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.</p>
-<p> Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.</p>
-<h2 id="Main-features-of-Microsoft-HoloLens"><a href="#Main-features-of-Microsoft-HoloLens" class="headerlink" title="Main features of Microsoft HoloLens"></a>Main features of Microsoft HoloLens</h2><p> HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.</p>
-<p> The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.</p>
-<p> There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.</p>
-<p> The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.</p>
-<h2 id="User-experience"><a href="#User-experience" class="headerlink" title="User experience"></a>User experience</h2><p> Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.</p>
-<p><strong>Pros</strong></p>
-<ul>
-<li>Hands free hologram experience</li>
-</ul>
-<p> Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin</p>
-<ul>
-<li>Impressive resolution</li>
-</ul>
-<p> Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.</p>
-<ul>
-<li>Spatial sound like never before</li>
-</ul>
-<p> Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.</p>
-<ul>
-<li>Excellent build quality</li>
-</ul>
-<p> Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.</p>
-<p><strong>Cons</strong></p>
-<ul>
-<li>Average battery backup</li>
-</ul>
-<p> A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.</p>
-<ul>
-<li>Field of view certainly needs improvement</li>
-</ul>
-<p> A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.</p>
-<ul>
-<li>Still a glitch</li>
-</ul>
-<p> No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.</p>
-<ul>
-<li>Exorbitant price</li>
-</ul>
-<p> Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.</p>
-<p> Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg"
-                      border="0"
-                >Project Manager - Asset Browser for 3Ds Max</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-1"><a href="#Benjamin-Arango-1" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="The-First-Impression-of-Microsoft-HoloLens-1"><a href="#The-First-Impression-of-Microsoft-HoloLens-1" class="headerlink" title="The First Impression of Microsoft HoloLens"></a>The First Impression of Microsoft HoloLens</h2><p> Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.</p>
-<p> Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.</p>
-<h2 id="Main-features-of-Microsoft-HoloLens-1"><a href="#Main-features-of-Microsoft-HoloLens-1" class="headerlink" title="Main features of Microsoft HoloLens"></a>Main features of Microsoft HoloLens</h2><p> HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.</p>
-<p> The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.</p>
-<p> There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.</p>
-<p> The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.</p>
-<h2 id="User-experience-1"><a href="#User-experience-1" class="headerlink" title="User experience"></a>User experience</h2><p> Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.</p>
-<p><strong>Pros</strong></p>
-<ul>
-<li>Hands free hologram experience</li>
-</ul>
-<p> Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin</p>
-<ul>
-<li>Impressive resolution</li>
-</ul>
-<p> Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.</p>
-<ul>
-<li>Spatial sound like never before</li>
-</ul>
-<p> Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.</p>
-<ul>
-<li>Excellent build quality</li>
-</ul>
-<p> Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.</p>
-<p><strong>Cons</strong></p>
-<ul>
-<li>Average battery backup</li>
-</ul>
-<p> A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.</p>
-<ul>
-<li>Field of view certainly needs improvement</li>
-</ul>
-<p> A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.</p>
-<ul>
-<li>Still a glitch</li>
-</ul>
-<p> No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.</p>
-<ul>
-<li>Exorbitant price</li>
-</ul>
-<p> Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.</p>
-<p> Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-2"><a href="#Benjamin-Arango-2" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<h2 id="The-First-Impression-of-Microsoft-HoloLens-2"><a href="#The-First-Impression-of-Microsoft-HoloLens-2" class="headerlink" title="The First Impression of Microsoft HoloLens"></a>The First Impression of Microsoft HoloLens</h2><p> Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.</p>
-<p> Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19578-1793233"
-                      border="0" alt="" width="1200" height="1200"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793233/19578"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Main-features-of-Microsoft-HoloLens-2"><a href="#Main-features-of-Microsoft-HoloLens-2" class="headerlink" title="Main features of Microsoft HoloLens"></a>Main features of Microsoft HoloLens</h2><p> HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.</p>
-<p> The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.</p>
-<p> There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.</p>
-<p> The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.</p>
-<h2 id="User-experience-2"><a href="#User-experience-2" class="headerlink" title="User experience"></a>User experience</h2><p> Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.</p>
-<p><strong>Pros</strong></p>
-<ul>
-<li>Hands free hologram experience</li>
-</ul>
-<p> Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin</p>
-<ul>
-<li>Impressive resolution</li>
-</ul>
-<p> Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.</p>
-<ul>
-<li>Spatial sound like never before</li>
-</ul>
-<p> Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.</p>
-<ul>
-<li>Excellent build quality</li>
-</ul>
-<p> Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.</p>
-<p><strong>Cons</strong></p>
-<ul>
-<li>Average battery backup</li>
-</ul>
-<p> A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.</p>
-<ul>
-<li>Field of view certainly needs improvement</li>
-</ul>
-<p> A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.</p>
-<ul>
-<li>Still a glitch</li>
-</ul>
-<p> No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.</p>
-<ul>
-<li>Exorbitant price</li>
-</ul>
-<p> Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.</p>
-<p> Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/20231-1787667"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1787667/20231"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-3"><a href="#Benjamin-Arango-3" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<h2 id="The-First-Impression-of-Microsoft-HoloLens-3"><a href="#The-First-Impression-of-Microsoft-HoloLens-3" class="headerlink" title="The First Impression of Microsoft HoloLens"></a>The First Impression of Microsoft HoloLens</h2><p> Microsoft HoloLens is the company’s holographic, augmented reality headset that promises a never before like holographic experience to its users. The HoloLens came in an eye catching black box. The HoloLens comes in an interesting case with a zipper and once you unzip it, you come across a beautifully crafted head gear comprising of two rings with a lens.</p>
-<p> Apart from the HoloLens, the box contains few accessories namely a get started guide, a charger with USB cable, a nose piece and a form fitting strap. Besides, there is also the new HoloLens Clicker, an optional accessory that comes with a finger loop.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External&#x2F;Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Main-features-of-Microsoft-HoloLens-3"><a href="#Main-features-of-Microsoft-HoloLens-3" class="headerlink" title="Main features of Microsoft HoloLens"></a>Main features of Microsoft HoloLens</h2><p> HoloLens consists of two rings- an outer thicker plastic ring that contains the guts and an inner, thinner ring that wraps around your head. This device isn’t essentially designed to sit on the user’s nose but there is a rubber nose guard that is optional to use. The headgear weighs approximately 579gms which means this one is definitely not a lighter device.</p>
-<p> The headset contains holographic lenses and a depth camera along with speakers above the ears. There is literally a host of sensors built into the headset that include an ambient light sensor along with not just one or two but four environment sensing cameras that work in complete sync with depth sensing camera.</p>
-<p> There is an onboard processing via Intel 32 bit architecture, a GPU, HPU that are backed by 2GB RAM and a humongous 64 GB onboard storage. The resolution of device is unbelievable in terms of picture and video quality and even the audio of HoloLens is admirable and the one that is bound to give every gamer a sensational gaming experience.</p>
-<p> The release date for Microsoft’s HoloLens hasn’t been announced as yet but this device is available for developers and the people having a Microsoft account. The developer’s device is priced at $3000 but we are contemplating that it will be priced slightly on the lower side for the usual customers. A Microsoft account holder can order as many as 5 HoloLens from one account and if market trends are to be believed, the customer edition will be released around Christmas this year itself.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/uppic/audible-converter-interface.png"
-                      border="0"
-                >Epubor Audible Converter for Win： Download and convert Audible AAXC&#x2F;AA&#x2F;AAX to MP3 with 100% original quality preserved.</a></p>
-<!-- affiliate ads end -->
-<h2 id="User-experience-3"><a href="#User-experience-3" class="headerlink" title="User experience"></a>User experience</h2><p> Using Microsoft HoloLens was surely an experience of a lifetime, the one that you can’t easily forget. This wonderful device is filled with a number of pros, however we did come across a few cons as well, all of which are enlisted below for your quick reference.</p>
-<p><strong>Pros</strong></p>
-<ul>
-<li>Hands free hologram experience</li>
-</ul>
-<p> Using HoloLens is no rocket science, Microsoft has taken a number of steps to make this device extremely user friendly. There are no wires and remote control that works over this device, all you get is a head gear that has a few inbuilt buttons on the outer rin</p>
-<ul>
-<li>Impressive resolution</li>
-</ul>
-<p> Microsoft’s promise to give its users an ultimate holographic experience with HoloLens doesn’t seem illogical. The resolution of this device is so impressive that it literally transforms you to another world of digital excellence.</p>
-<ul>
-<li>Spatial sound like never before</li>
-</ul>
-<p> Apart from the high quality holographic resolution, HoloLens even boasts upon excellent spatial sound system that works wonders in giving its users a worthy AR experience.</p>
-<ul>
-<li>Excellent build quality</li>
-</ul>
-<p> Microsoft’s HoloLens comes with a headgear that might appear like few of its contemporaries, however the build quality that it comes with makes it all the more likeable and better device. HoloLens comes with a comfortable weight and sits right on the head giving its user a viewing experience like never before.</p>
-<p><strong>Cons</strong></p>
-<ul>
-<li>Average battery backup</li>
-</ul>
-<p> A $3000 augmented reality device like Microsoft’s HoloLens is expected to have a great battery backup but unfortunately, HoloLens disappoints on this front.</p>
-<ul>
-<li>Field of view certainly needs improvement</li>
-</ul>
-<p> A HoloLens user would certainly experience great viewing experience when he stands still but it somehow gets distorted once you start moving. Its field of view certainly needs a lot improvement.</p>
-<ul>
-<li>Still a glitch</li>
-</ul>
-<p> No matter how enthusiastically the Microsoft’s sales team is prompting HoloLens as realistic and user friendly, it is still a glitch for a regular gamer who isn’t really aware of the complexities and technicalities of using this device.</p>
-<ul>
-<li>Exorbitant price</li>
-</ul>
-<p> Let’s just be honest here, HoloLens is a one of a kind device that is bound to burn a hole in your pocket. $3000 for a technologically blessed gaming device, you need to make a smart choice here.</p>
-<p> Keeping aside a few cons, Microsoft’s HoloLens is definitely one AR device that boasts upon high end technology and promises to give a wonderful gaming experience to its users. This one’s definitely a device that gives true worth of its hefty price.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-color-theory-and-how-to-use-it/"><u>[New] Color Theory And How To Use It</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/new-firstrow-leisure-without-the-sports-commitment/"><u>[New] FirstRow Leisure Without the Sports Commitment</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/new-in-2024-transform-your-snapchat-sound-wave-in-less-than-15-minutes/"><u>[New] In 2024, Transform Your Snapchat Sound Wave in Less Than 15 Minutes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-20-greatest-sandbox-experiences-ever-made-for-2024/"><u>[Updated] 20 Greatest Sandbox Experiences Ever Made for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/updated-2024-approved-ultimate-guide-to-mp4-from-instagram-advanced-2-step-processes/"><u>[Updated] 2024 Approved  Ultimate Guide to MP4 From Instagram  Advanced 2-Step Processes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-conquer-kinemaster-rule-the-meme-world/"><u>[Updated] Conquer KineMaster, Rule the Meme World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>2024 Approved  A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-the-art-of-altering-and-amplifying-vhs-photos-on-computers/"><u>2024 Approved  Ace the Art of Altering and Amplifying VHS Photos on Computers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budgeting-for-effective-youtube-marketing/"><u>2024 Approved  Budgeting for Effective YouTube Marketing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>2024 Approved  Capturing Creativity  Mobile Gadgets Ranking Leaders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-charting-the-course-of-viral-stocks-and-stories/"><u>2024 Approved  Charting the Course of Viral Stocks & Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-syma-x8c-to-previous-models/"><u>2024 Approved  Comparing Syma X8C to Previous Models</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/2024-approved-future-fables-top-30-quotes-on-tomorrows-realities/"><u>2024 Approved  Future Fables  Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-best-photo-editing-app-for-android-phone/"><u>5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-complete-introduction-to-snapchats-new-feature-for-2024/"><u>A Complete Introduction to Snapchat's New Feature for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/cheapest-facetime-on-android-highest-rated-apps/"><u>Cheapest FaceTime on Android  Highest Rated Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/cross-platform-use-for-ps5-with-ps4/"><u>Cross-Platform Use for PS5 with PS4?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-crossfading-steps-for-logic-pro-users/"><u>Cutting-Edge Crossfading Steps for Logic Pro Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-review-parrots-advanced-ar-model-20/"><u>Drone Review  Parrot's Advanced AR Model 2.0</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embrace-sound-narratives-on-ipadiphone-downloading-apple-podcasts/"><u>Embrace Sound Narratives on iPad/iPhone  Downloading Apple Podcasts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/explore-top-church-platforms-for-global-audience-for-2024/"><u>Explore Top Church Platforms for Global Audience for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/grasping-basics-your-guide-to-av1-encoding/"><u>Grasping Basics  Your Guide to AV1 Encoding</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-12-proplus-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme 12 Pro+ 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-zero-expense-in-picture-filled-content/"><u>In 2024, Achieving Zero Expense in Picture-Filled Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-analyzing-the-differences-twitch-vs-youtube-platforms/"><u>In 2024, Analyzing the Differences  Twitch vs YouTube Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>In 2024, Best Value for Money  8 Ace Free SRT Apps Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clearview-resolution-amplifier-cross-platform-edition/"><u>In 2024, ClearView Resolution Amplifier  Cross-Platform Edition</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/in-2024-perfecting-the-look-a-guide-to-haul-video-post-production/"><u>In 2024, Perfecting the Look  A Guide to Haul Video Post-Production</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/in-2024-turbo-faster-window-photo-editor/"><u>In 2024, Turbo Faster Window Photo Editor</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen/"><u>In 2024, Ultimate Blueprint  Revolutionizing Your Mobile Capture Experience with Mobizen</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-to-accessing-copy-free-song-conclusions/"><u>In 2024, Ultimate Guide to Accessing Copy-Free Song Conclusions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/meme-crafting-undead-androids/"><u>Meme Crafting Undead Androids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/microsofts-hololens-adventure-a-3d-visionary-experience/"><u>Microsoft’s HoloLens Adventure – A 3D Visionary Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-pairing-10-films-for-fun-filled-family-nights/"><u>Perfect Pairing  10 Films for Fun-Filled Family Nights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/price-tracker-for-cloud-space-services-a-detailed-review/"><u>Price Tracker for Cloud Space Services  A Detailed Review</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/-cut-technique-making-your-vlog-more-engaging/"><u>Quick-Cut Technique  Making Your Vlog More Engaging</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/reducing-sound-interference-in-video-meetings-for-2024/"><u>Reducing Sound Interference in Video Meetings for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-podcast-with-these-ai-name-makers/"><u>Revolutionize Your Podcast with These AI Name Makers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/samsung-ue590-review-top-tier-4k-uhd-tv-for-gamers/"><u>Samsung UE590 Review - Top-Tier 4K UHD TV for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-veritable-value-of-voice-podcasters-earnings-analysis/"><u>The Veritable Value of Voice  Podcasters’ Earnings Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-vectors-alternatives-to-the-classic-acid-pro/"><u>Top Vectors Alternatives to the Classic ACID Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-movement-insights-2023/"><u>Total Movement Insights 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-webcams-for-enhanced-podcast-production/"><u>Ultimate Webcams for Enhanced Podcast Production</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-6s-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 6s Plus</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/young-yachtsmens-playtime-pleasures-for-2024/"><u>Young Yachtsmen's Playtime Pleasures for 2024</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Microsoft Unveils HoloLens  The Augmented Reality Evolution&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:46:55</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:46:55
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/microsoft-unveils-hololens-the-augmented-reality-evolution/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/navigating-periscope-detailed-instruction-manual/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Navigating Periscope  Detailed Instruction Manual&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/masterpiece-makers-exceptional-android-collage-apps/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Masterpiece Makers – Exceptional Android Collage Apps</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Microsoft Unveils HoloLens  The Augmented Reality Evolution&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Microsoft-Unveils-HoloLens-The-Augmented-Reality-Evolution"><span class="nav-text">Microsoft Unveils HoloLens: The Augmented Reality Evolution</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Microsoft-HoloLens-Review-a-glimpse-of-holographic-future"><span class="nav-text">Microsoft HoloLens Review- a glimpse of holographic future</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#The-First-Impression-of-Microsoft-HoloLens"><span class="nav-text">The First Impression of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Main-features-of-Microsoft-HoloLens"><span class="nav-text">Main features of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#User-experience"><span class="nav-text">User experience</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-First-Impression-of-Microsoft-HoloLens-1"><span class="nav-text">The First Impression of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Main-features-of-Microsoft-HoloLens-1"><span class="nav-text">Main features of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#User-experience-1"><span class="nav-text">User experience</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-First-Impression-of-Microsoft-HoloLens-2"><span class="nav-text">The First Impression of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Main-features-of-Microsoft-HoloLens-2"><span class="nav-text">Main features of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#User-experience-2"><span class="nav-text">User experience</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-First-Impression-of-Microsoft-HoloLens-3"><span class="nav-text">The First Impression of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Main-features-of-Microsoft-HoloLens-3"><span class="nav-text">Main features of Microsoft HoloLens</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#User-experience-3"><span class="nav-text">User experience</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

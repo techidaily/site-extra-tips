@@ -603,15 +603,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -633,410 +633,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c3066e7cdb610eb41a93c8a8ff.jpeg" alt="&#34;Dance of the Feathers  Analyzing Parrot&#39;s Flight in Bebop 2&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Dance of the Feathers  Analyzing Parrot&#39;s Flight in Bebop 2&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 11:35:59</span>
-        <span class="mobile">2024-07-27 11:35:59</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 11:35:59</span>
-            <span class="mobile">2024-07-28 11:35:59</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Dance-of-the-Feathers-Analyzing-Parrot’s-Flight-in-Bebop-2"><a href="#Dance-of-the-Feathers-Analyzing-Parrot’s-Flight-in-Bebop-2" class="headerlink" title="Dance of the Feathers: Analyzing Parrot’s Flight in Bebop 2"></a>Dance of the Feathers: Analyzing Parrot’s Flight in Bebop 2</h2><h1 id="Parrot-Bebop-2-Review"><a href="#Parrot-Bebop-2-Review" class="headerlink" title="Parrot Bebop 2 Review"></a>Parrot Bebop 2 Review</h1><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg"
-                      border="0"
-                >Nero Burning ROM:<br>The ultimate burning program for all your needs!</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Max-Wales"><a href="#Max-Wales" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p> The Parrot drone has become one of the most popular quadcopters on the market for its autonomous flying. The original version of the drone was incredibly fun to fly but the Bebop 2 makes new improvements in performance, battery life and video quality. Although the controls for the Bebop are not as precise as some other types of drones on the market like <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >DJI Phantom 4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, the performance and the attractive video that this drone can capture make it a true performance leader in the market.</p>
-<p> The Parrot Bebop is a drone that was in development for over two years since the initial release of the original drone. It comes with a very reasonable price point at under $600 and it is capable of completing over 25 min of autonomous flight before going back to base. The specs on this drone make it a leader in amateur <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >filmmaking, photographs <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and more. This is a drone that’s well-suited for use both indoors and outdoors and they commonly go on sale allowing many people to start up their drone hobby without having to invest thousands of dollars.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19135-1793214"
-                      border="0" alt="" width="900" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793214/19135"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/parrot-bebop-2.jpg"
-                      alt="parrot bebop 2"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png"
-                      border="0"
-                ><br>EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a></p>
-<!-- affiliate ads end -->
-<h2 id="Pros-and-Cons-of-Parrot-Bebop-2"><a href="#Pros-and-Cons-of-Parrot-Bebop-2" class="headerlink" title="Pros and Cons of Parrot Bebop 2"></a>Pros and Cons of Parrot Bebop 2</h2><p><strong>Pros</strong></p>
-<ul>
-<li>Tt’s extremely lightweight design</li>
-<li>The cameras respectable with a fisheye lens capable of capturing 30 frames per second at 1080 P</li>
-<li>The device can also capture 14 megapixel shots with fairly stable movement</li>
-<li>The battery life has more than doubled allowing up to 25 min of flight time</li>
-</ul>
-<p><strong>Cons</strong></p>
-<ul>
-<li>Camera functions have not been improved greatly from the previous version</li>
-<li>Image distortions</li>
-<li>The control sticks can also sometimes be quick to go unresponsive long before the parrot reaches its extended service range</li>
-</ul>
-<h2 id="Complete-review-for-Parrot-Bebop-2"><a href="#Complete-review-for-Parrot-Bebop-2" class="headerlink" title="Complete review for Parrot Bebop 2"></a>Complete review for Parrot Bebop 2</h2><h4 id="1-Features-and-specs"><a href="#1-Features-and-specs" class="headerlink" title="1.  Features and specs"></a>1.  Features and specs</h4><p> The main features for this device are it’s improved stable movement with a three axis accelerometer and ultrasound sensor. These improved sensors and waypoint controls make the process of actually flying one of these drones very easy. The motor is also known for its speed and its capable of reaching a height of 100 m in just 18 seconds after takeoff. This is a very fast and highflying drone. The improved battery life of up to 25 min. with a 2700 mA battery is a considerable improvement for this drone as well. The two nicest features which are available for new drone flyers are the return home feature where you can set a waypoint for the drone to land after it runs out of battery as well as the free flight three application. The free flight application is one of the easiest ways that you can control your drone with the help of a tablet or smartphone and set waypoints for capturing the shots you want.</p>
-<h4 id="2-Design"><a href="#2-Design" class="headerlink" title="2.  Design"></a>2.  Design</h4><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png"
-                      border="0"
-                > PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/parrot-bebop-2-design.png"
-                      alt="parrot bebop 2 design"
-                ></p>
-<p> The design of this drone has definitely been improved for performance as well as resiliency. The previous version of the parrot was fairly simple to break but this newest version is much stronger and easier to control especially with the help of the application. This is a drone that has definitely been designed with beginner users in mind. The only design flaw with this drone is that the camera was not updated in any way. Parrot makes the process of ordering extra parts extremely simple through their online store and you can keep this drone running over an extended amount of time quite easily.</p>
-<h4 id="3-Battery-Life"><a href="#3-Battery-Life" class="headerlink" title="3.  Battery Life"></a>3.  Battery Life</h4><p> The battery life on this drone is excellent for the type of video that shoots as well as the controls offered on the device. Previous versions of the parrot could only fly for 11 min. but this drone can fly uninterrupted for 25 minutes or less. The improved battery life on this drone is comparable with others in the price point but not many of them feature the same quality of image.</p>
-<h4 id="4-Flight-performance"><a href="#4-Flight-performance" class="headerlink" title="4.  Flight performance"></a>4.  Flight performance</h4><p> This is a high-performing drone that has great stability controls and an application that can ease the process of flight. The return home feature helps to protect the drone in the event of a battery problem or when the user is finished filming. As landing these drones can be some of the most difficult aspects of operation, flight performance with a return home feature is one of the easiest ways to protect it.</p>
-<h4 id="5-Control-Range"><a href="#5-Control-Range" class="headerlink" title="5.  Control Range"></a>5.  Control Range</h4><p> Parrot does have an accessory to extend the control range of the Bebop 2 to 2 km. The drone out of the box has a range of 300 m to work with when using the controls. If you plan on using the drone regularly, the extra control range can be very helpful.</p>
-<h4 id="6-Camera"><a href="#6-Camera" class="headerlink" title="6.  Camera"></a>6.  Camera</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/parrot-bebop-2-camera.jpg"
-                      alt="parrot bebop 2 camera"
-                ></p>
-<p> The 14 megapixel fisheye lens camera is backed up by 8 GB of onboard storage. The cameras capable of capturing 1080 P video at 30 frames per second and it does produce a fairly good quality image. Some users have made light complaints about lens flare and a few other distortion qualities but overall, it’s difficult to find a drone and camera built in combo that can produce an image this good, for the same price.</p>
-<h4 id="7-The-free-flight-app"><a href="#7-The-free-flight-app" class="headerlink" title="7.  The free flight app"></a>7.  The free flight app</h4><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/parrot-free-app.gif"
-                      alt="parrot bebop 2 free app"
-                ></p>
-<p> The free flight app is a huge asset to this drone. Not only can you use controls from your smart phone or tablet to see from the drone, but you can also set waypoints using the tablet using GPS functions and rely on the autonomous flight capabilities as well as the return home functions.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21290-1892108"
-                      border="0" alt="" width="1080" height="1080"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1892108/21290"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<p><ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins><br><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[New] 2024 Approved  Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-8-3d-gold-text-effect-websites/"><u>[New] Best 8 3D Gold Text Effect Websites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>[New] Comprehensive Overview  Merging SRT with MP4 Files and Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-direct-interaction-enhancing-live-broadcasts-with-desktop-share-for-2024/"><u>[New] Direct Interaction  Enhancing Live Broadcasts with Desktop Share for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-find-the-perfect-video-collaboration-app-our-choice-of-10-free-tools-for-2024/"><u>[New] Find the Perfect Video Collaboration App  Our Choice of 10 Free Tools for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-professional-rl-broadcasts/"><u>[New] In 2024, Secrets of Professional RL Broadcasts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/new-in-2024-whatsapp-video-transfers-from-tweeted-content/"><u>[New] In 2024, WhatsApp Video Transfers From Tweeted Content</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/new-unleash-the-power-of-tiktok-convert-to-high-quality-mp4s-for-2024/"><u>[New] Unleash the Power of TikTok  Convert to High-Quality MP4s for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/updated-ae-user-guide-adding-flavor-with-typefaces/"><u>[Updated] AE User Guide  Adding Flavor with Typefaces</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[Updated] In 2024, Elevating Your Channel  Maximizing AdSense on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-building-community-through-thoughtful-facebook-giveaways/"><u>2024 Approved  Building Community Through Thoughtful Facebook Giveaways</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/2024-approved-haptic-feedback-in-e-commerce-trials/"><u>2024 Approved  Haptic Feedback in E-Commerce Trials</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/2024-approved-jovial-media-grabber-critique/"><u>2024 Approved  Jovial Media Grabber Critique</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-guide-to-zoom-use-on-windows-pcs-win10/"><u>A Step-by-Step Guide to Zoom Use on Windows PCs (Win10)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/amplifying-impact-youtube-visibility-techniques/"><u>Amplifying Impact  YouTube Visibility Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/an-in-depth-review-of-dji-drone-model-3s-performance-for-2024/"><u>An In-Depth Review of DJI Drone Model 3'S Performance for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-barriers-to-affordable-editing-power-for-2024/"><u>Breaking Down Barriers to Affordable Editing Power for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cinematic-quality-anywhere-choosing-top-phones-with-optimal-stability/"><u>Cinematic Quality Anywhere  Choosing Top Phones with Optimal Stability</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/classroom-vids-essential-editing-strategies/"><u>Classroom Vids  Essential Editing Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-seamless-gift-discovery-journey-for-2024/"><u>Crafting a Seamless Gift Discovery Journey for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-memes-with-ease-on-9gag-platform-for-2024/"><u>Crafting Memes with Ease on 9GAG Platform for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-transitions-for-kinemaster-users/"><u>Cutting Edge Transitions for Kinemaster Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/al-dominance-top-youtube-watch-count-chronicles/"><u>Digital Dominance  Top YouTube Watch Count Chronicles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-videos-mastering-the-art-of-srt-in-mp4/"><u>Elevate Your Videos  Mastering the Art of SRT in MP4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos/"><u>Explore a World of Sound  The Ultimate Guide to Android's Music Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flawless-frames-the-10-best-websites-for-wallpapers-on-your-pc/"><u>Flawless Frames  The 10 Best Websites for Wallpapers on Your PC</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-c65-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco C65 Pictures  An Easy Method Explained.</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-13-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 13 How to Bypass?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-asus-mg28uq-4k-monitor-review/"><u>In 2024, ASUS MG28UQ 4K Monitor Review</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/in-2024-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>In 2024, Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/in-2024-turnout-videos-backwards-easily-on-android/"><u>In 2024, Turnout Videos Backwards Easily on Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/luminous-language-the-secret-of-dynamic-story-titles/"><u>Luminous Language  The Secret of Dynamic Story Titles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-facebook-giveaways-a-step-by-step-guide/"><u>Mastering Facebook Giveaways  A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-screen-size-for-youtube-videos/"><u>Maximize Screen Size for YouTube Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/new-2024-approved-local-video-streaming-made-easy-chromecast-guide-for-windows-mac-android-and-ios-devices/"><u>New 2024 Approved Local Video Streaming Made Easy Chromecast Guide for Windows, Mac, Android, and iOS Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-5-iphones-for-podcast-aficionados/"><u>Premier 5 iPhones for Podcast Aficionados</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/-video-strategies-selecting-perfect-format-for-youtube/"><u>Prime Video Strategies – Selecting Perfect Format for YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/selecting-superior-audio-our-picks-for-the-top-6-live-stream-enhancers/"><u>Selecting Superior Audio  Our Picks for the Top 6 Live-Stream Enhancers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spectacular-vision-immersive-movies/"><u>Spectacular Vision  Immersive Movies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/steady-shots-how-to-avoid-lens-cloudiness/"><u>Steady Shots  How to Avoid Lens Cloudiness</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-approach-to-stream-flawless-events-with-zoom-on-youtube/"><u>Step-by-Step Approach to Stream Flawless Events with Zoom on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategies-for-effective-b-roll-application/"><u>Strategies for Effective B-Roll Application</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/the-essentials-of-professional-editing-in-gopro-studio/"><u>The Essentials of Professional Editing in GoPro Studio</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-tier-extended-reality-experience-makers/"><u>Top-Tier Extended Reality Experience Makers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 4G? | Dr.fone</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Dance of the Feathers  Analyzing Parrot&#39;s Flight in Bebop 2&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 11:35:59</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 11:35:59
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/decoding-whatsapps-audio-transmission-techniques/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Decoding WhatsApp&#39;s Audio Transmission Techniques</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/cultivating-a-loyal-viewership-base-on-youtube/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Cultivating a Loyal Viewership Base on Youtube</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Dance of the Feathers  Analyzing Parrot&#39;s Flight in Bebop 2&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Dance-of-the-Feathers-Analyzing-Parrot%E2%80%99s-Flight-in-Bebop-2"><span class="nav-text">Dance of the Feathers: Analyzing Parrot’s Flight in Bebop 2</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Parrot-Bebop-2-Review"><span class="nav-text">Parrot Bebop 2 Review</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Pros-and-Cons-of-Parrot-Bebop-2"><span class="nav-text">Pros and Cons of Parrot Bebop 2</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Complete-review-for-Parrot-Bebop-2"><span class="nav-text">Complete review for Parrot Bebop 2</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

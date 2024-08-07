@@ -607,15 +607,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -637,481 +637,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/d1qyqc5M-UHwoefmYHVs46ZYRuY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-upload-a-podcast-to-spotify-featured-c9d043ed37d04b0dac14c907747f6b54.jpg" alt="&#34;Perfect Pairings  Blending Tracks with Cubase Essentials&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Perfect Pairings  Blending Tracks with Cubase Essentials&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:31:21</span>
-        <span class="mobile">2024-07-27 09:31:21</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:31:21</span>
-            <span class="mobile">2024-07-28 09:31:21</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Perfect-Pairings-Blending-Tracks-with-Cubase-Essentials"><a href="#Perfect-Pairings-Blending-Tracks-with-Cubase-Essentials" class="headerlink" title="Perfect Pairings: Blending Tracks with Cubase Essentials"></a>Perfect Pairings: Blending Tracks with Cubase Essentials</h2><p>Being a top-notch editor, you’d anticipate the cross-fade Logic Pro to perform at its highest level as Logic has added more and more features. Music industry experts may create and edit dynamic audio tracks utilizing step-sequencing, multi-device editing, and live looping features with the help of the Logic Pro crossfades and full audio editing features it offers. Modern synthesizers, retro gear, and intricate multi-sampled instruments are just a few of the plugins and sounds that are included with Logic Pro X.</p>
-<p>One of Apple’s hidden crown jewels for a number of years now has been the music creation program Logic Pro X. Logic Pro keeps becoming better and better. Fades make it easier to segue between different parts of a composition or between different track components. Audio and MIDI zones in the workspace may be faded in or out in a number of ways in Logic Pro X. Find out the detailed steps to Logic Pro crossfade in the upcoming sections.</p>
-<h2 id="Part-1-Steps-to-Crossfade-Audio-in-Logic-Pro-X"><a href="#Part-1-Steps-to-Crossfade-Audio-in-Logic-Pro-X" class="headerlink" title="Part 1. Steps to Crossfade Audio in Logic Pro X"></a>Part 1. Steps to Crossfade Audio in Logic Pro X</h2><p>Users of any iOS device may control audio filters, mix multiple tracks, and play built-in software instruments using the Logic Remote feature. The fastest method to do a fade in or fade out is to use the fade tool on a loop, sample, recording, or whole track. The fade tool can currently only be used with audio regions, however utilizing this technique, a fade may be swiftly created in only a few seconds.</p>
-<h5 id="Step1-Create-two-tracks"><a href="#Step1-Create-two-tracks" class="headerlink" title="Step1 Create two tracks"></a>Step1 Create two tracks</h5><p>Your audio files should be imported into two new stereo Audio Tracks that you create in the Arrange section.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/create-two-tracks-logic-prox.jpg"
-                      alt="create two tracks logic prox"
-                ></p>
-<h5 id="Step2-Connect-Two-Audio-Regions"><a href="#Step2-Connect-Two-Audio-Regions" class="headerlink" title="Step2 Connect Two Audio Regions"></a>Step2 Connect Two Audio Regions</h5><p>On the grid, place two audio areas next to one another. Crossfading may be used with two entirely different audio regions or a duplication of a single audio region.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/connect-two-audio-regions-prox.jpg"
-                      alt="connect two audio regions prox"
-                ></p>
-<h5 id="Step3-Choose-the-Fade-Tool"><a href="#Step3-Choose-the-Fade-Tool" class="headerlink" title="Step3 Choose the Fade Tool"></a>Step3 Choose the Fade Tool</h5><p>You will choose every region on a track when you browse to it in the track header section. If the music contains numerous regions, you should choose the first area to deal with as executing a cross-fade requires you to first pick the regions you’d want to have the fade effect. Select the Fade Tool from the drop-down option for the Left-Click Tool.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/change-fade-tool-logic-prox.jpg"
-                      alt="change fade tool logic prox"
-                ></p>
-<h5 id="Step4-Create-a-crossfade"><a href="#Step4-Create-a-crossfade" class="headerlink" title="Step4 Create a crossfade"></a>Step4 Create a crossfade</h5><p>Although it works as intended, moving the volume fader on one of the channel strips to switch between two recordings is not really enjoyable. Let’s make the crossfader larger.</p>
-<p><strong>New &gt; Horizontal 4; Fader</strong></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/gmail-backup.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/create-crossfade-logic-prox.jpg"
-                      alt="create crossfade logic prox"
-                ></p>
-<p>You now have total discretion over the fader’s look. Changing it afterwards is always an option; just choose the appropriate Style in the Inspector.</p>
-<h2 id="Part-2-Alternative-Way-to-Crossfade-Audio"><a href="#Part-2-Alternative-Way-to-Crossfade-Audio" class="headerlink" title="Part 2. Alternative Way to Crossfade Audio"></a>Part 2. Alternative Way to Crossfade Audio</h2><p>Once adjusted, you may listen to your music library in a new manner; but, with Logic Pro X, it’s rather a laborious effort to do so. This audio mixing approach instantly improves the way your music collection is played seem more professional and makes listening to it more enjoyable. So, to crossfade Logic recordings, we advise utilizing <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. At a fraction of the price of powerful digital audio workstations like Pro Tools, Filmora delivers virtually all the functionality and versatility, if not the usability or aesthetic appeal.</p>
-<p>It’s difficult to go wrong with <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> whether you’re seeking to start podcasting or recording music. It is a thorough audio editor for podcasts, audio restoration, and post-production of videos. Anyone who wishes to make and manage their own audio files should definitely choose it. Everything from clipping and chopping audio clips to adding special effects and recording sound is possible with this application. Additionally, using Filmora is very easy. Users can quickly access some of the program’s most popular features thanks to its wizard interface.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<h5 id="Step1-Launch-Filmora-and-Add-Files-to-Timeline"><a href="#Step1-Launch-Filmora-and-Add-Files-to-Timeline" class="headerlink" title="Step1 Launch Filmora and Add Files to Timeline"></a>Step1 Launch Filmora and Add Files to Timeline</h5><p>Due to the likelihood that you have previously downloaded and installed the program, begin by launching it. To accomplish this, either click on the desktop icon or enter “Filmora” into the desktop search box. After the program has successfully started, you must choose the Video Editor option. The next step involves importing the files on which you want to utilize the audio transition. Click the Import button in the software’s default layout, as shown below, to do that.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png"
-                      alt="launch filmora and add files"
-                ></p>
-<p>Additionally, the software may import several file types. Then, these files may be modified utilizing functions like smooth-fading and synchronization.</p>
-<h5 id="Step2-Split-the-audio-track-to-Fade"><a href="#Step2-Split-the-audio-track-to-Fade" class="headerlink" title="Step2 Split the audio track to Fade"></a>Step2 Split the audio track to Fade</h5><p>As you did when you imported and moved your audio files across the timeline as previously discussed, you can now use the splitting audio technique to clip off the parts of your audio files where you want to create audio transitions. To do this, choose the audio file, then, as seen below, click the Split symbol at the timeline’s top:</p>
-<h5 id="Step3-Fade-the-Tracks"><a href="#Step3-Fade-the-Tracks" class="headerlink" title="Step3 Fade the Tracks"></a>Step3 Fade the Tracks</h5><p>In the next step, the two icons will appear above the audio file after you’ve chosen it in the timeline and selected the audio file you wish to modify. Drag the first one to the time you want the audio fade-in choice to last, as shown:</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg"
-                      alt="fade the tracks"
-                ></p>
-<p>Click and drag the other icon in Filmora to the required length to complete the fade-out. Playing the file inside the timeline of the Filmora preview layout will allow you to hear the soundtrack.</p>
-<h5 id="Step4-Export-the-Faded-File"><a href="#Step4-Export-the-Faded-File" class="headerlink" title="Step4 Export the Faded File"></a>Step4 Export the Faded File</h5><p>Start saving your faded file to your PC in the proper location and format by downloading it there in the last step. Use your software’s primary interface’s Export button, which is located in the upper right corner, to do this quickly. The edited audio clip may be simply uploaded to your YouTube channel as well. Go to the YouTube menu bar at the top of your Export window as follows, choose Sign in, and then enter your YouTube channel in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to upload and share your audio-altered file straight away:</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png"
-                      border="0"
-                ></a><br><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Related-FAQs-of-Crossfading"><a href="#Part-3-Related-FAQs-of-Crossfading" class="headerlink" title="Part 3. Related FAQs of Crossfading"></a>Part 3. Related FAQs of Crossfading</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-What-does-crossfading-mean"><a href="#1-What-does-crossfading-mean" class="headerlink" title="1. What does crossfading mean?"></a>1. What does crossfading mean?</h3><p>Your audio, or any particular portion of your audio, may have a variety of transitions thanks to the crossfades tool. It’s crucial to make a crossfade at the border where the edit takes place while editing. Right side fades in, left side fades out, and the fades cross at the location of the edit. If the cross fade isn’t accomplished, it’s probable that there may be an audible click or pop.</p>
-<h3 id="2-How-do-I-add-crossfade"><a href="#2-How-do-I-add-crossfade" class="headerlink" title="2. How do I add crossfade?"></a>2. How do I add crossfade?</h3><p>to make the second clip’s audio fade up as the first clip’s audio fades down. Audio from both clips is audible during the crossfade. Move the mouse toward the bottom of the track, near to a region border. The pointer will transform into a crossfade-like symbol. A crossfade will emerge, centered on the border, when you click and move the pointer to the left or the right. Cross dissolves, a kind of video transition, are comparable to crossfades.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever.<br></a></p>
-<!-- affiliate ads end -->
-<h3 id="3-How-do-you-crossfade-MIDI-logic"><a href="#3-How-do-you-crossfade-MIDI-logic" class="headerlink" title="3. How do you crossfade MIDI logic?"></a>3. How do you crossfade MIDI logic?</h3><p>Unlike audio fades, MIDI fades are not implemented in the same manner. One method is to automate the volume and track automation for the fade out. Move the mouse near the bottom of the track, close to an area border, while using the Smart tool. The pointer will transform into a crossfade-like symbol.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<h5 id="Step1-Launch-Filmora-and-Add-Files-to-Timeline-1"><a href="#Step1-Launch-Filmora-and-Add-Files-to-Timeline-1" class="headerlink" title="Step1 Launch Filmora and Add Files to Timeline"></a>Step1 Launch Filmora and Add Files to Timeline</h5><p>Due to the likelihood that you have previously downloaded and installed the program, begin by launching it. To accomplish this, either click on the desktop icon or enter “Filmora” into the desktop search box. After the program has successfully started, you must choose the Video Editor option. The next step involves importing the files on which you want to utilize the audio transition. Click the Import button in the software’s default layout, as shown below, to do that.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png"
-                      alt="launch filmora and add files"
-                ></p>
-<p>Additionally, the software may import several file types. Then, these files may be modified utilizing functions like smooth-fading and synchronization.</p>
-<h5 id="Step2-Split-the-audio-track-to-Fade-1"><a href="#Step2-Split-the-audio-track-to-Fade-1" class="headerlink" title="Step2 Split the audio track to Fade"></a>Step2 Split the audio track to Fade</h5><p>As you did when you imported and moved your audio files across the timeline as previously discussed, you can now use the splitting audio technique to clip off the parts of your audio files where you want to create audio transitions. To do this, choose the audio file, then, as seen below, click the Split symbol at the timeline’s top:</p>
-<h5 id="Step3-Fade-the-Tracks-1"><a href="#Step3-Fade-the-Tracks-1" class="headerlink" title="Step3 Fade the Tracks"></a>Step3 Fade the Tracks</h5><p>In the next step, the two icons will appear above the audio file after you’ve chosen it in the timeline and selected the audio file you wish to modify. Drag the first one to the time you want the audio fade-in choice to last, as shown:</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg"
-                      alt="fade the tracks"
-                ></p>
-<p>Click and drag the other icon in Filmora to the required length to complete the fade-out. Playing the file inside the timeline of the Filmora preview layout will allow you to hear the soundtrack.</p>
-<h5 id="Step4-Export-the-Faded-File-1"><a href="#Step4-Export-the-Faded-File-1" class="headerlink" title="Step4 Export the Faded File"></a>Step4 Export the Faded File</h5><p>Start saving your faded file to your PC in the proper location and format by downloading it there in the last step. Use your software’s primary interface’s Export button, which is located in the upper right corner, to do this quickly. The edited audio clip may be simply uploaded to your YouTube channel as well. Go to the YouTube menu bar at the top of your Export window as follows, choose Sign in, and then enter your YouTube channel in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to upload and share your audio-altered file straight away:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17238-1496243"
-                      border="0" alt="" width="1000" height="1221"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1496243/17238"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Related-FAQs-of-Crossfading-1"><a href="#Part-3-Related-FAQs-of-Crossfading-1" class="headerlink" title="Part 3. Related FAQs of Crossfading"></a>Part 3. Related FAQs of Crossfading</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-What-does-crossfading-mean-1"><a href="#1-What-does-crossfading-mean-1" class="headerlink" title="1. What does crossfading mean?"></a>1. What does crossfading mean?</h3><p>Your audio, or any particular portion of your audio, may have a variety of transitions thanks to the crossfades tool. It’s crucial to make a crossfade at the border where the edit takes place while editing. Right side fades in, left side fades out, and the fades cross at the location of the edit. If the cross fade isn’t accomplished, it’s probable that there may be an audible click or pop.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png"
-                      border="0"
-                >Lyric Video Creator Professional Version</a></p>
-<!-- affiliate ads end -->
-<h3 id="2-How-do-I-add-crossfade-1"><a href="#2-How-do-I-add-crossfade-1" class="headerlink" title="2. How do I add crossfade?"></a>2. How do I add crossfade?</h3><p>to make the second clip’s audio fade up as the first clip’s audio fades down. Audio from both clips is audible during the crossfade. Move the mouse toward the bottom of the track, near to a region border. The pointer will transform into a crossfade-like symbol. A crossfade will emerge, centered on the border, when you click and move the pointer to the left or the right. Cross dissolves, a kind of video transition, are comparable to crossfades.</p>
-<h3 id="3-How-do-you-crossfade-MIDI-logic-1"><a href="#3-How-do-you-crossfade-MIDI-logic-1" class="headerlink" title="3. How do you crossfade MIDI logic?"></a>3. How do you crossfade MIDI logic?</h3><p>Unlike audio fades, MIDI fades are not implemented in the same manner. One method is to automate the volume and track automation for the fade out. Move the mouse near the bottom of the track, close to an area border, while using the Smart tool. The pointer will transform into a crossfade-like symbol.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/new-2024-approved-a-peek-behind-windows-curtain-top-30-undisclosed-tips-for-windows-11/"><u>[New] 2024 Approved  A Peek Behind Window's Curtain  Top 30 Undisclosed Tips for Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/new-2024-approved-comparing-apowersoft-and-more-a-screen-capture-deep-dive/"><u>[New] 2024 Approved  Comparing Apowersoft & More  A Screen Capture Deep Dive</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-polaroid-revelation-elevating-live-action-video-recording/"><u>[New] A Polaroid Revelation  Elevating Live-Action Video Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-amusing-tones-bestringeonsite-roundup/"><u>[New] Amusing Tones  Bestringeonsite Roundup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-benchmark-analysis-djis-drone-phantom-3/"><u>[New] Benchmark Analysis  DJI's Drone Phantom 3</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-choosing-tiktok-wallpapers/"><u>[New] Best Practices in Choosing TikTok Wallpapers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-channel-gain-strategies-for-youtube-aspirants-for-2024/"><u>[New] Channel Gain Strategies for YouTube Aspirants for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-command-prompt-wizardry-opening-srt-in-winosx/"><u>[New] Command Prompt Wizardry  Opening SRT in Win/OSX</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/rom-youtube-to-insta-a-video-posting-guide-for-2024/"><u>[New] From YouTube to Insta  A Video Posting Guide for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-in-2024-ai-assisted-naming-wizards-the-best-10-for-podcasters/"><u>[New] In 2024, AI-Assisted Naming Wizards  The Best 10 for Podcasters</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[New] In 2024, From Noob to Pro  Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-the-art-of-tiktok-intros-on-mac-devices/"><u>[New] In 2024, Mastering the Art of TikTok Intros on Mac Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-in-2024-starter-guide-to-motion-graphics-mastery/"><u>[New] In 2024, Starter Guide to Motion Graphics Mastery</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/new-transform-your-snaps-the-complete-guide-to-snapchat-editing-for-2024/"><u>[New] Transform Your Snaps  The Complete Guide to Snapchat Editing for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/new-transition-to-darkness-premiere-pro-techniques/"><u>[New] Transition to Darkness  Premiere Pro Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/new-unraveling-the-art-of-iphone-vr-video-playback/"><u>[New] Unraveling the Art of iPhone VR Video Playback</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>[Updated] Adobe Cloud Storage Demystified  Features, Functionality, and Alternatives Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-bringing-ideas-to-life-video-editing-essentials-in-windows-11/"><u>[Updated] Bringing Ideas to Life  Video Editing Essentials in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-crafting-tool/"><u>[Updated] Chuckle Crafting Tool</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/updated-digitally-liberated-fb-tunes/"><u>[Updated] Digitally Liberated FB Tunes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-files.techidaily.com/updated-in-2024-innovative-approaches-to-social-media-video-making/"><u>[Updated] In 2024, Innovative Approaches to Social Media Video Making</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-nvidia-screener-techniques-for-2024/"><u>[Updated] Seamless Integration of NVIDIA Screener Techniques for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/updated-ultimate-choice-top-mp4-players-unveiled/"><u>[Updated] Ultimate Choice  Top MP4 Players Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-audio-tuning-apps-mobiledesktop-edition/"><u>2024 Approved  Advanced Audio Tuning Apps  Mobile/Desktop Edition</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/2024-approved-instagram-filters-in-a-nutshell-get-them-right-this-year/"><u>2024 Approved  Instagram Filters in a Nutshell  Get Them Right This Year</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-xr-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone XR When Its Locked Within Seconds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-dive-into-ar-sticker-technology-and-alternatives-for-2024/"><u>A Dive Into AR Sticker Technology and Alternatives for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>Action Camera Showdown  GoPro Hero Black Meets Yi 4K Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/animationpros-complete-guide-24-for-2024/"><u>AnimationPros Complete Guide '24 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chortlechamps-excellent-platforms-for-hilarious-tones/"><u>ChortleChamps  Excellent Platforms for Hilarious Tones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-transformation-handbook-using-morphvox-tech/"><u>Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-colours-with-care-top-5-displays-reviewed/"><u>Crafting Colours with Care  Top 5 Displays Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-connection-identifying-the-best-6-videos/"><u>Creating Connection  Identifying the Best 6 Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/draft-distinctive-visual-identities-from-templates-for-free/"><u>Draft Distinctive Visual Identities From Templates for Free</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dynamic-text-designs-ready-to-go-in-after-effects/"><u>Dynamic Text Designs Ready to Go in After Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effective-strategies-using-discounted-timers/"><u>Effective Strategies Using Discounted Timers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/encompassing-synopsis-decoding-google-podcasts-app/"><u>Encompassing Synopsis  Decoding Google Podcasts App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-the-efficacy-of-magix-picture-tool/"><u>Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-play-7t-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Play 7T</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-cultivate-your-own-metaverse-humor-garden/"><u>How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-restore-deleted-y78plus-t1-edition-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Y78+ (T1) Edition Pictures  An Easy Method Explained.</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-soft-reset-realme-gt-neo-5-se-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme GT Neo 5 SE phone? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus 11R | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apex-storage-wizards-best-of-android-cloud/"><u>In 2024, Apex Storage Wizards  Best of Android Cloud</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/in-2024-inventory-a-multitude-of-video-recorders/"><u>In 2024, Inventory  A Multitude of Video Recorders</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-mastering-the-veil-of-invisibility-during-instagram-livestreams/"><u>In 2024, Mastering the Veil of Invisibility During Instagram Livestreams</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo X100 Pro Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-movie-edits-the-best-tools-ranked/"><u>Mastering Movie Edits  The Best Tools Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>Monitor Mastery  A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-editing.techidaily.com/new-what-should-be-considered-to-choose-a-nice-gopro-for-vlogging-in-2024/"><u>New What Should Be Considered to Choose A Nice GoPro for Vlogging, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-puns-smilesketchers/"><u>Picture Puns  SmileSketchers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/quick-capture-audiovisual-screen-shot/"><u>Quick Capture  Audiovisual Screen Shot</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>Quick Guide  Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speedy-image-viewer-powered-by-windows-11/"><u>Speedy Image Viewer Powered by Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streaming-soundscapes-on-your-iphone/"><u>Streaming Soundscapes on Your iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/syncing-visual-elements-across-platforms/"><u>Syncing Visual Elements Across Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-gentle-art-of-reducing-audio-amplitude-in-logic-pro/"><u>The Gentle Art of Reducing Audio Amplitude in Logic Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/the-premier-monitors-top-5-for-ps5-and-xbox-players/"><u>The Premier Monitors  Top 5 for PS5 & Xbox Players</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions/"><u>The Role of B2B Relationships in Informed Market Decisions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-cost-tally-the-podcast-start-up-expense-list/"><u>Total Cost Tally  The Podcast Start-Up Expense List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>Virtual Horizons Unveiled  Critics' Top Oculus Headsets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-vaulting-the-premier-five-of-future-storage-solutions/"><u>Virtual Vaulting  The Premier Five of Future Storage Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vuephoto-ai-enhancement-showcase/"><u>VuePhoto AI Enhancement Showcase</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/win-and-mac-users-rejoice-with-our-top-8-subtitles-to-srtr-converter-tools/"><u>Win & Mac Users, Rejoice with Our Top 8 Subtitles-to-SRTR Converter Tools</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Perfect Pairings  Blending Tracks with Cubase Essentials&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:31:21</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:31:21
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/perfect-pairings-blending-tracks-with-cubase-essentials/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/photography-tips-for-seamless-instagram-posting/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Photography Tips for Seamless Instagram Posting</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Optimal Technique  Integrating GoPro Videos Into Compreited Cinematic Universe&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Perfect Pairings  Blending Tracks with Cubase Essentials&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Perfect-Pairings-Blending-Tracks-with-Cubase-Essentials"><span class="nav-text">Perfect Pairings: Blending Tracks with Cubase Essentials</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Steps-to-Crossfade-Audio-in-Logic-Pro-X"><span class="nav-text">Part 1. Steps to Crossfade Audio in Logic Pro X</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Alternative-Way-to-Crossfade-Audio"><span class="nav-text">Part 2. Alternative Way to Crossfade Audio</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Related-FAQs-of-Crossfading"><span class="nav-text">Part 3. Related FAQs of Crossfading</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-What-does-crossfading-mean"><span class="nav-text">1. What does crossfading mean?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-How-do-I-add-crossfade"><span class="nav-text">2. How do I add crossfade?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-How-do-you-crossfade-MIDI-logic"><span class="nav-text">3. How do you crossfade MIDI logic?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Related-FAQs-of-Crossfading-1"><span class="nav-text">Part 3. Related FAQs of Crossfading</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-What-does-crossfading-mean-1"><span class="nav-text">1. What does crossfading mean?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-How-do-I-add-crossfade-1"><span class="nav-text">2. How do I add crossfade?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-How-do-you-crossfade-MIDI-logic-1"><span class="nav-text">3. How do you crossfade MIDI logic?</span></a></li></ol></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

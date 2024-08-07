@@ -617,15 +617,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -647,1221 +647,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg" alt="&#34;360 Vision Showdown  Samsung &amp; LG Camera Face Off&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;360 Vision Showdown  Samsung &amp; LG Camera Face Off&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 11:30:43</span>
-        <span class="mobile">2024-07-27 11:30:43</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 11:30:43</span>
-            <span class="mobile">2024-07-28 11:30:43</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="360-Vision-Showdown-Samsung-LG-Camera-Face-Off"><a href="#360-Vision-Showdown-Samsung-LG-Camera-Face-Off" class="headerlink" title="360 Vision Showdown: Samsung &amp; LG Camera Face Off"></a>360 Vision Showdown: Samsung &amp; LG Camera Face Off</h2><h1 id="Samsung-Gear-360-vs-LG-360-Cam-Which-360-degree-camera-is-better"><a href="#Samsung-Gear-360-vs-LG-360-Cam-Which-360-degree-camera-is-better" class="headerlink" title="Samsung Gear 360 vs LG 360 Cam: Which 360 degree camera is better"></a>Samsung Gear 360 vs LG 360 Cam: Which 360 degree camera is better</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Benjamin-Arango"><a href="#Benjamin-Arango" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >LG 360 cam <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.</p>
-<ul>
-<li><p><a href="#part1">Part 1: Basic specs comparison</a></p>
-</li>
-<li><p><a href="#part2">Part 2: Pros and Cons</a></p>
-</li>
-<li><p><a href="#part3">Part 3: Image quality comparison</a></p>
-</li>
-<li><p><a href="#part4">Part 4: Editing software comparison</a></p>
-</li>
-<li><p><a href="#part5">Part 5: Conclusion</a></p>
-</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg"
-                      alt="samsung gear 360 vs lg 360cam"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-Basic-specs-comparison"><a href="#Part-1-Basic-specs-comparison" class="headerlink" title="Part 1 Basic specs comparison"></a>Part 1 Basic specs comparison</h2><p><em>Below you can find the difference between both devices at a glance:</em></p>
-<table>
-<thead>
-<tr>
-<th><strong>Spec</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>Price</td>
-<td>$199</td>
-</tr>
-<tr>
-<td><strong>Date of Availability</strong></td>
-<td>2016-04-29</td>
-<td>2016-03-23</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>153g</td>
-<td>76.7g</td>
-</tr>
-<tr>
-<td><strong>Size</strong></td>
-<td>(66.7x56.3x60.1)mm</td>
-<td>(40 x7 x5) mm</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>microSD card type storage ranging up to 128GB</td>
-<td>4 GB flash along with Memory Card Max up to 2 TB</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1,350mAh is included</td>
-<td>1200 mAh is included</td>
-</tr>
-<tr>
-<td><strong>Body material</strong></td>
-<td>Plastic</td>
-<td>Plastic</td>
-</tr>
-<tr>
-<td><strong>Sensor</strong></td>
-<td>Dual 15MP type CMOS</td>
-<td>Dual 13 MP type CMOS</td>
-</tr>
-<tr>
-<td><strong>Lenses</strong></td>
-<td>Fisheye lens with Dual f&#x2F;2.0</td>
-<td>Dual - Fisheye Lens</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Single cam (3072x1728), Dual cam (7776x3888)</td>
-<td>5660 x 2830 (16M)</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Single cam (2560x1440), Dual cam (2840x1920)</td>
-<td>2560 x 1280 (30fps)</td>
-</tr>
-<tr>
-<td><strong>Image format</strong></td>
-<td>JPEG (EXIF 2.3)</td>
-<td>JPEG</td>
-</tr>
-<tr>
-<td><strong>Video format</strong></td>
-<td>MP4</td>
-<td>Audio : 5.1Ch and MP4(MPEG-4 AVC)</td>
-</tr>
-<tr>
-<td><strong>Tripod</strong></td>
-<td>Mini tripod included</td>
-<td>A Standard 1&#x2F;4-inch type tripod thread</td>
-</tr>
-<tr>
-<td><strong>Connectivity options</strong></td>
-<td>Wifi, NFC, Bluetooth, USB 2.0</td>
-<td>Wifi, USB 2.0, Bluetooth</td>
-</tr>
-</tbody></table>
-<p>All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:</p>
-<h2 id="Part-2-Pros-and-Cons"><a href="#Part-2-Pros-and-Cons" class="headerlink" title="Part 2 Pros and Cons"></a>Part 2 Pros and Cons</h2><table>
-<thead>
-<tr>
-<th><strong>-</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Pros</td>
-<td>Consumer 360 camera with Highest resolution</td>
-<td>Price range is low as compared to its competitor</td>
-</tr>
-<tr>
-<td>Easy to use and Self-contained</td>
-<td>Easy to operate and hold</td>
-<td></td>
-</tr>
-<tr>
-<td>Dust resistant and Splashproof</td>
-<td>More Memory capacity</td>
-<td></td>
-</tr>
-<tr>
-<td>Battery and microSD card are Replaceable</td>
-<td>Compatible with iOS and Android</td>
-<td></td>
-</tr>
-<tr>
-<td>MicroSDslot can extend support up to maximum 128GB cards</td>
-<td>It is possible to shoot using only one lens when you have to capture non 360 degree images</td>
-<td></td>
-</tr>
-<tr>
-<td>Loop recording, Time-Lapse recording, 360° spherical capture</td>
-<td>Audio quality is much better than competitor</td>
-<td></td>
-</tr>
-<tr>
-<td>Wireless Integration</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr>
-<td>Cons</td>
-<td>Big size so you cannot keep it in pocket</td>
-<td>For uploading your videos to facebook and YouTube, you may need desktop application.</td>
-</tr>
-<tr>
-<td>Its designs is not waterproof</td>
-<td>Even the desktop app do not provide any editing option to captured images</td>
-<td></td>
-</tr>
-<tr>
-<td>You need to connect it with latest Samsung phone</td>
-<td>There are some Software glitches</td>
-<td></td>
-</tr>
-<tr>
-<td>Stitch lines appear to be very apparent</td>
-<td>Battery do not come with swappable feature</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>It poses some limitations on video and photo sharing abilities</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Not water-resistant</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Doesn’t serve with internal storage space</td>
-<td></td>
-</tr>
-</tbody></table>
-<h2 id="Part-3-Image-quality-comparison"><a href="#Part-3-Image-quality-comparison" class="headerlink" title="Part 3 Image quality comparison"></a>Part 3 Image quality comparison</h2><p>When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Samsung Gear 360 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB&#x2F;second in case of Gear 360 whereas LG360 cam limits up to 19MB&#x2F;second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16396-1399701"
-                      border="0" alt="" width="960" height="300"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1399701/16396"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-4-Editing-software-comparison-comparison"><a href="#Part-4-Editing-software-comparison-comparison" class="headerlink" title="Part 4 Editing software comparison comparison"></a>Part 4 Editing software comparison comparison</h2><p>It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.</p>
-<p>Check this side-by-side video review to know more about this two 360 degree cameras:</p>
-<h2 id="Part-5-Conclusion"><a href="#Part-5-Conclusion" class="headerlink" title="Part 5 Conclusion"></a>Part 5 Conclusion</h2><p>Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-1"><a href="#Benjamin-Arango-1" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >LG 360 cam <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.</p>
-<ul>
-<li><p><a href="#part1">Part 1: Basic specs comparison</a></p>
-</li>
-<li><p><a href="#part2">Part 2: Pros and Cons</a></p>
-</li>
-<li><p><a href="#part3">Part 3: Image quality comparison</a></p>
-</li>
-<li><p><a href="#part4">Part 4: Editing software comparison</a></p>
-</li>
-<li><p><a href="#part5">Part 5: Conclusion</a></p>
-</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13794-1116855"
-                      border="0" alt="" width="767" height="285"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1116855/13794"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg"
-                      alt="samsung gear 360 vs lg 360cam"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-Basic-specs-comparison-1"><a href="#Part-1-Basic-specs-comparison-1" class="headerlink" title="Part 1 Basic specs comparison"></a>Part 1 Basic specs comparison</h2><p><em>Below you can find the difference between both devices at a glance:</em></p>
-<table>
-<thead>
-<tr>
-<th><strong>Spec</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>Price</td>
-<td>$199</td>
-</tr>
-<tr>
-<td><strong>Date of Availability</strong></td>
-<td>2016-04-29</td>
-<td>2016-03-23</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>153g</td>
-<td>76.7g</td>
-</tr>
-<tr>
-<td><strong>Size</strong></td>
-<td>(66.7x56.3x60.1)mm</td>
-<td>(40 x7 x5) mm</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>microSD card type storage ranging up to 128GB</td>
-<td>4 GB flash along with Memory Card Max up to 2 TB</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1,350mAh is included</td>
-<td>1200 mAh is included</td>
-</tr>
-<tr>
-<td><strong>Body material</strong></td>
-<td>Plastic</td>
-<td>Plastic</td>
-</tr>
-<tr>
-<td><strong>Sensor</strong></td>
-<td>Dual 15MP type CMOS</td>
-<td>Dual 13 MP type CMOS</td>
-</tr>
-<tr>
-<td><strong>Lenses</strong></td>
-<td>Fisheye lens with Dual f&#x2F;2.0</td>
-<td>Dual - Fisheye Lens</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Single cam (3072x1728), Dual cam (7776x3888)</td>
-<td>5660 x 2830 (16M)</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Single cam (2560x1440), Dual cam (2840x1920)</td>
-<td>2560 x 1280 (30fps)</td>
-</tr>
-<tr>
-<td><strong>Image format</strong></td>
-<td>JPEG (EXIF 2.3)</td>
-<td>JPEG</td>
-</tr>
-<tr>
-<td><strong>Video format</strong></td>
-<td>MP4</td>
-<td>Audio : 5.1Ch and MP4(MPEG-4 AVC)</td>
-</tr>
-<tr>
-<td><strong>Tripod</strong></td>
-<td>Mini tripod included</td>
-<td>A Standard 1&#x2F;4-inch type tripod thread</td>
-</tr>
-<tr>
-<td><strong>Connectivity options</strong></td>
-<td>Wifi, NFC, Bluetooth, USB 2.0</td>
-<td>Wifi, USB 2.0, Bluetooth</td>
-</tr>
-</tbody></table>
-<p>All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:</p>
-<h2 id="Part-2-Pros-and-Cons-1"><a href="#Part-2-Pros-and-Cons-1" class="headerlink" title="Part 2 Pros and Cons"></a>Part 2 Pros and Cons</h2><table>
-<thead>
-<tr>
-<th><strong>-</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Pros</td>
-<td>Consumer 360 camera with Highest resolution</td>
-<td>Price range is low as compared to its competitor</td>
-</tr>
-<tr>
-<td>Easy to use and Self-contained</td>
-<td>Easy to operate and hold</td>
-<td></td>
-</tr>
-<tr>
-<td>Dust resistant and Splashproof</td>
-<td>More Memory capacity</td>
-<td></td>
-</tr>
-<tr>
-<td>Battery and microSD card are Replaceable</td>
-<td>Compatible with iOS and Android</td>
-<td></td>
-</tr>
-<tr>
-<td>MicroSDslot can extend support up to maximum 128GB cards</td>
-<td>It is possible to shoot using only one lens when you have to capture non 360 degree images</td>
-<td></td>
-</tr>
-<tr>
-<td>Loop recording, Time-Lapse recording, 360° spherical capture</td>
-<td>Audio quality is much better than competitor</td>
-<td></td>
-</tr>
-<tr>
-<td>Wireless Integration</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr>
-<td>Cons</td>
-<td>Big size so you cannot keep it in pocket</td>
-<td>For uploading your videos to facebook and YouTube, you may need desktop application.</td>
-</tr>
-<tr>
-<td>Its designs is not waterproof</td>
-<td>Even the desktop app do not provide any editing option to captured images</td>
-<td></td>
-</tr>
-<tr>
-<td>You need to connect it with latest Samsung phone</td>
-<td>There are some Software glitches</td>
-<td></td>
-</tr>
-<tr>
-<td>Stitch lines appear to be very apparent</td>
-<td>Battery do not come with swappable feature</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>It poses some limitations on video and photo sharing abilities</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Not water-resistant</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Doesn’t serve with internal storage space</td>
-<td></td>
-</tr>
-</tbody></table>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png"
-                      border="0"
-                ><br></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Image-quality-comparison-1"><a href="#Part-3-Image-quality-comparison-1" class="headerlink" title="Part 3 Image quality comparison"></a>Part 3 Image quality comparison</h2><p>When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Samsung Gear 360 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB&#x2F;second in case of Gear 360 whereas LG360 cam limits up to 19MB&#x2F;second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.</p>
-<h2 id="Part-4-Editing-software-comparison-comparison-1"><a href="#Part-4-Editing-software-comparison-comparison-1" class="headerlink" title="Part 4 Editing software comparison comparison"></a>Part 4 Editing software comparison comparison</h2><p>It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.</p>
-<p>Check this side-by-side video review to know more about this two 360 degree cameras:</p>
-<h2 id="Part-5-Conclusion-1"><a href="#Part-5-Conclusion-1" class="headerlink" title="Part 5 Conclusion"></a>Part 5 Conclusion</h2><p>Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg"
-                      border="0"
-                >Greeting Card Builder</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-2"><a href="#Benjamin-Arango-2" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >LG 360 cam <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.</p>
-<ul>
-<li><p><a href="#part1">Part 1: Basic specs comparison</a></p>
-</li>
-<li><p><a href="#part2">Part 2: Pros and Cons</a></p>
-</li>
-<li><p><a href="#part3">Part 3: Image quality comparison</a></p>
-</li>
-<li><p><a href="#part4">Part 4: Editing software comparison</a></p>
-</li>
-<li><p><a href="#part5">Part 5: Conclusion</a></p>
-</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg"
-                      alt="samsung gear 360 vs lg 360cam"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075461"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075461/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-Basic-specs-comparison-2"><a href="#Part-1-Basic-specs-comparison-2" class="headerlink" title="Part 1 Basic specs comparison"></a>Part 1 Basic specs comparison</h2><p><em>Below you can find the difference between both devices at a glance:</em></p>
-<table>
-<thead>
-<tr>
-<th><strong>Spec</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>Price</td>
-<td>$199</td>
-</tr>
-<tr>
-<td><strong>Date of Availability</strong></td>
-<td>2016-04-29</td>
-<td>2016-03-23</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>153g</td>
-<td>76.7g</td>
-</tr>
-<tr>
-<td><strong>Size</strong></td>
-<td>(66.7x56.3x60.1)mm</td>
-<td>(40 x7 x5) mm</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>microSD card type storage ranging up to 128GB</td>
-<td>4 GB flash along with Memory Card Max up to 2 TB</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1,350mAh is included</td>
-<td>1200 mAh is included</td>
-</tr>
-<tr>
-<td><strong>Body material</strong></td>
-<td>Plastic</td>
-<td>Plastic</td>
-</tr>
-<tr>
-<td><strong>Sensor</strong></td>
-<td>Dual 15MP type CMOS</td>
-<td>Dual 13 MP type CMOS</td>
-</tr>
-<tr>
-<td><strong>Lenses</strong></td>
-<td>Fisheye lens with Dual f&#x2F;2.0</td>
-<td>Dual - Fisheye Lens</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Single cam (3072x1728), Dual cam (7776x3888)</td>
-<td>5660 x 2830 (16M)</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Single cam (2560x1440), Dual cam (2840x1920)</td>
-<td>2560 x 1280 (30fps)</td>
-</tr>
-<tr>
-<td><strong>Image format</strong></td>
-<td>JPEG (EXIF 2.3)</td>
-<td>JPEG</td>
-</tr>
-<tr>
-<td><strong>Video format</strong></td>
-<td>MP4</td>
-<td>Audio : 5.1Ch and MP4(MPEG-4 AVC)</td>
-</tr>
-<tr>
-<td><strong>Tripod</strong></td>
-<td>Mini tripod included</td>
-<td>A Standard 1&#x2F;4-inch type tripod thread</td>
-</tr>
-<tr>
-<td><strong>Connectivity options</strong></td>
-<td>Wifi, NFC, Bluetooth, USB 2.0</td>
-<td>Wifi, USB 2.0, Bluetooth</td>
-</tr>
-</tbody></table>
-<p>All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:</p>
-<h2 id="Part-2-Pros-and-Cons-2"><a href="#Part-2-Pros-and-Cons-2" class="headerlink" title="Part 2 Pros and Cons"></a>Part 2 Pros and Cons</h2><table>
-<thead>
-<tr>
-<th><strong>-</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Pros</td>
-<td>Consumer 360 camera with Highest resolution</td>
-<td>Price range is low as compared to its competitor</td>
-</tr>
-<tr>
-<td>Easy to use and Self-contained</td>
-<td>Easy to operate and hold</td>
-<td></td>
-</tr>
-<tr>
-<td>Dust resistant and Splashproof</td>
-<td>More Memory capacity</td>
-<td></td>
-</tr>
-<tr>
-<td>Battery and microSD card are Replaceable</td>
-<td>Compatible with iOS and Android</td>
-<td></td>
-</tr>
-<tr>
-<td>MicroSDslot can extend support up to maximum 128GB cards</td>
-<td>It is possible to shoot using only one lens when you have to capture non 360 degree images</td>
-<td></td>
-</tr>
-<tr>
-<td>Loop recording, Time-Lapse recording, 360° spherical capture</td>
-<td>Audio quality is much better than competitor</td>
-<td></td>
-</tr>
-<tr>
-<td>Wireless Integration</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr>
-<td>Cons</td>
-<td>Big size so you cannot keep it in pocket</td>
-<td>For uploading your videos to facebook and YouTube, you may need desktop application.</td>
-</tr>
-<tr>
-<td>Its designs is not waterproof</td>
-<td>Even the desktop app do not provide any editing option to captured images</td>
-<td></td>
-</tr>
-<tr>
-<td>You need to connect it with latest Samsung phone</td>
-<td>There are some Software glitches</td>
-<td></td>
-</tr>
-<tr>
-<td>Stitch lines appear to be very apparent</td>
-<td>Battery do not come with swappable feature</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>It poses some limitations on video and photo sharing abilities</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Not water-resistant</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Doesn’t serve with internal storage space</td>
-<td></td>
-</tr>
-</tbody></table>
-<h2 id="Part-3-Image-quality-comparison-2"><a href="#Part-3-Image-quality-comparison-2" class="headerlink" title="Part 3 Image quality comparison"></a>Part 3 Image quality comparison</h2><p>When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Samsung Gear 360 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB&#x2F;second in case of Gear 360 whereas LG360 cam limits up to 19MB&#x2F;second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-4-Editing-software-comparison-comparison-2"><a href="#Part-4-Editing-software-comparison-comparison-2" class="headerlink" title="Part 4 Editing software comparison comparison"></a>Part 4 Editing software comparison comparison</h2><p>It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.</p>
-<p>Check this side-by-side video review to know more about this two 360 degree cameras:</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-5-Conclusion-2"><a href="#Part-5-Conclusion-2" class="headerlink" title="Part 5 Conclusion"></a>Part 5 Conclusion</h2><p>Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<h5 id="Benjamin-Arango-3"><a href="#Benjamin-Arango-3" class="headerlink" title="Benjamin Arango"></a>Benjamin Arango</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 Edge, although Samsung is not a well known name in the world of VR gadgets but still few people use to prefer this brand especially, whereas on the other side <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >LG 360 cam <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> was launched to work in association with all Android as well as OS devices. Both of these cameras have almost same kind of features so people are not able to decide easily that which one to buy; definitely they need a reliable comparison between both gadgets so that better decision can be made. Actually there is some different between image and video quality that you must know along with few other major features.</p>
-<ul>
-<li><p><a href="#part1">Part 1: Basic specs comparison</a></p>
-</li>
-<li><p><a href="#part2">Part 2: Pros and Cons</a></p>
-</li>
-<li><p><a href="#part3">Part 3: Image quality comparison</a></p>
-</li>
-<li><p><a href="#part4">Part 4: Editing software comparison</a></p>
-</li>
-<li><p><a href="#part5">Part 5: Conclusion</a></p>
-</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg"
-                      alt="samsung gear 360 vs lg 360cam"
-                ></p>
-<h2 id="Part-1-Basic-specs-comparison-3"><a href="#Part-1-Basic-specs-comparison-3" class="headerlink" title="Part 1 Basic specs comparison"></a>Part 1 Basic specs comparison</h2><p><em>Below you can find the difference between both devices at a glance:</em></p>
-<table>
-<thead>
-<tr>
-<th><strong>Spec</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>Price</td>
-<td>$199</td>
-</tr>
-<tr>
-<td><strong>Date of Availability</strong></td>
-<td>2016-04-29</td>
-<td>2016-03-23</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>153g</td>
-<td>76.7g</td>
-</tr>
-<tr>
-<td><strong>Size</strong></td>
-<td>(66.7x56.3x60.1)mm</td>
-<td>(40 x7 x5) mm</td>
-</tr>
-<tr>
-<td><strong>Memory</strong></td>
-<td>microSD card type storage ranging up to 128GB</td>
-<td>4 GB flash along with Memory Card Max up to 2 TB</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1,350mAh is included</td>
-<td>1200 mAh is included</td>
-</tr>
-<tr>
-<td><strong>Body material</strong></td>
-<td>Plastic</td>
-<td>Plastic</td>
-</tr>
-<tr>
-<td><strong>Sensor</strong></td>
-<td>Dual 15MP type CMOS</td>
-<td>Dual 13 MP type CMOS</td>
-</tr>
-<tr>
-<td><strong>Lenses</strong></td>
-<td>Fisheye lens with Dual f&#x2F;2.0</td>
-<td>Dual - Fisheye Lens</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Single cam (3072x1728), Dual cam (7776x3888)</td>
-<td>5660 x 2830 (16M)</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Single cam (2560x1440), Dual cam (2840x1920)</td>
-<td>2560 x 1280 (30fps)</td>
-</tr>
-<tr>
-<td><strong>Image format</strong></td>
-<td>JPEG (EXIF 2.3)</td>
-<td>JPEG</td>
-</tr>
-<tr>
-<td><strong>Video format</strong></td>
-<td>MP4</td>
-<td>Audio : 5.1Ch and MP4(MPEG-4 AVC)</td>
-</tr>
-<tr>
-<td><strong>Tripod</strong></td>
-<td>Mini tripod included</td>
-<td>A Standard 1&#x2F;4-inch type tripod thread</td>
-</tr>
-<tr>
-<td><strong>Connectivity options</strong></td>
-<td>Wifi, NFC, Bluetooth, USB 2.0</td>
-<td>Wifi, USB 2.0, Bluetooth</td>
-</tr>
-</tbody></table>
-<p>All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-1873313"
-                      border="0" alt="" width="1080" height="1263"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1873313/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-Pros-and-Cons-3"><a href="#Part-2-Pros-and-Cons-3" class="headerlink" title="Part 2 Pros and Cons"></a>Part 2 Pros and Cons</h2><table>
-<thead>
-<tr>
-<th><strong>-</strong></th>
-<th><strong>Samsung Gear 360</strong></th>
-<th><strong>LG 360 Cam</strong></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>Pros</td>
-<td>Consumer 360 camera with Highest resolution</td>
-<td>Price range is low as compared to its competitor</td>
-</tr>
-<tr>
-<td>Easy to use and Self-contained</td>
-<td>Easy to operate and hold</td>
-<td></td>
-</tr>
-<tr>
-<td>Dust resistant and Splashproof</td>
-<td>More Memory capacity</td>
-<td></td>
-</tr>
-<tr>
-<td>Battery and microSD card are Replaceable</td>
-<td>Compatible with iOS and Android</td>
-<td></td>
-</tr>
-<tr>
-<td>MicroSDslot can extend support up to maximum 128GB cards</td>
-<td>It is possible to shoot using only one lens when you have to capture non 360 degree images</td>
-<td></td>
-</tr>
-<tr>
-<td>Loop recording, Time-Lapse recording, 360° spherical capture</td>
-<td>Audio quality is much better than competitor</td>
-<td></td>
-</tr>
-<tr>
-<td>Wireless Integration</td>
-<td>-</td>
-<td></td>
-</tr>
-<tr>
-<td>Cons</td>
-<td>Big size so you cannot keep it in pocket</td>
-<td>For uploading your videos to facebook and YouTube, you may need desktop application.</td>
-</tr>
-<tr>
-<td>Its designs is not waterproof</td>
-<td>Even the desktop app do not provide any editing option to captured images</td>
-<td></td>
-</tr>
-<tr>
-<td>You need to connect it with latest Samsung phone</td>
-<td>There are some Software glitches</td>
-<td></td>
-</tr>
-<tr>
-<td>Stitch lines appear to be very apparent</td>
-<td>Battery do not come with swappable feature</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>It poses some limitations on video and photo sharing abilities</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Not water-resistant</td>
-<td></td>
-</tr>
-<tr>
-<td>-</td>
-<td>Doesn’t serve with internal storage space</td>
-<td></td>
-</tr>
-</tbody></table>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Image-quality-comparison-3"><a href="#Part-3-Image-quality-comparison-3" class="headerlink" title="Part 3 Image quality comparison"></a>Part 3 Image quality comparison</h2><p>When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Samsung Gear 360 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB&#x2F;second in case of Gear 360 whereas LG360 cam limits up to 19MB&#x2F;second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.</p>
-<h2 id="Part-4-Editing-software-comparison-comparison-3"><a href="#Part-4-Editing-software-comparison-comparison-3" class="headerlink" title="Part 4 Editing software comparison comparison"></a>Part 4 Editing software comparison comparison</h2><p>It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.</p>
-<p>Check this side-by-side video review to know more about this two 360 degree cameras:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084396"
-                      border="0" alt="" width="1920" height="700"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084396/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-5-Conclusion-3"><a href="#Part-5-Conclusion-3" class="headerlink" title="Part 5 Conclusion"></a>Part 5 Conclusion</h2><p>Price difference of both devices is well reflected in the comparison table above and you got enough information about their features too. The gear 360 results better looking images along with better color distributions but in case of LG the image as well as video quality is comparatively degraded; Although, LG cam is much faster and discrete design but for professional photographers it will not result better output. The two additional shooting modes of Gear 360 also allows better quality of videos and its compatibility with Samsung smartphones allows easy editing and uploading. After getting real time users recommendations and their reviews, users are advised to prefer Samsung GEAR 360 for their Virtual Reality needs but those who cannot compromise for price range can go for LG360 device as its audio quality is much better than Samsung gear 360 along with ability to connect with Android as well as iOS devices.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg"
-                      border="0"
-                ><br>    Home Use license is dedicated for personal, non-commercial use only.<br>    If Action! is used for commercial gain or to further any commercial purpose,<br>    a Commercial Use license is required. Multi-license (volume discount) is intended for single </p>
-<pre><code>company, user or members of the same household. Action! - screen and game recorder&lt;/a&gt;
-</code></pre>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Benjamin Arango</p>
-<p>Benjamin Arango is a writer and a lover of all things video.</p>
-<p>Follow @Benjamin Arango</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-insight-where-streaming-meets-originality/"><u>[New] 2024 Approved  Vimeo Insight  Where Streaming Meets Originality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-teachers-journey-through-multimedia-educational-practices/"><u>[New] A Teacher’s Journey Through Multimedia Educational Practices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-loyal-following-with-respectful-requests/"><u>[New] In 2024, Building a Loyal Following with Respectful Requests</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/new-luts-unveiled-transforming-the-lands-market/"><u>[New] LUTs Unveiled  Transforming the Lands Market</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/new-mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>[New] Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-top-6-best-4k-dslr-cameras/"><u>[New] Top 6 Best 4K DSLR Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-7-steps-to-sensational-surprise-revelation/"><u>[Updated] 7 Steps to Sensational Surprise Revelation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-the-art-of-engaging-audiences-with-facebooks-split-screen-tech-for-2024/"><u>[Updated] The Art of Engaging Audiences with Facebook's Split Screen Tech for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/2024-approved-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>2024 Approved  Crafting Videos with Precision  Leveraging StoryRemix in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/access-all-nba-games-effortlessly-top-15-streaming-methods-for-2024/"><u>Access All NBA Games Effortlessly  Top 15 Streaming Methods for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/best-infinix-hot-30-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Hot 30 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-photo-workflow-in-windows-11/"><u>Boost Your Photo Workflow in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-conversational-content-for-your-subscribers-for-2024/"><u>Crafting Conversational Content for Your Subscribers for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/cutting-clutter-best-windows-apps-to-disable/"><u>Cutting Clutter: Best Windows Apps to Disable</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/digital-video-capturing-demystified-systematic-guide-for-2024/"><u>Digital Video Capturing Demystified  Systematic Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-the-wonders-of-a-vr-device/"><u>Discovering the Wonders of a VR Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/djix-fpv-goggles-usability-test-summary/"><u>DJiX FPV Goggles Usability Test Summary</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-mac-broadcast-top-5-live-streaming-applications/"><u>Elevate Your Mac Broadcast  Top 5 Live Streaming Applications</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi 13C FRP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-your-live-stream-our-picks-from-the-top-6-microphones/"><u>Perfecting Your Live Stream  Our Picks From the Top 6 Microphones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seo-excellence-transforming-podcast-discoverability/"><u>SEO Excellence  Transforming Podcast Discoverability</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/serene-visual-narratives-for-bedtime-for-2024/"><u>Serene Visual Narratives for Bedtime for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smilesphere-explore-limitless-meme-landscapes/"><u>SmileSphere  Explore Limitless Meme Landscapes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-insiders-guide-to-streaming-events-seamlessly-with-zoom-and-youtube/"><u>The Insider's Guide to Streaming Events Seamlessly with Zoom and YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-2024-vista-into-vivacuts-video-editing-world/"><u>The Ultimate 2024 Vista Into VivaCut's Video Editing World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users/"><u>Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-best-4k-blu-ray-players/"><u>Top 8 Best 4K Blu-Ray Players</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>Transform Your Movies  Tips for Amazing Slow Motion on Android Phones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers/"><u>Transform Your Tactics  Exclusive Free Voice Change Tool for Valorant Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-power-of-personalized-zodiac-inspired-biographies/"><u>Unlocking the Power of Personalized Zodiac-Inspired Biographies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unmatched-portfolio-boosters-top-free-3d-texts/"><u>Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;360 Vision Showdown  Samsung &amp; LG Camera Face Off&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 11:30:43</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 11:30:43
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/360-vision-showdown-samsung-and-lg-camera-face-off/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/4k-camera-guide-low-cost-options-(1000-for-2024/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;4K Camera Guide  Low-Cost Options &lt;$1,000 for 2024&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/360-camera-rigsmounts-for-vr-video-production-for-2024/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">360 Camera Rigs/Mounts for VR Video Production for 2024</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;360 Vision Showdown  Samsung &amp; LG Camera Face Off&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#360-Vision-Showdown-Samsung-LG-Camera-Face-Off"><span class="nav-text">360 Vision Showdown: Samsung &amp; LG Camera Face Off</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#Samsung-Gear-360-vs-LG-360-Cam-Which-360-degree-camera-is-better"><span class="nav-text">Samsung Gear 360 vs LG 360 Cam: Which 360 degree camera is better</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Basic-specs-comparison"><span class="nav-text">Part 1 Basic specs comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Pros-and-Cons"><span class="nav-text">Part 2 Pros and Cons</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Image-quality-comparison"><span class="nav-text">Part 3 Image quality comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Editing-software-comparison-comparison"><span class="nav-text">Part 4 Editing software comparison comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-Conclusion"><span class="nav-text">Part 5 Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Basic-specs-comparison-1"><span class="nav-text">Part 1 Basic specs comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Pros-and-Cons-1"><span class="nav-text">Part 2 Pros and Cons</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Image-quality-comparison-1"><span class="nav-text">Part 3 Image quality comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Editing-software-comparison-comparison-1"><span class="nav-text">Part 4 Editing software comparison comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-Conclusion-1"><span class="nav-text">Part 5 Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Basic-specs-comparison-2"><span class="nav-text">Part 1 Basic specs comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Pros-and-Cons-2"><span class="nav-text">Part 2 Pros and Cons</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Image-quality-comparison-2"><span class="nav-text">Part 3 Image quality comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Editing-software-comparison-comparison-2"><span class="nav-text">Part 4 Editing software comparison comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-Conclusion-2"><span class="nav-text">Part 5 Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Basic-specs-comparison-3"><span class="nav-text">Part 1 Basic specs comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Pros-and-Cons-3"><span class="nav-text">Part 2 Pros and Cons</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Image-quality-comparison-3"><span class="nav-text">Part 3 Image quality comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Editing-software-comparison-comparison-3"><span class="nav-text">Part 4 Editing software comparison comparison</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-Conclusion-3"><span class="nav-text">Part 5 Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

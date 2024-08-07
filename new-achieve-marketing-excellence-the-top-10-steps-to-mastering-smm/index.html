@@ -601,15 +601,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -631,436 +631,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b19782ea8ac6138fc17b8fe856f7.jpg" alt="&#34;[New] Achieve Marketing Excellence  The Top 10 Steps to Mastering SMM&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;[New] Achieve Marketing Excellence  The Top 10 Steps to Mastering SMM&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 06:57:15</span>
-        <span class="mobile">2024-07-27 06:57:15</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 06:57:15</span>
-            <span class="mobile">2024-07-28 06:57:15</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Achieve-Marketing-Excellence-The-Top-10-Steps-to-Mastering-SMM"><a href="#Achieve-Marketing-Excellence-The-Top-10-Steps-to-Mastering-SMM" class="headerlink" title="Achieve Marketing Excellence: The Top 10 Steps to Mastering SMM"></a>Achieve Marketing Excellence: The Top 10 Steps to Mastering SMM</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.aiseesoft.com/avangate/30p/banner.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/12/become-a-successful-smm-in-10-steps-1.jpg"
-                      alt="introduction"
-                ></p>
-<p>Within the world of social media marketing, there are many different strategies. All of these options can make it easy to feel overwhelmed.</p>
-<p>But don’t worry! We’ve got some tried-and-true tips that can help you get started on your SMM journey.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17190-1725213"
-                      border="0" alt="" width="1000" height="1000"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1725213/17190"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="What-is-social-media-marketing-SMM"><a href="#What-is-social-media-marketing-SMM" class="headerlink" title="What is social media marketing (SMM)?"></a>What is social media marketing (SMM)?</h2><p>Social media marketing (SMM) typically refers to the use of online communities, social networks, and Internet media collaboration platforms to achieve marketing conversion through various methods, such as media promotion, attracting new users, and maintaining customer relationships.</p>
-<p>Social media marketing, a key battleground for new media marketing, has also provided new impetus to companies involved in traditional marketing and a boost in marketing behavior.</p>
-<p>So, how does a successful social media marketing campaign get planned and executed? Take a look at the ten ideas below.</p>
-<p><strong>1. Design Your Strategies</strong></p>
-<p>You need to follow several steps to become a successful SMM. First, define your goals and objectives. Doing this will determine what kind of content you need and if it is likely to help you reach your goals.</p>
-<p>After defining your goals and objectives, brainstorm some ideas for content that aligns with these objectives. Then set a schedule for creating this content so it can be published on time—and ensure it’s consistent!</p>
-<p>Next up: define your target audience so that every piece of content resonates with this audience—it should also be aligned with their values&#x2F;beliefs&#x2F;needs&#x2F;desires (whatever they may be).</p>
-<p>Once these things are decided, develop strategies for each social media platform based on the type of information shared (i.e., text vs. photo vs. gif vs. video).</p>
-<p><strong>2. Starting Live Broadcast</strong></p>
-<p>Because it allows you to connect with your audience in real time, live streaming is one of the most popular social media marketing tools. It will allow them to interact with you and become involved in your business.</p>
-<p>If done, live streaming can be a good way to increase brand awareness, build trust and improve customer service for your target audience.</p>
-<p>What You’ll Need:</p>
-<ul>
-<li>A camera or phone that supports live streaming (or a laptop) - You can use any device with a camera built-in or connected via a USB cable (webcam). A phone will work, too, if it supports live streaming through its camera app.</li>
-<li>When using a laptop, ensure there’s no glare from windows or lights behind you; otherwise, this could mess up how well people can see what’s happening on screen when watching via computer&#x2F;laptop screen-sharing software such as Skype or Beamr (see below).</li>
-</ul>
-<p><strong>3. Social Media Influencer</strong></p>
-<p>Social media influencer is a term used to describe a person who significantly impacts consumers’ purchasing decisions.</p>
-<p>Influencers can be celebrities and well-known public figures, but they can also be regular people with large followers and engagement on social media.</p>
-<p>Influencers can be paid or unpaid, but most receive compensation for their posts&#x2F;content.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/12/become-a-successful-smm-in-10-steps-2.jpg"
-                      alt="social media influencer"
-                ></p>
-<p><strong>4. Create Subscription Options</strong></p>
-<p>Subscription options are one of the best features of social media marketing. People who subscribe to your channel will be notified via email about all new posts you make on that channel. The subscriber can then choose to accept or decline the notification.</p>
-<p>To create a subscription option:</p>
-<ul>
-<li>Navigate to “Customize” on the top right corner of your page and select “Subscription Options” from the dropdown menu.</li>
-<li>Enter your desired name and description, then click “Save Changes” at the bottom of this section</li>
-<li>To set up a subscription:</li>
-</ul>
-<p><strong>5. Engage with your Audience</strong></p>
-<p>Engaging with your audience is a great way to keep them coming back and to ensure that your content is relevant. Here are some ways you can engage with your audience:</p>
-<ul>
-<li>Respond to comments in real-time. Responding to comments on social media is a great way to get immediate feedback from your community, show them that they’re being heard, and start discussions around topics they care about.</li>
-<li>Answer questions in the comments section of your posts or videos.</li>
-<li>Ask for feedback on new products or services you are launching. This can be as simple as asking what customers want you to create next!</li>
-</ul>
-<p><strong>6. Create User Generated Content</strong></p>
-<p>It’s important to remember that social media is about the community, so it’s important to encourage your audience members to create content.</p>
-<p>If you’re not getting user-generated content (UGC) on your website or blog, you’re losing out on a lot of potential traffic and engagement. Luckily, there are plenty of ways you can make sure that UGC happens:</p>
-<ul>
-<li>Encourage your followers to share images that relate to your brand or products using hashtags such as #yourbrandname and #yourproductsname. This will help people find those posts later when searching for related content.</li>
-<li>If someone posts something valuable on your platforms (Twitter, Instagram), comment and thank them for their contribution! It shows appreciation for their time and effort in creating something useful for others.</li>
-</ul>
-<p><strong>7. Create a Positive Brand Image</strong></p>
-<p>Create a positive brand image. The first thing you want to do is create a positive brand image for yourself and your company. This will help you stand out from the competition and set yourself up for success in all areas of social marketing, especially on social media, where people constantly look for new products or services to try out.</p>
-<p>Use the right words and images. The best way to convey this is through your website’s design, which should be clean, easy to navigate (especially on mobile), simple in style, but modern enough that it looks good with everything else being made today.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever.<br></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/12/become-a-successful-smm-in-10-steps-3.jpg"
-                      alt="create a positive brand image"
-                ></p>
-<p>It’s a good idea to choose a domain name that matches your business name precisely, so there’s no confusion when people visit it online. Or you could go for something generic but memorable like.</p>
-<p><strong>8. Create a Content Plan for your Brand</strong></p>
-<p>The first step in creating a successful SMM strategy is to create a content plan. You can create a content calendar to help you stay on track and be more efficient in your efforts.</p>
-<p>Content planning is important for SMM because it will help you stay focused on what needs to be done, how much time each task takes, and who should do it. The result of having a sound content plan will be an increase in productivity and efficiency while also allowing you to stay on track with your goals.</p>
-<p><strong>9. Keep an Eye on Competition and Trends</strong></p>
-<p>Monitor your competitors and be aware of what is happening in the industry. Take advantage of social media to keep up with industry trends and find out what your audience is interested in. Social media can also help you determine what your competition is doing.</p>
-<p><strong>10. Participate in Social Media Events</strong></p>
-<p>Social media events can be a great way to get your name out there and promote your brand.</p>
-<ul>
-<li>They are a good way to get new leads.</li>
-<li>You can also use social media events to build your brand’s reputation.</li>
-</ul>
-<h2 id="BONUS-Just-keep-sending-out-a-message"><a href="#BONUS-Just-keep-sending-out-a-message" class="headerlink" title="BONUS: Just keep sending out a message"></a>BONUS: Just keep sending out a message</h2><p>One of the most important things to remember is that consistency is the key. You need to be constantly promoting yourself, not just every so often. Don’t just post a message once and assume that people will see it and buy from you because they won’t!</p>
-<!-- affiliate ads begin -->
-<p><a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19272-2087267"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2087267/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/12/become-a-successful-smm-in-10-steps-4.jpg"
-                      alt="bonus just keep sending out message"
-                ></p>
-<p>It should be easy for people to find you on social media if they want to buy your products or services. You have to keep sending out messages and posting updates until they do!</p>
-<p>Social media can be hard work sometimes but don’t give up hope; if you keep trying, it will eventually pay off!</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/gmail-backup.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>So, there you have it, our top tips for succeeding in social media marketing.</p>
-<p>We hope this post has given you some ideas of how to get started with your SMM strategy and that it has given you some valuable insights into what makes a successful one.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-tips-for-vimeo-video-logging/"><u>[New] 2024 Approved  Essential Tips for Vimeo Video Logging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-teachers-journey-through-multimedia-educational-practices/"><u>[New] A Teacher’s Journey Through Multimedia Educational Practices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>[New] Bring Your Imaginations to Life  Time-Lapse Photography with GoPro Studio</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/rafting-exceptional-freefire-content-on-youtube-platforms/"><u>[New] Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-the-best-wedding-stories-online-youtube-plus-vimeos-selection-8/"><u>[New] The Best Wedding Stories Online  YouTube + Vimeo's Selection (8)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/new-the-dos-and-donts-of-instagram-live-for-2024/"><u>[New] The Do's and Don'ts of Instagram Live for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>[Updated] Calm Tales on Screen  Analyzing Parent-Child Bedtime Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-exclusive-game-recordings-tools-for-2024/"><u>[Updated] Exclusive Game Recordings Tools for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/approved-achieving-peak-performance-in-video-submissions-on-youtube/"><u>2024 Approved  Achieving Peak Performance in Video Submissions on YouTube</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/2024-approved-covert-content-creation-how-to-invisibly-alter-videos/"><u>2024 Approved  Covert Content Creation  How to Invisibly Alter Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/2024-approved-godslayer-chronicles-ragnarok-dawn/"><u>2024 Approved  Godslayer Chronicles  Ragnarok Dawn</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/2024-approved-leading-tips-for-mute-video-capture/"><u>2024 Approved  Leading Tips for Mute Video Capture</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/2024-approved-lightning-leap-fame-mastering-instagram-with-these-15-essential-easy-tips-for-overnight-success/"><u>2024 Approved  Lightning Leap Fame  Mastering Instagram with These 15 Essential, Easy Tips for Overnight Success</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/2024-approved-pleasurable-stream-capture-evaluation/"><u>2024 Approved  Pleasurable Stream Capture Evaluation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-compreenas-guide-for-efficient-pip-integration-in-edge-browser-for-2024/"><u>A Compreenas Guide for Efficient PIP Integration in Edge Browser for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/best-samsung-galaxy-f54-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy F54 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>Cinema Crafting Excellence  Top 5 Camera Skills to Hone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/composing-prime-canon-temporal-videos/"><u>Composing Prime Canon Temporal Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/djix-fpv-goggles-usability-test-summary/"><u>DJiX FPV Goggles Usability Test Summary</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-lineup-of-vr-bicycle-experiences/"><u>Elite Lineup of VR Bicycle Experiences</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/experts-choice-the-best-of-all-8k-cameras/"><u>Expert's Choice  The Best of All 8K Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highest-qp-for-gradual-video-playback/"><u>Highest QP for Gradual Video Playback</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-remove-stickers-from-a-tiktok-video/"><u>How To Remove Stickers From A Tiktok Video</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo K11 5G Bootloader Easily</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/in-2024-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>In 2024, Arcane Acoustics  How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-game-streaming-software-you-should-know/"><u>In 2024, Best Game Streaming Software You Should Know</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Vivo Y17s? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/in-2024-unveiling-professional-monitor-recording-by-zdsoft/"><u>In 2024, Unveiling Professional Monitor Recording by ZDSoft</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>Keeping Your TikTok Age Up-to-Date  A Quick Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>Mastering Video Conferencing  Combining the Power of ZOOM & SKYPE</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smilesphere-explore-limitless-meme-landscapes/"><u>SmileSphere  Explore Limitless Meme Landscapes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-converting-webp-to-jpeg/"><u>Step-by-Step  Converting WebP to JPEG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-2024-vista-into-vivacuts-video-editing-world/"><u>The Ultimate 2024 Vista Into VivaCut's Video Editing World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-sketch-tools-ideal-for-chromebook-users/"><u>Top 10 Sketch Tools Ideal for Chromebook Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-best-4k-blu-ray-players/"><u>Top 8 Best 4K Blu-Ray Players</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;[New] Achieve Marketing Excellence  The Top 10 Steps to Mastering SMM&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 06:57:15</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 06:57:15
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/new-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/updated-a-step-by-step-journey-to-revamping-your-win11-look/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[Updated] A Step-by-Step Journey to Revamping Your Win11 Look&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/updated-a-deep-dive-into-apples-m1-processor-power/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] A Deep Dive Into Apple&#39;s M1 Processor Power</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;[New] Achieve Marketing Excellence  The Top 10 Steps to Mastering SMM&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Achieve-Marketing-Excellence-The-Top-10-Steps-to-Mastering-SMM"><span class="nav-text">Achieve Marketing Excellence: The Top 10 Steps to Mastering SMM</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#What-is-social-media-marketing-SMM"><span class="nav-text">What is social media marketing (SMM)?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#BONUS-Just-keep-sending-out-a-message"><span class="nav-text">BONUS: Just keep sending out a message</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

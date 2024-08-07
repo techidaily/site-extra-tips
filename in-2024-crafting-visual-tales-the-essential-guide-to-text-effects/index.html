@@ -648,15 +648,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -678,782 +678,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4f39254b71c759c472e8e33a.jpg" alt="&#34;In 2024, Crafting Visual Tales  The Essential Guide to Text Effects&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;In 2024, Crafting Visual Tales  The Essential Guide to Text Effects&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:55:23</span>
-        <span class="mobile">2024-07-27 10:55:23</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:55:23</span>
-            <span class="mobile">2024-07-28 10:55:23</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Crafting-Visual-Tales-The-Essential-Guide-to-Text-Effects"><a href="#Crafting-Visual-Tales-The-Essential-Guide-to-Text-Effects" class="headerlink" title="Crafting Visual Tales: The Essential Guide to Text Effects"></a>Crafting Visual Tales: The Essential Guide to Text Effects</h2><p>Just like you use video effects to make your regular videos attractive, you need to use text effects to make your regular texts and titles visually appealing. Text effect is generally a combination of colors, textures, and styles. By tweaking these three parameters, different types of eye-catching text effects are created and used in videos so that the viewers get awestruck. Due to the popularity of certain text effects, they come in presets so that you can apply them instantly to your text.</p>
-<p>There is no doubt that After Effects is considered to be a great editor to apply text effects and animations. You can go through After Effects text tutorial and apply different text presets available. However, you should first know the popular text effects that can grab the attention of the viewers instantly. Thereafter, you can use them in your video as and when applicable. Here is the list of the top 10 best text effects that you should know.</p>
-<ol>
-<li><a href="#part1-1">Underwater Text Effect</a></li>
-<li><a href="#part1-2">Flame Text Effect</a></li>
-<li><a href="#part1-3">Glitch Text Effect</a></li>
-<li><a href="#part1-4">3D Text Effect</a></li>
-<li><a href="#part1-5">Comic Book Text Effect</a></li>
-<li><a href="#part1-6">Blurry Fade on Text Effect</a></li>
-<li><a href="#part1-7">Type on Text Effect</a></li>
-<li><a href="#part1-8">Animate Along a Path</a></li>
-<li><a href="#part1-9">Slide Text Effect</a></li>
-<li><a href="#part1-10">Stripe Text Effect</a></li>
-</ol>
-<ul>
-<li><a href="#part2">How to Create Text Effects</a></li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-Popular-Text-Effects"><a href="#Part-1-Popular-Text-Effects" class="headerlink" title="Part 1. Popular Text Effects"></a>Part 1. Popular Text Effects</h2><p>There are certain text effects that you generally come across whether you are watching movies, web series, and videos on social media or video streaming platforms. We have compiled a list of the most popular text effects that are extremely relevant in the current times in videography.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg"
-                      border="0"
-                >Greeting Card Builder</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Underwater-Text-Effect"><a href="#1-Underwater-Text-Effect" class="headerlink" title="1. Underwater Text Effect"></a>1. Underwater Text Effect</h3><p>Opening a video with the view of a beach and blue water is definitely stunning. But when you add an underwater text effect to display any title, it instantly grabs the attention of the viewers. In the underwater text effect, your text seems to be fixated or floating under the water. The text generally has a darker shade of blue over the light bluish water.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/under-water-text-effect.jpg"
-                      alt="under water text effect"
-                ></p>
-<p>The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.coolmuster.com/uploads/image/20201228/feature02.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Flame-Text-Effect"><a href="#2-Flame-Text-Effect" class="headerlink" title="2. Flame Text Effect"></a>2. Flame Text Effect</h3><p>Flame text effect is extremely common in the opening and closing credits of a video especially when it is an action video. Generally, a dark background is set against the fiery text so that the flame effect is more prominent and eye-catching. In fact, some video creators prefer a fiery background out of which the text with flame text effect emerges and make the required impact.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082538"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082538/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/flame-text-effect.jpg"
-                      alt="flame text effect"
-                ></p>
-<p>There are different variations of the flame text effect available which make the effect relevant even today. Instead of the flame text effect spread outside of the text, the effect is contained within the text when the text is large enough to accommodate flames prominently within it. Sometimes, the text is distorted as if the fire is burning the text.</p>
-<h3 id="3-Glitch-Text-Effect"><a href="#3-Glitch-Text-Effect" class="headerlink" title="3. Glitch Text Effect"></a>3. Glitch Text Effect</h3><p>Glitch text effect is an extremely popular effect in modern times where retro video effects are reaching a new high. The glitch text effect is designed to get the attention of the viewers instantly. In the glitch text effect, the text is divided into different sections and they are distorted or dispersed slightly as if your screen has a display issue.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14420-1659704"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1659704/14420"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/glitch-text-effect.jpg"
-                      alt="glitch text effect"
-                ></p>
-<p>Glitch text effect is more prominent when it is applied to a large text having a light color against a dark background. The use of shadow and blur effect to get the desired glitch effect is common. More often than not, some short straight lines like strokes are placed around the text to enhance the glitch effect. Some creators prefer glitch text effect on 3D texts for a better visual appeal.</p>
-<h3 id="4-3D-Text-Effect"><a href="#4-3D-Text-Effect" class="headerlink" title="4. 3D Text Effect"></a>4. 3D Text Effect</h3><p>3D text effect has been popular ever since its inception and its popularity has been steady in the videography world even today. Of course, with time, the effect has changed a lot to match the different niches of videos, and hence, you will come across a wide variety of 3D text effects. Starting from full screen texts and titles to adverts and promotional texts, 3D text effects find a place everywhere.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/3d-text-video-effect.jpg"
-                      alt="3d text video effect"
-                ></p>
-<p>Starting from 3D texts coming out of the background wall to 3D hologram text effect with retro look, you can apply any 3D effect to the texts and titles of your video as per relevancy. Most importantly, there is a wide scope for customization and personalization to captivate the viewers and get the message across clearly. You can go through 3D text After Effects tutorial and embed 3D texts in your video easily.</p>
-<h3 id="5-Comic-Book-Text-Effect"><a href="#5-Comic-Book-Text-Effect" class="headerlink" title="5. Comic Book Text Effect"></a>5. Comic Book Text Effect</h3><p>Comic book text effect is an old-school style but its application in funny segments of a video is quite popular. Comic book typography has a superhero feel and it is mostly used while making the transition from one segment of a video to another. You will find several interview videos where the comic book text effect is used to show titles of different segments.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/comic-book-text-effect.jpg"
-                      alt="comic book text effect"
-                ></p>
-<p>Similarly, it is used for displaying texts and titles in anime videos. The text effect has a cartoonish look and a comic background to enhance the text effect. There could also be a blasting effect in the background that can act as a highlighter. The text color in the comic text effect also has a retro feel but bright in outlook.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="6-Blurry-Fade-on-Text-Effect"><a href="#6-Blurry-Fade-on-Text-Effect" class="headerlink" title="6. Blurry Fade on Text Effect"></a>6. Blurry Fade on Text Effect</h3><p>Blurry fade on is such a pleasing effect for the human eye especially when it is in animated form. The blurry fade on effect is like looking at a word with your specs on while the words in its surrounding come with blur effect. This text effect is widely used when there is a need to highlight certain words in a sentence.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/blurry-fade-on-text-effect.jpg"
-                      alt="blurry fade on text effect"
-                ></p>
-<p>In fact, the text effect is used to highlight a few characters in a word while the others remain blurred. You can also use the effect when you are making transitions between different texts and titles. It is more like an add-on to the usual fade on effect as it adds a blurring effect. It is important to get the attention of the viewers to specific texts.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG"
-                      border="0"
-                >Simple and intuitive video editing<br>🎬 Nero Video:<br>The powerful video editing program for your Windows PC</a></p>
-<!-- affiliate ads end -->
-<h3 id="7-Type-on-Text-Effect"><a href="#7-Type-on-Text-Effect" class="headerlink" title="7. Type on Text Effect"></a>7. Type on Text Effect</h3><p>The type on text effect is also referred to as the typewriter effect. In this effect, the characters in the text appear one by one as if someone is typing it in real-time with a typewriter. A blinking cursor is placed at the end for the characters for a more realistic look. The text effect is useful for both one-liners as well as paragraphs.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/type-on-text-effect.jpg"
-                      alt="type on text effect"
-                ></p>
-<p>It breaks the monotony of showing an entire paragraph at once. Sometimes, a modified version of the type on text effect is used whereby some characters are shown and they are deleted backward and re-typed. This helps in getting the immediate attention of the viewers and they focus on the re-typed characters or words.</p>
-<h3 id="8-Animate-Along-a-Path"><a href="#8-Animate-Along-a-Path" class="headerlink" title="8. Animate Along a Path"></a>8. Animate Along a Path</h3><p>If you are looking for a customized animation for the texts in your video, you should opt for animate along a path effect. The text will move in the pre-defined path while moving along the path, there can be additional animation for the words and characters. The text is widely used for showing one-liner that comes out of nowhere and moves out of the frame following its path.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/animate-along-a-path-text-effect.jpg"
-                      alt="animate along a path text effect"
-                ></p>
-<p>You can use the effect to show certain lines that are common throughout the video. Besides, you can use it while making transition from one scene to another. Some video creators use them for opening and editing credits so that it can keep the audiences hooked instead of the usual opening and ending credits.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18409-1958374"
-                      border="0" alt="" width="300" height="300"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1958374/18409"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="9-Slide-Text-Effect"><a href="#9-Slide-Text-Effect" class="headerlink" title="9. Slide Text Effect"></a>9. Slide Text Effect</h3><p>If you have watched any informational video, you must have seen small notes sliding in from a bar at the bottom left corner. That is what the slide text effect is all about. The text slides into the video frame from a border or a stripe. The sliding in effect can be from any direction as per your preference.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png"
-                      border="0"
-                >Glarysoft File Recovery Pro - Helps to recover your lost file&#x2F;data, even permanently deleted data. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/slide-text-effect.jpg"
-                      alt="slide text effect"
-                ></p>
-<p>Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.</p>
-<h3 id="10-Stripe-Text-Effect"><a href="#10-Stripe-Text-Effect" class="headerlink" title="10. Stripe Text Effect"></a>10. Stripe Text Effect</h3><p>Just like the slide text effect, the stripe text effect is equally common in today’s informational videos that you get to see on social media and video streaming platforms. The text appears on the screen out of nowhere and the text gets surrounded by stripes on both sides.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14559-1803116"
-                      border="0" alt="" width="859" height="859"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1803116/14559"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/stripe-text-video-effect.jpg"
-                      alt="stripe text video effect"
-                ></p>
-<p>This effect is suitable to introduce titles and topics in a video. Generally, in the stripe text effect, the text style is kept as simple as possible. But you can always tweak it and add stripes within the text to make it more eye-catching.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg"
-                      border="0"
-                >OtsAV Radio Webcaster</a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-to-Create-Text-Effects"><a href="#Part-2-How-to-Create-Text-Effects" class="headerlink" title="Part 2. How to Create Text Effects?"></a>Part 2. How to Create Text Effects?</h2><p>For text effects, amateur video editors generally search for Adobe After Effects text animation tutorial. However, After Effects has a steep learning curve, and hence, an easier alternative is always in high demand. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is the best After Effects alternative where you can get a wider range of text effects. You can apply them to your texts and titles in your video instantly without prior experience. You can customize the text effects and even create effects as per your requirements. Here are the steps to add text effects to your video.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1 Download and install Wondershare Filmora on your computer. Filmora is available for both Windows and Mac users. Launch Filmora and click on New Project option.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/startup-window-01.png"
-                      alt="download and install filmora"
-                ></p>
-<p>Step2 Import your video clip under Project Media folder to which you want to add text effects.? Drag and drop it onto the timeline and go to Titles menu option. You will see different categories text effects on the left panel. Some of them are static effects while others are animations.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/add-title-text-to-video-filmora.jpg"
-                      alt="add title text to video filmora"
-                ></p>
-<p>Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg"
-                      alt="customize text title video filmora"
-                ></p>
-<p>Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a></p>
-<!-- affiliate ads end -->
-<h2 id="The-Bottom-Line"><a href="#The-Bottom-Line" class="headerlink" title="The Bottom Line"></a>The Bottom Line</h2><p>We have listed the most popular text effects that are widely used in today’s videos. You can find text animation tutorial related to these effects online for After Effects. However, you may find After Effects slightly complicated due to its interface. That is why we have recommended <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> as the best alternative to apply all the popular and common text effects and tweak them for customization and personalization.</p>
-<p>Part 1. Popular Text Effects</p>
-<p>There are certain text effects that you generally come across whether you are watching movies, web series, and videos on social media or video streaming platforms. We have compiled a list of the most popular text effects that are extremely relevant in the current times in videography.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082535"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082535/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="1-Underwater-Text-Effect-1"><a href="#1-Underwater-Text-Effect-1" class="headerlink" title="1. Underwater Text Effect"></a>1. Underwater Text Effect</h3><p>Opening a video with the view of a beach and blue water is definitely stunning. But when you add an underwater text effect to display any title, it instantly grabs the attention of the viewers. In the underwater text effect, your text seems to be fixated or floating under the water. The text generally has a darker shade of blue over the light bluish water.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/under-water-text-effect.jpg"
-                      alt="under water text effect"
-                ></p>
-<p>The text also has some distortion effect due to the waves in the water body so that it looks more realistic. There are different variations of that underwater text effect such as the text emerging out of water when there is a side view of the water body is taken. Another example of the variation is that text is floating over the water and having a watery gel or bubbly texture.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg"
-                      border="0"
-                >CollageIt Pro</a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Flame-Text-Effect-1"><a href="#2-Flame-Text-Effect-1" class="headerlink" title="2. Flame Text Effect"></a>2. Flame Text Effect</h3><p>Flame text effect is extremely common in the opening and closing credits of a video especially when it is an action video. Generally, a dark background is set against the fiery text so that the flame effect is more prominent and eye-catching. In fact, some video creators prefer a fiery background out of which the text with flame text effect emerges and make the required impact.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/flame-text-effect.jpg"
-                      alt="flame text effect"
-                ></p>
-<p>There are different variations of the flame text effect available which make the effect relevant even today. Instead of the flame text effect spread outside of the text, the effect is contained within the text when the text is large enough to accommodate flames prominently within it. Sometimes, the text is distorted as if the fire is burning the text.</p>
-<h3 id="3-Glitch-Text-Effect-1"><a href="#3-Glitch-Text-Effect-1" class="headerlink" title="3. Glitch Text Effect"></a>3. Glitch Text Effect</h3><p>Glitch text effect is an extremely popular effect in modern times where retro video effects are reaching a new high. The glitch text effect is designed to get the attention of the viewers instantly. In the glitch text effect, the text is divided into different sections and they are distorted or dispersed slightly as if your screen has a display issue.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/glitch-text-effect.jpg"
-                      alt="glitch text effect"
-                ></p>
-<p>Glitch text effect is more prominent when it is applied to a large text having a light color against a dark background. The use of shadow and blur effect to get the desired glitch effect is common. More often than not, some short straight lines like strokes are placed around the text to enhance the glitch effect. Some creators prefer glitch text effect on 3D texts for a better visual appeal.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16384-2048963"
-                      border="0" alt="" width="1200" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2048963/16384"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="4-3D-Text-Effect-1"><a href="#4-3D-Text-Effect-1" class="headerlink" title="4. 3D Text Effect"></a>4. 3D Text Effect</h3><p>3D text effect has been popular ever since its inception and its popularity has been steady in the videography world even today. Of course, with time, the effect has changed a lot to match the different niches of videos, and hence, you will come across a wide variety of 3D text effects. Starting from full screen texts and titles to adverts and promotional texts, 3D text effects find a place everywhere.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/3d-text-video-effect.jpg"
-                      alt="3d text video effect"
-                ></p>
-<p>Starting from 3D texts coming out of the background wall to 3D hologram text effect with retro look, you can apply any 3D effect to the texts and titles of your video as per relevancy. Most importantly, there is a wide scope for customization and personalization to captivate the viewers and get the message across clearly. You can go through 3D text After Effects tutorial and embed 3D texts in your video easily.</p>
-<h3 id="5-Comic-Book-Text-Effect-1"><a href="#5-Comic-Book-Text-Effect-1" class="headerlink" title="5. Comic Book Text Effect"></a>5. Comic Book Text Effect</h3><p>Comic book text effect is an old-school style but its application in funny segments of a video is quite popular. Comic book typography has a superhero feel and it is mostly used while making the transition from one segment of a video to another. You will find several interview videos where the comic book text effect is used to show titles of different segments.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/comic-book-text-effect.jpg"
-                      alt="comic book text effect"
-                ></p>
-<p>Similarly, it is used for displaying texts and titles in anime videos. The text effect has a cartoonish look and a comic background to enhance the text effect. There could also be a blasting effect in the background that can act as a highlighter. The text color in the comic text effect also has a retro feel but bright in outlook.</p>
-<h3 id="6-Blurry-Fade-on-Text-Effect-1"><a href="#6-Blurry-Fade-on-Text-Effect-1" class="headerlink" title="6. Blurry Fade on Text Effect"></a>6. Blurry Fade on Text Effect</h3><p>Blurry fade on is such a pleasing effect for the human eye especially when it is in animated form. The blurry fade on effect is like looking at a word with your specs on while the words in its surrounding come with blur effect. This text effect is widely used when there is a need to highlight certain words in a sentence.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/blurry-fade-on-text-effect.jpg"
-                      alt="blurry fade on text effect"
-                ></p>
-<p>In fact, the text effect is used to highlight a few characters in a word while the others remain blurred. You can also use the effect when you are making transitions between different texts and titles. It is more like an add-on to the usual fade on effect as it adds a blurring effect. It is important to get the attention of the viewers to specific texts.</p>
-<h3 id="7-Type-on-Text-Effect-1"><a href="#7-Type-on-Text-Effect-1" class="headerlink" title="7. Type on Text Effect"></a>7. Type on Text Effect</h3><p>The type on text effect is also referred to as the typewriter effect. In this effect, the characters in the text appear one by one as if someone is typing it in real-time with a typewriter. A blinking cursor is placed at the end for the characters for a more realistic look. The text effect is useful for both one-liners as well as paragraphs.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/type-on-text-effect.jpg"
-                      alt="type on text effect"
-                ></p>
-<p>It breaks the monotony of showing an entire paragraph at once. Sometimes, a modified version of the type on text effect is used whereby some characters are shown and they are deleted backward and re-typed. This helps in getting the immediate attention of the viewers and they focus on the re-typed characters or words.</p>
-<h3 id="8-Animate-Along-a-Path-1"><a href="#8-Animate-Along-a-Path-1" class="headerlink" title="8. Animate Along a Path"></a>8. Animate Along a Path</h3><p>If you are looking for a customized animation for the texts in your video, you should opt for animate along a path effect. The text will move in the pre-defined path while moving along the path, there can be additional animation for the words and characters. The text is widely used for showing one-liner that comes out of nowhere and moves out of the frame following its path.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17094-2039292"
-                      border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2039292/17094"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/animate-along-a-path-text-effect.jpg"
-                      alt="animate along a path text effect"
-                ></p>
-<p>You can use the effect to show certain lines that are common throughout the video. Besides, you can use it while making transition from one scene to another. Some video creators use them for opening and editing credits so that it can keep the audiences hooked instead of the usual opening and ending credits.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17212-1450763"
-                      border="0" alt="" width="2560" height="1440"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1450763/17212"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="9-Slide-Text-Effect-1"><a href="#9-Slide-Text-Effect-1" class="headerlink" title="9. Slide Text Effect"></a>9. Slide Text Effect</h3><p>If you have watched any informational video, you must have seen small notes sliding in from a bar at the bottom left corner. That is what the slide text effect is all about. The text slides into the video frame from a border or a stripe. The sliding in effect can be from any direction as per your preference.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17091-2042323"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042323/17091"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/slide-text-effect.jpg"
-                      alt="slide text effect"
-                ></p>
-<p>Generally, the slide effect for text is accompanied by a highlighted background so that the text is legible. It is suitable for showing important notes in a few sentences such as showing some facts about a place. The effect is widely used in videos related to news or videos where there are more photos and texts and less voice narration.</p>
-<h3 id="10-Stripe-Text-Effect-1"><a href="#10-Stripe-Text-Effect-1" class="headerlink" title="10. Stripe Text Effect"></a>10. Stripe Text Effect</h3><p>Just like the slide text effect, the stripe text effect is equally common in today’s informational videos that you get to see on social media and video streaming platforms. The text appears on the screen out of nowhere and the text gets surrounded by stripes on both sides.</p>
-<!-- affiliate ads begin -->
-<span id="1793213">
-                    <video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:1080px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793213/19135"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-![stripe text video effect](https://images.wondershare.com/filmora/article-images/2022/09/stripe-text-video-effect.jpg)
+  &.show-toc
+    gap 30px
 
-<p>This effect is suitable to introduce titles and topics in a video. Generally, in the stripe text effect, the text style is kept as simple as possible. But you can always tweak it and add stripes within the text to make it more eye-catching.</p>
-<h2 id="Part-2-How-to-Create-Text-Effects-1"><a href="#Part-2-How-to-Create-Text-Effects-1" class="headerlink" title="Part 2. How to Create Text Effects?"></a>Part 2. How to Create Text Effects?</h2><p>For text effects, amateur video editors generally search for Adobe After Effects text animation tutorial. However, After Effects has a steep learning curve, and hence, an easier alternative is always in high demand. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is the best After Effects alternative where you can get a wider range of text effects. You can apply them to your texts and titles in your video instantly without prior experience. You can customize the text effects and even create effects as per your requirements. Here are the steps to add text effects to your video.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1 Download and install Wondershare Filmora on your computer. Filmora is available for both Windows and Mac users. Launch Filmora and click on New Project option.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/startup-window-01.png"
-                      alt="download and install filmora"
-                ></p>
-<p>Step2 Import your video clip under Project Media folder to which you want to add text effects.? Drag and drop it onto the timeline and go to Titles menu option. You will see different categories text effects on the left panel. Some of them are static effects while others are animations.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082532"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082532/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/add-title-text-to-video-filmora.jpg"
-                      alt="add title text to video filmora"
-                ></p>
-<p>Step3 Select a text effect template of your liking and drop it on the timeline. Adjust its place on the timeline to make it appear exactly where required. You can also reposition the text from the view. Double-click on the text layer and edit the text.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/customize-text-title-video-filmora.jpg"
-                      alt="customize text title video filmora"
-                ></p>
-<p>Thereafter, you can edit the style of the text as well as modify other settings. Moreover, you can go to Advanced section to edit out the text effect and animation easily.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif"
-                      border="0"
-                >Forex Robotron Basic Package</a></p>
-<!-- affiliate ads end -->
-<h2 id="The-Bottom-Line-1"><a href="#The-Bottom-Line-1" class="headerlink" title="The Bottom Line"></a>The Bottom Line</h2><p>We have listed the most popular text effects that are widely used in today’s videos. You can find text animation tutorial related to these effects online for After Effects. However, you may find After Effects slightly complicated due to its interface. That is why we have recommended <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> as the best alternative to apply all the popular and common text effects and tweak them for customization and personalization.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-4-simplified-ways-to-screen-record-lenovo/"><u>[New] 4 Simplified Ways to Screen Record Lenovo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-polaroid-revelation-elevating-live-action-video-recording/"><u>[New] A Polaroid Revelation  Elevating Live-Action Video Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-benchmark-analysis-djis-drone-phantom-3/"><u>[New] Benchmark Analysis  DJI's Drone Phantom 3</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-choosing-tiktok-wallpapers/"><u>[New] Best Practices in Choosing TikTok Wallpapers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/new-keeping-your-gopro-fogless-for-perfection/"><u>[New] Keeping Your GoPro Fogless for Perfection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-the-future-of-iptv-screening-and-preservation-techniques/"><u>[New] The Future of IPTV Screening and Preservation Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/new-vids-in-verse-strategies-for-effective-twitter-video-downloads/"><u>[New] Vids in Verse  Strategies for Effective Twitter Video Downloads</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/new-windows-11-excellent-video-capture-tools-compared-for-2024/"><u>[New] Windows 11  Excellent Video Capture Tools Compared for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chuckle-crafting-tool/"><u>[Updated] Chuckle Crafting Tool</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-video-dimensions-and-story-size-the-ultimate-guide-for-perfect-posts/"><u>[Updated] In 2024, Instagram Video Dimensions & Story Size [The Ultimate Guide for Perfect Posts]</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-gifs-snapchats-step-by-step-guide-for-effortless-sharing/"><u>[Updated] In 2024, Mastering Gifs  Snapchat's Step-By-Step Guide for Effortless Sharing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/updated-mastering-close-ups-quick-minecraft-enhancements/"><u>[Updated] Mastering Close-Ups  Quick Minecraft Enhancements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>2024 Approved  Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/2024-approved-best-web-microphones-at-a-glance/"><u>2024 Approved  Best Web Microphones at a Glance</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/2024-approved-uncomplicated-capture-efficient-screenshots-on-dell/"><u>2024 Approved  Uncomplicated Capture  Efficient Screenshots on Dell</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-dive-into-ar-sticker-technology-and-alternatives-for-2024/"><u>A Dive Into AR Sticker Technology and Alternatives for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://network-issues.techidaily.com/amds-windows-11-update-improved-performance-for-hd-6950-gpu/"><u>AMD's Windows 11 Update: Improved Performance for HD 6950 GPU</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chip-efficiency-exposed-unleashing-top-notch-editing-performance-for-2024/"><u>Chip Efficiency Exposed  Unleashing Top-Notch Editing Performance for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-transformation-handbook-using-morphvox-tech/"><u>Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/crafting-captivating-titles-with-ae-for-2024/"><u>Crafting Captivating Titles with AE for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-colours-with-care-top-5-displays-reviewed/"><u>Crafting Colours with Care  Top 5 Displays Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-cozy-living-areas-with-daylight/"><u>Crafting Cozy Living Areas with Daylight</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/draft-distinctive-visual-identities-from-templates-for-free/"><u>Draft Distinctive Visual Identities From Templates for Free</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/enhancing-facebook-nostalgia-video-tweaks-for-2024/"><u>Enhancing Facebook Nostalgia  Video Tweaks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-the-efficacy-of-magix-picture-tool/"><u>Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/facetune-photos-app-complete-review-and-guide/"><u>Facetune Photos App Complete Review and Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-cultivate-your-own-metaverse-humor-garden/"><u>How to Cultivate Your Own Metaverse Humor Garden</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Huawei P60? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone Forgot Password</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/how-to-watch-facebook-live-in-2024/"><u>How to Watch Facebook Live, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-complete-walkthrough-for-green-screen-expertise-in-kinemaster/"><u>In 2024, A Complete Walkthrough for Green Screen Expertise in Kinemaster</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apex-storage-wizards-best-of-android-cloud/"><u>In 2024, Apex Storage Wizards  Best of Android Cloud</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy A15 5G</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-xr-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone XR</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-artistry-the-top-image-enhancers/"><u>In 2024, Instagram Artistry  The Top Image Enhancers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-oneplus-11r-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, OnePlus 11R ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-movie-edits-the-best-tools-ranked/"><u>Mastering Movie Edits  The Best Tools Ranked</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/mobile-tech-wizardry-how-to-record-and-share-your-snapchat-stories/"><u>Mobile Tech Wizardry  How to Record and Share Your Snapchat Stories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>Monitor Mastery  A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>New 2024 Approved Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/oppo-a1-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-puns-smilesketchers/"><u>Picture Puns  SmileSketchers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/syncing-visual-elements-across-platforms/"><u>Syncing Visual Elements Across Platforms</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/the-2023-update-facebooks-new-landscape-explained/"><u>The 2023 Update  Facebook's New Landscape Explained</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/the-art-of-transformation-discover-the-premier-10-luts-for-lightroom/"><u>The Art of Transformation  Discover the Premier 10 LUTs for LightRoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-role-of-b2b-relationships-in-informed-market-decisions/"><u>The Role of B2B Relationships in Informed Market Decisions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-crafting-breathtaking-time-lapses-with-gopro/"><u>The Ultimate Guide to Crafting Breathtaking Time-Lapses with GoPro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-secrets-to-great-gopro-time-lapses/"><u>Unveiling Secrets to Great GoPro Time-Lapses</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-editing-video.techidaily.com/updated-in-2024-easy-steps-to-create-intro-video-with-after-effects/"><u>Updated In 2024, Easy Steps to Create Intro Video with After Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-horizons-unveiled-critics-top-oculus-headsets/"><u>Virtual Horizons Unveiled  Critics' Top Oculus Headsets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/win-and-mac-users-rejoice-with-our-top-8-subtitles-to-srtr-converter-tools/"><u>Win & Mac Users, Rejoice with Our Top 8 Subtitles-to-SRTR Converter Tools</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;In 2024, Crafting Visual Tales  The Essential Guide to Text Effects&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:55:23</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:55:23
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/in-2024-crafting-visual-tales-the-essential-guide-to-text-effects/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/asus-proart-review-a-visual-spectacle-unveiled/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;ASUS ProArt Review  A Visual Spectacle Unveiled&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/a-step-by-step-approach-to-professional-chromatic-control/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">A Step by Step Approach to Professional Chromatic Control</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;In 2024, Crafting Visual Tales  The Essential Guide to Text Effects&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Crafting-Visual-Tales-The-Essential-Guide-to-Text-Effects"><span class="nav-text">Crafting Visual Tales: The Essential Guide to Text Effects</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Popular-Text-Effects"><span class="nav-text">Part 1. Popular Text Effects</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Underwater-Text-Effect"><span class="nav-text">1. Underwater Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Flame-Text-Effect"><span class="nav-text">2. Flame Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Glitch-Text-Effect"><span class="nav-text">3. Glitch Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-3D-Text-Effect"><span class="nav-text">4. 3D Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Comic-Book-Text-Effect"><span class="nav-text">5. Comic Book Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Blurry-Fade-on-Text-Effect"><span class="nav-text">6. Blurry Fade on Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-Type-on-Text-Effect"><span class="nav-text">7. Type on Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-Animate-Along-a-Path"><span class="nav-text">8. Animate Along a Path</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-Slide-Text-Effect"><span class="nav-text">9. Slide Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-Stripe-Text-Effect"><span class="nav-text">10. Stripe Text Effect</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-Create-Text-Effects"><span class="nav-text">Part 2. How to Create Text Effects?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Bottom-Line"><span class="nav-text">The Bottom Line</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Underwater-Text-Effect-1"><span class="nav-text">1. Underwater Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Flame-Text-Effect-1"><span class="nav-text">2. Flame Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Glitch-Text-Effect-1"><span class="nav-text">3. Glitch Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-3D-Text-Effect-1"><span class="nav-text">4. 3D Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Comic-Book-Text-Effect-1"><span class="nav-text">5. Comic Book Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Blurry-Fade-on-Text-Effect-1"><span class="nav-text">6. Blurry Fade on Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-Type-on-Text-Effect-1"><span class="nav-text">7. Type on Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-Animate-Along-a-Path-1"><span class="nav-text">8. Animate Along a Path</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#9-Slide-Text-Effect-1"><span class="nav-text">9. Slide Text Effect</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#10-Stripe-Text-Effect-1"><span class="nav-text">10. Stripe Text Effect</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-Create-Text-Effects-1"><span class="nav-text">Part 2. How to Create Text Effects?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Bottom-Line-1"><span class="nav-text">The Bottom Line</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

@@ -628,15 +628,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -658,753 +658,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/1Mf180TEx4vzIE6Gapb8w6vTOn0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/gig-57c732ed3df78c71b60e7aa5.jpg" alt="&#34;[Updated] Comprehensive Overview  Utilizing Google&#39;s Automatic Transcription Service&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;[Updated] Comprehensive Overview  Utilizing Google&#39;s Automatic Transcription Service&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:01:33</span>
-        <span class="mobile">2024-07-27 07:01:33</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:01:33</span>
-            <span class="mobile">2024-07-28 07:01:33</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Comprehensive-Overview-Utilizing-Google’s-Automatic-Transcription-Service"><a href="#Comprehensive-Overview-Utilizing-Google’s-Automatic-Transcription-Service" class="headerlink" title="Comprehensive Overview: Utilizing Google’s Automatic Transcription Service"></a>Comprehensive Overview: Utilizing Google’s Automatic Transcription Service</h2><p>Depending on who you ask, typing for extended periods can be a tiring and boring experience. In addition, the global need for fast and accurate information makes it necessary for more effective solutions. As such, developers are now working on various speech to text solutions for faster document processing. For example, the folks at Google now have speech to text Google docs, a new voice typing feature to their online document processing app. It allows you to transcribe any audio to your document with amazing accuracy.</p>
-<p>Below is a full guide to Google Docs speech to text service. As you keep reading, you will find information on what you need to use voice to text google docs, the input types, and answers to some of the service’s frequently asked questions. Furthermore, you will find detailed step-to-step guides to help you use the service effectively.</p>
-<ol>
-<li><a href="#part1-1">1. Google accounts</a></li>
-<li><a href="#part1-2">2. Microphone</a></li>
-</ol>
-<ul>
-<li><a href="#part2">Part 2: How to Use Google Docs speech to text service?</a></li>
-</ul>
-<ol>
-<li><a href="#part2-1">1. Input with a microphone</a>  </li>
-<li><a href="#part2-2">2. Input with an audio file</a></li>
-</ol>
-<ul>
-<li><a href="#part3">Part 3: Best Alternatives to Google Docs speech to text service.</a></li>
-</ul>
-<ol>
-<li><a href="#part3-1">1. Windows 10 built-in speech to text service</a>  </li>
-<li><a href="#part3-2">2. Filmora Speech to text</a></li>
-</ol>
-<ul>
-<li><a href="#part4">Part 4: FAQs</a></li>
-</ul>
-<ol>
-<li><a href="#part4-1">Q1: Can you use Google Docs on speech to text mobile?</a>  </li>
-<li><a href="#part4-2">Q2: Can you use Google Docs speech to text offline?</a>  </li>
-<li><a href="#part4-3">Q3 Is Chromebook necessary to use Google Docs?</a></li>
-</ol>
-<p><strong>Top Alternative to Google Docs STT</strong> Save plenty of time on transcribing subtitles and boost your editing efficiency by applying Filmora Speech-To-Text.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try STT Now <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try STT Now <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Explore STT <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075482"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075482/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png"
-                      alt="Wondershare Filmora"
-                ></p>
-<h2 id="Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service"><a href="#Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service" class="headerlink" title="Part 1: What do you need to use google docs speech to text service?"></a>Part 1: What do you need to use google docs speech to text service?</h2><p>Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.</p>
-<h3 id="1-Google-accounts"><a href="#1-Google-accounts" class="headerlink" title="1. Google accounts"></a>1. Google accounts</h3><p>Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the <strong>Create an Account</strong> Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.</p>
-<h3 id="2-Microphone"><a href="#2-Microphone" class="headerlink" title="2. Microphone"></a>2. Microphone</h3><p>You also need a microphone to use speech to text google service. Laptop and notebook users can use their device’s inbuilt microphone. However, desktop users require to connect an external microphone to their device’s microphone in port. Ensure you get a high-quality microphone because the text accuracy depends on your voice clarity.</p>
-<p>Mobile device users can also use the service using their device’s built-in microphone. In addition, your microphone needs to be on when using voice to text google docs.</p>
-<p>Do I need to pay for Speech to text service in Google Docs?</p>
-<p>No, the service is free to use in Google Docs so far.</p>
-<p>Do I need a Chrome Browser to use Google Docs?</p>
-<p>No, Google Docs work fine on Firefox and Safari.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13794-1116855"
-                      border="0" alt="" width="767" height="285"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1116855/13794"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-to-Use-Google-Docs-speech-to-text-service"><a href="#Part-2-How-to-Use-Google-Docs-speech-to-text-service" class="headerlink" title="Part 2: How to Use Google Docs speech to text service?"></a>Part 2: How to Use Google Docs speech to text service?</h2><p>Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.</p>
-<h3 id="1-Input-with-a-microphone"><a href="#1-Input-with-a-microphone" class="headerlink" title="1. Input with a microphone"></a>1. Input with a microphone</h3><p>Below is how to use voice to text google docs with your microphone:</p>
-<ol>
-<li>Ensure your microphone is active before enabling the service. You can check this by accessing your device’s <strong>microphone settings</strong>. These are under System Preferences for Mac users and in the Control Panel program for Windows PC users. Other device users should refer to the manual to identify the option’s location.</li>
-<li>Launch your Chrome browser and access <strong>Docs</strong> from the <strong>Apps</strong></li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-1.jpg"
-                      alt="launch your chrome browser"
-                ></p>
-<p>You will find it on the top left corner of your browser, below the back and forward buttons.</p>
-<ol>
-<li>Click on the + from Google Docs main page to open a new document.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-2.jpg"
-                      alt="open a new document"
-                ></p>
-<ol>
-<li>Tap on Tools from the top menu bar, followed by Voice Typing from the sub menu.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-3.jpg"
-                      alt="tap on tools"
-                ></p>
-<ol>
-<li>The voice to text google docs service will appear as a pop-up on your document’s workspace.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-4.jpg"
-                      alt="a pop up on workspace"
-                ></p>
-<p>You can identify this by the big microphone symbol.</p>
-<ol>
-<li>Select your language from the dropdown menu and then tap the microphone to begin voice typing. Ensure your voice is clear and that you are speaking normally.</li>
-<li>Tap the microphone again once you finish your dictation.</li>
-</ol>
-<h3 id="2-Input-with-an-audio-file"><a href="#2-Input-with-an-audio-file" class="headerlink" title="2. Input with an audio file"></a>2. Input with an audio file</h3><p>Alternatively, you can transcribe in speech to text google docs using an audio file. Follow these steps for audio file input.</p>
-<ol>
-<li>Insert your audio cable in the headphone jack and microphone ports of your device.</li>
-<li>Launch Google Docs from your chrome browser.</li>
-<li>Open a new document and then tap the Tools tap from the top menu bar.</li>
-<li>Click Voice Typing in the sub menu to activate Google Docs speech to text service.</li>
-<li>Open the audio file you wish to transcribe and tap the microphone on google docs to begin transcribing.</li>
-<li>Tap the microphone again to stop transcribing the audio file.</li>
-</ol>
-<h2 id="Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service"><a href="#Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service" class="headerlink" title="Part 3: Best Alternatives to Google Docs speech to text service"></a>Part 3: Best Alternatives to Google Docs speech to text service</h2><p>If you are not a Google Docs user, here are suitable alternatives to voice to text google docs.</p>
-<h3 id="1-Windows-10-built-in-speech-to-text-service"><a href="#1-Windows-10-built-in-speech-to-text-service" class="headerlink" title="1. Windows 10 built-in speech to text service"></a>1. Windows 10 built-in speech to text service</h3><!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-2016067"
-                      border="0" alt="" width="1020" height="380"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2016067/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-5.jpg"
-                      alt="in speech to text service"
-                ></p>
-<p>Voice typing is available for Windows 10 users as a default feature. As such, you do not need to download anything additional to use the service. In addition, it allows you to transcribe your audio across all the operating system’s apps and programs. For example, you can use the service for searching for items on your computer and also use it with MS Office applications. In addition, the service is free and available offline.</p>
-<p>Below is how you can access the service on your device.</p>
-<ol>
-<li>Press the <strong>Windows Logo and H</strong> keys simultaneously to open the dictation toolbar. You will notice a pop-up menu with a microphone section displaying the word Listening next to it.</li>
-<li>Speak your words, and Windows 10 built-in speech to text service will transcribe your audio.</li>
-<li>You can end the recording by speaking the words Stop Dictation.</li>
-</ol>
-<p>Although initial versions were error-prone, the current version of Windows 10 built-in speech is quite brilliant. This is because the program utilizes a speech recognition software to determine your speech patterns. The program will require you to repeat a phrase thrice before it becomes active.</p>
-<p>However, you should still expect errors if your voice is not clear, as with other voice typing programs. In addition, it only supports seven languages compared to Google Docs speech to text’s 71.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/3022-398457"
-                      border="0" alt="www.sentrypc.com" width="980" height="120"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/398457/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="2-Filmora-Speech-to-text"><a href="#2-Filmora-Speech-to-text" class="headerlink" title="2. Filmora Speech to text"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> Speech to text</h3><p>Another alternative is Filmora Speech to Text. The service is a plugin you enable in Wondershare’s video editing programs. It allows you to transcribe your voice into subtitles for your video creations. Although the software is exclusive to video editing, it surpasses other voice to text services in accuracy.</p>
-<p>The service uses state-of-the-art algorithms to ensure your speech is transcribed to near perfection. As such, it reduces the time you need to make corrections and lets you focus on video production. Furthermore, you can import audio files to the service and edit them from your timeline. Filmora speech to text service also supports 26 languages, including Japanese, French, and English. In addition, the service allows you to translate between languages easily.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p>Comparing Filmora text to speech service to Google Docs speech to text, you will discover some significant differences. Below are some of them for your reference:</p>
-<ul>
-<li>Filmora text to speech is a plugin available in Wondershare’s video editing software suite. Conversely, Google Docs’ voice to text service is a built-in feature of the app.</li>
-<li>Filmora text to speech is available offline with the video editing software compared to Google Docs voice type feature, which is exclusively online.</li>
-<li>Both services support multiple languages. However, Google Docs speech to text supports more with 71 languages as compared to Filmora’s 27.</li>
-<li>Filmora can directly generate bilingual subtitles in you videos.</li>
-</ul>
-<p>Click <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> too check how to use Filmora Speech To Text.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> speech to text is available on Windows and macOS as a subscription service. Depending on your subscription, you can transcribe up to 10 hours of audio per month. Check the Filmora speech to text website for more information on the plugin’s features.</p>
-<h2 id="Part-4-FAQs"><a href="#Part-4-FAQs" class="headerlink" title="Part 4: FAQs"></a>Part 4: FAQs</h2><h3 id="Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile"><a href="#Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile" class="headerlink" title="Q1: Can you use Google Docs on speech to text mobile?"></a>Q1: Can you use Google Docs on speech to text mobile?</h3><p>Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device’s compatibility by accessing Google PlayStore.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Q2-Can-you-use-Google-Docs-speech-to-text-offline"><a href="#Q2-Can-you-use-Google-Docs-speech-to-text-offline" class="headerlink" title="Q2: Can you use Google Docs speech to text offline?"></a>Q2: Can you use Google Docs speech to text offline?</h3><p>Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Q3-Is-Chromebook-necessary-to-use-Google-Docs"><a href="#Q3-Is-Chromebook-necessary-to-use-Google-Docs" class="headerlink" title="Q3 Is Chromebook necessary to use Google Docs?"></a>Q3 Is Chromebook necessary to use Google Docs?</h3><p>No. You can access Google Docs from any device, provided you have the chrome browser installed. In addition, you will need an active google account to access any Google services.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<ul>
-<li><a href="#part2-1">1. Input with a microphone</a></li>
-<li><a href="#part2-2">2. Input with an audio file</a></li>
-<li><a href="#part3">Part 3: Best Alternatives to Google Docs speech to text service.</a></li>
-</ul>
-<ol>
-<li><a href="#part3-1">1. Windows 10 built-in speech to text service</a>  </li>
-<li><a href="#part3-2">2. Filmora Speech to text</a></li>
-</ol>
-<ul>
-<li><a href="#part4">Part 4: FAQs</a></li>
-</ul>
-<ol>
-<li><a href="#part4-1">Q1: Can you use Google Docs on speech to text mobile?</a>  </li>
-<li><a href="#part4-2">Q2: Can you use Google Docs speech to text offline?</a>  </li>
-<li><a href="#part4-3">Q3 Is Chromebook necessary to use Google Docs?</a></li>
-</ol>
-<p><strong>Top Alternative to Google Docs STT</strong> Save plenty of time on transcribing subtitles and boost your editing efficiency by applying Filmora Speech-To-Text.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try STT Now <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try STT Now <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Explore STT <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png"
-                      alt="Wondershare Filmora"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service-1"><a href="#Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service-1" class="headerlink" title="Part 1: What do you need to use google docs speech to text service?"></a>Part 1: What do you need to use google docs speech to text service?</h2><p>Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png"
-                      border="0"
-                > Take advantage of PREMIUM features for 12 months.<br>Create your texts &#x2F; logos without any limitation.<br>No attribution required when downloading.<br>No advertising on the website.<br> TextStudio.com  PREMIUM - Yearly Membership</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Google-accounts-1"><a href="#1-Google-accounts-1" class="headerlink" title="1. Google accounts"></a>1. Google accounts</h3><p>Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the <strong>Create an Account</strong> Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.</p>
-<h3 id="2-Microphone-1"><a href="#2-Microphone-1" class="headerlink" title="2. Microphone"></a>2. Microphone</h3><p>You also need a microphone to use speech to text google service. Laptop and notebook users can use their device’s inbuilt microphone. However, desktop users require to connect an external microphone to their device’s microphone in port. Ensure you get a high-quality microphone because the text accuracy depends on your voice clarity.</p>
-<p>Mobile device users can also use the service using their device’s built-in microphone. In addition, your microphone needs to be on when using voice to text google docs.</p>
-<p>Do I need to pay for Speech to text service in Google Docs?</p>
-<p>No, the service is free to use in Google Docs so far.</p>
-<p>Do I need a Chrome Browser to use Google Docs?</p>
-<p>No, Google Docs work fine on Firefox and Safari.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16446-1657399"
-                      border="0" alt="" width="728" height="90"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1657399/16446"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-to-Use-Google-Docs-speech-to-text-service-1"><a href="#Part-2-How-to-Use-Google-Docs-speech-to-text-service-1" class="headerlink" title="Part 2: How to Use Google Docs speech to text service?"></a>Part 2: How to Use Google Docs speech to text service?</h2><p>Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.</p>
-<h3 id="1-Input-with-a-microphone-1"><a href="#1-Input-with-a-microphone-1" class="headerlink" title="1. Input with a microphone"></a>1. Input with a microphone</h3><p>Below is how to use voice to text google docs with your microphone:</p>
-<ol>
-<li>Ensure your microphone is active before enabling the service. You can check this by accessing your device’s <strong>microphone settings</strong>. These are under System Preferences for Mac users and in the Control Panel program for Windows PC users. Other device users should refer to the manual to identify the option’s location.</li>
-<li>Launch your Chrome browser and access <strong>Docs</strong> from the <strong>Apps</strong></li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15155-1246754"
-                      border="0" alt="" width="600" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1246754/15155"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-1.jpg"
-                      alt="launch your chrome browser"
-                ></p>
-<p>You will find it on the top left corner of your browser, below the back and forward buttons.</p>
-<ol>
-<li>Click on the + from Google Docs main page to open a new document.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453721"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453721/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-2.jpg"
-                      alt="open a new document"
-                ></p>
-<ol>
-<li>Tap on Tools from the top menu bar, followed by Voice Typing from the sub menu.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-3.jpg"
-                      alt="tap on tools"
-                ></p>
-<ol>
-<li>The voice to text google docs service will appear as a pop-up on your document’s workspace.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png"
-                      border="0"
-                >Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-4.jpg"
-                      alt="a pop up on workspace"
-                ></p>
-<p>You can identify this by the big microphone symbol.</p>
-<ol>
-<li>Select your language from the dropdown menu and then tap the microphone to begin voice typing. Ensure your voice is clear and that you are speaking normally.</li>
-<li>Tap the microphone again once you finish your dictation.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg"
-                      border="0"
-                >Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It’s fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Input-with-an-audio-file-1"><a href="#2-Input-with-an-audio-file-1" class="headerlink" title="2. Input with an audio file"></a>2. Input with an audio file</h3><p>Alternatively, you can transcribe in speech to text google docs using an audio file. Follow these steps for audio file input.</p>
-<ol>
-<li>Insert your audio cable in the headphone jack and microphone ports of your device.</li>
-<li>Launch Google Docs from your chrome browser.</li>
-<li>Open a new document and then tap the Tools tap from the top menu bar.</li>
-<li>Click Voice Typing in the sub menu to activate Google Docs speech to text service.</li>
-<li>Open the audio file you wish to transcribe and tap the microphone on google docs to begin transcribing.</li>
-<li>Tap the microphone again to stop transcribing the audio file.</li>
-</ol>
-<h2 id="Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service-1"><a href="#Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service-1" class="headerlink" title="Part 3: Best Alternatives to Google Docs speech to text service"></a>Part 3: Best Alternatives to Google Docs speech to text service</h2><p>If you are not a Google Docs user, here are suitable alternatives to voice to text google docs.</p>
-<h3 id="1-Windows-10-built-in-speech-to-text-service-1"><a href="#1-Windows-10-built-in-speech-to-text-service-1" class="headerlink" title="1. Windows 10 built-in speech to text service"></a>1. Windows 10 built-in speech to text service</h3><!-- affiliate ads begin -->
-<p><a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17108-2027209"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2027209/17108"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-5.jpg"
-                      alt="in speech to text service"
-                ></p>
-<p>Voice typing is available for Windows 10 users as a default feature. As such, you do not need to download anything additional to use the service. In addition, it allows you to transcribe your audio across all the operating system’s apps and programs. For example, you can use the service for searching for items on your computer and also use it with MS Office applications. In addition, the service is free and available offline.</p>
-<p>Below is how you can access the service on your device.</p>
-<ol>
-<li>Press the <strong>Windows Logo and H</strong> keys simultaneously to open the dictation toolbar. You will notice a pop-up menu with a microphone section displaying the word Listening next to it.</li>
-<li>Speak your words, and Windows 10 built-in speech to text service will transcribe your audio.</li>
-<li>You can end the recording by speaking the words Stop Dictation.</li>
-</ol>
-<p>Although initial versions were error-prone, the current version of Windows 10 built-in speech is quite brilliant. This is because the program utilizes a speech recognition software to determine your speech patterns. The program will require you to repeat a phrase thrice before it becomes active.</p>
-<p>However, you should still expect errors if your voice is not clear, as with other voice typing programs. In addition, it only supports seven languages compared to Google Docs speech to text’s 71.</p>
-<h3 id="2-Filmora-Speech-to-text-1"><a href="#2-Filmora-Speech-to-text-1" class="headerlink" title="2. Filmora Speech to text"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> Speech to text</h3><p>Another alternative is Filmora Speech to Text. The service is a plugin you enable in Wondershare’s video editing programs. It allows you to transcribe your voice into subtitles for your video creations. Although the software is exclusive to video editing, it surpasses other voice to text services in accuracy.</p>
-<p>The service uses state-of-the-art algorithms to ensure your speech is transcribed to near perfection. As such, it reduces the time you need to make corrections and lets you focus on video production. Furthermore, you can import audio files to the service and edit them from your timeline. Filmora speech to text service also supports 26 languages, including Japanese, French, and English. In addition, the service allows you to translate between languages easily.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p>Comparing Filmora text to speech service to Google Docs speech to text, you will discover some significant differences. Below are some of them for your reference:</p>
-<ul>
-<li>Filmora text to speech is a plugin available in Wondershare’s video editing software suite. Conversely, Google Docs’ voice to text service is a built-in feature of the app.</li>
-<li>Filmora text to speech is available offline with the video editing software compared to Google Docs voice type feature, which is exclusively online.</li>
-<li>Both services support multiple languages. However, Google Docs speech to text supports more with 71 languages as compared to Filmora’s 27.</li>
-<li>Filmora can directly generate bilingual subtitles in you videos.</li>
-</ul>
-<p>Click <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> too check how to use Filmora Speech To Text.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> speech to text is available on Windows and macOS as a subscription service. Depending on your subscription, you can transcribe up to 10 hours of audio per month. Check the Filmora speech to text website for more information on the plugin’s features.</p>
-<h2 id="Part-4-FAQs-1"><a href="#Part-4-FAQs-1" class="headerlink" title="Part 4: FAQs"></a>Part 4: FAQs</h2><h3 id="Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile-1"><a href="#Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile-1" class="headerlink" title="Q1: Can you use Google Docs on speech to text mobile?"></a>Q1: Can you use Google Docs on speech to text mobile?</h3><p>Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device’s compatibility by accessing Google PlayStore.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17190-1638364"
-                      border="0" alt="" width="1280" height="720"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1638364/17190"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Q2-Can-you-use-Google-Docs-speech-to-text-offline-1"><a href="#Q2-Can-you-use-Google-Docs-speech-to-text-offline-1" class="headerlink" title="Q2: Can you use Google Docs speech to text offline?"></a>Q2: Can you use Google Docs speech to text offline?</h3><p>Unfortunately, no. The speech to text google docs is only available online since it operates on the Google Cloud Services platform. In addition, you need to have the chrome web browser on your device to use the service, which requires an online connection.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/pdf-unlocker.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Q3-Is-Chromebook-necessary-to-use-Google-Docs-1"><a href="#Q3-Is-Chromebook-necessary-to-use-Google-Docs-1" class="headerlink" title="Q3 Is Chromebook necessary to use Google Docs?"></a>Q3 Is Chromebook necessary to use Google Docs?</h3><p>No. You can access Google Docs from any device, provided you have the chrome browser installed. In addition, you will need an active google account to access any Google services.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>[New] 2024 Approved  Secrets to Compelling Presentations  PPT on Mobile & Desktop GMeet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-acoustic-windows-aficionado-toolkit/"><u>[New] Acoustic Windows Aficionado Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beyond-acid-the-future-of-graphic-vectors/"><u>[New] Beyond ACID  The Future of Graphic Vectors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-classic-stop-motion-animations-ranking-the-best-15/"><u>[New] Classic Stop-Motion Animations  Ranking the Best 15</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/new-in-2024-revolutionizing-video-speed-in-social-networks/"><u>[New] In 2024, Revolutionizing Video Speed in Social Networks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-in-2024-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[New] In 2024, Zombie Mayhem Showdown  Selecting the Finest Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/humbnail-wizardry-top-8-tools-to-boost-view-counts/"><u>[New] Thumbnail Wizardry  Top 8 Tools to Boost View Counts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>[Updated] Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/updated-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] Audio Enhancement Strategies Using Premiere Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/updated-master-class-adding-podcasts-to-instagram-features-for-2024/"><u>[Updated] Master Class  Adding Podcasts to Instagram Features for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/updated-prime-selection-of-360-videography-tools/"><u>[Updated] Prime Selection of 360° Videography Tools</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/updated-step-by-step-guide-to-optimal-screen-casting-via-meet/"><u>[Updated] Step-by-Step Guide to Optimal Screen Casting via Meet</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-youtube-snippets-for-captivating-ig-stories/"><u>[Updated] YouTube Snippets for Captivating IG Stories</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/1-3-in-ipad-voice-memos-and-recorders-for-2024/"><u>1-3 in iPad Voice Memos & Recorders for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-finest-fee-free-lut-options-reviewed-and-accessible-here-for-2024/"><u>10 Finest, Fee-Free LUT Options Reviewed & Accessible Here for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-11-innovative-steps-toward-perfect-post-production-colorwork/"><u>2024 Approved  11 Innovative Steps Toward Perfect Post-Production Colorwork</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/2024-approved-best-in-class-chromebook-recording-app/"><u>2024 Approved  Best in Class  Chromebook Recording App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-directors-manual-powerdirector-24/"><u>2024 Approved  Comprehensive Directors' Manual - PowerDirector '24</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/2024-approved-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>2024 Approved  Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-beginners-guide-to-mastering-windows-11-movie-maker-effortlessly/"><u>A Beginner’s Guide to Mastering Windows 11 Movie Maker Effortlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensive-breakdown-unleash-the-potential-with-magix-vpx/"><u>A Comprehensive Breakdown  Unleash the Potential with Magix VPX</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-manual-for-stunning-slow-motion-with-gopro-hero-10/"><u>A Step-by-Step Manual for Stunning Slow Motion with GoPro Hero 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-techniques-for-tiktok-video-enhancement-via-zoom/"><u>Advanced Techniques for TikTok Video Enhancement via Zoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androidios-montages-top-8-tools-for-dynamic-media-blends-for-2024/"><u>Android/iOS Montages  Top 8 Tools for Dynamic Media Blends for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/becoming-a-pro-in-spotify-ad-deals/"><u>Becoming a Pro in Spotify Ad Deals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bring-life-and-movement-to-stills-with-illustrator-techniques-for-2024/"><u>Bring Life & Movement to Stills with Illustrator Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-insights-on-simplified-hdr-processing-for-2024/"><u>Comprehensive Insights on Simplified HDR Processing for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/-and-share-360-videos-to-youtube-an-essential-guide-for-creators-for-2024/"><u>Craft and Share 360 Videos to YouTube  An Essential Guide for Creators for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-premier-shopping-hubs-for-bespoke-gift-wraps-and-cases/"><u>Discover the Premier Shopping Hubs for Bespoke Gift Wraps & Cases</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/does-money-flow-into-shopping-guides-vids/"><u>Does Money Flow Into Shopping Guides Vids?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-videos.techidaily.com/elevating-tiktok-visuals-with-monumental-head-effects-for-2024/"><u>Elevating TikTok Visuals with Monumental Head Effects for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-echoes-outstanding-games-for-your-google-cardboard/"><u>Elite Echoes  Outstanding Games for Your Google Cardboard</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/horizon-proworks-complete-4k-integrated-solution/"><u>Horizon ProWorks  Complete 4K Integrated Solution</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-find-x7-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo Find X7 Ultra</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-honor-x8b-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-handbook-on-recording-notes-by-sound/"><u>In 2024, Comprehensive Handbook on Recording Notes by Sound</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>In 2024, Content Choice Conundrum  Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y100t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y100t? Try These Fixes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-masterful-movies-on-the-move-optical-image-correction-tech-leaders/"><u>In 2024, Masterful Movies on the Move  Optical Image Correction Tech Leaders</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-progressive-volume-cut-down-in-fl/"><u>In 2024, Progressive Volume Cut-Down in FL</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xs-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XS You Should Try Out</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/in-2024-the-art-of-subtlety-garagebands-audio-softening/"><u>In 2024, The Art of Subtlety  Garageband's Audio Softening</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/paintbox-pro-comprehensive-review-and-tutorial-2024/"><u>PaintBox Pro Comprehensive Review & Tutorial 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/peak-commercial-sky-storage-providers/"><u>Peak Commercial Sky-Storage Providers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Samsung Galaxy Z Fold 5</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/review-best-practices-for-youtube-video-trimming-for-2024/"><u>Review  Best Practices for YouTube Video Trimming for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-mastering-3d-luts-for-professional-photos/"><u>Step-by-Step Guide to Mastering 3D LUTs for Professional Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-iphone-video-fusion-processes/"><u>Streamlining iPhone Video Fusion Processes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-picking-drones-balance-equipment/"><u>The Ultimate Guide to Picking Drones' Balance Equipment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-gamers-screen-guide-best-monitors-at-4k-quality/"><u>Top Gamers' Screen Guide  Best Monitors at 4K Quality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/ultimate-guide-from-poco-x6-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Poco X6 FRP Bypass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-potential-with-free-premiere-pro-plans/"><u>Unlock Potential with Free Premiere Pro Plans</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-horizons-assessing-current-landscapes-and-trials/"><u>Virtual Horizons  Assessing Current Landscapes & Trials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/voice-to-text-service-without-a-price-tag/"><u>Voice-to-Text Service Without a Price Tag</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;[Updated] Comprehensive Overview  Utilizing Google&#39;s Automatic Transcription Service&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:01:33</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:01:33
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/updated-comprehensive-overview-utilizing-googles-automatic-transcription-service/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/updated-cost-analysis-completing-a-music-video-shoot/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[Updated] Cost Analysis  Completing A Music Video Shoot&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/updated-comprehensive-overview-of-whatsapp-voice-calls/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Comprehensive Overview of WhatsApp Voice Calls</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;[Updated] Comprehensive Overview  Utilizing Google&#39;s Automatic Transcription Service&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Comprehensive-Overview-Utilizing-Google%E2%80%99s-Automatic-Transcription-Service"><span class="nav-text">Comprehensive Overview: Utilizing Google’s Automatic Transcription Service</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service"><span class="nav-text">Part 1: What do you need to use google docs speech to text service?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Google-accounts"><span class="nav-text">1. Google accounts</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Microphone"><span class="nav-text">2. Microphone</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-Use-Google-Docs-speech-to-text-service"><span class="nav-text">Part 2: How to Use Google Docs speech to text service?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Input-with-a-microphone"><span class="nav-text">1. Input with a microphone</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Input-with-an-audio-file"><span class="nav-text">2. Input with an audio file</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service"><span class="nav-text">Part 3: Best Alternatives to Google Docs speech to text service</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Windows-10-built-in-speech-to-text-service"><span class="nav-text">1. Windows 10 built-in speech to text service</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Filmora-Speech-to-text"><span class="nav-text">2. Filmora  Speech to text</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-FAQs"><span class="nav-text">Part 4: FAQs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile"><span class="nav-text">Q1: Can you use Google Docs on speech to text mobile?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q2-Can-you-use-Google-Docs-speech-to-text-offline"><span class="nav-text">Q2: Can you use Google Docs speech to text offline?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q3-Is-Chromebook-necessary-to-use-Google-Docs"><span class="nav-text">Q3 Is Chromebook necessary to use Google Docs?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-What-do-you-need-to-use-google-docs-speech-to-text-service-1"><span class="nav-text">Part 1: What do you need to use google docs speech to text service?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Google-accounts-1"><span class="nav-text">1. Google accounts</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Microphone-1"><span class="nav-text">2. Microphone</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-Use-Google-Docs-speech-to-text-service-1"><span class="nav-text">Part 2: How to Use Google Docs speech to text service?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Input-with-a-microphone-1"><span class="nav-text">1. Input with a microphone</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Input-with-an-audio-file-1"><span class="nav-text">2. Input with an audio file</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Best-Alternatives-to-Google-Docs-speech-to-text-service-1"><span class="nav-text">Part 3: Best Alternatives to Google Docs speech to text service</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Windows-10-built-in-speech-to-text-service-1"><span class="nav-text">1. Windows 10 built-in speech to text service</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Filmora-Speech-to-text-1"><span class="nav-text">2. Filmora  Speech to text</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-FAQs-1"><span class="nav-text">Part 4: FAQs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Q1-Can-you-use-Google-Docs-on-speech-to-text-mobile-1"><span class="nav-text">Q1: Can you use Google Docs on speech to text mobile?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q2-Can-you-use-Google-Docs-speech-to-text-offline-1"><span class="nav-text">Q2: Can you use Google Docs speech to text offline?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Q3-Is-Chromebook-necessary-to-use-Google-Docs-1"><span class="nav-text">Q3 Is Chromebook necessary to use Google Docs?</span></a></li></ol></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

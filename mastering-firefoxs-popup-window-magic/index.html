@@ -607,15 +607,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -637,454 +637,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/Ox6vAuLUV4dyE0jdhv92jjP32j8=/210x138/filters:no_upscale():max_bytes(150000):strip_icc()/google-search-ai-15b52ee190004c9a910ff7da078277ed.png" alt="Mastering Firefox&#39;s Popup Window Magic" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Mastering Firefox&#39;s Popup Window Magic</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:07:30</span>
-        <span class="mobile">2024-07-27 10:07:30</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:07:30</span>
-            <span class="mobile">2024-07-28 10:07:30</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Mastering-Firefox’s-Popup-Window-Magic"><a href="#Mastering-Firefox’s-Popup-Window-Magic" class="headerlink" title="Mastering Firefox’s Popup Window Magic"></a>Mastering Firefox’s Popup Window Magic</h2><p>Using your PC to watch films while working on something else has recently been possible due to the new picture-in-picture mode function. Mozilla Firefox users may utilize this functionality to accomplish two or more things simultaneously.</p>
-<p>This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.easygifanimator.net/images/gif-animator.png"
-                      border="0"
-                >Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that’s why Easy GIF Animator is so popular.</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg"
-                      alt="the firefox"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082529"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082529/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-How-Picture-in-Picture-Mode-Works"><a href="#Part-1-How-Picture-in-Picture-Mode-Works" class="headerlink" title="Part 1. How Picture-in-Picture Mode Works"></a>Part 1. How Picture-in-Picture Mode Works</h2><p>Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.</p>
-<p>The interface has a play&#x2F;pause button. You may also recover a video by locating it as well as close the interface by clicking the close button if you wish to. It will return to the initial tab and continue from where it left off when the player was closed.</p>
-<p>When your video is in picture-in-picture mode, the video placeholder also displays on the website. “This video is playing in Picture-in-Picture mode,” it reads.</p>
-<p>Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png"
-                      border="0"
-                >Software Update Pro - Check and update software installed on your computer. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-to-activate-Picture-in-Picture-PiP-in-Firefox"><a href="#Part-2-How-to-activate-Picture-in-Picture-PiP-in-Firefox" class="headerlink" title="Part 2. How to activate Picture-in-Picture (PiP) in Firefox"></a>Part 2. How to activate Picture-in-Picture (PiP) in Firefox</h2><p>Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.</p>
-<p>Firefox, like Google Chrome, Microsoft Edge, and other current browsers, supports picture-in-picture mode. This functionality allows you to view movies in a floating window while working with other tabs, browsers, desktop apps, and so on.</p>
-<p>Because this picture-in-picture panel is an overlay, you may move it to any part of your screen. So, in picture-in-picture mode, you may click play&#x2F;pause, shut it, or expand it to its full size.</p>
-<h3 id="Step-by-step-Guide-to-Enable-Firefox-Picture-in-Picture-Mode"><a href="#Step-by-step-Guide-to-Enable-Firefox-Picture-in-Picture-Mode" class="headerlink" title="Step-by-step Guide to Enable Firefox Picture-in-Picture Mode"></a>Step-by-step Guide to Enable Firefox Picture-in-Picture Mode</h3><p>Without the assistance of third-party add-on modules, PiP mode is a feasible choice. The picture-in-picture (PiP) mode option in the Firefox browser is activated by default. However, if this does not work, you can easily re-enable the option in the Firefox browser’s Settings area.</p>
-<p>Here’s how to activate picture-in-picture video control in Firefox**:**</p>
-<ol>
-<li><strong>To start</strong>, locate and open the Firefox browser on your PC.</li>
-<li>Click on the 3 horizontal lines in the top-right menu.</li>
-<li>Choose the <strong>Options&#x2F;Settings</strong> from the menu list. This opens the settings mode and its general model.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a></p>
-<!-- affiliate ads end -->
-<p><img src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg" alt="choose the options/settings"></p>
-<ol>
-<li>Scroll down in the General mode to locate the <strong>Browsing</strong> settings option.</li>
-<li>Here, you will see a list of browsing settings; click to select the ‘<strong>Enable picture in picture video controls’</strong>, and check the box.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg"
-                      alt="a list of browsing settings"
-                ></p>
-<p>Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.</p>
-<!-- affiliate ads begin -->
-<h3 id="200610"><a class="link"   target="_blank" rel="noopener" href="https://sentrypc.7eer.net/c/5597632/200610/3022" >Parental Control Software <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3>
-<span class="text-ad-content">
-    #1 Rated Parental Control Software.<br/>
-    Monitor & Control all PC Activity!<br/>
-        <cite style="color:green">sentrypc.com/parental-controls/</cite>
-    </span><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/200610/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
+  &.show-toc
+    gap 30px
 
-<p>You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:</p>
-<ol>
-<li>Open any website with video in Firefox web browser.</li>
-<li>When the video start. Move the cursor over the video to reveal the Picture-in-Picture logo.</li>
-<li>Picture-in-Picture mode is activated by tapping the logo. The video is repositioned to the side of the web page.</li>
-<li>Repeat the preceding steps on the same page or in a separate tab to open several movies.</li>
-<li>Firefox plays the new video above the first. Drag and drop it anywhere to display both.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg"
-                      alt="the new video above the first"
-                ></p>
-<p>By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a “play” symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.</p>
-<h2 id="Part-3-How-to-Disable-the-Picture-in-Picture-Mode"><a href="#Part-3-How-to-Disable-the-Picture-in-Picture-Mode" class="headerlink" title="Part 3. How to Disable the Picture-in-Picture Mode"></a>Part 3. How to Disable the Picture-in-Picture Mode</h2><p>Sometimes, the PiP mode can disturb necessary research or task that needs your full concentration. In this scenario, disabling the Picture-in-Picture mode is a way to get your task done with the optimum attention. If you want to turn off Picture-in-Picture mode and return to the video tab, hover over the video, then click the following icon <strong>“X”</strong>.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png"
-                      border="0"
-                ></a><br><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg"
-                      alt="click the following icon"
-                ></p>
-<h2 id="Part-4-Other-tips-about-Picture-in-Picture-Mode-in-Firefox"><a href="#Part-4-Other-tips-about-Picture-in-Picture-Mode-in-Firefox" class="headerlink" title="Part 4. Other tips about Picture-in-Picture Mode in Firefox"></a>Part 4. Other tips about Picture-in-Picture Mode in Firefox</h2><h3 id="4-1-Picture-in-Picture-extension-in-Firefox"><a href="#4-1-Picture-in-Picture-extension-in-Firefox" class="headerlink" title="4.1 Picture-in-Picture extension in Firefox"></a>4.1 Picture-in-Picture extension in Firefox</h3><p>Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the <strong>Menu</strong> button. Locate the <a class="link"   target="_blank" rel="noopener" href="https://addons.mozilla.org/en-US/firefox/" >add-on menu item <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.</p>
-<h3 id="4-2-Keyboard-shortcuts-about-Picture-in-Picture-in-Firefox"><a href="#4-2-Keyboard-shortcuts-about-Picture-in-Picture-in-Firefox" class="headerlink" title="4.2 Keyboard shortcuts about Picture-in-Picture in Firefox"></a>4.2 Keyboard shortcuts about Picture-in-Picture in Firefox</h3><p>It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of <strong>‘Ctrl + Shift + ]‘</strong>. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg"
-                      alt="the key combination"
-                ></p>
-<h2 id="Part-5-FAQs"><a href="#Part-5-FAQs" class="headerlink" title="Part 5. FAQs"></a>Part 5. FAQs</h2><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a></p>
-<!-- affiliate ads end -->
-<h3 id="How-do-I-keep-the-picture-in-picture-window-always-on-top"><a href="#How-do-I-keep-the-picture-in-picture-window-always-on-top" class="headerlink" title="How do I keep the picture-in-picture window always on top?"></a>How do I keep the picture-in-picture window always on top?</h3><p>After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082538"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082538/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Why-is-picture-in-picture-in-Firefox-not-working"><a href="#Why-is-picture-in-picture-in-Firefox-not-working" class="headerlink" title="Why is picture-in-picture in Firefox not working?"></a>Why is picture-in-picture in Firefox not working?</h3><p>On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.</p>
-<h3 id="How-do-I-resize-the-picture-in-picture-window-in-Firefox"><a href="#How-do-I-resize-the-picture-in-picture-window-in-Firefox" class="headerlink" title="How do I resize the picture-in-picture window in Firefox?"></a>How do I resize the picture-in-picture window in Firefox?</h3><p>You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18544-1873305"
-                      border="0" alt="" width="1080" height="1350"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1873305/18544"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Picture-in-Picture is a nice feature that helps you increase productivity while multitasking. You can successfully enable and disable this feature by following our step-by-step guide outlined in this article. After carefully reading this article, you should also be able to pin, resize and fix any issue related to picture-in-picture in Firefox.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/new-in-2024-top-8-social-tools-to-skyrocket-your-likes-on-facebook/"><u>[New] In 2024, Top 8 Social Tools to Skyrocket Your Likes on Facebook</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/nlocking-youtubes-potential-with-targeted-keywords/"><u>[New] Unlocking YouTube's Potential with Targeted Keywords</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/ed-in-2024-dividing-opinions-is-mirrorless-better-than-dslr-for-vids/"><u>[Updated] In 2024, Dividing Opinions  Is Mirrorless Better than DSLR for Vids?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>[Updated] In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/updated-in-2024-the-art-of-producing-high-impact-slack-channels/"><u>[Updated] In 2024, The Art of Producing High-Impact Slack Channels</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/updated-the-upside-of-asmr-a-closer-look-at-its-advantages-for-2024/"><u>[Updated] The Upside of ASMR  A Closer Look At Its Advantages for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-alternatives-to-googles-digital-sticker-magic/"><u>2024 Approved  Alternatives to Google's Digital Sticker Magic</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-how-to-remove-background-in-picsart/"><u>2024 Approved  Behind the Scenes  How to Remove Background in Picsart</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/2024-approved-boosting-video-quality-utilizing-youtube-studios-features/"><u>2024 Approved  Boosting Video Quality  Utilizing YouTube Studio's Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-create-powerful-biz-decks-with-no-cost-templates/"><u>2024 Approved  Create Powerful Biz Decks with No-Cost Templates</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/2024-approved-sky-high-streamer-success-channel-growth-through-monetizing-every-device/"><u>2024 Approved  Sky-High Streamer Success  Channel Growth Through Monetizing Every Device</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/2024-approved-the-legacy-library-exploring-free-visual-echoes/"><u>2024 Approved  The Legacy Library  Exploring Free Visual Echoes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-realistic-blur-on-images-using-photoshop-techniques-for-2024/"><u>Achieving Realistic Blur on Images Using Photoshop Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobes-quick-guide-for-perfect-photo-colors/"><u>Adobe's Quick Guide for Perfect Photo Colors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-full-rotational-camera-systems-enhancing-media-for-2024/"><u>Affordable, Full Rotational Camera Systems Enhancing Media for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-soundscape-with-googles-ringtone/"><u>Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x7-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo Find X7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-social-media-presence-syncing-srt-uploads-with-platforms/"><u>Elevate Your Social Media Presence  Syncing SRT Uploads with Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embellish-slides-with-sonic-elements/"><u>Embellish Slides with Sonic Elements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essentials-of-effective-spotify-ad-placement/"><u>Essentials of Effective Spotify Ad Placement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-mastery-for-home-and-professional-pcs/"><u>HDR Mastery for Home and Professional PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hues-harmony-an-editors-guide-to-perfect-grading/"><u>Hues Harmony  An Editor's Guide to Perfect Grading</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-lifes-moments-flawlessly-phones-with-superior-image-stabilizing-tech/"><u>In 2024, Capture Life's Moments Flawlessly  Phones with Superior Image Stabilizing Tech</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/in-2024-graphic-animation-basic-knowledge-and-practices/"><u>In 2024, Graphic Animation  Basic Knowledge & Practices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/in-2024-how-to-increase-followers-on-facebook-10-effective-ways/"><u>In 2024, How to Increase Followers on Facebook (10 Effective Ways )</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/increasing-click-rates-and-revenue-the-power-of-engaging-fb-animation-ads/"><u>Increasing Click Rates & Revenue  The Power of Engaging FB Animation Ads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/m1-max-clip-your-ultimate-guidebook/"><u>M1 Max Clip  Your Ultimate Guidebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-chapter-inclusion-in-youtube-videos-professional-edition/"><u>Navigating Chapter Inclusion in YouTube Videos  Professional Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/slow-motion-revolution-comprehensive-look-at-2024-version/"><u>Slow Motion Revolution  Comprehensive Look at 2024 Version</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>Streamline and Enhance Your Filmmaking  An Intro to Final Cut Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tactics-for-triumphing-in-virtual-marketplaces/"><u>Tactics for Triumphing in Virtual Marketplaces</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/the-interactive-index-for-ig-and-tiktok-connection/"><u>The Interactive Index for IG & TikTok Connection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-the-4k-display-lgs-31mu97-b-model/"><u>The Ultimate Guide to the 4K Display - LG's 31MU97-B Model</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/viral-visionaries-top-ten-meme-templates-exposed/"><u>Viral Visionaries  Top Ten Meme Templates Exposed</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Mastering Firefox&#39;s Popup Window Magic</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:07:30</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:07:30
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/mastering-firefoxs-popup-window-magic/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/melodic-moments-the-art-of-music-in-insta-videos/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Melodic Moments  The Art of Music in Insta-Videos&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/mastering-collage-artistry-with-precision/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Mastering Collage Artistry with Precision</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Mastering Firefox&#39;s Popup Window Magic</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Mastering-Firefox%E2%80%99s-Popup-Window-Magic"><span class="nav-text">Mastering Firefox’s Popup Window Magic</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-Picture-in-Picture-Mode-Works"><span class="nav-text">Part 1. How Picture-in-Picture Mode Works</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-activate-Picture-in-Picture-PiP-in-Firefox"><span class="nav-text">Part 2. How to activate Picture-in-Picture (PiP) in Firefox</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Step-by-step-Guide-to-Enable-Firefox-Picture-in-Picture-Mode"><span class="nav-text">Step-by-step Guide to Enable Firefox Picture-in-Picture Mode</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#200610"><span class="nav-text">Parental Control Software </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-How-to-Disable-the-Picture-in-Picture-Mode"><span class="nav-text">Part 3. How to Disable the Picture-in-Picture Mode</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Other-tips-about-Picture-in-Picture-Mode-in-Firefox"><span class="nav-text">Part 4. Other tips about Picture-in-Picture Mode in Firefox</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#4-1-Picture-in-Picture-extension-in-Firefox"><span class="nav-text">4.1 Picture-in-Picture extension in Firefox</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-2-Keyboard-shortcuts-about-Picture-in-Picture-in-Firefox"><span class="nav-text">4.2 Keyboard shortcuts about Picture-in-Picture in Firefox</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-FAQs"><span class="nav-text">Part 5. FAQs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#How-do-I-keep-the-picture-in-picture-window-always-on-top"><span class="nav-text">How do I keep the picture-in-picture window always on top?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Why-is-picture-in-picture-in-Firefox-not-working"><span class="nav-text">Why is picture-in-picture in Firefox not working?</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#How-do-I-resize-the-picture-in-picture-window-in-Firefox"><span class="nav-text">How do I resize the picture-in-picture window in Firefox?</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

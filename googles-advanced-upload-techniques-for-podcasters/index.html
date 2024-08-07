@@ -618,15 +618,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -648,613 +648,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg" alt="Google&#39;s Advanced Upload Techniques for Podcasters" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Google&#39;s Advanced Upload Techniques for Podcasters</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 09:16:13</span>
-        <span class="mobile">2024-07-27 09:16:13</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 09:16:13</span>
-            <span class="mobile">2024-07-28 09:16:13</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Google’s-Advanced-Upload-Techniques-for-Podcasters"><a href="#Google’s-Advanced-Upload-Techniques-for-Podcasters" class="headerlink" title="Google’s Advanced Upload Techniques for Podcasters"></a>Google’s Advanced Upload Techniques for Podcasters</h2><p>Do you record podcasts? Do you also want to make your content available to more listeners? Welcome to the Ultimate Guide on Google Podcast upload.</p>
-<p>This guide will show you the steps you need to take to upload your podcast to Google Podcasts. Whether you’re new to podcasting or a pro, we will provide you with the most up-to-date information and tips. We will also ensure your podcast is easily discoverable on Google Podcasts. Let’s get started.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/gmail-backup.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-Why-Is-It-Important-To-Upload-Podcasts-on-Google"><a href="#Part-1-Why-Is-It-Important-To-Upload-Podcasts-on-Google" class="headerlink" title="Part 1. Why Is It Important To Upload Podcasts on Google?"></a>Part 1. Why Is It Important To Upload Podcasts on Google?</h2><p>Podcasts have replaced radio and TV. They are now a new and popular way to share information, entertainment, and knowledge. In case to get the most out of them, it’s essential to make them reach more people. You can do it by uploading your podcasts on Google Podcasts.</p>
-<p>Because when you share your podcast on Google, you’re giving your listeners a chance to find you. It can also help you grow your audience in a variety of ways, such as:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/20702-1864921"
-                      border="0" alt="" width="1251" height="1042"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="Benefits-of-uploading-your-podcast-to-Google-Podcasts"><a href="#Benefits-of-uploading-your-podcast-to-Google-Podcasts" class="headerlink" title="Benefits of uploading your podcast to Google Podcasts"></a>Benefits of uploading your podcast to Google Podcasts</h3><ul>
-<li>Credibility: Uploading to Google Podcasts increase credibility about the content quality.</li>
-<li>Discoverability: People can easily find you because it boosts search ranking and visibility.</li>
-<li>Exposure: It increases potential listeners and reaches a broader audience.</li>
-<li>Subscriptions: Google Podcasts app offers easy subscriptions.</li>
-<li>Email&#x2F;RSS feeds: Uploading to Google Podcasts facilitates email&#x2F;RSS sharing.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21774-1920047"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1920047/21774"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-1.jpg"
-                      alt="screenshot of google search podcast"
-                ></p>
-<p>Now that we know the importance of uploading podcasts to Google. Let’s see how to do it.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-Prerequisites-for-Google-Podcast-Submission"><a href="#Part-2-Prerequisites-for-Google-Podcast-Submission" class="headerlink" title="Part 2. Prerequisites for Google Podcast Submission"></a>Part 2. Prerequisites for Google Podcast Submission</h2><p>If you’re new to podcasting or looking to submit a podcast to Google Podcasts. You should know the following requirements:</p>
-<ol>
-<li>The podcast must be submitted as an RSS feed.</li>
-<li>It must be available and not blocked by restrictive access settings.</li>
-<li>It must Include a cover art image and the title of your podcast.</li>
-<li>Prepare a summary and description of your podcast.</li>
-<li>Ensure the episodes are tagged with descriptive titles, descriptions, and categories.</li>
-<li>The podcast’s episodes should be formatted and encoded as MP3s.</li>
-<li>It must not contain any copyrighted material.</li>
-<li>The feed should have only HTTP or HTTPS. Don’t mix URLs across your feed, homepage, and audio files.</li>
-</ol>
-<h2 id="Part-3-How-To-Submit-Podcasts-to-Google-Podcasts"><a href="#Part-3-How-To-Submit-Podcasts-to-Google-Podcasts" class="headerlink" title="Part 3. How To Submit Podcasts to Google Podcasts?"></a>Part 3. How To Submit Podcasts to Google Podcasts?</h2><p>Now that you understand the importance of Google Podcasts and the requirements to upload your podcast. You may be wondering how to submit it.</p>
-<p>Getting your podcasts on Google Podcasts is an effortless task, and it won’t take much time. Here’s a simple overview of the process: How to upload podcasts on Google podcasts.</p>
-<p>Step1 Find your podcast’s RSS feed</p>
-<p>You can access your podcast’s host to find the RSS feed. Each hosting site differs from the others, but finding RSS is easy. Once you have located your feed, copy it to paste later (When required).</p>
-<p>Step2 Log in to Google Podcasts Manager</p>
-<p>Go to the <a class="link"   target="_blank" rel="noopener" href="https://podcastsmanager.google.com/about?hl=en" >Google Podcasts Manager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and login into your account to get on with the verification process. Once you log in, click on <strong>Start now</strong>, and you will be taken to the next page, where you can start the verification process.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-2.jpg"
-                      alt="start now page"
-                ></p>
-<p>Step3 Add your podcast’s RSS feed</p>
-<p>Now it’s time to paste the RSS feed you copied earlier from your podcast host. After entering the RSS feed, click on the <strong>Next step</strong> to move further.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17885-2072199"
-                      border="0" alt="" width="300" height="300"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2072199/17885"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-3.jpg"
-                      alt="pasting the rss feed"
-                ></p>
-<p>Step4 Verify your RSS feed</p>
-<p>If you logged in with the same google account associated with your Google podcasts, Google would verify it instantly. But if your podcast is linked with any other email address, you must perform a few more steps. First, Google will send an email to that email address. Then, you can follow the process to complete the verification.</p>
-<p>It’s as easy as that! With these steps, you can successfully submit your podcast to Google Podcasts and reach a wider audience.</p>
-<h2 id="Part-4-Where-Can-Google-Podcasts-Show-Your-Podcast"><a href="#Part-4-Where-Can-Google-Podcasts-Show-Your-Podcast" class="headerlink" title="Part 4. Where Can Google Podcasts Show Your Podcast?"></a>Part 4. Where Can Google Podcasts Show Your Podcast?</h2><p>As a podcast creator, it’s important to understand where your podcast can be featured on Google Podcasts. It can help you reach a broad audience and increase your number of listeners. Here are all the places where your podcast can be shown on Google Podcasts:</p>
-<ul>
-<li>Google Search Engine Result Page (SERP)</li>
-<li>Google Podcasts website: <a class="link"   target="_blank" rel="noopener" href="https://podcasts.google.com/" >google.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li>Google Search app on Android devices</li>
-<li>Google Search app on iOS devices</li>
-<li>Google Assistant on Android and iOS devices</li>
-<li>Google Home and other smart speakers with Google Assistant</li>
-<li>Google Nest smart displays with Google Assistant</li>
-<li>Android Auto in-car infotainment systems</li>
-<li>Google Podcasts app on Android and iOS devices</li>
-<li>Chromecast and other devices with Chromecast built-in (such as TVs and soundbars)</li>
-<li>Android TV</li>
-</ul>
-<p>By understanding where your podcast can be shown on Google Podcasts, you can optimize your podcast’s information and content to improve its visibility on the platform. It can help you reach a larger audience and increase your listeners.</p>
-<p>Now that we are familiar with Google Podcasts. Let’s learn some important tips to increase subscribers.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png"
-                      border="0"
-                >Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-5-3-Most-Effective-Tips-To-Increase-Subscribers-for-Google-Podcasts"><a href="#Part-5-3-Most-Effective-Tips-To-Increase-Subscribers-for-Google-Podcasts" class="headerlink" title="Part 5. 3 Most Effective Tips To Increase Subscribers for Google Podcasts"></a>Part 5. 3 Most Effective Tips To Increase Subscribers for Google Podcasts</h2><p>Google Podcasts is a great way to get your message out there and increase your subscriber base. Let’s learn about the three practical tips to get the most out of Google Podcasts:</p>
-<h3 id="1-Continually-making-podcasts-to-Google-Podcasts"><a href="#1-Continually-making-podcasts-to-Google-Podcasts" class="headerlink" title="1.Continually making podcasts to Google Podcasts"></a>1.Continually making podcasts to Google Podcasts</h3><p>Consistency is the key. If you want to increase subscribers, you need to upload podcasts regularly. Then, it will engage current subscribers and attract new ones.</p>
-<p>By uploading consistently, you can form a habit among your listeners. They can plan their listening schedule and look forward to new episodes. But how to keep the consistency? Well, <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> has got you covered.</p>
-<h5 id="What-is-Wondershare-Filmora"><a href="#What-is-Wondershare-Filmora" class="headerlink" title="What is Wondershare Filmora?"></a>What is Wondershare Filmora?</h5><p>Wondershare Filmora is a powerful video&#x2F;audio editing software. It can help you record your video&#x2F;audio with various editing tools. These tools also allow you to edit your audio by adding audio effects, tuning, and more.</p>
-<p>With Wondershare Filmora, you can easily record your podcasts and make them professional and exciting. To download it click the link below:</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora Video Editor - Powerful Video Editing Tool for PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17212-1450763"
-                      border="0" alt="" width="2560" height="1440"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1450763/17212"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-4.jpg"
-                      alt="wondershare filmora logo"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>The podcast recording features in Filmora also include the following:</p>
-<p><strong>Audio recording:</strong> Record your voice or any other audio source directly into the software.</p>
-<p><strong>Audio editing:</strong> Edit your audio with the ability to adjust the level, add effects, and remove noise.</p>
-<p><strong>Sound effects:</strong> Built-in music, sound clips, and background noises to enhance your podcasts.</p>
-<p><strong>Visual elements:</strong> Add visual features to your podcasts, such as images and video clips.</p>
-<p><strong>Multimedia support:</strong> Create multimedia podcasts that combine audio and visual elements.</p>
-<h5 id="Steps-to-make-podcasts-with-Filmora"><a href="#Steps-to-make-podcasts-with-Filmora" class="headerlink" title="Steps to make podcasts with Filmora"></a>Steps to make podcasts with Filmora</h5><p>If you have already downloaded the Wondershare Filmora. Open it, and let’s start making the podcast.</p>
-<p>Step1 After opening the app, click on Create New Project. Then, import the image you want to set as a title or any other sample image.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/25579-2093504"
-                      border="0" alt="" width="1200" height="1200"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2093504/25579"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-5.jpg"
-                      alt="creating a new project"
-                ></p>
-<p>Step2 Now drag and drop the media file onto the timeline and click on Start Recording to record. Next, you select Record Voiceover from the options.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-6.jpg"
-                      alt="selecting voiceover"
-                ></p>
-<p>Step3 Set your microphone device and click the Red Circle to begin recording.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-7.jpg"
-                      alt="clicking the red circle"
-                ></p>
-<p>Step4 Continue the recording as long as you want to record it. Once you are done recording, click ok to proceed.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-8.jpg"
-                      alt="clicking on ok"
-                ></p>
-<p>Step5 Your podcast is ready. Click on the Export button to save the project on your device.</p>
-<p>You can adjust the audio or add background effects to enhance your podcasts. All in All, Wondershare Filmora is the easiest way to record and edit podcasts. It can help you create podcasts effortlessly in a consistent manner. Next, let’s move to the other way of increasing subscribers.</p>
-<h3 id="2-SEO-techniques"><a href="#2-SEO-techniques" class="headerlink" title="2.SEO techniques"></a>2.SEO techniques</h3><p>Several SEO techniques can help to increase the number of subscribers to your Google podcast:</p>
-<h5 id="Keywords"><a href="#Keywords" class="headerlink" title="Keywords"></a>Keywords</h5><p>Use relevant keywords in your podcast title, description, and tags. When you use relevant keywords, people can find your content easily while searching for a specific topic.</p>
-<h5 id="Create-transcripts"><a href="#Create-transcripts" class="headerlink" title="Create transcripts"></a>Create transcripts</h5><p>Having a podcast transcript can help search engines understand the content of your podcast. As a result, it will eventually increase its visibility in search results.</p>
-<h5 id="Promote-on-social-media"><a href="#Promote-on-social-media" class="headerlink" title="Promote on social media"></a>Promote on social media</h5><p>Share your podcast on social media platforms and encourage your audience to share it with their networks. It can increase your visibility and attract more subscribers.</p>
-<h5 id="Engage"><a href="#Engage" class="headerlink" title="Engage"></a>Engage</h5><p>Encourage your listeners to leave ratings and reviews on your podcast. It can help to increase its visibility in search results.</p>
-<p>By implementing these SEO techniques, you can increase the number of subscribers to your Google podcast and reach a wider audience.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="3-A-fancy-cover-matters"><a href="#3-A-fancy-cover-matters" class="headerlink" title="3.A fancy cover matters"></a>3.A fancy cover matters</h3><p>The first thing that will attract listeners is your podcast’s cover art. It can improve the credibility of your podcast and encourage listeners to give it a try. It is just like how a movie or a book with good cover art seems more appealing.</p>
-<p>Regardless of what platform you are uploading your podcast on. The cover cart is the key to standing out from the crowd. Unfortunately, different platforms have their own size specifications for cover art. Let’s see the requirements for Google Podcasts:</p>
-<ul>
-<li>Size: 3000 x 3000 pixels (1400 x 1400 pixels minimum)</li>
-<li>Format: JPEG, PNG</li>
-<li>Resolution: High</li>
-<li>Ratio: 1:1</li>
-<li>Color Space: RGB</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/outlook-recovery.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Words"><a href="#Final-Words" class="headerlink" title="Final Words"></a>Final Words</h2><p>We hope this guide on Google Podcast upload has helped you understand the basics of how to get started with podcasting on Google.</p>
-<p>With the power of Google Podcasts, you can reach a wide audience and share your podcast with the world. Proper SEO strategies can help you be confident that your podcast will fly at the top of the rankings.</p>
-<p>So get started now and create your Google Podcast!</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>The podcast recording features in Filmora also include the following:</p>
-<p><strong>Audio recording:</strong> Record your voice or any other audio source directly into the software.</p>
-<p><strong>Audio editing:</strong> Edit your audio with the ability to adjust the level, add effects, and remove noise.</p>
-<p><strong>Sound effects:</strong> Built-in music, sound clips, and background noises to enhance your podcasts.</p>
-<p><strong>Visual elements:</strong> Add visual features to your podcasts, such as images and video clips.</p>
-<p><strong>Multimedia support:</strong> Create multimedia podcasts that combine audio and visual elements.</p>
-<h5 id="Steps-to-make-podcasts-with-Filmora-1"><a href="#Steps-to-make-podcasts-with-Filmora-1" class="headerlink" title="Steps to make podcasts with Filmora"></a>Steps to make podcasts with Filmora</h5><p>If you have already downloaded the Wondershare Filmora. Open it, and let’s start making the podcast.</p>
-<p>Step1 After opening the app, click on Create New Project. Then, import the image you want to set as a title or any other sample image.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-5.jpg"
-                      alt="creating a new project"
-                ></p>
-<p>Step2 Now drag and drop the media file onto the timeline and click on Start Recording to record. Next, you select Record Voiceover from the options.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19135-1793214"
-                      border="0" alt="" width="900" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793214/19135"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-6.jpg"
-                      alt="selecting voiceover"
-                ></p>
-<p>Step3 Set your microphone device and click the Red Circle to begin recording.</p>
-<!-- affiliate ads begin -->
-<span id="1993650">
-                    <video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:720px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1993650/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-![clicking the red circle](https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-7.jpg)
+  &.show-toc
+    gap 30px
 
-<p>Step4 Continue the recording as long as you want to record it. Once you are done recording, click ok to proceed.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/04/ultimate-guide-on-google-podcast-upload-in-2023-8.jpg"
-                      alt="clicking on ok"
-                ></p>
-<p>Step5 Your podcast is ready. Click on the Export button to save the project on your device.</p>
-<p>You can adjust the audio or add background effects to enhance your podcasts. All in All, Wondershare Filmora is the easiest way to record and edit podcasts. It can help you create podcasts effortlessly in a consistent manner. Next, let’s move to the other way of increasing subscribers.</p>
-<h3 id="2-SEO-techniques-1"><a href="#2-SEO-techniques-1" class="headerlink" title="2.SEO techniques"></a>2.SEO techniques</h3><p>Several SEO techniques can help to increase the number of subscribers to your Google podcast:</p>
-<h5 id="Keywords-1"><a href="#Keywords-1" class="headerlink" title="Keywords"></a>Keywords</h5><p>Use relevant keywords in your podcast title, description, and tags. When you use relevant keywords, people can find your content easily while searching for a specific topic.</p>
-<h5 id="Create-transcripts-1"><a href="#Create-transcripts-1" class="headerlink" title="Create transcripts"></a>Create transcripts</h5><p>Having a podcast transcript can help search engines understand the content of your podcast. As a result, it will eventually increase its visibility in search results.</p>
-<h5 id="Promote-on-social-media-1"><a href="#Promote-on-social-media-1" class="headerlink" title="Promote on social media"></a>Promote on social media</h5><p>Share your podcast on social media platforms and encourage your audience to share it with their networks. It can increase your visibility and attract more subscribers.</p>
-<h5 id="Engage-1"><a href="#Engage-1" class="headerlink" title="Engage"></a>Engage</h5><p>Encourage your listeners to leave ratings and reviews on your podcast. It can help to increase its visibility in search results.</p>
-<p>By implementing these SEO techniques, you can increase the number of subscribers to your Google podcast and reach a wider audience.</p>
-<h3 id="3-A-fancy-cover-matters-1"><a href="#3-A-fancy-cover-matters-1" class="headerlink" title="3.A fancy cover matters"></a>3.A fancy cover matters</h3><p>The first thing that will attract listeners is your podcast’s cover art. It can improve the credibility of your podcast and encourage listeners to give it a try. It is just like how a movie or a book with good cover art seems more appealing.</p>
-<p>Regardless of what platform you are uploading your podcast on. The cover cart is the key to standing out from the crowd. Unfortunately, different platforms have their own size specifications for cover art. Let’s see the requirements for Google Podcasts:</p>
-<ul>
-<li>Size: 3000 x 3000 pixels (1400 x 1400 pixels minimum)</li>
-<li>Format: JPEG, PNG</li>
-<li>Resolution: High</li>
-<li>Ratio: 1:1</li>
-<li>Color Space: RGB</li>
-</ul>
-<h2 id="Final-Words-1"><a href="#Final-Words-1" class="headerlink" title="Final Words"></a>Final Words</h2><p>We hope this guide on Google Podcast upload has helped you understand the basics of how to get started with podcasting on Google.</p>
-<p>With the power of Google Podcasts, you can reach a wide audience and share your podcast with the world. Proper SEO strategies can help you be confident that your podcast will fly at the top of the rankings.</p>
-<p>So get started now and create your Google Podcast!</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>[New] 2024 Approved  Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/new-essential-quick-steps-for-effective-double-take-filming-for-2024/"><u>[New] Essential Quick Steps for Effective Double Take Filming for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-how-much-can-you-earn-on-youtube-via-ad-revenue-for-2024/"><u>[New] How Much Can You Earn on YouTube via Ad Revenue for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-in-2024-best-practices-integrating-timers-into-live-streaming-software/"><u>[New] In 2024, Best Practices  Integrating Timers Into Live Streaming Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-basics-of-weaving-a-narrative-thread/"><u>[Updated] Basics of Weaving a Narrative Thread</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-innovating-for-success-metaverse-sales-strategies/"><u>[Updated] Innovating for Success  Metaverse Sales Strategies</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/ed-revisiting-youtubes-archive-two-proven-watch-strategies/"><u>[Updated] Revisiting Youtube's Archive  Two Proven Watch Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerated-windows-review-strategies/"><u>2024 Approved  Accelerated Windows Review Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-artistic-transformation-tool-for-photos-pcs-and-macs-alike/"><u>2024 Approved  Artistic Transformation Tool for Photos, PCs & Macs Alike</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>2024 Approved  Beginner's Pathway  Photos Transformed Into Videos via Pixiz</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-kinetics-study-2023/"><u>2024 Approved  Comprehensive Kinetics Study 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cost-effective-choices-chinese-vr-technology/"><u>2024 Approved  Cost-Effective Choices  Chinese VR Technology</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/2024-approved-navigate-easy-customization-for-youtube-channel-urls/"><u>2024 Approved  Navigate Easy Customization for YouTube Channel URLs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/5-essential-fixes-for-hybrid-os-hypervisor-faults/"><u>5 Essential Fixes for Hybrid OS Hypervisor Faults</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apex-smartphone-triad-for-ultimate-video-quality/"><u>Apex Smartphone Triad for Ultimate Video Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/astounding-vlogs-start-here-easy-to-create-projects/"><u>Astounding Vlogs Start Here  Easy-to-Create Projects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-panzoid-blueprint-selections/"><u>Exclusive Panzoid Blueprint Selections</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-recover-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 14 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/illuminating-iphones-in-the-dark-photography-tips/"><u>Illuminating iPhones in the Dark  Photography Tips</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a1-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A1 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-android-and-lightroom-review-a-full-examination/"><u>In 2024, Android & Lightroom Review  A Full Examination</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>In 2024, BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cinemas-finest-techniques-top-5-tips-for-visual-impact/"><u>In 2024, Cinema's Finest Techniques  Top 5 Tips for Visual Impact</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-perfect-auditory-package-for-boxings/"><u>In 2024, Crafting the Perfect Auditory Package  For Boxings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ingenious-wavework-wisdom-casters-companion/"><u>Ingenious Wavework Wisdom  Caster's Companion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinnacle-8-webcams-for-high-definition-streaming/"><u>Pinnacle 8 Webcams for High-Definition Streaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-click-methodology-building-google-collage-projects-at-breakneck-speeds/"><u>Quick Click Methodology  Building Google Collage Projects at Breakneck Speeds</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/reviving-your-iphone-the-ultimate-guide-to-hard-reboot-sequences-and-accessing-recovery-mode-features/"><u>Reviving Your iPhone: The Ultimate Guide to Hard Reboot Sequences and Accessing Recovery Mode Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-videos-with-top-10-free-srt-converters/"><u>Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sharing-joy-iphone-memes/"><u>Sharing Joy  IPhone Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-ae-title-effect-wizardry/"><u>The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-audio-tools-for-professional-podcast-creators/"><u>Top Audio Tools for Professional Podcast Creators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-av1-an-entry-point-to-encoding/"><u>Unlocking AV1  An Entry Point to Encoding</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unrivaled-screenplays-reflective-of-diverse-themes/"><u>Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-top-watermarking-tools-in-photography/"><u>Unveiling the Top Watermarking Tools in Photography</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Google&#39;s Advanced Upload Techniques for Podcasters</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 09:16:13</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 09:16:13
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/googles-advanced-upload-techniques-for-podcasters/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/grandest-video-humor-studio/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Grandest Video Humor Studio</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/getting-the-most-out-of-pc-hdr-videos/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Getting the Most Out of PC HDR Videos</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Google&#39;s Advanced Upload Techniques for Podcasters</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Google%E2%80%99s-Advanced-Upload-Techniques-for-Podcasters"><span class="nav-text">Google’s Advanced Upload Techniques for Podcasters</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Why-Is-It-Important-To-Upload-Podcasts-on-Google"><span class="nav-text">Part 1. Why Is It Important To Upload Podcasts on Google?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Benefits-of-uploading-your-podcast-to-Google-Podcasts"><span class="nav-text">Benefits of uploading your podcast to Google Podcasts</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Prerequisites-for-Google-Podcast-Submission"><span class="nav-text">Part 2. Prerequisites for Google Podcast Submission</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-How-To-Submit-Podcasts-to-Google-Podcasts"><span class="nav-text">Part 3. How To Submit Podcasts to Google Podcasts?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Where-Can-Google-Podcasts-Show-Your-Podcast"><span class="nav-text">Part 4. Where Can Google Podcasts Show Your Podcast?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-5-3-Most-Effective-Tips-To-Increase-Subscribers-for-Google-Podcasts"><span class="nav-text">Part 5. 3 Most Effective Tips To Increase Subscribers for Google Podcasts</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Continually-making-podcasts-to-Google-Podcasts"><span class="nav-text">1.Continually making podcasts to Google Podcasts</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-SEO-techniques"><span class="nav-text">2.SEO techniques</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-A-fancy-cover-matters"><span class="nav-text">3.A fancy cover matters</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words"><span class="nav-text">Final Words</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#2-SEO-techniques-1"><span class="nav-text">2.SEO techniques</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-A-fancy-cover-matters-1"><span class="nav-text">3.A fancy cover matters</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words-1"><span class="nav-text">Final Words</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

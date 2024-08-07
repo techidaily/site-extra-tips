@@ -611,15 +611,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -641,553 +641,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153100a262ca37e1659c74f36a.jpg" alt="&#34;The Metrics of Mastery  Assessing Luminance&#39;s HDR Capabilities&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;The Metrics of Mastery  Assessing Luminance&#39;s HDR Capabilities&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:39:52</span>
-        <span class="mobile">2024-07-27 10:39:52</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:39:52</span>
-            <span class="mobile">2024-07-28 10:39:52</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="The-Metrics-of-Mastery-Assessing-Luminance’s-HDR-Capabilities"><a href="#The-Metrics-of-Mastery-Assessing-Luminance’s-HDR-Capabilities" class="headerlink" title="The Metrics of Mastery: Assessing Luminance’s HDR Capabilities"></a>The Metrics of Mastery: Assessing Luminance’s HDR Capabilities</h2><p>Creating HDR images ‘High Dynamic Range Images’ involves combining several narrow range images with multiple exposures. And as we all know, digital cameras can only capture images with differentiation in a specific range of luminosity.</p>
-<p>You need reliable HDR software to be able to create HDR images. Luminance HDR is one of the top software that many people want to have at their fingertips. But is the tool worth it? Does it have all it takes to satisfy your HDR image creation and editing needs? Well, this post has the right answers to these questions and lots more. So, stick around to find out more.</p>
-<h2 id="Part-1-Summary-Box-on-Luminance-HDR"><a href="#Part-1-Summary-Box-on-Luminance-HDR" class="headerlink" title="Part 1: Summary Box on Luminance HDR"></a>Part 1: Summary Box on Luminance HDR</h2><p>Luminance HDR is a digital graphics software that is used for the creation and editing of ‘High Dynamic Range Images. Formerly known as Qtpfsgui, this tool is a free and open-source program that not only facilitates the workflow for HDR imaging but also LDR imaging.</p>
-<p><strong>Effectiveness:</strong> Highly effective, but with some confusing features.</p>
-<p><strong>Price:</strong> Free</p>
-<p><strong>Supported OS:</strong> Windows, Mac OS, Linux</p>
-<p><strong>Ease to use:</strong> 3.5&#x2F;5</p>
-<p><strong>Best for:</strong> Creating and editing HDR images</p>
-<p><strong>Value for Money:</strong> The tool is free</p>
-<p><strong>Support:</strong> 0&#x2F;5</p>
-<p><strong>Our Verdict:</strong> Luminance HDR is a very effective HDR software with a wide range of functionalities.</p>
-<p>The tool boasts up to six photo blending algorithms for users to take advantage of in a fairly responsive interface.</p>
-<p>It supports a wide range of decent features ranging from alignment to deghosting, EV-based histogram, and lots more. But the only thing is some features are confusing, making it quite challenging.</p>
-<p>Also, enabling features like ‘alignment and deghosting could cause the program to crash.</p>
-<p><strong>What we like</strong></p>
-<ul>
-<li>It offers a wide range of functionalities despite being a free and open-source tool.</li>
-<li>High compatibility with both Mac and Windows computers.</li>
-<li>Allows Batch HDR merging.</li>
-<li>It can read images in RAW, JPEG, PNG, and lots more formats smoothly.</li>
-<li>The tool supports lots of helpful features that users can always take advantage of in both the fusion stage and tone mapping stage.</li>
-<li>Support up to six photo blending algorithms.</li>
-<li>The tool support multiple languages.</li>
-</ul>
-<p><strong>What we don’t like</strong></p>
-<ul>
-<li>Some of its features are confusing.</li>
-<li>The interface could be better.</li>
-</ul>
-<p>HDR expands the range of contrasts and color of images significantly. Thus, making bright sides brighter and colors become expanded so every detail of the images would be seen without stress.</p>
-<p>Besides, there are various HDR formats including Dolby vision, generic, and lots more. It is even used in TVs to enrich colors with content that supports it.</p>
-<p>Since HDR photography requires a narrow range of digital images with multiple exposures, it’s essential you have the right HDR software at your fingertips to be able to calculate the high contrast image, combine the images, and do lots more efficiently.</p>
-<p>That being said, let’s dive into a detailed review on Luminance HDR to find out more about how the tool can help users in their endeavors to create&#x2F;edit HDR images</p>
-<h2 id="Part-2-Review-in-detail-on-Luminance-HDR"><a href="#Part-2-Review-in-detail-on-Luminance-HDR" class="headerlink" title="Part 2: Review in detail on Luminance HDR"></a>Part 2: Review in detail on Luminance HDR</h2><p>Luminance HDR software is a free tool and it offers users a simple way to create and edit HDR images efficiently. It identifies data correctly and it supports lots of decent features that users can take advantage of when executing HDR image editing or creation tasks.</p>
-<p>In the current development after almost two years, Luminance HDR has optimized different aspects to fix bugs, enhance its speed, and lots more. Some new developments introduced include a better CLI interface, better HDPI support, automatic adjustments of LDRs levels, a new Dark theme, and fast export.</p>
-<p>We’ve outlined some of the features of Luminance HDR below;</p>
-<ol>
-<li>HDR Editing</li>
-</ol>
-<p>In terms of editing, you can rely on Luminance HDR for cool editing features that can always come in handy when you’re looking to edit HDR images. From resizing to cropping, rotating, etc. Keep reading to know more about the editing featured on Luminance HDR.</p>
-<p><strong>Resize:</strong> ‘Resize’ can be used to resize HDR images to a preferred pixel or percentage value just by clicking the ‘Scale’ button.</p>
-<p>To utilize this feature, just navigate to Edit and select ‘Resize’ from the menu. Then enter a value in percentage or pixel and click the ‘Scale’ button to resize your HDR image instantly.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-3.jpg"
-                      alt="image resize luminance hdr"
-                ></p>
-<p><strong>Crop:</strong> Once you upload your HDR image to Luminous HDR, you can just click anywhere on it, then drag the mouse pointer that appears to a side and release it to crop the image.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png"
-                      border="0"
-                ><br>WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)–Yearly</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-6.jpg"
-                      alt="image crop luminance hdr 1"
-                ></p>
-<p>Also, you can use the ‘Crop’ feature to edit the frame you created by dragging its corners. After you’ve edited the HDR image frame to the required level, you can crop it using the relevant button in the toolbar or use the ‘Edit’ option to select ‘Crop to Selection’ in the menu.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-1.jpg"
-                      alt="image resize luminance hdr 2"
-                ></p>
-<p><strong>Rotate:</strong> Rotate HDR images up to 90 degrees by using the &lt; and &gt; shortcuts or the ‘Clockwise’ and ‘Counter-Clockwise’ commands under the Edit menu. You can rotate images up to</p>
-<p><strong>Project Transformation:</strong> The project transformation tool is effective to shoot mirrorball Hdrs and unwrap them.</p>
-<p>Under ‘Project Transformation’ you can set rotation degree, add source projection, and do lots more.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17059-1997817"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1997817/17059"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-4.jpg"
-                      alt="project transformation luminance hdr"
-                ></p>
-<ol>
-<li>HDR Processing</li>
-</ol>
-<p>Luminance HDR separates the processing of HDR images into two phases: The creation of HDR images and its conversion to an LDR image. The creation and tone mapping of HDR images are interactive using GUI, and images can be enhanced using quality features. The image loading speed is quite fair. So, in all, we could say the Luminance HDR processing is reliable.</p>
-<ol>
-<li>UI and Layout</li>
-</ol>
-<p>The Luminous HDR interface is fairly responsive, but some of the features are quite confusing, making it challenging. Users can set a preferred interface theme and set it if they want it to always show in the preview panel window.</p>
-<p>Also, you can utilize ‘Portable’ mode to put the Luminous HDR application on a USB stick with its settings.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-5.jpg"
-                      alt="luminance hdr interface"
-                ></p>
-<p><strong>Pro Tips: How to Edit HDR videos on your Desktop?</strong></p>
-<p>Unfortunately, Luminous HDR is limited to only editing HDR images. But what if you want to edit HDR videos on your desktop, how do you go about that? Well, there does the help of a powerful HDR video editing software like Filmora comes into the game.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is professional video editing software that’s packed with lots of sophisticated features that facilitates quick and easy video editing tasks. Supported on both Mac and Windows computers, this tool allows users to perform both basic and advanced video editing effortlessly.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><strong>Key Features</strong></p>
-<ul>
-<li>Support a fully featured effects library with over 300 beauty and fashion filters that can be added to videos.</li>
-<li>Tools like Chroma Key Effect, Time lapse, or image stabilization are effective for advanced video editing.</li>
-<li>Edit HDR video without washed out colors in just a few clicks.</li>
-<li>The software is lightweight and it doesn’t compromise computer functionality.</li>
-</ul>
-<p><strong>How to use Filmora Video Editor to Edit HDR Videos</strong></p>
-<h5 id="Step1Download-Install-Filmora"><a href="#Step1Download-Install-Filmora" class="headerlink" title="Step1Download &amp; Install Filmora"></a>Step1Download &amp; Install Filmora</h5><p>Download Filmora video editor software from the official website and install it on your Mac or Windows computer.</p>
-<h5 id="Step2Launch-Filmora"><a href="#Step2Launch-Filmora" class="headerlink" title="Step2Launch Filmora"></a>Step2Launch Filmora</h5><p>Double click on the Filmora icon to start the program. Then click on ‘New Project’. Also, select the project aspect ratio by clicking the drop-down icon under ‘Select Project Aspect Ratio’.</p>
-<h5 id="Step3Import-HDR-Video"><a href="#Step3Import-HDR-Video" class="headerlink" title="Step3Import HDR Video"></a>Step3Import HDR Video</h5><p>Navigate to the top left corner of your computer screen and click on ‘Import’ to upload the HDR video you’re looking to edit.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-7.jpg"
-                      alt="import hdr video"
-                ></p>
-<ul>
-<li>You will also see the ‘Import with Instant Cutter Tool’ option - this allows you to trim HDR videos fast and conveniently.</li>
-</ul>
-<h5 id="Step4Edit-HDR-Video"><a href="#Step4Edit-HDR-Video" class="headerlink" title="Step4Edit HDR Video"></a>Step4Edit HDR Video</h5><p>Now, click the ‘Register’ button, then navigate to the ‘File’ menu and select ‘Project Settings. Then, click on the ‘Color Space’ drop-down and select ‘HDR Parameter Value’. The default value is SDR - Rec.709.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-2.jpg"
-                      alt="edit hdr video"
-                ></p>
-<p>You can also trim and cut your HDR video according to your requirements by dragging the end of the video left or right, apply visual effects, and correct color.</p>
-<h5 id="Step5Share-Export-Edited-HDR-Video"><a href="#Step5Share-Export-Edited-HDR-Video" class="headerlink" title="Step5Share &amp; Export Edited HDR Video"></a>Step5Share &amp; Export Edited HDR Video</h5><p>Finally, click on ‘Export’, then in the Output window, select the desired video format, ‘Quality’, storage location, and other settings.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/outlook-recovery.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-8.jpg"
-                      alt="share and export hdr video 1"
-                ></p>
-<ul>
-<li>Also, click the ‘Export Color Space’ drop&#x2F;down icon and select the video output HDR quality. Then, hit the ‘OK’ button to complete the operation. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> also allows users to share edited videos to third-party platforms like Vimeo and YouTube.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-9.jpg"
-                      alt="share and export hdr video 2"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Words"><a href="#Final-Words" class="headerlink" title="Final Words"></a>Final Words</h2><p>Truth be told, Luminance HDR is a great tool for creating&#x2F;editing HDR images. Yes, despite being free the tool is very flexible and it has the capability of helping users give their HDR image a realistic and surrealistic look. It doesn’t matter what kind of operation you want to perform on your HDR image, Luminance HDR can help you achieve it once you master the features perfectly.</p>
-<p>In addition to that, if you’re looking to edit HDR videos with high quality, we highly recommend using the powerful Filmora video editing software for a seamless editing task.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><strong>Key Features</strong></p>
-<ul>
-<li>Support a fully featured effects library with over 300 beauty and fashion filters that can be added to videos.</li>
-<li>Tools like Chroma Key Effect, Time lapse, or image stabilization are effective for advanced video editing.</li>
-<li>Edit HDR video without washed out colors in just a few clicks.</li>
-<li>The software is lightweight and it doesn’t compromise computer functionality.</li>
-</ul>
-<p><strong>How to use Filmora Video Editor to Edit HDR Videos</strong></p>
-<h5 id="Step1Download-Install-Filmora-1"><a href="#Step1Download-Install-Filmora-1" class="headerlink" title="Step1Download &amp; Install Filmora"></a>Step1Download &amp; Install Filmora</h5><p>Download Filmora video editor software from the official website and install it on your Mac or Windows computer.</p>
-<h5 id="Step2Launch-Filmora-1"><a href="#Step2Launch-Filmora-1" class="headerlink" title="Step2Launch Filmora"></a>Step2Launch Filmora</h5><p>Double click on the Filmora icon to start the program. Then click on ‘New Project’. Also, select the project aspect ratio by clicking the drop-down icon under ‘Select Project Aspect Ratio’.</p>
-<h5 id="Step3Import-HDR-Video-1"><a href="#Step3Import-HDR-Video-1" class="headerlink" title="Step3Import HDR Video"></a>Step3Import HDR Video</h5><p>Navigate to the top left corner of your computer screen and click on ‘Import’ to upload the HDR video you’re looking to edit.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-7.jpg"
-                      alt="import hdr video"
-                ></p>
-<ul>
-<li>You will also see the ‘Import with Instant Cutter Tool’ option - this allows you to trim HDR videos fast and conveniently.</li>
-</ul>
-<h5 id="Step4Edit-HDR-Video-1"><a href="#Step4Edit-HDR-Video-1" class="headerlink" title="Step4Edit HDR Video"></a>Step4Edit HDR Video</h5><p>Now, click the ‘Register’ button, then navigate to the ‘File’ menu and select ‘Project Settings. Then, click on the ‘Color Space’ drop-down and select ‘HDR Parameter Value’. The default value is SDR - Rec.709.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg"
-                      border="0"
-                ><br>VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video&#x2F;audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.</p>
-<p>Key features:</p>
-<p>•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265&#x2F;HEVC codec, something essential for those working with 4K and HD.<br>•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music<br>•	Visual effects, advanced color correction and trendy Instagram-like filters<br>•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader<br>•	Non-linear editing: edit several files with simultaneously<br>•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram<br>•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration<br>•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically.<br>•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key<br></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-2.jpg"
-                      alt="edit hdr video"
-                ></p>
-<p>You can also trim and cut your HDR video according to your requirements by dragging the end of the video left or right, apply visual effects, and correct color.</p>
-<h5 id="Step5Share-Export-Edited-HDR-Video-1"><a href="#Step5Share-Export-Edited-HDR-Video-1" class="headerlink" title="Step5Share &amp; Export Edited HDR Video"></a>Step5Share &amp; Export Edited HDR Video</h5><p>Finally, click on ‘Export’, then in the Output window, select the desired video format, ‘Quality’, storage location, and other settings.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-8.jpg"
-                      alt="share and export hdr video 1"
-                ></p>
-<ul>
-<li>Also, click the ‘Export Color Space’ drop&#x2F;down icon and select the video output HDR quality. Then, hit the ‘OK’ button to complete the operation. <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> also allows users to share edited videos to third-party platforms like Vimeo and YouTube.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/luminance-hdr-9.jpg"
-                      alt="share and export hdr video 2"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG"
-                      border="0"
-                >The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Words-1"><a href="#Final-Words-1" class="headerlink" title="Final Words"></a>Final Words</h2><p>Truth be told, Luminance HDR is a great tool for creating&#x2F;editing HDR images. Yes, despite being free the tool is very flexible and it has the capability of helping users give their HDR image a realistic and surrealistic look. It doesn’t matter what kind of operation you want to perform on your HDR image, Luminance HDR can help you achieve it once you master the features perfectly.</p>
-<p>In addition to that, if you’re looking to edit HDR videos with high quality, we highly recommend using the powerful Filmora video editing software for a seamless editing task.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-balancing-ambient-sound-on-windowsos-x-machines/"><u>[New] Balancing Ambient Sound on Windows/OS X Machines</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-behind-the-scenes-preparing-to-go-live/"><u>[New] Behind the Scenes  Preparing to Go Live</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-complete-how-to-embedding-srt-tracks-into-mp4-media-2024/"><u>[New] Complete How-To  Embedding SRT Tracks Into MP4 Media 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-info.techidaily.com/new-enhance-your-tiktok-videos-with-expert-numeric-manipulation-skills/"><u>[New] Enhance Your TikTok Videos with Expert Numeric Manipulation Skills</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/new-this-video-will-get-you-100000-views-on-youtube-for-2024/"><u>[New] This Video Will Get You 100000 Views on YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-video-editor-works-on-m1-chip/"><u>[New] Video Editor Works on M1 Chip</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-roi-with-strategic-facebook-animation-ads/"><u>[Updated] 2024 Approved  Elevating ROI with Strategic Facebook Animation Ads</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-spotlight-tactics-a-3-step-guide/"><u>[Updated] 2024 Approved  Instagram Spotlight Tactics  A 3-Step Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy/"><u>[Updated] In 2024, The Essentials of Setting Up & Assessing FB Instream Ad Efficacy</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>[Updated] Live to Share  Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-excellence-the-premium-seven-selection/"><u>2024 Approved  Capturing Excellence  The Premium Seven Selection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y78plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y78+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power-for-2024/"><u>ASMR and You  Understanding Its Healing Power for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chasing-victories-olympics-year-2022-for-2024/"><u>Chasing Victories  Olympics, Year 2022 for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/choreographing-compelling-screen-trailers-for-2024/"><u>Choreographing Compelling Screen Trailers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-look-at-dji-inspire-1-explored-for-2024/"><u>Complete Look at DJI Inspire 1 Explored for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/complete-look-into-razers-streaming-hardware-for-2024/"><u>Complete Look Into Razer's Streaming Hardware for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-ios-live-photo-handbook/"><u>Comprehensive iOS Live Photo Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-20-budget-friendly-storage-solutions-offering-unlimited-space/"><u>Discover 20 Budget-Friendly Storage Solutions Offering Unlimited Space</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/elevate-your-ps5-and-xbox-experience-with-top-tvs/"><u>Elevate Your PS5 and Xbox Experience with Top TVs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/eliminating-watermarks-from-your-stock-collections/"><u>Eliminating Watermarks From Your Stock Collections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-advice-on-how-to-remove-backgrounds/"><u>Expert Advice on How to Remove Backgrounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/filmoquery-your-guide-to-video-editing-insights/"><u>FilmoQuery  Your Guide to Video Editing Insights</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-reset-tecno-spark-10c-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10C Without the Home Button | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oneplus-12r-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of OnePlus 12R Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-interactive-interface-for-podcasters/"><u>Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-z50-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Z50 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-harmony-selecting-ideal-aspect-ratios/"><u>In 2024, Achieving Harmony  Selecting Ideal Aspect Ratios</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-core-skills-in-video-and-film-creation/"><u>In 2024, Core Skills in Video and Film Creation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/in-2024-gripping-gospels-intros-that-draw-ears/"><u>In 2024, Gripping Gospels  Intros That Draw Ears</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-official-method-to-unlock-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE Official Method to Unlock Your Apple iPhone SE</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/in-2024-interactive-inspection-kits-facebook-live/"><u>In 2024, Interactive Inspection Kits  Facebook Live</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/infusing-life-into-text-instagram-story-animations-tips/"><u>Infusing Life Into Text  Instagram Story Animations Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/olympic-ice-racers-moments-from-the-short-track-games/"><u>Olympic Ice Racers  Moments From the Short Track Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/perfect-pitch-in-words-crafting-captivating-podcast-episodes-for-2024/"><u>Perfect Pitch in Words  Crafting Captivating Podcast Episodes for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sculpting-the-digital-experience-through-zooming/"><u>Sculpting the Digital Experience Through Zooming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplified-image-management-in-google-photos/"><u>Simplified Image Management in Google Photos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/tackling-broken-usb-connections-on-windows-systems/"><u>Tackling Broken USB Connections on Windows Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-expense-outline-the-economics-of-starting-a-podcast/"><u>Total Expense Outline  The Economics of Starting a Podcast</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;The Metrics of Mastery  Assessing Luminance&#39;s HDR Capabilities&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:39:52</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:39:52
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/the-metrics-of-mastery-assessing-luminances-hdr-capabilities/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/the-pinnacle-of-editing-reviewing-movavi-pro-video-2024plus/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;The Pinnacle of Editing  Reviewing Movavi Pro Video 2024+&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/the-marketers-best-friend-20-words-that-work-wonders/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;The Marketer&#39;s Best Friend - 20 Words That Work Wonders&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;The Metrics of Mastery  Assessing Luminance&#39;s HDR Capabilities&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#The-Metrics-of-Mastery-Assessing-Luminance%E2%80%99s-HDR-Capabilities"><span class="nav-text">The Metrics of Mastery: Assessing Luminance’s HDR Capabilities</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Summary-Box-on-Luminance-HDR"><span class="nav-text">Part 1: Summary Box on Luminance HDR</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Review-in-detail-on-Luminance-HDR"><span class="nav-text">Part 2: Review in detail on Luminance HDR</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words"><span class="nav-text">Final Words</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words-1"><span class="nav-text">Final Words</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

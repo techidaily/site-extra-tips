@@ -623,15 +623,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -653,582 +653,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg" alt="&#34;In 2024, Crafting Conversations  Writing Engaging Dialogues&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;In 2024, Crafting Conversations  Writing Engaging Dialogues&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 11:01:17</span>
-        <span class="mobile">2024-07-27 11:01:17</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 11:01:17</span>
-            <span class="mobile">2024-07-28 11:01:17</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Crafting-Conversations-Writing-Engaging-Dialogues"><a href="#Crafting-Conversations-Writing-Engaging-Dialogues" class="headerlink" title="Crafting Conversations: Writing Engaging Dialogues"></a>Crafting Conversations: Writing Engaging Dialogues</h2><p>Hello Guys, if you are the one who loves watching movies and films, then there is one question that you’ve undoubtedly wondered about. That’s about the film’s scripting, which is the way of writing a movie script or the writing used in Films scripts. Today’s article will discuss the most commonly used script writing types, <strong>Dialogue Script</strong> and <strong>Narrative Script</strong>. And the best five tips to follow for a fantastic script with <strong>Dialogue and Narrative Script examples</strong>. Let’s look into it!</p>
-<ol>
-<li><a href="#part2-1">Pay attention to the conversations in your real life</a></li>
-<li><a href="#part2-2">Let each character have its voice and characteristics. Not a second you</a></li>
-<li><a href="#part2-3">No meaningless or only question-and-answer type dialogue</a></li>
-<li><a href="#part2-4">Control the rhythm of the conversations</a></li>
-<li><a href="#part2-5">Don’t use full sentences that contain too much underlying meaning</a></li>
-</ol>
-<ul>
-<li><a href="#part3">Best dialogue and narrative examples from movies</a></li>
-<li><a href="#part4">Make your dialogue script come true using Filmora</a></li>
-</ul>
-<h2 id="Part-1-What-is-Dialogue-and-Narrative-Script"><a href="#Part-1-What-is-Dialogue-and-Narrative-Script" class="headerlink" title="Part 1. What is Dialogue and Narrative Script?"></a>Part 1. What is Dialogue and Narrative Script?</h2><h3 id="Definition"><a href="#Definition" class="headerlink" title="Definition"></a><strong>Definition</strong></h3><p>The Narrative Script is a story. It consists of the whole narration of the story by the writer. On the other hand, Dialogue Script is the talk between the characters. So you can say that the entire story of the script is Narrative writing and the discussions between characters are Dialogues.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18460-2006123"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2006123/18460"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Key-Features"><a href="#Key-Features" class="headerlink" title="Key Features"></a><strong>Key Features</strong></h3><p>Both these types of script writing are essential to writing a successful storyline. At the same time, we use Dialogues in nearly every script. The Narrative Script is a vital type, especially if you want to make your storyline even more precise and exciting.</p>
-<h2 id="Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts"><a href="#Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts" class="headerlink" title="Part 2. Five Tips for Writing Dialogue and Narrative Scripts"></a>Part 2. Five Tips for Writing Dialogue and Narrative Scripts</h2><p>Now here are some essential tips for writing fantastic Dialogue and Narrative Scripts.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16384-2048963"
-                      border="0" alt="" width="1200" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2048963/16384"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="1-Pay-attention-to-the-conversations-in-your-real-life"><a href="#1-Pay-attention-to-the-conversations-in-your-real-life" class="headerlink" title="1. Pay attention to the conversations in your real life"></a>1. Pay attention to the conversations in your real life</h3><p>One of the best tips for good scripting is to be natural; for it, you can look and take inspiration from your real life. Just note the behavior of people and the progress of the world around you. Record these experiences, which will help you provide a natural touch in your script.</p>
-<h3 id="2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you"><a href="#2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you" class="headerlink" title="2. Let each character have its voice and characteristics. Not a second you"></a>2. Let each character have its voice and characteristics. Not a second you</h3><p>Sometimes when we write, we lose our concentration and write all the characters’ dialogue in the same way. But it’s not good because a good script always has consistency from start to end. You must write each character’s dialogues in their own way and expression.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png"
-                      border="0"
-                >Video Converter Factory Pro</a></p>
-<!-- affiliate ads end -->
-<h3 id="3-No-meaningless-or-only-question-and-answer-type-dialogue"><a href="#3-No-meaningless-or-only-question-and-answer-type-dialogue" class="headerlink" title="3. No meaningless or only question-and-answer type dialogue"></a>3. No meaningless or only question-and-answer type dialogue</h3><p>If your dialogue script is only comprised of questions and answers, keep in mind that it won’t be very interesting. Moreover, we sometimes compose talks that are meaningless, which is another serious issue. Focus on writing conversation in a balanced manner with meaningful usage to overcome these problems.</p>
-<h3 id="4-Control-the-rhythm-of-the-conversations"><a href="#4-Control-the-rhythm-of-the-conversations" class="headerlink" title="4. Control the rhythm of the conversations"></a>4. Control the rhythm of the conversations</h3><p>Controlling the conversation is one of the essential tips. Primarily, our actual conversation doesn’t complete. It means that we mix it with other dialogues without proper punctuation. Be careful about punctuation while writing conversations.</p>
-<h3 id="5-Don’t-use-full-sentences-that-contain-too-much-underlying-meaning"><a href="#5-Don’t-use-full-sentences-that-contain-too-much-underlying-meaning" class="headerlink" title="5. Don’t use full sentences that contain too much underlying meaning"></a>5. Don’t use full sentences that contain too much underlying meaning</h3><p>Whenever you read something, you’ll lose interest in it if the writer uses full and long sentences a lot. Because, in reality, it seems robotic. On the other hand, some writers don’t use full sentences and keep them short. Their story seems more interesting because it’s a long-established fact that using full sentences, especially in script writing, distracts the audience, and they become bored.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/20702-1864921"
-                      border="0" alt="" width="1251" height="1042"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Best-dialogue-and-narrative-examples-from-movies"><a href="#Part-3-Best-dialogue-and-narrative-examples-from-movies" class="headerlink" title="Part 3. Best dialogue and narrative examples from movies"></a>Part 3. Best dialogue and narrative examples from movies</h2><p>Check out the examples below of how great dialogue has impacted movies as an essential component of the script.</p>
-<h3 id="1-The-Man-from-Earth"><a href="#1-The-Man-from-Earth" class="headerlink" title="1. The Man from Earth"></a><strong>1. The Man from Earth</strong></h3><p>Professor John Oldman’s farewell party turns into a mysterious and interesting debate among colleagues after he asked strange question. It’s an audio movie, but probably more like a stage play, that is, a single scene with multiple characters. Everyone gave their opinion on a single issue.</p>
-<p>The reason for introducing this movie as the first example is that the screenwriter provided a perfect example. He showed you how to control a debate or discussion in a movie.</p>
-<h3 id="2-Before-Sunrise"><a href="#2-Before-Sunrise" class="headerlink" title="2. Before Sunrise"></a><strong>2. Before Sunrise</strong></h3><p>This movie teaches you how to explore the relationship between two characters in a single scene and through dialogue by focusing on their interaction.</p>
-<p>Although sounding cinematically natural, the conversation in the movie is absolutely real. They interrupt each other. Their thoughts follow different paths through different tangents.</p>
-<h3 id="3-Pulp-Fiction"><a href="#3-Pulp-Fiction" class="headerlink" title="3. Pulp Fiction"></a><strong>3. Pulp Fiction</strong></h3><p>Films by Quentin Tarantino are notable for their dialogue. This is because he will not really waste any words when writing. Every word spoken has a function. He builds humor without making jokes. He calmly creates tension before exploding with menacing rage.</p>
-<h2 id="Part-4-Make-your-dialogue-script-come-true-using-Filmora"><a href="#Part-4-Make-your-dialogue-script-come-true-using-Filmora" class="headerlink" title="Part 4. Make your dialogue script come true using Filmora"></a>Part 4. Make your dialogue script come true using Filmora</h2><p>If you follow the advice given above and complete a dialogue or narrative script. It’s time to move on to the next step, make your script come true using the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. First, shoot your video with best dialogue or narrative plot.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1Now <strong>Visit</strong> the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> Website and <strong>Click</strong> the <strong>Download</strong> Make sure the installation is complete, then you can create a <strong>New Project</strong>.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-1.jpg"
-                      alt="download filmora software"
-                ></p>
-<p>Step2After uploading your video clips, you can use the split screen feature to make your video more dynamic. To do this, <strong>Click</strong> the arrow (&gt;&gt;) button, then <strong>select</strong> split screen. <strong>Select</strong> any split collage you like, then <strong>drag</strong> and <strong>drop</strong> to add it.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-2.jpg"
-                      alt="make video more dynamic"
-                ></p>
-<p>Step3Besides, <strong>tap</strong> on the Effects option to select <strong>AI Portraits</strong> and choose any effect to make your video more fantastic.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-3.jpg"
-                      alt="tap on effects option"
-                ></p>
-<p>Step4And you can <strong>adjust</strong> the effects settings. Just <strong>double-click</strong> to open setting options.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16446-1657397"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1657397/16446"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-4.jpg"
-                      alt="adjust effects settings"
-                ></p>
-<p>Step5Don’t want to type subtitles word by word? Then try out Filmora’s strong feature <a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><strong>Speech-to-Text</strong></a>. With just one click, you may convert voice to subtitles. By using <strong>speech-to-text</strong>, you can greatly reduce the time spent transcribing subtitles and increase the effectiveness of your editing.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-5.jpg"
-                      alt="speech to text"
-                ></p>
-<p>Up to 16 different languages can be transcribed using Filmora. Filmora can translate any language, whether you speak English, Japanese, French, or another one.</p>
-<p>Step6It is typically advised to select the most basic style for movie subtitles. After you’re done, click Export, pick your preferred video format, and then click <strong>Download</strong>. Now your fantastic script video is successfully <strong>saved</strong> on your device.</p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In conclusion, Dialogue and Narrative Script are the most common types of script writing. The Dialogue script is nearly an essential part of every script. The Narrative Script is mainly the base for stories, films, etc. Both have their importance and key features. All you have to do while writing is to remember the best five tips and learn from the examples, I have shared with you. To develop an appealing dialogue script, improve your skills and practice. Also, we strongly recommend using <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to create the final film from your dialogue and narrative script. Thanks for Reading.</p>
-<p>Part 1. What is Dialogue and Narrative Script?</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg"
-                      border="0"
-                >OtsAV DJ Pro</a></p>
-<!-- affiliate ads end -->
-<h3 id="Definition-1"><a href="#Definition-1" class="headerlink" title="Definition"></a><strong>Definition</strong></h3><p>The Narrative Script is a story. It consists of the whole narration of the story by the writer. On the other hand, Dialogue Script is the talk between the characters. So you can say that the entire story of the script is Narrative writing and the discussions between characters are Dialogues.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18134-1692242"
-                      border="0" alt="" width="834" height="592"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1692242/18134"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Key-Features-1"><a href="#Key-Features-1" class="headerlink" title="Key Features"></a><strong>Key Features</strong></h3><p>Both these types of script writing are essential to writing a successful storyline. At the same time, we use Dialogues in nearly every script. The Narrative Script is a vital type, especially if you want to make your storyline even more precise and exciting.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21774-1920054"
-                      border="0" alt="" width="320" height="100"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1920054/21774"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts-1"><a href="#Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts-1" class="headerlink" title="Part 2. Five Tips for Writing Dialogue and Narrative Scripts"></a>Part 2. Five Tips for Writing Dialogue and Narrative Scripts</h2><p>Now here are some essential tips for writing fantastic Dialogue and Narrative Scripts.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg"
-                      border="0"
-                >OtsAV TV Webcaster</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Pay-attention-to-the-conversations-in-your-real-life-1"><a href="#1-Pay-attention-to-the-conversations-in-your-real-life-1" class="headerlink" title="1. Pay attention to the conversations in your real life"></a>1. Pay attention to the conversations in your real life</h3><p>One of the best tips for good scripting is to be natural; for it, you can look and take inspiration from your real life. Just note the behavior of people and the progress of the world around you. Record these experiences, which will help you provide a natural touch in your script.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14483-1872496"
-                      border="0" alt="" width="750" height="625"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1872496/14483"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you-1"><a href="#2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you-1" class="headerlink" title="2. Let each character have its voice and characteristics. Not a second you"></a>2. Let each character have its voice and characteristics. Not a second you</h3><p>Sometimes when we write, we lose our concentration and write all the characters’ dialogue in the same way. But it’s not good because a good script always has consistency from start to end. You must write each character’s dialogues in their own way and expression.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png"
-                      border="0"
-                >  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. </p>
-<p> It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. </p>
-<p>  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. </p>
-<p>  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a></p>
-<!-- affiliate ads end -->
-<h3 id="3-No-meaningless-or-only-question-and-answer-type-dialogue-1"><a href="#3-No-meaningless-or-only-question-and-answer-type-dialogue-1" class="headerlink" title="3. No meaningless or only question-and-answer type dialogue"></a>3. No meaningless or only question-and-answer type dialogue</h3><p>If your dialogue script is only comprised of questions and answers, keep in mind that it won’t be very interesting. Moreover, we sometimes compose talks that are meaningless, which is another serious issue. Focus on writing conversation in a balanced manner with meaningful usage to overcome these problems.</p>
-<h3 id="4-Control-the-rhythm-of-the-conversations-1"><a href="#4-Control-the-rhythm-of-the-conversations-1" class="headerlink" title="4. Control the rhythm of the conversations"></a>4. Control the rhythm of the conversations</h3><p>Controlling the conversation is one of the essential tips. Primarily, our actual conversation doesn’t complete. It means that we mix it with other dialogues without proper punctuation. Be careful about punctuation while writing conversations.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="5-Don’t-use-full-sentences-that-contain-too-much-underlying-meaning-1"><a href="#5-Don’t-use-full-sentences-that-contain-too-much-underlying-meaning-1" class="headerlink" title="5. Don’t use full sentences that contain too much underlying meaning"></a>5. Don’t use full sentences that contain too much underlying meaning</h3><p>Whenever you read something, you’ll lose interest in it if the writer uses full and long sentences a lot. Because, in reality, it seems robotic. On the other hand, some writers don’t use full sentences and keep them short. Their story seems more interesting because it’s a long-established fact that using full sentences, especially in script writing, distracts the audience, and they become bored.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Best-dialogue-and-narrative-examples-from-movies-1"><a href="#Part-3-Best-dialogue-and-narrative-examples-from-movies-1" class="headerlink" title="Part 3. Best dialogue and narrative examples from movies"></a>Part 3. Best dialogue and narrative examples from movies</h2><p>Check out the examples below of how great dialogue has impacted movies as an essential component of the script.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/12108-1678785"
-                      border="0" alt="" width="300" height="250"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-The-Man-from-Earth-1"><a href="#1-The-Man-from-Earth-1" class="headerlink" title="1. The Man from Earth"></a><strong>1. The Man from Earth</strong></h3><p>Professor John Oldman’s farewell party turns into a mysterious and interesting debate among colleagues after he asked strange question. It’s an audio movie, but probably more like a stage play, that is, a single scene with multiple characters. Everyone gave their opinion on a single issue.</p>
-<p>The reason for introducing this movie as the first example is that the screenwriter provided a perfect example. He showed you how to control a debate or discussion in a movie.</p>
-<h3 id="2-Before-Sunrise-1"><a href="#2-Before-Sunrise-1" class="headerlink" title="2. Before Sunrise"></a><strong>2. Before Sunrise</strong></h3><p>This movie teaches you how to explore the relationship between two characters in a single scene and through dialogue by focusing on their interaction.</p>
-<p>Although sounding cinematically natural, the conversation in the movie is absolutely real. They interrupt each other. Their thoughts follow different paths through different tangents.</p>
-<h3 id="3-Pulp-Fiction-1"><a href="#3-Pulp-Fiction-1" class="headerlink" title="3. Pulp Fiction"></a><strong>3. Pulp Fiction</strong></h3><p>Films by Quentin Tarantino are notable for their dialogue. This is because he will not really waste any words when writing. Every word spoken has a function. He builds humor without making jokes. He calmly creates tension before exploding with menacing rage.</p>
-<h2 id="Part-4-Make-your-dialogue-script-come-true-using-Filmora-1"><a href="#Part-4-Make-your-dialogue-script-come-true-using-Filmora-1" class="headerlink" title="Part 4. Make your dialogue script come true using Filmora"></a>Part 4. Make your dialogue script come true using Filmora</h2><p>If you follow the advice given above and complete a dialogue or narrative script. It’s time to move on to the next step, make your script come true using the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. First, shoot your video with best dialogue or narrative plot.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1Now <strong>Visit</strong> the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> Website and <strong>Click</strong> the <strong>Download</strong> Make sure the installation is complete, then you can create a <strong>New Project</strong>.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-1.jpg"
-                      alt="download filmora software"
-                ></p>
-<p>Step2After uploading your video clips, you can use the split screen feature to make your video more dynamic. To do this, <strong>Click</strong> the arrow (&gt;&gt;) button, then <strong>select</strong> split screen. <strong>Select</strong> any split collage you like, then <strong>drag</strong> and <strong>drop</strong> to add it.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-2.jpg"
-                      alt="make video more dynamic"
-                ></p>
-<p>Step3Besides, <strong>tap</strong> on the Effects option to select <strong>AI Portraits</strong> and choose any effect to make your video more fantastic.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-3.jpg"
-                      alt="tap on effects option"
-                ></p>
-<p>Step4And you can <strong>adjust</strong> the effects settings. Just <strong>double-click</strong> to open setting options.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png"
-                      border="0"
-                >Kanto Player Professional</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-4.jpg"
-                      alt="adjust effects settings"
-                ></p>
-<p>Step5Don’t want to type subtitles word by word? Then try out Filmora’s strong feature <a target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/"><strong>Speech-to-Text</strong></a>. With just one click, you may convert voice to subtitles. By using <strong>speech-to-text</strong>, you can greatly reduce the time spent transcribing subtitles and increase the effectiveness of your editing.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/write-dialogue-or-narrative-script-5.jpg"
-                      alt="speech to text"
-                ></p>
-<p>Up to 16 different languages can be transcribed using Filmora. Filmora can translate any language, whether you speak English, Japanese, French, or another one.</p>
-<p>Step6It is typically advised to select the most basic style for movie subtitles. After you’re done, click Export, pick your preferred video format, and then click <strong>Download</strong>. Now your fantastic script video is successfully <strong>saved</strong> on your device.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In conclusion, Dialogue and Narrative Script are the most common types of script writing. The Dialogue script is nearly an essential part of every script. The Narrative Script is mainly the base for stories, films, etc. Both have their importance and key features. All you have to do while writing is to remember the best five tips and learn from the examples, I have shared with you. To develop an appealing dialogue script, improve your skills and practice. Also, we strongly recommend using <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to create the final film from your dialogue and narrative script. Thanks for Reading.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/new-2024-approved-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>[New] 2024 Approved  Dive Into Digital Clarity  The Guide for Full HD on Tweet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-analyzing-the-precision-of-yis-4k-actioncam/"><u>[New] Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-srt-format-conversion-guide/"><u>[New] Comprehensive SRT Format Conversion Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-youtube-trailer/"><u>[New] In 2024, How To Make a YouTube Trailer</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/new-pre-purchase-key-facts-every-drone-buyer-should-know/"><u>[New] Pre-Purchase  Key Facts Every Drone Buyer Should Know</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade-for-2024/"><u>[New] Smiles, Snorts & Sighs  Top 10 IG Meme Communities of the Decade for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>[Updated] CastWithEase  How to Make Livestreaming Your Podcast Effortless</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-content-delivery-network-examination/"><u>[Updated] Content Delivery Network Examination</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-in-2024-11-audiophiles-choice-for-sound-capture/"><u>[Updated] In 2024, 11 Audiophile's Choice for Sound Capture</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-deciding-between-obs-and-streamlabs-for-live-broadcasting/"><u>[Updated] In 2024, Deciding Between OBS and Streamlabs for Live Broadcasting</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/updated-platform-precision-examining-obs-against-twitch-hub-for-2024/"><u>[Updated] Platform Precision  Examining OBS Against Twitch Hub for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-automated-text-transcription-powerpoints-new-edge/"><u>2024 Approved  Automated Text Transcription  PowerPoint's New Edge</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-crafting-a-movie-blueprint/"><u>2024 Approved  Behind the Scenes  Crafting a Movie Blueprint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-audiences-from-day-one/"><u>2024 Approved  Captivate Audiences From Day One</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2023-file-stellar-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2023 file | Stellar</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerating-productivity-microsoft-azure-speech-recognition/"><u>Accelerating Productivity  Microsoft Azure Speech Recognition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augmenting-creativity-with-the-best-ai-for-podcast-names-for-2024/"><u>Augmenting Creativity with the Best AI for Podcast Names for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-creativity-tiktok-video-treatments-for-2024/"><u>Boost Creativity  TikTok Video Treatments for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/compelling-book-trail-creations/"><u>Compelling Book Trail Creations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-mind-while-you-multitask-top-15-ideas-for-podcast-lovers/"><u>Elevate Your Mind While You Multitask  Top 15 Ideas for Podcast Lovers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/high-quality-web-resources-for-glossy-3d-letters/"><u>High-Quality Web Resources for Glossy 3D Letters</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17 to New Android? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/ideal-voice-modification-programs-for-dynamic-virtual-personalities-for-2024/"><u>Ideal Voice-Modification Programs for Dynamic Virtual Personalities for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/imaginarium-collagecraft-cutting-edge-assembler/"><u>Imaginarium CollageCraft  Cutting-Edge Assembler</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/laugh-ledger-cutting-edge-generators-for-jokes/"><u>Laugh Ledger  Cutting-Edge Generators for Jokes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-video-conferencing-enhance-scene-details-upward/"><u>Mastering Video Conferencing  Enhance Scene Details Upward</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/melodic-mambos-macaws/"><u>Melodic Mambos Macaws</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-video-transformation-tools-from-iphone-to-file/"><u>Top #8 Video Transformation Tools  From iPhone to File</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unpacking-the-basics-an-introductive-guide-to-starting-your-own-tech-review-vlog/"><u>Unpacking the Basics  An Introductive Guide to Starting Your Own Tech Review Vlog</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;In 2024, Crafting Conversations  Writing Engaging Dialogues&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 11:01:17</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 11:01:17
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/in-2024-crafting-conversations-writing-engaging-dialogues/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/new-concealment-techniques-securing-image-integrity/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[New] Concealment Techniques  Securing Image Integrity&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/in-2024-crafting-a-seamless-social-journey-from-instaplustik/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, Crafting a Seamless Social Journey From Insta+Tik</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;In 2024, Crafting Conversations  Writing Engaging Dialogues&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Crafting-Conversations-Writing-Engaging-Dialogues"><span class="nav-text">Crafting Conversations: Writing Engaging Dialogues</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-What-is-Dialogue-and-Narrative-Script"><span class="nav-text">Part 1. What is Dialogue and Narrative Script?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Definition"><span class="nav-text">Definition</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Key-Features"><span class="nav-text">Key Features</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts"><span class="nav-text">Part 2. Five Tips for Writing Dialogue and Narrative Scripts</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Pay-attention-to-the-conversations-in-your-real-life"><span class="nav-text">1. Pay attention to the conversations in your real life</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you"><span class="nav-text">2. Let each character have its voice and characteristics. Not a second you</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-No-meaningless-or-only-question-and-answer-type-dialogue"><span class="nav-text">3. No meaningless or only question-and-answer type dialogue</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Control-the-rhythm-of-the-conversations"><span class="nav-text">4. Control the rhythm of the conversations</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Don%E2%80%99t-use-full-sentences-that-contain-too-much-underlying-meaning"><span class="nav-text">5. Don’t use full sentences that contain too much underlying meaning</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Best-dialogue-and-narrative-examples-from-movies"><span class="nav-text">Part 3. Best dialogue and narrative examples from movies</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-The-Man-from-Earth"><span class="nav-text">1. The Man from Earth</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Before-Sunrise"><span class="nav-text">2. Before Sunrise</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Pulp-Fiction"><span class="nav-text">3. Pulp Fiction</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Make-your-dialogue-script-come-true-using-Filmora"><span class="nav-text">Part 4. Make your dialogue script come true using Filmora</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Definition-1"><span class="nav-text">Definition</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Key-Features-1"><span class="nav-text">Key Features</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Five-Tips-for-Writing-Dialogue-and-Narrative-Scripts-1"><span class="nav-text">Part 2. Five Tips for Writing Dialogue and Narrative Scripts</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Pay-attention-to-the-conversations-in-your-real-life-1"><span class="nav-text">1. Pay attention to the conversations in your real life</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Let-each-character-have-its-voice-and-characteristics-Not-a-second-you-1"><span class="nav-text">2. Let each character have its voice and characteristics. Not a second you</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-No-meaningless-or-only-question-and-answer-type-dialogue-1"><span class="nav-text">3. No meaningless or only question-and-answer type dialogue</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Control-the-rhythm-of-the-conversations-1"><span class="nav-text">4. Control the rhythm of the conversations</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Don%E2%80%99t-use-full-sentences-that-contain-too-much-underlying-meaning-1"><span class="nav-text">5. Don’t use full sentences that contain too much underlying meaning</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Best-dialogue-and-narrative-examples-from-movies-1"><span class="nav-text">Part 3. Best dialogue and narrative examples from movies</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-The-Man-from-Earth-1"><span class="nav-text">1. The Man from Earth</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Before-Sunrise-1"><span class="nav-text">2. Before Sunrise</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Pulp-Fiction-1"><span class="nav-text">3. Pulp Fiction</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-4-Make-your-dialogue-script-come-true-using-Filmora-1"><span class="nav-text">Part 4. Make your dialogue script come true using Filmora</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

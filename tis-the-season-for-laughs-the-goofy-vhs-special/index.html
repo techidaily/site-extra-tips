@@ -627,15 +627,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -657,598 +657,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/192f81e62d92a192c6756d4acefa6e25619bd0109c72bd43d2bf00cf25a87ef6.png" alt="&#34;&#39;Tis the Season for Laughs  &#39;The Goofy&#39; VHS Special&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;&#39;Tis the Season for Laughs  &#39;The Goofy&#39; VHS Special&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:35:26</span>
-        <span class="mobile">2024-07-27 07:35:26</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:35:26</span>
-            <span class="mobile">2024-07-28 07:35:26</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="‘Tis-the-Season-for-Laughs-‘The-Goofy’-VHS-Special"><a href="#‘Tis-the-Season-for-Laughs-‘The-Goofy’-VHS-Special" class="headerlink" title="‘Tis the Season for Laughs: ‘The Goofy’ VHS Special"></a>‘Tis the Season for Laughs: ‘The Goofy’ VHS Special</h2><p>Some movies have this aura that leaves a lasting impression on you. Certain films have a way of capturing our hearts and staying with us long after. One such movie that holds a special place in the hearts of 90s kids is “The Goofy Movie.” It was a fun-filled animated film released in 1995, featuring the Disney character Goofy and his teenage son, Max.</p>
-<p>This movie was an adventure that resonated with many kids of that era. Moreover, the movie’s edits and visual effects added to its charm. If 90s kids want to recreate the movie’s nostalgic feel can create using certain effects. You can use <strong>a Goofy Movie VHS effect</strong> to take yourself back to the fun-filled days of the 90s.</p>
-<h2 id="Part-1-Reviewing-The-Goofy-Movie-1995"><a href="#Part-1-Reviewing-The-Goofy-Movie-1995" class="headerlink" title="Part 1: Reviewing The Goofy Movie 1995"></a>Part 1: Reviewing The Goofy Movie 1995</h2><p>The Goofy Movie is a heartwarming film about the father-son bond. When Max gets into trouble due to a school prank, his dad, Goofy, decides to take him on a trip. However, Max faces a dilemma as he has to miss his first date with Roxanne, the girl he likes. Max lies to Roxanne to avoid disappointment, claiming that he and his father are going to a concert instead.</p>
-<p>Throughout their journey, Goofy and Max learn to communicate and understand each other. This further leads to a stronger connection between them. In their adventure, Goofy and Max encounter unexpected challenges. Despite the difficulties, they gradually open up to each other and find common ground. Through their growing bonding, they learn valuable lessons about trust and the importance of family.</p>
-<p>The movie brings joy and laughter to viewers of all ages. It teaches us that love and understanding can bridge the gap between generations. Furthermore, we can solve problems and even misunderstandings through communication. This timeless classic reminds us of the significance of cherishing our relationships. Lastly, Goofy and his son attended the rock music concert at the movie’s end.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/15155-1246754"
-                      border="0" alt="" width="600" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1246754/15155"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/goofy-vhs-movie-poster.jpg"
-                      alt="goofy movie poster"
-                ></p>
-<p><strong>Add VHS Effect to Video</strong></p>
-<p>Simply add video effects on Video with <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora Video Effect Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! Experience the magic of cool yet outstanding video effects, where your videos come to life in beautiful visuals.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Apply VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Apply VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Learn More &gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png"
-                      border="0"
-                ></a><br><a target="_blank" rel="noopener" href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-apple.svg"
-                      alt="iOS"
-                ></a> <a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-google.svg"
-                      alt="Android"
-                ></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try It Free &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/ost-recovery.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png"
-                      alt="Wondershare Filmora 12"
-                ></p>
-<h2 id="Part-2-How-Was-VHS-Technology-Used-in-Old-Movies"><a href="#Part-2-How-Was-VHS-Technology-Used-in-Old-Movies" class="headerlink" title="Part 2: How Was VHS Technology Used in Old Movies?"></a>Part 2: How Was VHS Technology Used in Old Movies?</h2><p>VHS technology played a significant role in producing and viewing movies during its prime era. Before you apply <strong>Goofy movie VHS effects</strong> to your video, learn how they were used. Here are some ways this technology was used in old movies:</p>
-<p><strong>1. Home Video Market</strong></p>
-<p>VHS has revolutionized the home video market by introducing the concept of renting movies. People used to either rent or own movies on videocassettes. It allowed them to watch movies conveniently without relying on theatrical screenings. Movie studios and distributors started releasing films on VHS tapes, which could be rented from stores.</p>
-<p><strong>2. Preservation and Archiving</strong></p>
-<p>This technology also facilitated the preservation and archiving of movies. Film studios, libraries, and institutions started transferring movies from reels to VHS tapes. It allowed for easier storage, duplication, and accessibility of movies. Additionally, it is a more manageable way to store the archives and a widely compatible format.</p>
-<p><strong>3. Film Distribution</strong></p>
-<p>These tapes became a popular format for distributing movies to rental stores and retail outlets. Film distributors would duplicate and distribute movies on VHS tapes. Then, these VHS tapes are sold or rented to customers. This widespread distribution contributed to the availability of movies for home viewing.</p>
-<p><strong>4. Independent Filmmaking</strong></p>
-<p>It provided independent filmmakers with an affordable and accessible medium for movie distribution. Filmmakers could shoot their movies on video cameras and duplicate them onto these tapes. It further allows them to self-distribute or sell their films directly to audiences. Furthermore, these tapes can reach a wider audience and establish the careers of many filmmakers.</p>
-<p><strong>5. Special Editions and Bonus Features</strong></p>
-<p>As the VHS market grew, movie distributors released special editions and collector’s versions. These releases often included bonus features like behind-the-scenes footage and more. It also included interviews, the making of the movie, and deleted scenes. Similarly, people can experience additional content beyond the theatrical release.</p>
-<p><strong>6. Film Education and Study</strong></p>
-<p>Such tapes became a valuable resource for film education and study. Film schools, universities, and film enthusiasts would compile these tapes for research purposes. It allows students and researchers to study and analyze films at their own pace. Similarly, it provided a medium for referencing and studying specific scenes or films in detail.</p>
-<h2 id="Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor"><a href="#Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor" class="headerlink" title="Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor"></a>Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor</h2><p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora Video Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, like always, is a solution to your editing problems. If you want to create a Goofy movie VHS 2000 effect, you can with this tool. It allows you to apply already available presets in the library. However, if you want to go creative, Wondershare Filmora has a solution for you. You can create your own preset using Wondershare Filmora and much more.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Add VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Add VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-apple.svg"
-                      alt="iOS"
-                ></a> <a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-google.svg"
-                      alt="Android"
-                ></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try It Free &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>If you don’t feel like applying in-built overlays from the 100+ collection of <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >VHS video effects <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, then don’t because you can create your own. In this portion, you will learn how a movie, like VHS preset, can be created using this tool. These steps will properly explain to you step by step how to create a VHS look effect.</p>
-<h5 id="Step-1Add-the-VHS-Distortion-Effect"><a href="#Step-1Add-the-VHS-Distortion-Effect" class="headerlink" title="Step 1Add the VHS Distortion Effect"></a>Step 1Add the VHS Distortion Effect</h5><p>Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the “Effects” tab and type “VHS” in the search box. Choose the “VHS Distortion Bad” effect and drag it onto the timeline. Set the alpha value to 25 and press “OK.” Proceed next to open the “Effects” tab and select the “VHS Distortion” effect. Place it on the previous layer and adjust its value to 35.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg"
-                      alt="add distortion effect and adjust"
-                ></p>
-<h5 id="Step-2Add-the-VHS-Rewind-and-Glitch-Effect"><a href="#Step-2Add-the-VHS-Rewind-and-Glitch-Effect" class="headerlink" title="Step 2Add the VHS Rewind and Glitch Effect"></a>Step 2Add the VHS Rewind and Glitch Effect</h5><p>Drag and drop the “VHS Rewind” effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10. Next, place the “Strong Glitch” effect over the previous layer, adjust its alpha value to 25, and click “OK.”</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg"
-                      alt="add rewind and glitch"
-                ></p>
-<h5 id="Step-3Apply-the-Chromatic-Aberration-and-VCR-Distortion-Effect"><a href="#Step-3Apply-the-Chromatic-Aberration-and-VCR-Distortion-Effect" class="headerlink" title="Step 3Apply the Chromatic Aberration and VCR Distortion Effect"></a>Step 3Apply the Chromatic Aberration and VCR Distortion Effect</h5><p>Continue to drag and place the “Chromatic Aberration” effect over the previous layer. Set the parameters of Fade and Alpha, 0.05 and 60, respectively. Go to “Effects” and type “distortion” in the search bar and find the “VCR Distortion” effect. Then, drag the effect onto the timeline, place it over the previous layer, and change the alpha value to 25.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-chromatic-aberration-and-distortion.jpg"
-                      alt="add chromatic aberration and distortion"
-                ></p>
-<h5 id="Step-4Include-the-Glitch-Distortion-and-Apply-the-Distort-Effect"><a href="#Step-4Include-the-Glitch-Distortion-and-Apply-the-Distort-Effect" class="headerlink" title="Step 4Include the Glitch Distortion and Apply the Distort Effect"></a>Step 4Include the Glitch Distortion and Apply the Distort Effect</h5><p>Proceed to drag and drop the “Glitch Distortion” effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30. Continue to drag and drop the “Distort” effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/4482-1422856"
-                      border="0" alt="" width="580" height="309"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg"
-                      alt="add glitch distortion to preset"
-                ></p>
-<h5 id="Step-5Export-Your-Edited-Video"><a href="#Step-5Export-Your-Edited-Video" class="headerlink" title="Step 5Export Your Edited Video"></a>Step 5Export Your Edited Video</h5><p>After finishing your editing, click on the Export button and export your video with the VHS effect to your desired format. By following these steps in Wondershare Filmora, you can easily add <strong>an extreme Goofy movie VHS effect</strong> to your video.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19135-1793214"
-                      border="0" alt="" width="900" height="900"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793214/19135"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/export-entire-vhs-preset.jpg"
-                      alt="export entire vhs preset"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/22993-2044747"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2044747/22993"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. Its lighthearted storyline, memorable characters, and catchy songs made it a beloved film of that era. You can take yourself back to the era by using <strong>a Goofy Movie 1995 VHS effect</strong> in your videos. To do so, Wondershare Filmora is a tool that can bring a touch of 90s to your video projects.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Apply VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Apply VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Learn More &gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2068416"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2068416/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-apple.svg"
-                      alt="iOS"
-                ></a> <a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-google.svg"
-                      alt="Android"
-                ></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try It Free &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png"
-                      alt="Wondershare Filmora 12"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17212-1450763"
-                      border="0" alt="" width="2560" height="1440"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1450763/17212"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-Was-VHS-Technology-Used-in-Old-Movies-1"><a href="#Part-2-How-Was-VHS-Technology-Used-in-Old-Movies-1" class="headerlink" title="Part 2: How Was VHS Technology Used in Old Movies?"></a>Part 2: How Was VHS Technology Used in Old Movies?</h2><p>VHS technology played a significant role in producing and viewing movies during its prime era. Before you apply <strong>Goofy movie VHS effects</strong> to your video, learn how they were used. Here are some ways this technology was used in old movies:</p>
-<p><strong>1. Home Video Market</strong></p>
-<p>VHS has revolutionized the home video market by introducing the concept of renting movies. People used to either rent or own movies on videocassettes. It allowed them to watch movies conveniently without relying on theatrical screenings. Movie studios and distributors started releasing films on VHS tapes, which could be rented from stores.</p>
-<p><strong>2. Preservation and Archiving</strong></p>
-<p>This technology also facilitated the preservation and archiving of movies. Film studios, libraries, and institutions started transferring movies from reels to VHS tapes. It allowed for easier storage, duplication, and accessibility of movies. Additionally, it is a more manageable way to store the archives and a widely compatible format.</p>
-<p><strong>3. Film Distribution</strong></p>
-<p>These tapes became a popular format for distributing movies to rental stores and retail outlets. Film distributors would duplicate and distribute movies on VHS tapes. Then, these VHS tapes are sold or rented to customers. This widespread distribution contributed to the availability of movies for home viewing.</p>
-<p><strong>4. Independent Filmmaking</strong></p>
-<p>It provided independent filmmakers with an affordable and accessible medium for movie distribution. Filmmakers could shoot their movies on video cameras and duplicate them onto these tapes. It further allows them to self-distribute or sell their films directly to audiences. Furthermore, these tapes can reach a wider audience and establish the careers of many filmmakers.</p>
-<p><strong>5. Special Editions and Bonus Features</strong></p>
-<p>As the VHS market grew, movie distributors released special editions and collector’s versions. These releases often included bonus features like behind-the-scenes footage and more. It also included interviews, the making of the movie, and deleted scenes. Similarly, people can experience additional content beyond the theatrical release.</p>
-<p><strong>6. Film Education and Study</strong></p>
-<p>Such tapes became a valuable resource for film education and study. Film schools, universities, and film enthusiasts would compile these tapes for research purposes. It allows students and researchers to study and analyze films at their own pace. Similarly, it provided a medium for referencing and studying specific scenes or films in detail.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor-1"><a href="#Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor-1" class="headerlink" title="Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor"></a>Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor</h2><p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora Video Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, like always, is a solution to your editing problems. If you want to create a Goofy movie VHS 2000 effect, you can with this tool. It allows you to apply already available presets in the library. However, if you want to go creative, Wondershare Filmora has a solution for you. You can create your own preset using Wondershare Filmora and much more.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Add VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Add VHS Effect <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-apple.svg"
-                      alt="iOS"
-                ></a> <a target="_blank" rel="noopener" href="https://app.adjust.com/w06dr6m%5F19za1f6"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/assets/images-common/badges-google.svg"
-                      alt="Android"
-                ></a></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Try It Free &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>If you don’t feel like applying in-built overlays from the 100+ collection of <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >VHS video effects <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, then don’t because you can create your own. In this portion, you will learn how a movie, like VHS preset, can be created using this tool. These steps will properly explain to you step by step how to create a VHS look effect.</p>
-<h5 id="Step-1Add-the-VHS-Distortion-Effect-1"><a href="#Step-1Add-the-VHS-Distortion-Effect-1" class="headerlink" title="Step 1Add the VHS Distortion Effect"></a>Step 1Add the VHS Distortion Effect</h5><p>Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the “Effects” tab and type “VHS” in the search box. Choose the “VHS Distortion Bad” effect and drag it onto the timeline. Set the alpha value to 25 and press “OK.” Proceed next to open the “Effects” tab and select the “VHS Distortion” effect. Place it on the previous layer and adjust its value to 35.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg"
-                      alt="add distortion effect and adjust"
-                ></p>
-<h5 id="Step-2Add-the-VHS-Rewind-and-Glitch-Effect-1"><a href="#Step-2Add-the-VHS-Rewind-and-Glitch-Effect-1" class="headerlink" title="Step 2Add the VHS Rewind and Glitch Effect"></a>Step 2Add the VHS Rewind and Glitch Effect</h5><p>Drag and drop the “VHS Rewind” effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10. Next, place the “Strong Glitch” effect over the previous layer, adjust its alpha value to 25, and click “OK.”</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg"
-                      alt="add rewind and glitch"
-                ></p>
-<h5 id="Step-3Apply-the-Chromatic-Aberration-and-VCR-Distortion-Effect-1"><a href="#Step-3Apply-the-Chromatic-Aberration-and-VCR-Distortion-Effect-1" class="headerlink" title="Step 3Apply the Chromatic Aberration and VCR Distortion Effect"></a>Step 3Apply the Chromatic Aberration and VCR Distortion Effect</h5><p>Continue to drag and place the “Chromatic Aberration” effect over the previous layer. Set the parameters of Fade and Alpha, 0.05 and 60, respectively. Go to “Effects” and type “distortion” in the search bar and find the “VCR Distortion” effect. Then, drag the effect onto the timeline, place it over the previous layer, and change the alpha value to 25.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-chromatic-aberration-and-distortion.jpg"
-                      alt="add chromatic aberration and distortion"
-                ></p>
-<h5 id="Step-4Include-the-Glitch-Distortion-and-Apply-the-Distort-Effect-1"><a href="#Step-4Include-the-Glitch-Distortion-and-Apply-the-Distort-Effect-1" class="headerlink" title="Step 4Include the Glitch Distortion and Apply the Distort Effect"></a>Step 4Include the Glitch Distortion and Apply the Distort Effect</h5><p>Proceed to drag and drop the “Glitch Distortion” effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30. Continue to drag and drop the “Distort” effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg"
-                      alt="add glitch distortion to preset"
-                ></p>
-<h5 id="Step-5Export-Your-Edited-Video-1"><a href="#Step-5Export-Your-Edited-Video-1" class="headerlink" title="Step 5Export Your Edited Video"></a>Step 5Export Your Edited Video</h5><p>After finishing your editing, click on the Export button and export your video with the VHS effect to your desired format. By following these steps in Wondershare Filmora, you can easily add <strong>an extreme Goofy movie VHS effect</strong> to your video.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://awario.com/images/pages/index/img-leads-1280@1x.avif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2023/export-entire-vhs-preset.jpg"
-                      alt="export entire vhs preset"
-                ></p>
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. Its lighthearted storyline, memorable characters, and catchy songs made it a beloved film of that era. You can take yourself back to the era by using <strong>a Goofy Movie 1995 VHS effect</strong> in your videos. To do so, Wondershare Filmora is a tool that can bring a touch of 90s to your video projects.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-7-first-person-shooters-of-the-year/"><u>[New] 2024 Approved  Best 7 First-Person Shooters of the Year</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/new-2024-approved-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[New] 2024 Approved  Direct Save + Alternative Pathways  Your Instagram Video Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-guide-on-google-podcast-upload-for-2024/"><u>[New] Guide on Google Podcast Upload for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/new-in-2024-fire-up-your-dreams-with-these-10-movie-gems/"><u>[New] In 2024, Fire Up Your Dreams with These 10 Movie Gems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/n-2024-launchpad-equipment-the-beginners-checklist/"><u>[New] In 2024, Launchpad Equipment  The Beginner's Checklist</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/updated-exploring-the-top-hashtags-for-a-boost-on-ig/"><u>[Updated] Exploring the Top Hashtags for a Boost on IG</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-sparkle-with-style-triple-highlight-techniques-for-insta/"><u>[Updated] Sparkle with Style  Triple Highlight Techniques for Insta</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-leading-resources-for-premium-vector-data/"><u>10 Leading Resources for Premium Vector Data</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-flawless-audio-googles-uploading-system/"><u>2024 Approved  Achieve Flawless Audio  Google's Uploading System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-new-frontier-the-impact-of-kinemaster-app/"><u>2024 Approved  Android's New Frontier  The Impact of KineMaster App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-battle-of-the-titans-gopro-hero5-black-vs-session/"><u>2024 Approved  Battle of the Titans  GoPro Hero5 Black VS Session</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-3d-text-psd-files/"><u>2024 Approved  Best Free 3D Text PSD Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-srt-translators-online-an-elite-list-of-8/"><u>2024 Approved  Best FREE SRT Translators Online  An Elite List of 8</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>2024 Approved  Compress iPhone Videos  How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-core-elements-of-virtual-tale-transmission/"><u>2024 Approved  Core Elements of Virtual Tale Transmission</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/2024-approved-melody-match-maker-audio-ambience-for-videos/"><u>2024 Approved  Melody Match-Maker  Audio Ambience For Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-and-record-audio-to-powerpoint-for-2024/"><u>Add & Record Audio to PowerPoint for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed-for-2024/"><u>Adobe Cloud Storage Demystified  Features, Functionality, and Alternatives Reviewed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apex-smartphone-triad-for-ultimate-video-quality-for-2024/"><u>Apex Smartphone Triad for Ultimate Video Quality for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/awesome-free-apps-to-transform-your-mobile-images/"><u>Awesome FREE Apps to Transform Your Mobile Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balancing-core-and-supporting-visual-elements/"><u>Balancing Core & Supporting Visual Elements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>Become a Close-Up Connoisseur  Advanced Roleplay Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/begin-your-editing-journey-adopting-movie-maker-for-w11-for-2024/"><u>Begin Your Editing Journey  Adopting Movie Maker for W11 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-clickbait-title-generator/"><u>Best Clickbait Title Generator</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-image-size-retain-resolution-for-2024/"><u>Boost Image Size, Retain Resolution for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brand-awakening-on-reddit-7-easy-steps-to-market-mastery/"><u>Brand Awakening on Reddit  7 Easy Steps to Market Mastery</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/breaking-barriers-top-picks-of-virtual-reality-walkers/"><u>Breaking Barriers  Top Picks of Virtual Reality Walkers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breathe-life-into-images-step-by-step-text-editing-guide/"><u>Breathe Life Into Images  Step-by-Step Text Editing Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budgeting-essentials-for-your-music-video/"><u>Budgeting Essentials for Your Music Video</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/capture-live-camera-feed-in-vlc-media-player-for-2024/"><u>Capture Live Camera Feed in VLC Media Player for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-professional-quality-with-complimentary-and-subscription-luts-for-2024/"><u>Capture Professional Quality with Complimentary & Subscription LUTs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cast-distribution-license-for-screen-viewing/"><u>Cast Distribution License for Screen Viewing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-the-crowd-through-effective-smm/"><u>Conquering the Crowd Through Effective SMM</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/converting-sdr-video-to-hdr-a-comprehensive-tutorial-for-2024/"><u>Converting SDR Video to HDR - A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-rings-with-scripture-inspired-melodies-guide/"><u>Crafting Rings with Scripture-Inspired Melodies Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-captivating-grids-the-best-photo-tools-for-2024/"><u>Creating Captivating Grids - The Best Photo Tools for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2/"><u>Dance of the Feathers  Analyzing Parrot's Flight in Bebop 2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-screenwriting-circle/"><u>Elite Screenwriting Circle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-virtuoso-broadcasting-services/"><u>Elite Virtuoso Broadcasting Services</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-speaking-skills-no-expense-just-free-tools/"><u>Enhance Your Speaking Skills – No Expense, Just Free Tools</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/o-edit-youtube-videos-by-the-youtube-video-editor-for-2024/"><u>How to Edit Youtube Videos by the YouTube Video Editor for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a15-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A15 4G without Them Knowing | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/in-2024-boost-your-income-with-effective-snapchat-ads/"><u>In 2024, Boost Your Income with Effective Snapchat Ads</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-90-lite-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor 90 Lite FRP?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 6 Plus?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://audio-editing.techidaily.com/new-a-comprehensive-selection-of-free-must-hear-game-sounds-for-2024/"><u>New A Comprehensive Selection of Free, Must-Hear Game Sounds for 2024</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;&#39;Tis the Season for Laughs  &#39;The Goofy&#39; VHS Special&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:35:26</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:35:26
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/tis-the-season-for-laughs-the-goofy-vhs-special/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/top-vectors-alternatives-to-the-classic-acid-pro/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Top Vectors Alternatives to the Classic ACID Pro</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/tips-for-a-seamless-experience-accessing-youtube-video-comments/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Tips for a Seamless Experience  Accessing YouTube Video Comments&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;&#39;Tis the Season for Laughs  &#39;The Goofy&#39; VHS Special&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E2%80%98Tis-the-Season-for-Laughs-%E2%80%98The-Goofy%E2%80%99-VHS-Special"><span class="nav-text">‘Tis the Season for Laughs: ‘The Goofy’ VHS Special</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Reviewing-The-Goofy-Movie-1995"><span class="nav-text">Part 1: Reviewing The Goofy Movie 1995</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-Was-VHS-Technology-Used-in-Old-Movies"><span class="nav-text">Part 2: How Was VHS Technology Used in Old Movies?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor"><span class="nav-text">Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-Was-VHS-Technology-Used-in-Old-Movies-1"><span class="nav-text">Part 2: How Was VHS Technology Used in Old Movies?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Wondershare-Filmora-The-New-Age-VHS-Technology-Video-Editor-1"><span class="nav-text">Part 3: Wondershare Filmora: The New Age VHS Technology Video Editor</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

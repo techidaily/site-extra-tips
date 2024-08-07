@@ -615,15 +615,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -645,591 +645,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/f8310fb64fe59131a1a603b74493ef91ec9be3bf91a44a7ee26654a9f6fff3c0.jpg" alt="Understanding WhatsApp&#39;s Voice Communication System" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Understanding WhatsApp&#39;s Voice Communication System</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:03:24</span>
-        <span class="mobile">2024-07-27 07:03:24</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:03:24</span>
-            <span class="mobile">2024-07-28 07:03:24</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Understanding-WhatsApp’s-Voice-Communication-System"><a href="#Understanding-WhatsApp’s-Voice-Communication-System" class="headerlink" title="Understanding WhatsApp’s Voice Communication System"></a>Understanding WhatsApp’s Voice Communication System</h2><p>Hello guys, almost all of us are familiar with the name WhatsApp when it comes to some best and most popular messaging apps. There are numerous features available on WhatsApp. However, today we will discuss an essential topic regarding WhatsApp: <strong>how you can send a voice message or recorded audio on WhatsApp</strong>. This guide will briefly examine the methods of <strong>sending voice messages</strong> and <strong>audio recording</strong> over WhatsApp on iOS or Android.</p>
-<h2 id="Part-1-How-to-send-a-voice-message-on-WhatsApp"><a href="#Part-1-How-to-send-a-voice-message-on-WhatsApp" class="headerlink" title="Part 1. How to send a voice message on WhatsApp?"></a>Part 1. How to send a voice message on WhatsApp?</h2><p>Now let’s first look into how you can record and send a voice message on WhatsApp. We will discuss it from the perspective of both iOS and Android users.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg"
-                      border="0"
-                >OtsAV Radio Webcaster</a></p>
-<!-- affiliate ads end -->
-<h3 id="How-to-send-the-voice-message-on-iOS-or-Android"><a href="#How-to-send-the-voice-message-on-iOS-or-Android" class="headerlink" title="How to send the voice message on iOS or Android"></a>How to send the voice message on iOS or Android</h3><p>The steps of recording and sending a voice message using WhatsApp are nearly identical on iOS and Android devices. So both iOS and Android users can follow up on these steps:</p>
-<ol>
-<li>Press and hold the voice recorder button on the right side to record the voice message. However, a more effective way is to swipe up the voice recorder button to lock it. Now you can easily record it without holding the button.</li>
-<li>There are three more options appear at the bottom:</li>
-</ol>
-<ul>
-<li><strong>The Delete button</strong> can used to delete the voice you’ve just recorded. However, if you haven’t locked the recorder button, you can delete the message by sliding it to the left.</li>
-<li><strong>The pause button</strong> can help you in pausing the recording.</li>
-<li><strong>The send button</strong> will send your recorded voice message.</li>
-</ul>
-<ol>
-<li>Before sending, you can also check your recorded voice by clicking the pause button, and then you have the option to play the voice.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-1.jpg"
-                      alt="clicking the pause button"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.x-mirage.com/x-mirage/img/page-home.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-2.jpg"
-                      alt="play the voice"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg"
-                      border="0"
-                >Nero Burning ROM:<br>The ultimate burning program for all your needs!</a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-2-How-to-send-recorded-audio-on-WhatsApp"><a href="#Part-2-How-to-send-recorded-audio-on-WhatsApp" class="headerlink" title="Part 2. How to send recorded audio on WhatsApp?"></a>Part 2. How to send recorded audio on WhatsApp?</h2><p>Until now, we have only discussed how we can record and then send a voice message on WhatsApp, but here is another primary concern: what if you want to send an already recorded audio or voice memo? So, let’s check how we can do this!</p>
-<h3 id="Send-recorded-audio-on-iOS"><a href="#Send-recorded-audio-on-iOS" class="headerlink" title="Send recorded audio on iOS"></a>Send recorded audio on iOS</h3><p>We will start with some methods iOS users can use to send their already recorded audio or voice memos on WhatsApp.</p>
-<p><strong>Way 1. Share directly to WhatsApp in voice memos:</strong></p>
-<p>So, the first method is to share your recorded voice memos over WhatsApp. Just follow the below steps:</p>
-<ol>
-<li>Open your voice memo app on your iPhone and choose the voice you want to send.</li>
-<li>Now click the (…) options button. Then select the share option.</li>
-<li>Choose WhatsApp, and it opens up your contact list. Choose which you want to share and then tap the send button.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png"
-                      border="0"
-                >FX PRO (Gold Robot + Silver Robot(Basic Package))</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-3.jpg"
-                      alt="voice memos"
-                ></p>
-<p><strong>Way 2. Select file sharing in the chat window of WhatsApp:</strong></p>
-<p>You can also share the already recorded audio using attach files option in WhatsApp.</p>
-<ol>
-<li>Open WhatsApp chat to which you want to send the audio.</li>
-<li>Click the options button at the left.</li>
-<li>Now select the audio option and then choose the desired audio.</li>
-<li>Click the send button, and it will again ask you to confirm the sending, and once you click the send button again, it will send.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-4.jpg"
-                      alt="send recorded audio on ios"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png"
-                      border="0"
-                >EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe &amp; convert audio to text freely </a></p>
-<!-- affiliate ads end -->
-<h3 id="Send-recorded-audio-on-Android"><a href="#Send-recorded-audio-on-Android" class="headerlink" title="Send recorded audio on Android"></a>Send recorded audio on Android</h3><p>To send your recorded audio on Android devices, you can use this method:</p>
-<p><strong>Way 1. Select file sharing in the chat window of WhatsApp:</strong></p>
-<ol>
-<li>Open WhatsApp, then choose a chat.</li>
-<li>Tap the file attachment button on the screen’s right side.</li>
-<li>Select the audio option. Now choose the recorded audio you want to send.</li>
-<li>Tap the send option and confirm the sending to send.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-5.jpg"
-                      alt="select file sharing"
-                ></p>
-<h2 id="Part-3-How-to-save-voice-messages-on-WhatsApp"><a href="#Part-3-How-to-save-voice-messages-on-WhatsApp" class="headerlink" title="Part 3. How to save voice messages on WhatsApp?"></a>Part 3. How to save voice messages on WhatsApp?</h2><p>The next step is how you can save a WhatsApp voice message. By default, no tools can be available to help you in such a case. However, that doesn’t mean you can never save a WhatsApp voice recording. Still, there are multiple ways you can do it. We are going to discuss a few best practices in this regard.</p>
-<h3 id="Save-voice-notes-on-iOS"><a href="#Save-voice-notes-on-iOS" class="headerlink" title="Save voice notes on iOS"></a>Save voice notes on iOS</h3><p>There are the methods that only iOS users can use:</p>
-<p><strong>Way 1. Using iCloud Backup:</strong></p>
-<p>You can use iCloud to save voice notes on WhatsApp. This is one of the most reliable and convenient ways to save your voice records on WhatsApp on your iPhone.</p>
-<ol>
-<li>Open the settings of your iPhone.</li>
-<li>Now select the iCloud tab. You have to turn it on and sign up&#x2F; login into your account.</li>
-<li>Once you’ve completed with above, scroll down the options under iCloud and turn the WhatsApp option on.</li>
-<li>From now it will save you all WhatsApp data, including voice messages.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-6.jpg"
-                      alt="using icloud backup"
-                ></p>
-<p><strong>Way 2. Use Screen Recording:</strong></p>
-<p>This is another way to get your voice messages stored.</p>
-<ol>
-<li>Download <a class="link"   target="_blank" rel="noopener" href="https://drfone.wondershare.com/isr/" >iOS Screen Recorder <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>Now open settings and then select the general tab. Under it, click the device management button and tap the distributor name. Turn on the trust option to grant access.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png"
-                      border="0"
-                >WinUtilities Pro</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-7.jpg"
-                      alt="use screen recording"
-                ></p>
-<ol>
-<li>Open the iOS Screen Recorder App. Before starting recording, it will show some options. Under audio, select the internal audio.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-8.jpg"
-                      alt="select the internal audio"
-                ></p>
-<ol>
-<li>Now play any audio clip and record it to save.</li>
-</ol>
-<h3 id="Save-voice-notes-on-Android"><a href="#Save-voice-notes-on-Android" class="headerlink" title="Save voice notes on Android"></a>Save voice notes on Android</h3><p>It’s now time to discuss the details for Android users. These are a few effective ways Android users can use to save their voice messages on WhatsApp.</p>
-<p><strong>Way 1. Find voice messages files on File Manager:</strong></p>
-<p>In Android, you have access to the file manager. So, it’s very much easy to save voice notes on WhatsApp. Once you’ve downloaded them, follow these steps:</p>
-<ol>
-<li>Open the File Manager of your device.</li>
-<li>Now choose the internal storage.</li>
-<li>Then click the Android folder.</li>
-<li>Tap the media folder and then choose <strong>whatsapp</strong> folder</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/3022-398453"
-                      border="0" alt="www.sentrypc.com" width="580" height="400"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/398453/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-9.jpg"
-                      alt="find voice messages files"
-                ></p>
-<ol>
-<li>Now open the WhatsApp folder and choose Media under it.</li>
-<li>Click the WhatsApp Audio. Now all your voice messages are shown here, including sent and received.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-10.jpg"
-                      alt="click the whatsapp audio"
-                ></p>
-<p><strong>Way 2. Use screen Recording:</strong></p>
-<p>You can also record voice messages on WhatsApp using a screen recorder on Android.</p>
-<ol>
-<li>Download the <a class="link"   target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=screenrecorder.videorecorder.xrecorder.filmora&hl=en&gl=US" >Screen Recorder <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for Android.</li>
-<li>Open the app and provide the required access.</li>
-<li>Before recording, open the settings tab and select internal audio under the audio option.</li>
-<li>Run the screen recorder and then play your voice messages to record.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19272-2087264"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2087264/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-11.jpg"
-                      alt="use screen recording"
-                ></p>
-<h3 id="Save-voice-notes-on-iOS-Android"><a href="#Save-voice-notes-on-iOS-Android" class="headerlink" title="Save voice notes on iOS &#x2F; Android"></a>Save voice notes on iOS &#x2F; Android</h3><p><strong>Way 1. Use email to forward</strong></p>
-<p>This method is an identical for both iPhone and Android users. It will help you if you want to save only selected voice messages on WhatsApp. It’s the easiest way to make it done. All you have to do is:</p>
-<ol>
-<li>Choose the WhatsApp voice message you want to save.</li>
-<li>Long press it and then click the options button at the top.</li>
-<li>Select the share option and then choose the email.</li>
-<li>You can forward it to yourself or any other email.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-12.jpg"
-                      alt="use email to forward"
-                ></p>
-<p><strong>Way 2. Forward Messages</strong></p>
-<p>This is another method that’s nearly the same on Android and iOS. This will be best for you if you don’t want to do such massive practices. All you have to do is to make a New WhatsApp Group and forward all your voice messages there.</p>
-<ol>
-<li>Make a new WhatsApp Group with any one member.</li>
-<li>After you’ve created the group, remove the other person.</li>
-<li>Forward the voice messages you want to save to the group.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/08/whatsapp-voice-messages-13.jpg"
-                      alt="forward messages"
-                ></p>
-<h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>The conclusion is that WhatsApp offers a variety of great features. You can easily record and send voice messages or even send already recorded audio on WhatsApp. When it comes to saving a voice message, then there is no default way available. But, there are also multiple ways to complete it. So, in this article, we have discussed many techniques and methods to achieve a single goal in detail. However, you can use the one that best fits your requirement and goals. Thanks for reading.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-</article
+  &.show-toc
+    gap 30px
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>[New] 2023'S Top Contenders  GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/new-2024-approved-ideal-screencasting-software-for-effective-teaching/"><u>[New] 2024 Approved  Ideal Screencasting Software for Effective Teaching</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-2024-approved-instantaneous-google-collage-a-speedy-diy-method/"><u>[New] 2024 Approved  Instantaneous Google Collage  A Speedy DIY Method</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/new-calculating-costs-music-video-filming/"><u>[New] Calculating Costs  Music Video Filming</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/new-capturing-victories-effective-strategies-with-w11/"><u>[New] Capturing Victories  Effective Strategies with W11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/new-chucklecrafts-join-and-start-crafting-laughter/"><u>[New] ChuckleCrafts  Join and Start Crafting Laughter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-ar-merging-physical-and-fictional-worlds/"><u>[Updated] AR  Merging Physical and Fictional Worlds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clearer-view-deeper-insight-zoom-techniques-in-videoleap/"><u>[Updated] Clearer View, Deeper Insight  Zoom Techniques in Videoleap</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-color-grading-made-simple-photoshop-guide/"><u>[Updated] Color Grading Made Simple  Photoshop Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elite-scripting-developing-a-countdown-mechanism-in-obs/"><u>[Updated] In 2024, Elite Scripting  Developing a Countdown Mechanism in OBS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-in-2024-fine-tune-video-quality-for-instagram-excellence/"><u>[Updated] In 2024, Fine-Tune Video Quality for Instagram Excellence</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/updated-proven-steps-to-conquer-hdr-images-in-ps/"><u>[Updated] Proven Steps to Conquer HDR Images in PS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/2024-approved-breaking-boundaries-education-through-vr-lenses/"><u>2024 Approved  Breaking Boundaries  Education Through VR Lenses</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-landscapes-with-mi-drone-4k-analysis/"><u>2024 Approved  Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-guide-for-srt-format-conversions/"><u>2024 Approved  Comprehensive Guide for SRT Format Conversions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/2024-approved-high-fidelity-portals-to-ps3-gaming-on-pcs/"><u>2024 Approved  High-Fidelity Portals to Ps3 Gaming on PCs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-coding-standards-is-av1-outclassing-vp9/"><u>Advanced Coding Standards  Is AV1 Outclassing VP9?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-lighting-strategies-for-superior-iphone-photos-for-2024/"><u>Advanced Lighting Strategies for Superior iPhone Photos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-an-engaging-listenership-through-rss-crafting-for-2024/"><u>Building an Engaging Listenership Through RSS Crafting for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-bites-new-insights-on-hero5-and-yi-4k-cameras-for-2024/"><u>Comparing Bites  New Insights on Hero5 & Yi 4K Cameras for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-your-podcasts-identity-with-ai-name-generators-for-2024/"><u>Craft Your Podcast's Identity with AI Name Generators for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/design-like-a-pro-free-premiere-plans-templates-2023/"><u>Design Like a Pro  Free Premiere Plans, Templates 2023</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone 12 Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-decision-making-choosing-the-best-cropping-tool/"><u>Digital Decision Making  Choosing the Best Cropping Tool</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/disabling-iphone-8-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 8 Parental Restrictions With/Without Password</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-hints.techidaily.com/elaborate-study-of-uncomplicated-hdr-techniques/"><u>Elaborate Study of Uncomplicated HDR Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-how-mixed-reality-transforms-experience/"><u>Exploring How Mixed Reality Transforms Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/flip-the-script-design-your-own-video-finale-for-free/"><u>Flip the Script  Design Your Own Video Finale for Free</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/foremost-pick-premium-audio-ringtone-artisans/"><u>Foremost Pick  Premium Audio Ringtone Artisans</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/guffaw-gallery-your-free-high-quality-memes/"><u>Guffaw Gallery  Your Free, High-Quality Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/guide-finding-perfect-music-for-unpack-videos/"><u>Guide  Finding Perfect Music For Unpack Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/how-to-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>How to Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-guide-to-android-sound-and-ringtone-customization/"><u>In 2024, A Comprehensive Guide to Android Sound and Ringtone Customization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>In 2024, Action Unleashed  The Latest in Filmmaking From Polaroid's XS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-audio-narratives-best-backdrop-tunes/"><u>In 2024, Crafting Audio Narratives  Best Backdrop Tunes</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme GT Neo 5</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-helps.techidaily.com/in-2024-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>In 2024, Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a70-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A70 FRP Bypass</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/inside-the-innovations-a-detailed-look-at-powerdirector-24-release/"><u>Inside the Innovations  A Detailed Look at PowerDirector '24 Release</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lilliputian-storyboard-outline/"><u>Lilliputian Storyboard Outline</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimizing-your-virtual-gaming-experience-with-kinemaster-and-its-competitors/"><u>Optimizing Your Virtual Gaming Experience with KineMaster & Its Competitors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/personal-aerial-companions-gps-drones-that-never-stray/"><u>Personal Aerial Companions - GPS Drones that Never Stray</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>Quantum Leap  The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quick-start-guide-making-your-gifs-count-as-emoji-stickers-in-telegram/"><u>Quick-Start Guide  Making Your GIFS Count as Emoji Stickers in Telegram</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/remove-cluttered-backgrounds-using-picarts-features/"><u>Remove Cluttered Backgrounds Using PicArt's Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-combining-multiple-iphone-photos/"><u>The Art of Combining Multiple iPhone Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-photo-edits-clearing-out-backgrounds/"><u>The Art of Photo Edits  Clearing Out Backgrounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-hd-cameras-for-wildlife-enthusiasts/"><u>Top HD Cameras For Wildlife Enthusiasts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/transform-storytelling-crafting-ig-questions-for-impact-for-2024/"><u>Transform Storytelling  Crafting IG Questions for Impact for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/undelete-lost-photos-from-huawei-p60-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei P60.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-harmony-crafting-chromatic-magic/"><u>Visual Harmony  Crafting Chromatic Magic</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/be-expertise-pathway-choosing-between-standard-studio-and-beta-for-2024/"><u>YouTube Expertise Pathway  Choosing Between Standard Studio and Beta for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zen-and-the-art-of-crystal-clear-zoom-video/"><u>Zen and the Art of Crystal-Clear Zoom Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zooming-into-facebook-live-with-ease-using-zoom/"><u>Zooming Into Facebook Live with Ease Using Zoom</u></a></li>
-</ul></div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        </div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Understanding WhatsApp&#39;s Voice Communication System</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:03:24</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:03:24
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/understanding-whatsapps-voice-communication-system/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-            </div>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
+    .article-content-container
+      width 100% !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Unlock the Potential of Still Photos Through Video Creation in Pixiz</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/understanding-the-mechanics-of-whatsapp-voice-conversations/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Understanding the Mechanics of WhatsApp Voice Conversations</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    &.show-toc
+      .toc-content-container
+        display none
 
+      .article-content-container
+        width 100% !important
 
-        
-    </div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Understanding WhatsApp&#39;s Voice Communication System</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Understanding-WhatsApp%E2%80%99s-Voice-Communication-System"><span class="nav-text">Understanding WhatsApp’s Voice Communication System</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-to-send-a-voice-message-on-WhatsApp"><span class="nav-text">Part 1. How to send a voice message on WhatsApp?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#How-to-send-the-voice-message-on-iOS-or-Android"><span class="nav-text">How to send the voice message on iOS or Android</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-How-to-send-recorded-audio-on-WhatsApp"><span class="nav-text">Part 2. How to send recorded audio on WhatsApp?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Send-recorded-audio-on-iOS"><span class="nav-text">Send recorded audio on iOS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Send-recorded-audio-on-Android"><span class="nav-text">Send recorded audio on Android</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-How-to-save-voice-messages-on-WhatsApp"><span class="nav-text">Part 3. How to save voice messages on WhatsApp?</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Save-voice-notes-on-iOS"><span class="nav-text">Save voice notes on iOS</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Save-voice-notes-on-Android"><span class="nav-text">Save voice notes on Android</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Save-voice-notes-on-iOS-Android"><span class="nav-text">Save voice notes on iOS &#x2F; Android</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol></li></ol>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-    </div>
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
-        </div>
-    
-</div>
+    .article-header, .article-header-meta-info
+      margin-top 16px
 
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

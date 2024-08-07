@@ -623,15 +623,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -653,602 +653,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e9351dbafbf801be610ecb70.jpg" alt="&#34;2024 Approved  Become an Expert  Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;2024 Approved  Become an Expert  Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 08:53:35</span>
-        <span class="mobile">2024-07-27 08:53:35</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 08:53:35</span>
-            <span class="mobile">2024-07-28 08:53:35</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Become-an-Expert-Tutorial-for-Making-GIFs-Into-Desirable-WhatsApp-Telegram-Stickers"><a href="#Become-an-Expert-Tutorial-for-Making-GIFs-Into-Desirable-WhatsApp-Telegram-Stickers" class="headerlink" title="Become an Expert: Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers"></a>Become an Expert: Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers</h2><p>The sticker library in most social apps has standard and animation-based stickers. GIFs are better alternatives for users who want to send more realistic reaction icons. Do you want to turn a GIF file you saved on your mobile phone into an animated sticker? Well, it is extremely easy, but you have to rely on a third-party app.</p>
-<h2 id="How-Do-I-Turn-a-GIF-into-a-Sticker"><a href="#How-Do-I-Turn-a-GIF-into-a-Sticker" class="headerlink" title="How Do I Turn a GIF into a Sticker?"></a>How Do I Turn a GIF into a Sticker?</h2><p>It is possible to use a <strong>GIF to sticker converter</strong> to change the GIF format files into stickers. One suitable tool here is the <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/videoconverter/download/" >Wondershare UniConverter <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The software, available for both Mac and Windows devices, is suitable for creating GIFs and stickers alike. You can adjust the output size and framerate and transform the GIF file you create further into sticker-appropriate WebP format.</p>
-<p>Furthermore, you can choose to store this in your device or cloud memory, as necessary. Follow the steps below to turn your GIFs into stickers at ease.</p>
-<p>Step1 Install the Wondershare Unicoverter on your PC or Mac.</p>
-<p>Step2 You should click on the “<strong>Tools</strong>“ tab after launching the software on your device.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-1.jpg"
-                      alt="click on tools"
-                ></p>
-<p>Step3 Under this, choose the “<strong>GIF Maker</strong>” option.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-2.jpg"
-                      alt="choose gif maker option"
-                ></p>
-<p>Step4 Select the side for “<strong>Photos to GIF</strong>” on the next window that appears to add your image and “<strong>Videos to GIF</strong>” for a video file.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-3.jpg"
-                      alt="select the side for photos to gif"
-                ></p>
-<p>Step5 Add the image&#x2F;video clip after clicking on the “<strong>Add</strong>” button.</p>
-<p>Step6 Make changes to the Output parameters and Frame Rate, and click on the “<strong>Create GIF</strong>” button.</p>
-<p>Step7 After creating the GIF, go to the UniConverter home page again and click on “<strong>Image Converter</strong>“.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png"
-                      border="0"
-                >Glarysoft File Recovery Pro - Helps to recover your lost file&#x2F;data, even permanently deleted data. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-4.jpg"
-                      alt="click on image converter"
-                ></p>
-<p>Step8 Choose the conversion model to WEBP and click the <strong>tickbox</strong> for the File.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-5.jpg"
-                      alt="choose conversion model to webp"
-                ></p>
-<p>Step9 Press the Convert button.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-6.jpg"
-                      alt="press the convert button"
-                ></p>
-<h2 id="How-to-convert-a-GIF-to-a-Discord-sticker"><a href="#How-to-convert-a-GIF-to-a-Discord-sticker" class="headerlink" title="How to convert a GIF to a Discord sticker?"></a>How to convert a GIF to a Discord sticker?</h2><p>There are tools available for users to convert GIFs to stickers specifically for communication&#x2F;streaming-based platforms like Discord. The process of using UniConverter would not work here, though, since the supported format for stickers is APNG. That is not available under this software at this point.</p>
-<p>It would help if you used an online tool for GIF to APNG conversion, like <a class="link"   target="_blank" rel="noopener" href="https://www.aconvert.com/image/gif-to-apng/" >AConvert.com <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<p>Step1 Open the online tool on your browser, and click on <strong>File</strong> to choose the source location type.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-7.jpg"
-                      alt="click on files"
-                ></p>
-<p>Step2 Tap the “<strong>Choose File</strong>” option and add the main GIF you want to convert from your device&#x2F;cloud. Bottom of Form</p>
-<p>Step3 Choose the Output format as APNG. Set the image size and quality specifications.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-8.jpg"
-                      alt="choose output format as apng"
-                ></p>
-<p>Step4 Click on the “<strong>Convert Now</strong>“ button. The File would store on your device, and you can use it on Discord as stickers.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/26400-2097466"
-                      border="0" alt="" width="2048" height="1024"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2097466/26400"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="How-to-put-your-GIFs-into-animated-WhatsApp-stickers"><a href="#How-to-put-your-GIFs-into-animated-WhatsApp-stickers" class="headerlink" title="How to put your GIFs into animated WhatsApp stickers?"></a>How to put your GIFs into animated WhatsApp stickers?</h2><p>Much like the process of converting GIF to stickers using the regular UniConverter tool, you can also use that or other apps to prepare GIFs for WhatsApp-based stickers. In this case, ensure the <strong>gif to sticker WhatsApp</strong> aspect ratio settings are set to 512 x 512 pixels since that is what the app supports. However, this would help create some standard-level stickers mainly.</p>
-<p>Step1 Open your WhatsApp application on the phone and access the chat of the person you would send it to.</p>
-<p>Step2 Click on the paperclip or media icon and insert the video on your device through that section. Alternatively, you can click on the camera to directly record a video using the slider icon above.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-9.jpg"
-                      alt="click on paperclip or media"
-                ></p>
-<p>Keep the video around 6 seconds long. If it extends further, cut it to 6 seconds maximum.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-10.jpg"
-                      alt="keep the video around 6seconds long"
-                ></p>
-<p>Step3 You can add stickers, icons, or text to the video.</p>
-<p>Step4 There is a GIF icon beside the video option. Click on it and press the “<strong>Send</strong>” button to your contact.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-11.jpg"
-                      alt="click on gif icon"
-                ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg"
-                      border="0"
-                >CollageIt Pro</a></p>
-<!-- affiliate ads end -->
-<h2 id="How-to-turn-a-GIF-to-a-Telegram-sticker"><a href="#How-to-turn-a-GIF-to-a-Telegram-sticker" class="headerlink" title="How to turn a GIF to a Telegram sticker?"></a>How to turn a GIF to a Telegram sticker?</h2><p>You can use either the Uniconverter or AConvert tool to turn your image&#x2F;video into a GIF file. For sharing on Telegram, you have to use the same process through UniConverter’s Image Converter to change the images into 512 x 512-pixel dimensions. Then, add the pack in Telegram as a new sticker pack.</p>
-<p>Step1 Access the Telegram app through the PC and open the chatbot function for Sticker through Search. The ID here is @Stickers.</p>
-<p>Step2 Open the chat, type &#x2F;newpack.Press the Enter button. Again, give a name to the sticker pack and click on Enter.</p>
-<p>Step3 Click on the File icon and add the GIF file from your device.</p>
-<p>Step4 Assign a relatable emoji with the File and press Enter. Do the same for all files.</p>
-<p>Step5 Add all stickers and type &#x2F;publish. Then, tap the Enter button.</p>
-<p>Step6 Set the sticker pack’s unique URL name and share the stickers inside individually or altogether.</p>
-<h2 id="How-to-custom-GIF-stickers-with-a-video-editor"><a href="#How-to-custom-GIF-stickers-with-a-video-editor" class="headerlink" title="How to custom GIF stickers with a video editor?"></a>How to custom GIF stickers with a video editor?</h2><p>While you can use the steps mentioned to turn GIFs into Telegram-based stickers, having a universal tool to make high-quality GIFs first would help.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is useful for creating interesting video files. You can also export files as GIFs and turn them into stickers too. If you are interested in stickers making, a software on your desktop will be good to go in the long run.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Features:</p>
-<ul>
-<li>Customize freely for your own GIFs into stickers without working internet connection.</li>
-<li>Except for gif-to-stickers converting, you can also convert Gif to video in either MP4, WMV, 3GP, or WEBM format.</li>
-<li>Trim your GIF clip, and add text, stickers to the file directly.</li>
-<li>Adjust speed, color, effects, etc., to your videos for free in seconds.</li>
-</ul>
-<p>Step1 Launch the Wondershare Filmora software on your PC or Mac after completing the download process.</p>
-<p>Step2 On the home page, click the “<strong>New Project</strong>“ button to go on.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png"
-                      border="0"
-                >Glarysoft File Recovery Pro Annually -  Helps to recover your lost file&#x2F;data, even permanently deleted data.<br></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-12.jpg"
-                      alt="click on new project"
-                ></p>
-<p>Step3 Tap on “<strong>Click here to import media</strong>“ at the top of the editing home screen. Or, drag and drop a video of your choice.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif"
-                      border="0"
-                >Forex Robotron Gold Package</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-13.jpg"
-                      alt="tap on click here to import media"
-                ></p>
-<p>Step4 After adding the media file, drag it to the lower section of the page and make adjustments like text, speed, color, etc. You can also crop the file into short clips to save as different stickers.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-14.jpg"
-                      alt="drag video to the lower section of page"
-                ></p>
-<p>Step5 After customizing all of these, choose the <strong>Export</strong>. And click on the <strong>Local &gt; GIF</strong>.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21553-1896607"
-                      border="0" alt="" width="750" height="422"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1896607/21553"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-15.jpg"
-                      alt="choose export"
-                ></p>
-<p>Step6 Then, animated GIFs you made can be shared directly via Whatsapp or another messaging app.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16836-2090698"
-                      border="0" alt="" width="720" height="300"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="Final-Words"><a href="#Final-Words" class="headerlink" title="Final Words"></a>Final Words</h2><p>Multiple steps are available for users to turn their GIF files into stickers to share with friends, family, and acquaintances. Use useful tools like UniConverter, AConvert, and Filmora to create high-quality GIFs and stickers.</p>
-<p>Also, while doing this conversion, make customizations based on the type of communication you use and their sticker-related specifications. For example, take time to set the aspect ratio to 512 x 512 for WhatsApp-based stickers.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Features:</p>
-<ul>
-<li>Customize freely for your own GIFs into stickers without working internet connection.</li>
-<li>Except for gif-to-stickers converting, you can also convert Gif to video in either MP4, WMV, 3GP, or WEBM format.</li>
-<li>Trim your GIF clip, and add text, stickers to the file directly.</li>
-<li>Adjust speed, color, effects, etc., to your videos for free in seconds.</li>
-</ul>
-<p>Step1 Launch the Wondershare Filmora software on your PC or Mac after completing the download process.</p>
-<p>Step2 On the home page, click the “<strong>New Project</strong>“ button to go on.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-12.jpg"
-                      alt="click on new project"
-                ></p>
-<p>Step3 Tap on “<strong>Click here to import media</strong>“ at the top of the editing home screen. Or, drag and drop a video of your choice.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2082526"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2082526/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-13.jpg"
-                      alt="tap on click here to import media"
-                ></p>
-<p>Step4 After adding the media file, drag it to the lower section of the page and make adjustments like text, speed, color, etc. You can also crop the file into short clips to save as different stickers.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19578-1793234"
-                      border="0" alt="" width="678" height="452"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793234/19578"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-14.jpg"
-                      alt="drag video to the lower section of page"
-                ></p>
-<p>Step5 After customizing all of these, choose the <strong>Export</strong>. And click on the <strong>Local &gt; GIF</strong>.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-15.jpg"
-                      alt="choose export"
-                ></p>
-<p>Step6 Then, animated GIFs you made can be shared directly via Whatsapp or another messaging app.</p>
-<!-- affiliate ads begin -->
+  &.show-toc
+    gap 30px
 
-<!-- affiliate ads end -->
-<h2 id="Final-Words-1"><a href="#Final-Words-1" class="headerlink" title="Final Words"></a>Final Words</h2><p>Multiple steps are available for users to turn their GIF files into stickers to share with friends, family, and acquaintances. Use useful tools like UniConverter, AConvert, and Filmora to create high-quality GIFs and stickers.</p>
-<p>Also, while doing this conversion, make customizations based on the type of communication you use and their sticker-related specifications. For example, take time to set the aspect ratio to 512 x 512 for WhatsApp-based stickers.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/024-approved-autoplay-youtube-on-phones-without-interruption/"><u>[New] 2024 Approved  Autoplay YouTube on Phones without Interruption</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-for-maximum-digital-storage/"><u>[New] Advanced Tips for Maximum Digital Storage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-broadcast-brains-vs-bodies-finding-the-frontier/"><u>[New] Broadcast Brains Vs Bodies  Finding the Frontier</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-command-line-magic-opening-srt-for-windows-macos/"><u>[New] Command Line Magic  Opening SRT for Windows, MacOS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/new-decoding-the-art-of-successful-fb-cover-videos-for-2024/"><u>[New] Decoding the Art of Successful FB Cover Videos for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-get-both-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>[New] In 2024, Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/new-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists-for-2024/"><u>[New] Stepwise Approach to Adding Video Tracks to Your YouTube Playlists for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-the-role-and-design-of-instagram-story-segments/"><u>[New] The Role and Design of Instagram Story Segments</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://graphic-issues.techidaily.com/solved-god-of-war-performance-issue/"><u>[Solved] God of War Performance Issue</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-files.techidaily.com/updated-2024-approved-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>[Updated] 2024 Approved  Turn Your Passion Into Profits  YouTube on Facebook Monetization Steps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/updated-2024-approved-web-accessory-fb-stories-keeper/"><u>[Updated] 2024 Approved  Web Accessory  FB Stories Keeper</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-guide-to-mastering-the-art-of-morphvox-audio-transformation/"><u>[Updated] Advanced Guide to Mastering the Art of MorphVOX Audio Transformation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cloud-price-comparison-best-deals-and-saving-strategies-2024/"><u>[Updated] Cloud Price Comparison  Best Deals and Saving Strategies, 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-in-2024-green-technology-for-impactful-ctas-via-subs/"><u>[Updated] In 2024, Green Technology for Impactful CTAs via Subs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/ed-in-2024-your-first-footsteps-in-the-fiscal-world-of-filming/"><u>[Updated] In 2024, Your First Footsteps in the Fiscal World of Filming</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11-for-2024/"><u>[Updated] Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>2024 Approved  A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-accelerate-creativity-in-photo-editing-using-pixlr/"><u>2024 Approved  Accelerate Creativity in Photo Editing Using Pixlr</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-focus-modifier-app/"><u>2024 Approved  Advanced Focus Modifier App</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/2024-approved-splitscreen-study/"><u>2024 Approved  SplitScreen Study</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>2024 Approved  Streamlined Multitasking in Safari with PIP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/4k-monitor-buying-guide-how-to-choose-the-right-monitor/"><u>4K Monitor Buying Guide  How to Choose the Right Monitor</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-z-fold-5-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy Z Fold 5 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities-for-2024/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/android-screen-stuck-general-honor-90-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor 90 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augment-your-cams-with-top-accessory-picks-for-2024/"><u>Augment Your Cams with Top Accessory Picks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/benq-bl2711u-elevating-professional-monitors-to-new-heights-in-4k-realms/"><u>BenQ BL2711U  Elevating Professional Monitors to New Heights in 4K Realms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-free-webm-players-for-2024/"><u>Best Free WebM Players for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brief-bliss-in-photo-collage-crafting-the-google-way-for-2024/"><u>Brief Bliss in Photo Collage Crafting - The Google Way for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cash-flow-curiosity-how-much-does-the-celebrity-make-in-2024/"><u>Cash Flow Curiosity  How Much Does the Celebrity Make, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/completing-the-process-of-disabling-your-linkedin-profile-for-2024/"><u>Completing the Process of Disabling Your LinkedIn Profile for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-engaging-dialogues-for-your-vlog-showcase-for-2024/"><u>Crafting Engaging Dialogues for Your Vlog Showcase for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/determining-excellence-in-hdr-via-luminance/"><u>Determining Excellence in HDR via Luminance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>From Sound to Web  Crafting a Standout Podcast RSS Feed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-shoot-hdr-photos-with-iphone/"><u>How to Shoot HDR Photos with iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-color-space-comparison-srgb-vs-rgb/"><u>In 2024, Color Space Comparison  Srgb vs Rgb</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-curve-concepts-for-text-visualization/"><u>In 2024, Crafting Curve Concepts for Text Visualization</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/in-2024-free-method-to-record-your-youtube-watching-experience/"><u>In 2024, Free Method to Record Your YouTube Watching Experience</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a15-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A15 5G Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a24-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A24 for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-the-revamped-sony-bdp-s6700/"><u>Inside the Revamped Sony BDP-S6700</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/lightning-loop-transferring-youtube-playlists-fast-for-2024/"><u>Lightning Loop  Transferring YouTube Playlists Fast for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/market-leading-6-social-channels-for-business-advancement/"><u>Market-Leading 6 Social Channels for Business Advancement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastery-of-transferring-multitudes-of-tiktok-videos/"><u>Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites/"><u>Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-guide-for-linking-instagram-to-tiktok/"><u>Perfect Guide for Linking Instagram to TikTok</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-photo-placement-on-windows-machines/"><u>Perfect Photo Placement on Windows Machines</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-tecno-phantom-v-flip-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Tecno Phantom V Flip and Browser | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-fast-windows-photo-displayer/"><u>Prime Fast Windows Photo Displayer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-steadicam-devices-for-drones-in-filmmaking/"><u>Prime Steadicam Devices for Drones in Filmmaking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ranking-the-best-selling-virtual-reality-titles/"><u>Ranking the Best Selling Virtual Reality Titles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ranking-the-ultimate-vr-fun-on-mobile-devices/"><u>Ranking the Ultimate VR Fun on Mobile Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secrets-to-successfully-obtain-windows-movie-maker-6/"><u>Secrets to Successfully Obtain Windows Movie Maker 6</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>The Artisan’ Writes  Crafting HDR Magic with iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
-</ul></div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        </div>
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;2024 Approved  Become an Expert  Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 08:53:35</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 08:53:35
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/2024-approved-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-            </div>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/2024-approved-becoming-an-expert-in-lut-technology/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Becoming an Expert in LUT Technology&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/2024-approved-auditory-adventures-10-sound-hotspots-for-podcasts/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Auditory Adventures  10 Sound Hotspots for Podcasts&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+    .article-content-container
+      width 100% !important
 
+    &.show-toc
+      .toc-content-container
+        display none
 
-        
-    </div>
+      .article-content-container
+        width 100% !important
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;2024 Approved  Become an Expert  Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Become-an-Expert-Tutorial-for-Making-GIFs-Into-Desirable-WhatsApp-Telegram-Stickers"><span class="nav-text">Become an Expert: Tutorial for Making GIFs Into Desirable WhatsApp &amp; Telegram Stickers</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-Do-I-Turn-a-GIF-into-a-Sticker"><span class="nav-text">How Do I Turn a GIF into a Sticker?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-convert-a-GIF-to-a-Discord-sticker"><span class="nav-text">How to convert a GIF to a Discord sticker?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-put-your-GIFs-into-animated-WhatsApp-stickers"><span class="nav-text">How to put your GIFs into animated WhatsApp stickers?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-turn-a-GIF-to-a-Telegram-sticker"><span class="nav-text">How to turn a GIF to a Telegram sticker?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-to-custom-GIF-stickers-with-a-video-editor"><span class="nav-text">How to custom GIF stickers with a video editor?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words"><span class="nav-text">Final Words</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Final-Words-1"><span class="nav-text">Final Words</span></a></li></ol>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-    </div>
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
-        </div>
-    
-</div>
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
 
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

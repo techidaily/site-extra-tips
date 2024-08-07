@@ -604,15 +604,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -634,453 +634,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/n1B4xtKlMDYVHkzyTBvmu5xLcFs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Mediacomoutagemap-067f88aca591414eb04b103a36693e0c.JPG" alt="&#34;[Updated] Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;[Updated] Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 08:39:22</span>
-        <span class="mobile">2024-07-27 08:39:22</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 08:39:22</span>
-            <span class="mobile">2024-07-28 08:39:22</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Boost-Your-Media-Creation-Skills-A-Detailed-Walkthrough-of-Movie-Maker-on-Windows-8"><a href="#Boost-Your-Media-Creation-Skills-A-Detailed-Walkthrough-of-Movie-Maker-on-Windows-8" class="headerlink" title="Boost Your Media Creation Skills: A Detailed Walkthrough of Movie Maker on Windows 8"></a>Boost Your Media Creation Skills: A Detailed Walkthrough of Movie Maker on Windows 8</h2><p><strong>Movie maker windows 8</strong> helps an individual create amazing videos in just a few steps. You can create a movie by yourself by making a few taps and downloading this software for windows eight and 10&#x2F;7&#x2F;XP. You can also use the windows movie maker as an audio track editing program. Using this editing software, one can adjust primary audio effects, including fade out or fade in.</p>
-<p><strong>Windows movie maker windows 8</strong> is powerful and easy-to-use editing software, specially designed for windows 10&#x2F;8&#x2F;7 and windows 11. The older version was made for windows vista and XP. Windows 8.1 movie maker features like transition, credit, audio track, auto movie, title, and timeline narration. Transitions and new effects can be prepared, and the existing ones can be easily modified using the XML code.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17091-2042323"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042323/17091"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Part-1-How-to-Download-and-Install-WMM-on-Win-8"><a href="#Part-1-How-to-Download-and-Install-WMM-on-Win-8" class="headerlink" title="Part 1. How to Download and Install WMM on Win 8?"></a>Part 1. How to Download and Install WMM on Win 8?</h2><p>You must have heard about the video editing feature if you use windows. Users can edit videos easily by using a movie maker; you don’t have to hire an expert to perform this job. Using this editing software, you can do various work like translate, apply a filter, cut, edit, and do many more without paying anything. Considering this application’s benefits, many users are considering downloading and installing this program.</p>
-<p>If you are the one who wants to install the application, then you must follow the procedure.</p>
-<ul>
-<li>First, you need to enter your browser and search for the official website of the movie maker to go through its main page.</li>
-<li>The next step is to press the blue button on the screen, “download.”</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png"
-                      border="0"
-                >Kanto Player Professional</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/download-movie-maker-win-8.jpg"
-                      alt="download movie maker win 8"
-                ></p>
-<ul>
-<li>You need to wait till the download is completed. After the download is complete, you need to double-click on the file. Follow the procedure so that you can proceed further with the installation package.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/install-windows-8-movie-maker.jpg"
-                      alt="install windows 8 movie maker"
-                ></p>
-<ul>
-<li>In the next step, you will have to check the box “license agreement” and make sure you go through the contract in detail to know what to do and what not to do.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17882-1611407"
-                      border="0" alt="" width="300" height="485"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1611407/17882"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/accept-win-8-license-agreement.jpg"
-                      alt="accept win 8 license agreement"
-                ></p>
-<ul>
-<li>Now, you need to choose the path to install the program <strong>Windows Movie maker win</strong> <strong>8</strong>. If you don’t know enough about the computer, you can proceed further with the default settings.</li>
-<li>In the end, you will get the option to start windows movie maker and click on it if required. Hence the program will automatically start once the installation process is completed.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/browse-video-photos-movie-maker.jpg"
-                      alt="browse video photos movie maker"
-                ></p>
-<h2 id="Part-2-Steps-to-Edit-Videos-on-Win-8-with-Movie-Maker"><a href="#Part-2-Steps-to-Edit-Videos-on-Win-8-with-Movie-Maker" class="headerlink" title="Part 2. Steps to Edit Videos on Win 8 with Movie Maker"></a>Part 2. Steps to Edit Videos on Win 8 with Movie Maker</h2><p><strong>Windows movie maker 8.1</strong> is professional video editing software that offers an outstanding editing experience to all its users. You can not only create something excellent but can also share them on various platforms such as Facebook, Vimeo, YouTube, OneDrive, etc. Anyone can use this editing software as it doesn’t have many complications. If you want to know more about how to edit videos in Win 8 using the movie maker, then stick on to this blog.</p>
-<ul>
-<li><strong>Snip the video:</strong> Using this tool, you can remove the part of a video that you don’t want to include. To trim a video, you must drag one slider to the starting point and the other at the ending.</li>
-</ul>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/snip-video-movie-maker-8.jpg"
-                      alt="snip video movie maker"
-                ></p>
-<ul>
-<li><strong>Effect and Transition:</strong> At the top right corner, you will find a box animation. Just choose the transition you want on your video, and the system will do the rest of the work. Play the video to see the effect, and you can check and see which effect goes the best with your video.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png"
-                      border="0"
-                >ZoneAlarm Pro Antivirus + Firewall NextGen</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/09/add-effects-and-transitions-win-8-movie-maker.jpg"
-                      alt="add effects and transitions"
-                ></p>
-<ul>
-<li><strong>Muting the audio:</strong> Press the edit button and then click on the volume button to adjust the music. You can add or remove music from the video. Moreover, you can also add recorded audio to your video and see what changes you need to make.</li>
-<li><strong>Publish:</strong> You can directly share your video to any platform of your choice and download the video to your system. You can also use some third-party applications to remove the watermark from the video.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a></p>
-<!-- affiliate ads end -->
-<h2 id="Part-3-Windows-Movie-Maker-Alternative-for-Win-8"><a href="#Part-3-Windows-Movie-Maker-Alternative-for-Win-8" class="headerlink" title="Part 3. Windows Movie Maker Alternative for Win 8"></a>Part 3. Windows Movie Maker Alternative for Win 8</h2><p>If you are looking for an alternative that can replace windows movie maker with some additional features, then <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> is what you need. If you are not in this editing industry, you must have heard the name Filmora. You may find different versions of Filmora, and one can purchase the subscription per their needs. This software is available for iOS and android; anyone can download and use it.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/quick-split-mode.png"
-                      alt="windows movie maker alternative"
-                ></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><strong>Steps involved in the process of editing through Filmora</strong></p>
-<ul>
-<li>Select a new project on the software’s screen and wait for the system to load as the system supports all types of video formats so that you can edit any video through this site.</li>
-<li>Raw video usually contains many mistakes, so you can trim them as needed. You can add as many files as you want to; there is no such limitation.</li>
-<li>After trimming, you can add effects and other elements to your video to make it look attractive and entertaining. You can add music, insert transitions, detach video or audio files, etc. Numerous options are available to add to your video to make it look attractive. You can go through the official website to learn more about the website.</li>
-<li>After you are done with all your editing, when you see that nothing else is left, click on the export button to download the video. You can use a few third-party applications to remove the watermark if needed and share the video directly from the application.</li>
-</ul>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p><strong>Windows 8.1 movie maker</strong> is the best editing application available for windows. This application has many hidden editing features; you can use them to create a blasting video. The best part about this application is that you don’t have to pay anything to use it. Users can use this application in almost all versions of windows. You can watch a tutorial to learn more about movie makers, and if you are looking for an alternative, you should prefer downloading <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><strong>Steps involved in the process of editing through Filmora</strong></p>
-<ul>
-<li>Select a new project on the software’s screen and wait for the system to load as the system supports all types of video formats so that you can edit any video through this site.</li>
-<li>Raw video usually contains many mistakes, so you can trim them as needed. You can add as many files as you want to; there is no such limitation.</li>
-<li>After trimming, you can add effects and other elements to your video to make it look attractive and entertaining. You can add music, insert transitions, detach video or audio files, etc. Numerous options are available to add to your video to make it look attractive. You can go through the official website to learn more about the website.</li>
-<li>After you are done with all your editing, when you see that nothing else is left, click on the export button to download the video. You can use a few third-party applications to remove the watermark if needed and share the video directly from the application.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16396-1399701"
-                      border="0" alt="" width="960" height="300"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1399701/16396"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p><strong>Windows 8.1 movie maker</strong> is the best editing application available for windows. This application has many hidden editing features; you can use them to create a blasting video. The best part about this application is that you don’t have to pay anything to use it. Users can use this application in almost all versions of windows. You can watch a tutorial to learn more about movie makers, and if you are looking for an alternative, you should prefer downloading <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-cinematic-chronology-best-video-cameras-for-detailed-speed-recording/"><u>[New] Cinematic Chronology  Best Video Cameras for Detailed Speed Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>[New] Clear Audio, Crystal-Clear View  Premium Webcams for Podcasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[New] Compreenhensive Review  DJI's New Drone, The Inspire 1</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>[Updated] 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-8-best-webcam-for-live-streaming/"><u>[Updated] 8 Best Webcam for Live Streaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>[Updated] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-affinity-photo-demystified/"><u>[Updated] Affinity Photo Demystified</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chronology-conundrum-best-podcast-times/"><u>[Updated] Chronology Conundrum  Best Podcast Times</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>[Updated] Comprehensive Scrutiny  Gear 360'S Virtual Reality Capability</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-image-fusion-merging-photos-into-one-masterpiece/"><u>[Updated] Image Fusion  Merging Photos Into One Masterpiece</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-in-2024-a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>[Updated] In 2024, A Tech-Savvy Approach  Securely Storing Snapchat Photos on Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-facebook-live-views-roku-edition/"><u>[Updated] In 2024, Mastering Facebook Live Views  Roku Edition</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-in-2024-the-instagram-follower-dilemrancy-guide/"><u>[Updated] In 2024, The Instagram Follower Dilemrancy Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-maintaining-a-continuous-snapchat-connection/"><u>[Updated] Maintaining a Continuous Snapchat Connection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/updated-mastering-mobile-photography-with-androids-lightroom/"><u>[Updated] Mastering Mobile Photography with Android’s Lightroom</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-the-cutting-edge-essential-editing-tips-for-youtube-experts/"><u>[Updated] The Cutting Edge  Essential Editing Tips for YouTube Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-benefits-of-apples-m1-in-post-production-editing/"><u>2024 Approved  Benefits of Apple's M1 in Post-Production Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/50plus-best-text-techniques-in-film-making/"><u>50+ Best Text Techniques in Film-Making</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerated-approaches-to-transferring-iphone-files-to-computer/"><u>Accelerated Approaches to Transferring iPhone Files to Computer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/arc-electrify-powerful-media-player-replacement/"><u>Arc Electrify  Powerful Media Player Replacement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/awesome-online-destinations-for-advanced-text-customization/"><u>Awesome Online Destinations for Advanced Text Customization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bringing-to-life-advanced-color-correction-guide-for-2024/"><u>Bringing to Life  Advanced Color Correction Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>Crafting Real World Stories  An Insight Into Documentary Screenplay Writing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-the-perfect-picture-for-youtube-upload-for-2024/"><u>Crafting the Perfect Picture for YouTube Upload for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/critical-review-discovering-dji-phantom-3-professional-drones-strengths/"><u>Critical Review  Discovering DJI Phantom 3 Professional Drone's Strengths</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-iphones-top-9-photo-watermarking-software/"><u>Discover iPhone's Top 9 Photo Watermarking Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-imagery-gopro-in-time-lapse-focus/"><u>Elevate Your Imagery  GoPro in Time-Lapse Focus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-playlists-for-engaging-unboxing-videos/"><u>Essential Playlists for Engaging Unboxing Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellent-pictorial-archive-networks/"><u>Excellent Pictorial Archive Networks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/fix-and-forge-a-friendly-startup-in-windows-amidst-errors/"><u>Fix and Forge a Friendly Startup in Windows Amidst Errors</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-s17-pro-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo S17 Pro.</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-a38-by-fonelab-android-recover-music/"><u>How to recover old music from your A38</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-p55t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel P55T</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-journey-converting-smartphones-into-vr-hubs/"><u>In 2024, A Stepwise Journey  Converting Smartphones Into VR Hubs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cost-efficient-sky-companions-drone-guide-(500/"><u>In 2024, Cost-Efficient Sky Companions  Drone Guide <$500</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>In 2024, Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/in-2024-navigating-number-changes-on-tiktok-with-precision/"><u>In 2024, Navigating Number Changes on TikTok with Precision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-install.techidaily.com/leverage-amd-to-power-bitcoin-on-pc-via-driver-upgrade/"><u>Leverage AMD to Power Bitcoin on PC via Driver Upgrade</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lightning-fast-windowed-gallery-viewer-alert/"><u>Lightning-Fast Windowed Gallery Viewer Alert</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-your-own-passport-photos-with-these-10-tools/"><u>Master Your Own Passport Photos with These 10 Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-evaluation-diverse-solutions/"><u>Next Evaluation  Diverse Solutions</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://network-issues.techidaily.com/nvidia-render-error-corrected/"><u>Nvidia Render Error Corrected</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/pixel-perfecting-free-high-quality-mobile-photography-boost-for-2024/"><u>Pixel Perfecting  Free, High-Quality Mobile Photography Boost for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/sculptors-of-immersive-digital-universes-for-2024/"><u>Sculptors of Immersive Digital Universes for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://graphic-issues.techidaily.com/windows-10-how-to-fix-screen-not-showing-full-window/"><u>Windows 10: How to Fix Screen Not Showing Full Window?</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;[Updated] Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 08:39:22</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 08:39:22
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/updated-boost-your-media-creation-skills-a-detailed-walkthrough-of-movie-maker-on-windows-8/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/updated-break-the-monotony-with-these-6-captivating-videos/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">[Updated] Break the Monotony with These 6 Captivating Videos</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/new-boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[New] Boost Your Drive  Top 10 Windows &amp; OS X Mods Elevating SRT Power&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;[Updated] Boost Your Media Creation Skills  A Detailed Walkthrough of Movie Maker on Windows 8&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Boost-Your-Media-Creation-Skills-A-Detailed-Walkthrough-of-Movie-Maker-on-Windows-8"><span class="nav-text">Boost Your Media Creation Skills: A Detailed Walkthrough of Movie Maker on Windows 8</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-How-to-Download-and-Install-WMM-on-Win-8"><span class="nav-text">Part 1. How to Download and Install WMM on Win 8?</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Steps-to-Edit-Videos-on-Win-8-with-Movie-Maker"><span class="nav-text">Part 2. Steps to Edit Videos on Win 8 with Movie Maker</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-3-Windows-Movie-Maker-Alternative-for-Win-8"><span class="nav-text">Part 3. Windows Movie Maker Alternative for Win 8</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

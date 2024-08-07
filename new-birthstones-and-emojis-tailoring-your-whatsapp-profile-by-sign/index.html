@@ -608,15 +608,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -638,997 +638,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4ea5d9637c925f68f1f756db1.jpg" alt="&#34;[New] Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;[New] Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:43:37</span>
-        <span class="mobile">2024-07-27 10:43:37</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:43:37</span>
-            <span class="mobile">2024-07-28 10:43:37</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Birthstones-and-Emojis-Tailoring-Your-WhatsApp-Profile-by-Sign"><a href="#Birthstones-and-Emojis-Tailoring-Your-WhatsApp-Profile-by-Sign" class="headerlink" title="Birthstones and Emojis: Tailoring Your WhatsApp Profile by Sign"></a>Birthstones and Emojis: Tailoring Your WhatsApp Profile by Sign</h2><h1 id="100-Best-Whatsapp-Bio-Ideas-for-12-Zodiac-Signs"><a href="#100-Best-Whatsapp-Bio-Ideas-for-12-Zodiac-Signs" class="headerlink" title="100+ Best Whatsapp Bio Ideas for 12 Zodiac Signs"></a>100+ Best Whatsapp Bio Ideas for 12 Zodiac Signs</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Ollie-Mattison"><a href="#Ollie-Mattison" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>WhatsApp Bio or WhatsApp Status is an excellent way to express yourself – an expression explicitly written and in a precise way for revealing your views, beliefs, and emotions in a creative and unique style. It displays how ingeniously and distinctively you can put your thoughts in words.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/whatsapp-bio-ideas.jpg"
-                      alt="Whatsapp Bio Ideas"
-                ></p>
-<p>But, with a plethora of status ideas for your WhatsApp out there for consideration, crafting a great WhatsApp bio can be hard. So, we’ve put a fun and interesting twist on our roundup of the best bio for WhatsApp – matching them to your zodiac sign!</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png"
-                      border="0"
-                >SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a></p>
-<!-- affiliate ads end -->
-<h2 id="WhatsApp-Bio-Ideas-for-12-Zodiac-Signs"><a href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs" class="headerlink" title="WhatsApp Bio Ideas for 12 Zodiac Signs"></a>WhatsApp Bio Ideas for 12 Zodiac Signs</h2><ul>
-<li><a href="#part1">1.Attitude WhatsApp Bios For Aries</a></li>
-<li><a href="#part2">2.Love Whatsapp Bio Quotes for Taurus</a></li>
-<li><a href="#part3">3.WhatsApp Status Quotes About the Charisma of Gemini</a></li>
-<li><a href="#part4">4.Inspirational WhatsApp Status For Cancer</a></li>
-<li><a href="#part5">5.Great WhatsApp Bio for Leo</a></li>
-<li><a href="#part6">6.Best WhatsApp Status for Virgo</a></li>
-<li><a href="#part7">7.Wise WhatsApp Bio Ideas for Libra</a></li>
-<li><a href="#part8">8.Motivational WhatsApp Status Quotes for Scorpio</a></li>
-<li><a href="#part9">9.Sassy WhatsApp Quotes for Sagittarius</a></li>
-<li><a href="#part10">10.Funny WhatsApp Bio Ideas for Capricorn</a></li>
-<li><a href="#part11">11.Sad WhatsApp Status for Aquarius</a></li>
-<li><a href="#part12">12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</a></li>
-</ul>
-<h4 id="1-Attitude-WhatsApp-Bios-For-Aries"><a href="#1-Attitude-WhatsApp-Bios-For-Aries" class="headerlink" title="1.Attitude WhatsApp Bios For Aries"></a>1.Attitude WhatsApp Bios For Aries</h4><p>Wondering how to choose attitude bio for WhatsApp status? Check out:</p>
-<p>1. “What an Aries wants, an Aries gets.”</p>
-<p>2. “Tell an Aries they can’t, and they will prove you wrong”</p>
-<p>3. “I don’t need your attitude I have one of my own.”</p>
-<p>4. “If your ego speaks with me then my attitude replies to you.”</p>
-<p>5. “Aries don’t have masks. The Aries will always look as good as they are.”</p>
-<p>6. “Take care of your status, don’t be caretaker of my status.”</p>
-<p>7. “If Aries cares about you, they’ll make sure you get what you need.”</p>
-<p>8. “For Aries God is within, waiting only to be called.”</p>
-<p>9. “Sunshine mixed with a little hurricane.”</p>
-<h4 id="2-Love-Whatsapp-Bio-Quotes-for-Taurus"><a href="#2-Love-Whatsapp-Bio-Quotes-for-Taurus" class="headerlink" title="2.Love Whatsapp Bio Quotes for Taurus"></a>2.Love Whatsapp Bio Quotes for Taurus</h4><p>Need Whatsapp bio ideas for quotes that best represent the romantic you? Read on.</p>
-<p>1. “Taurus does not love easily. They like a lot, but rarely love. Once they do love, you’ll never see another love like it.”</p>
-<p>2. “Love is just like a game that two can play and both win.”</p>
-<p>3. “Speak low, if you speak love.”</p>
-<p>4. “If love is not madness, it can’t be seen as love.”</p>
-<p>5. “Taurus doesn’t hold grudges. They use them as motivation.”</p>
-<p>6. “You are my sunshine on my darkest days.”</p>
-<p>7. “What is done in love is done well” – Vincent Van Gogh</p>
-<p>8. “Loved you yesterday, love you still, always have, always will.”</p>
-<p>9. “One love, one heart, one destiny.”</p>
-<h4 id="3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini"><a href="#3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini" class="headerlink" title="3.WhatsApp Status Quotes About the Charisma of Gemini"></a>3.WhatsApp Status Quotes About the Charisma of Gemini</h4><p>Here’re a few WhatsApp bio quotes that celebrate the uniqueness of a Gemini:</p>
-<p>1. “The Gemini essence is extremely contagious.” – Linda Goodman</p>
-<p>2. “She is a mess and a masterpiece.”</p>
-<p>3. “A Gemini can miss you and hate you at the same time.”</p>
-<p>4. “Gemini is a lover and a fighter… rolled into one.”</p>
-<p>5. “Soft heart wrapped up in a tough shell.”</p>
-<p>6. “A Gemini will make you see heaven or give you hell.”</p>
-<p>7. “Gemini is the only sign capable of finding the truth in your lie.”</p>
-<p>8. “Give a Gemini something to do and everything will be fine.”</p>
-<p>9. “For Gemini, nothing is worth more than ‘here and now’.”</p>
-<h4 id="4-Inspirational-WhatsApp-Status-For-Cancer"><a href="#4-Inspirational-WhatsApp-Status-For-Cancer" class="headerlink" title="4.Inspirational WhatsApp Status For Cancer"></a>4.Inspirational WhatsApp Status For Cancer</h4><p>Want a WhatsApp bio that perfectly describes your zodiac sign? Check out below.</p>
-<p>1. “Don’t limit your challenges, challenge your limits.”</p>
-<p>2. “In the end, only three matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” – Buddha</p>
-<p>3. “Success is a journey from good to better to best.”</p>
-<p>4. “The wisest men follow their own direction.”</p>
-<p>5. “Cancers may not be good at taking risks, except in love, because we see no boundaries or limits when in love.”</p>
-<p>6. “Seek life, not comfort.”</p>
-<p>7. “Cancers usually have an internal battle on what to do and say.”</p>
-<p>8. “Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.”</p>
-<p>9. “Cancers can make a person feel non-existent and invisible when they decide they don’t want to bother with them anymore.”</p>
-<h4 id="5-Great-WhatsApp-Bio-for-Leo"><a href="#5-Great-WhatsApp-Bio-for-Leo" class="headerlink" title="5.Great WhatsApp Bio for Leo"></a>5.Great WhatsApp Bio for Leo</h4><p>Looking for the best bio for WhatsApp that best represents you? Keep reading.</p>
-<p>1. “If you don’t build your own dream, someone will hire you to build theirs.”</p>
-<p>2. “Never be ashamed of a scar, it simply means you were stronger than whatever tried to hurt you.”</p>
-<p>3. “Leos can turn from the sweetest person on Earth to the heartless and rudest in just a blink of an eye if you screw them over.”</p>
-<p>4. “Don’t worry when Leo argues with you. Worry when they stop, because that will mean there’s nothing left worth fighting for.”</p>
-<p>5. “You can’t let your failures define you. You have to let your failures teach you.” – Barrack Obama</p>
-<p>6. “Leo is a combination of tender, loving soul and a ready to snap firecracker.”</p>
-<p>7. “Success is a fight between you and yourself.”</p>
-<p>8. “Sometimes Leos sit in the bathroom and cry, but then walk out like nothing ever happened.”</p>
-<p>9. “Leo’s biggest asset is also their biggest weakness… their heart.”</p>
-<p>10. “Behind the hills of sacrifice, there’s a valley for success.”</p>
-<h4 id="6-Best-WhatsApp-Status-for-Virgo"><a href="#6-Best-WhatsApp-Status-for-Virgo" class="headerlink" title="6.Best WhatsApp Status for Virgo"></a>6.Best WhatsApp Status for Virgo</h4><p>Here’re a few WhatsApp bio ideas for the Virgo who needs some inspiration:</p>
-<p>1. “I have patience, but it doesn’t mean you can hurt me as if nothing happened.”</p>
-<p>2. “It may have taken a while for a Virgo to walk away… but when they do, it’s for good.”</p>
-<p>3. “A Virgo doesn’t want to be everyone’s friend. They’re picky and only choose those worthy of their time.”</p>
-<p>4. “Virgos are unquestionably dependable and sincere.” – Linda Goodman</p>
-<p>5. “Perfection is attained by slow degrees; it requires the hand of time.” – Voltaire</p>
-<p>6. “Head up, stay strong, fake a smile, and move on.”</p>
-<p>7. “Great things never come from comfort zones.”</p>
-<p>8. “For Virgos, while the fools decide, the intelligent ones deliberate.”</p>
-<p>9. “I would like my mind to give me a break, but it doesn’t have a single day off.”</p>
-<p>10. “Face it, 99% of things turn out I am right.”</p>
-<h4 id="7-Wise-WhatsApp-Bio-Ideas-for-Libra"><a href="#7-Wise-WhatsApp-Bio-Ideas-for-Libra" class="headerlink" title="7.Wise WhatsApp Bio Ideas for Libra"></a>7.Wise WhatsApp Bio Ideas for Libra</h4><p>Below you will find an extensive collection of wise bio ideas for a Libra.</p>
-<p>1. “Learn to appreciate what you have, before time makes you appreciate what you had.”</p>
-<p>2. “Libra is the best friend. They always listen and never judge.”</p>
-<p>3. “Keep your eyes on the stars and your feet on the ground.”</p>
-<p>4. “Piss a Libra off enough and you become invisible to them.”</p>
-<p>5. “I don’t wanna fight against the world.”</p>
-<p>6. “Quiet people have the loudest minds.”</p>
-<p>7. “If you dream it, you can do it.”</p>
-<p>8. “Your dream doesn’t have an expiration date. Take a deep breath and try again.”</p>
-<p>9. “Don’t stop when you’re tired. Stop when you’re done.” – Marilyn Monroe</p>
-<h4 id="8-Motivational-WhatsApp-Status-Quotes-for-Scorpio"><a href="#8-Motivational-WhatsApp-Status-Quotes-for-Scorpio" class="headerlink" title="8.Motivational WhatsApp Status Quotes for Scorpio"></a>8.Motivational WhatsApp Status Quotes for Scorpio</h4><p>Planning to put up a WhatsApp bio that gives you a boost? Read on for inspiration.</p>
-<p>1. “You never fail until you stop trying.” – Albert Einstein</p>
-<p>2. “The only person I trust in this world is me.”</p>
-<p>3. “Don’t wish for it. Work for it.”</p>
-<p>4. “Every day is a second chance.”</p>
-<p>5. “I am unstoppable.”</p>
-<p>6. “I will give up everything that weighs me down.”</p>
-<p>7. “Be teachable. You’re not always right.”</p>
-<p>8. “I won’t back away from the truth just because it’s something others don’t wish to hear.”</p>
-<h4 id="9-Sassy-WhatsApp-Quotes-for-Sagittarius"><a href="#9-Sassy-WhatsApp-Quotes-for-Sagittarius" class="headerlink" title="9.Sassy WhatsApp Quotes for Sagittarius"></a>9.Sassy WhatsApp Quotes for Sagittarius</h4><p>Here’re a few unique WhatsApp bio quotes for the adventurous and energetic Sagittarian.</p>
-<p>1.With freedom, books, flowers, and the moon, who could not be happy? – Oscar Wilde</p>
-<p>2. “One tequila, two tequila, three tequila, floor…”</p>
-<p>3. “Kiss me I’m human.”</p>
-<p>4. “I won’t mind getting in trouble if it’s worth the ride.”</p>
-<p>5. “I don’t want to grow old.”</p>
-<p>6. “The summer in your winter days.”</p>
-<p>7. “Sagittarians have a smile that can brighten any room and will always try to make you feel like you belong.”</p>
-<p>8. “Give God your weakness and he’ll give you his strength.”</p>
-<p>9. “When bored, music is a Sagittarius’ salvation.”</p>
-<h4 id="10-Funny-WhatsApp-Bio-Ideas-for-Capricorn"><a href="#10-Funny-WhatsApp-Bio-Ideas-for-Capricorn" class="headerlink" title="10.Funny WhatsApp Bio Ideas for Capricorn"></a>10.Funny WhatsApp Bio Ideas for Capricorn</h4><p>Seeking funny and humorous WhatsApp status? We’ve rounded up the best bio for WhatsApp.</p>
-<p>1. “Capricorn is a hard one to please. Sorry, but they have high standards.”</p>
-<p>2. “In spite of being pessimistic, the precautions always maintain a positive attitude.”</p>
-<p>3. “Capricorns are allergic to stupidity so forgive them if they don’t want to sit and listen to the bullshit that’s coming out of your mouth.”</p>
-<p>4. “Capricorns are very good listeners and great advice-givers and damn good at putting someone in their place.”</p>
-<p>5. “Goats happen to be independent as well as fierce. Every single individual including the king has respect for the goat.”</p>
-<p>6. “In case a Capricorn is ever insulted by you, they are going to kill you while ignoring your entire existence.</p>
-<p>7. “I have a sharp tongue when I am pissed.”</p>
-<p>8. “Falling in love with a Capricorn means that need to remind them every while that you love them.”</p>
-<p>9. “Capricorn values intimacy &amp; likes to keep their private life just that…Private!”</p>
-<h4 id="11-Sad-WhatsApp-Status-for-Aquarius"><a href="#11-Sad-WhatsApp-Status-for-Aquarius" class="headerlink" title="11.Sad WhatsApp Status for Aquarius"></a>11.Sad WhatsApp Status for Aquarius</h4><p>Looking for WhatsApp bio ideas that express your sadness? Check out below.</p>
-<p>1. “I will fake a perfect smile that no one knows my secrets.”</p>
-<p>2. “I am so perfectly at pretending like everything is fine and can shut down emotionally.”</p>
-<p>3. “I will never forget how you treated me, ever.”</p>
-<p>4. “Aquarius are very emotional people that are masters at keeping their feelings inside.”</p>
-<p>5. “I will never regret trusting their intuition because it’s usually always right.”</p>
-<p>6. “When an Aquarius doesn’t like you, they can be heartless and as cold as an iceberg.”</p>
-<p>7. “Once you lose an Aquarius’ respect or trust, it’s over for you.”</p>
-<p>8. “The Aquarius can’t stand to be around dramatic, clingy, or dishonest friends, partners or co-workers.”</p>
-<h4 id="12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces"><a href="#12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces" class="headerlink" title="12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces"></a>12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</h4><p>Want to have a WhatsApp bio that sets you apart from others? Read on for ideas.</p>
-<p>1. “Learn from yesterday. Live for today. Hope for tomorrow.” – Albert Einstein</p>
-<p>2. “I wish people are smart enough to pick up the hints I drop”</p>
-<p>3. “You have to follow and honor that inner voice.”</p>
-<p>4. “Let yourself be gutted. Let it open you. Start there.”</p>
-<p>5. “Settling is the worst feeling in the world.”</p>
-<p>6. “Wake up with determination. Go to bed with satisfaction.”</p>
-<p>7. “Be careful how you treat a Pisces because once they are fed up, they won’t come back.”</p>
-<p>8. “When a Pisces stops caring that is it. No second chances.”</p>
-<p>9. “I may look timid, but I am extremely wild deep inside and am up for anything”</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.blumentals.net/scrfactory/images/screensaver-software.png"
-                      border="0"
-                >Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a></p>
-<!-- affiliate ads end -->
-<h3 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Updating bio on WhatsApp or changing it occasionally simply defines your style towards life or way of living life. And the above WhatsApp status ideas are all you need for inspiration. So what are you still waiting for? It’s time to select a status that best expresses your mood and personality!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-1"><a href="#Ollie-Mattison-1" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>WhatsApp Bio or WhatsApp Status is an excellent way to express yourself – an expression explicitly written and in a precise way for revealing your views, beliefs, and emotions in a creative and unique style. It displays how ingeniously and distinctively you can put your thoughts in words.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/whatsapp-bio-ideas.jpg"
-                      alt="Whatsapp Bio Ideas"
-                ></p>
-<p>But, with a plethora of status ideas for your WhatsApp out there for consideration, crafting a great WhatsApp bio can be hard. So, we’ve put a fun and interesting twist on our roundup of the best bio for WhatsApp – matching them to your zodiac sign!</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<h2 id="WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-1"><a href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-1" class="headerlink" title="WhatsApp Bio Ideas for 12 Zodiac Signs"></a>WhatsApp Bio Ideas for 12 Zodiac Signs</h2><ul>
-<li><a href="#part1">1.Attitude WhatsApp Bios For Aries</a></li>
-<li><a href="#part2">2.Love Whatsapp Bio Quotes for Taurus</a></li>
-<li><a href="#part3">3.WhatsApp Status Quotes About the Charisma of Gemini</a></li>
-<li><a href="#part4">4.Inspirational WhatsApp Status For Cancer</a></li>
-<li><a href="#part5">5.Great WhatsApp Bio for Leo</a></li>
-<li><a href="#part6">6.Best WhatsApp Status for Virgo</a></li>
-<li><a href="#part7">7.Wise WhatsApp Bio Ideas for Libra</a></li>
-<li><a href="#part8">8.Motivational WhatsApp Status Quotes for Scorpio</a></li>
-<li><a href="#part9">9.Sassy WhatsApp Quotes for Sagittarius</a></li>
-<li><a href="#part10">10.Funny WhatsApp Bio Ideas for Capricorn</a></li>
-<li><a href="#part11">11.Sad WhatsApp Status for Aquarius</a></li>
-<li><a href="#part12">12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</a></li>
-</ul>
-<h4 id="1-Attitude-WhatsApp-Bios-For-Aries-1"><a href="#1-Attitude-WhatsApp-Bios-For-Aries-1" class="headerlink" title="1.Attitude WhatsApp Bios For Aries"></a>1.Attitude WhatsApp Bios For Aries</h4><p>Wondering how to choose attitude bio for WhatsApp status? Check out:</p>
-<p>1. “What an Aries wants, an Aries gets.”</p>
-<p>2. “Tell an Aries they can’t, and they will prove you wrong”</p>
-<p>3. “I don’t need your attitude I have one of my own.”</p>
-<p>4. “If your ego speaks with me then my attitude replies to you.”</p>
-<p>5. “Aries don’t have masks. The Aries will always look as good as they are.”</p>
-<p>6. “Take care of your status, don’t be caretaker of my status.”</p>
-<p>7. “If Aries cares about you, they’ll make sure you get what you need.”</p>
-<p>8. “For Aries God is within, waiting only to be called.”</p>
-<p>9. “Sunshine mixed with a little hurricane.”</p>
-<h4 id="2-Love-Whatsapp-Bio-Quotes-for-Taurus-1"><a href="#2-Love-Whatsapp-Bio-Quotes-for-Taurus-1" class="headerlink" title="2.Love Whatsapp Bio Quotes for Taurus"></a>2.Love Whatsapp Bio Quotes for Taurus</h4><p>Need Whatsapp bio ideas for quotes that best represent the romantic you? Read on.</p>
-<p>1. “Taurus does not love easily. They like a lot, but rarely love. Once they do love, you’ll never see another love like it.”</p>
-<p>2. “Love is just like a game that two can play and both win.”</p>
-<p>3. “Speak low, if you speak love.”</p>
-<p>4. “If love is not madness, it can’t be seen as love.”</p>
-<p>5. “Taurus doesn’t hold grudges. They use them as motivation.”</p>
-<p>6. “You are my sunshine on my darkest days.”</p>
-<p>7. “What is done in love is done well” – Vincent Van Gogh</p>
-<p>8. “Loved you yesterday, love you still, always have, always will.”</p>
-<p>9. “One love, one heart, one destiny.”</p>
-<h4 id="3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-1"><a href="#3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-1" class="headerlink" title="3.WhatsApp Status Quotes About the Charisma of Gemini"></a>3.WhatsApp Status Quotes About the Charisma of Gemini</h4><p>Here’re a few WhatsApp bio quotes that celebrate the uniqueness of a Gemini:</p>
-<p>1. “The Gemini essence is extremely contagious.” – Linda Goodman</p>
-<p>2. “She is a mess and a masterpiece.”</p>
-<p>3. “A Gemini can miss you and hate you at the same time.”</p>
-<p>4. “Gemini is a lover and a fighter… rolled into one.”</p>
-<p>5. “Soft heart wrapped up in a tough shell.”</p>
-<p>6. “A Gemini will make you see heaven or give you hell.”</p>
-<p>7. “Gemini is the only sign capable of finding the truth in your lie.”</p>
-<p>8. “Give a Gemini something to do and everything will be fine.”</p>
-<p>9. “For Gemini, nothing is worth more than ‘here and now’.”</p>
-<h4 id="4-Inspirational-WhatsApp-Status-For-Cancer-1"><a href="#4-Inspirational-WhatsApp-Status-For-Cancer-1" class="headerlink" title="4.Inspirational WhatsApp Status For Cancer"></a>4.Inspirational WhatsApp Status For Cancer</h4><p>Want a WhatsApp bio that perfectly describes your zodiac sign? Check out below.</p>
-<p>1. “Don’t limit your challenges, challenge your limits.”</p>
-<p>2. “In the end, only three matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” – Buddha</p>
-<p>3. “Success is a journey from good to better to best.”</p>
-<p>4. “The wisest men follow their own direction.”</p>
-<p>5. “Cancers may not be good at taking risks, except in love, because we see no boundaries or limits when in love.”</p>
-<p>6. “Seek life, not comfort.”</p>
-<p>7. “Cancers usually have an internal battle on what to do and say.”</p>
-<p>8. “Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.”</p>
-<p>9. “Cancers can make a person feel non-existent and invisible when they decide they don’t want to bother with them anymore.”</p>
-<h4 id="5-Great-WhatsApp-Bio-for-Leo-1"><a href="#5-Great-WhatsApp-Bio-for-Leo-1" class="headerlink" title="5.Great WhatsApp Bio for Leo"></a>5.Great WhatsApp Bio for Leo</h4><p>Looking for the best bio for WhatsApp that best represents you? Keep reading.</p>
-<p>1. “If you don’t build your own dream, someone will hire you to build theirs.”</p>
-<p>2. “Never be ashamed of a scar, it simply means you were stronger than whatever tried to hurt you.”</p>
-<p>3. “Leos can turn from the sweetest person on Earth to the heartless and rudest in just a blink of an eye if you screw them over.”</p>
-<p>4. “Don’t worry when Leo argues with you. Worry when they stop, because that will mean there’s nothing left worth fighting for.”</p>
-<p>5. “You can’t let your failures define you. You have to let your failures teach you.” – Barrack Obama</p>
-<p>6. “Leo is a combination of tender, loving soul and a ready to snap firecracker.”</p>
-<p>7. “Success is a fight between you and yourself.”</p>
-<p>8. “Sometimes Leos sit in the bathroom and cry, but then walk out like nothing ever happened.”</p>
-<p>9. “Leo’s biggest asset is also their biggest weakness… their heart.”</p>
-<p>10. “Behind the hills of sacrifice, there’s a valley for success.”</p>
-<h4 id="6-Best-WhatsApp-Status-for-Virgo-1"><a href="#6-Best-WhatsApp-Status-for-Virgo-1" class="headerlink" title="6.Best WhatsApp Status for Virgo"></a>6.Best WhatsApp Status for Virgo</h4><p>Here’re a few WhatsApp bio ideas for the Virgo who needs some inspiration:</p>
-<p>1. “I have patience, but it doesn’t mean you can hurt me as if nothing happened.”</p>
-<p>2. “It may have taken a while for a Virgo to walk away… but when they do, it’s for good.”</p>
-<p>3. “A Virgo doesn’t want to be everyone’s friend. They’re picky and only choose those worthy of their time.”</p>
-<p>4. “Virgos are unquestionably dependable and sincere.” – Linda Goodman</p>
-<p>5. “Perfection is attained by slow degrees; it requires the hand of time.” – Voltaire</p>
-<p>6. “Head up, stay strong, fake a smile, and move on.”</p>
-<p>7. “Great things never come from comfort zones.”</p>
-<p>8. “For Virgos, while the fools decide, the intelligent ones deliberate.”</p>
-<p>9. “I would like my mind to give me a break, but it doesn’t have a single day off.”</p>
-<p>10. “Face it, 99% of things turn out I am right.”</p>
-<h4 id="7-Wise-WhatsApp-Bio-Ideas-for-Libra-1"><a href="#7-Wise-WhatsApp-Bio-Ideas-for-Libra-1" class="headerlink" title="7.Wise WhatsApp Bio Ideas for Libra"></a>7.Wise WhatsApp Bio Ideas for Libra</h4><p>Below you will find an extensive collection of wise bio ideas for a Libra.</p>
-<p>1. “Learn to appreciate what you have, before time makes you appreciate what you had.”</p>
-<p>2. “Libra is the best friend. They always listen and never judge.”</p>
-<p>3. “Keep your eyes on the stars and your feet on the ground.”</p>
-<p>4. “Piss a Libra off enough and you become invisible to them.”</p>
-<p>5. “I don’t wanna fight against the world.”</p>
-<p>6. “Quiet people have the loudest minds.”</p>
-<p>7. “If you dream it, you can do it.”</p>
-<p>8. “Your dream doesn’t have an expiration date. Take a deep breath and try again.”</p>
-<p>9. “Don’t stop when you’re tired. Stop when you’re done.” – Marilyn Monroe</p>
-<h4 id="8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-1"><a href="#8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-1" class="headerlink" title="8.Motivational WhatsApp Status Quotes for Scorpio"></a>8.Motivational WhatsApp Status Quotes for Scorpio</h4><p>Planning to put up a WhatsApp bio that gives you a boost? Read on for inspiration.</p>
-<p>1. “You never fail until you stop trying.” – Albert Einstein</p>
-<p>2. “The only person I trust in this world is me.”</p>
-<p>3. “Don’t wish for it. Work for it.”</p>
-<p>4. “Every day is a second chance.”</p>
-<p>5. “I am unstoppable.”</p>
-<p>6. “I will give up everything that weighs me down.”</p>
-<p>7. “Be teachable. You’re not always right.”</p>
-<p>8. “I won’t back away from the truth just because it’s something others don’t wish to hear.”</p>
-<h4 id="9-Sassy-WhatsApp-Quotes-for-Sagittarius-1"><a href="#9-Sassy-WhatsApp-Quotes-for-Sagittarius-1" class="headerlink" title="9.Sassy WhatsApp Quotes for Sagittarius"></a>9.Sassy WhatsApp Quotes for Sagittarius</h4><p>Here’re a few unique WhatsApp bio quotes for the adventurous and energetic Sagittarian.</p>
-<p>1.With freedom, books, flowers, and the moon, who could not be happy? – Oscar Wilde</p>
-<p>2. “One tequila, two tequila, three tequila, floor…”</p>
-<p>3. “Kiss me I’m human.”</p>
-<p>4. “I won’t mind getting in trouble if it’s worth the ride.”</p>
-<p>5. “I don’t want to grow old.”</p>
-<p>6. “The summer in your winter days.”</p>
-<p>7. “Sagittarians have a smile that can brighten any room and will always try to make you feel like you belong.”</p>
-<p>8. “Give God your weakness and he’ll give you his strength.”</p>
-<p>9. “When bored, music is a Sagittarius’ salvation.”</p>
-<h4 id="10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-1"><a href="#10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-1" class="headerlink" title="10.Funny WhatsApp Bio Ideas for Capricorn"></a>10.Funny WhatsApp Bio Ideas for Capricorn</h4><p>Seeking funny and humorous WhatsApp status? We’ve rounded up the best bio for WhatsApp.</p>
-<p>1. “Capricorn is a hard one to please. Sorry, but they have high standards.”</p>
-<p>2. “In spite of being pessimistic, the precautions always maintain a positive attitude.”</p>
-<p>3. “Capricorns are allergic to stupidity so forgive them if they don’t want to sit and listen to the bullshit that’s coming out of your mouth.”</p>
-<p>4. “Capricorns are very good listeners and great advice-givers and damn good at putting someone in their place.”</p>
-<p>5. “Goats happen to be independent as well as fierce. Every single individual including the king has respect for the goat.”</p>
-<p>6. “In case a Capricorn is ever insulted by you, they are going to kill you while ignoring your entire existence.</p>
-<p>7. “I have a sharp tongue when I am pissed.”</p>
-<p>8. “Falling in love with a Capricorn means that need to remind them every while that you love them.”</p>
-<p>9. “Capricorn values intimacy &amp; likes to keep their private life just that…Private!”</p>
-<h4 id="11-Sad-WhatsApp-Status-for-Aquarius-1"><a href="#11-Sad-WhatsApp-Status-for-Aquarius-1" class="headerlink" title="11.Sad WhatsApp Status for Aquarius"></a>11.Sad WhatsApp Status for Aquarius</h4><p>Looking for WhatsApp bio ideas that express your sadness? Check out below.</p>
-<p>1. “I will fake a perfect smile that no one knows my secrets.”</p>
-<p>2. “I am so perfectly at pretending like everything is fine and can shut down emotionally.”</p>
-<p>3. “I will never forget how you treated me, ever.”</p>
-<p>4. “Aquarius are very emotional people that are masters at keeping their feelings inside.”</p>
-<p>5. “I will never regret trusting their intuition because it’s usually always right.”</p>
-<p>6. “When an Aquarius doesn’t like you, they can be heartless and as cold as an iceberg.”</p>
-<p>7. “Once you lose an Aquarius’ respect or trust, it’s over for you.”</p>
-<p>8. “The Aquarius can’t stand to be around dramatic, clingy, or dishonest friends, partners or co-workers.”</p>
-<h4 id="12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-1"><a href="#12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-1" class="headerlink" title="12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces"></a>12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</h4><p>Want to have a WhatsApp bio that sets you apart from others? Read on for ideas.</p>
-<p>1. “Learn from yesterday. Live for today. Hope for tomorrow.” – Albert Einstein</p>
-<p>2. “I wish people are smart enough to pick up the hints I drop”</p>
-<p>3. “You have to follow and honor that inner voice.”</p>
-<p>4. “Let yourself be gutted. Let it open you. Start there.”</p>
-<p>5. “Settling is the worst feeling in the world.”</p>
-<p>6. “Wake up with determination. Go to bed with satisfaction.”</p>
-<p>7. “Be careful how you treat a Pisces because once they are fed up, they won’t come back.”</p>
-<p>8. “When a Pisces stops caring that is it. No second chances.”</p>
-<p>9. “I may look timid, but I am extremely wild deep inside and am up for anything”</p>
-<h3 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Updating bio on WhatsApp or changing it occasionally simply defines your style towards life or way of living life. And the above WhatsApp status ideas are all you need for inspiration. So what are you still waiting for? It’s time to select a status that best expresses your mood and personality!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-2"><a href="#Ollie-Mattison-2" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>WhatsApp Bio or WhatsApp Status is an excellent way to express yourself – an expression explicitly written and in a precise way for revealing your views, beliefs, and emotions in a creative and unique style. It displays how ingeniously and distinctively you can put your thoughts in words.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/whatsapp-bio-ideas.jpg"
-                      alt="Whatsapp Bio Ideas"
-                ></p>
-<p>But, with a plethora of status ideas for your WhatsApp out there for consideration, crafting a great WhatsApp bio can be hard. So, we’ve put a fun and interesting twist on our roundup of the best bio for WhatsApp – matching them to your zodiac sign!</p>
-<h2 id="WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-2"><a href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-2" class="headerlink" title="WhatsApp Bio Ideas for 12 Zodiac Signs"></a>WhatsApp Bio Ideas for 12 Zodiac Signs</h2><ul>
-<li><a href="#part1">1.Attitude WhatsApp Bios For Aries</a></li>
-<li><a href="#part2">2.Love Whatsapp Bio Quotes for Taurus</a></li>
-<li><a href="#part3">3.WhatsApp Status Quotes About the Charisma of Gemini</a></li>
-<li><a href="#part4">4.Inspirational WhatsApp Status For Cancer</a></li>
-<li><a href="#part5">5.Great WhatsApp Bio for Leo</a></li>
-<li><a href="#part6">6.Best WhatsApp Status for Virgo</a></li>
-<li><a href="#part7">7.Wise WhatsApp Bio Ideas for Libra</a></li>
-<li><a href="#part8">8.Motivational WhatsApp Status Quotes for Scorpio</a></li>
-<li><a href="#part9">9.Sassy WhatsApp Quotes for Sagittarius</a></li>
-<li><a href="#part10">10.Funny WhatsApp Bio Ideas for Capricorn</a></li>
-<li><a href="#part11">11.Sad WhatsApp Status for Aquarius</a></li>
-<li><a href="#part12">12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</a></li>
-</ul>
-<h4 id="1-Attitude-WhatsApp-Bios-For-Aries-2"><a href="#1-Attitude-WhatsApp-Bios-For-Aries-2" class="headerlink" title="1.Attitude WhatsApp Bios For Aries"></a>1.Attitude WhatsApp Bios For Aries</h4><p>Wondering how to choose attitude bio for WhatsApp status? Check out:</p>
-<p>1. “What an Aries wants, an Aries gets.”</p>
-<p>2. “Tell an Aries they can’t, and they will prove you wrong”</p>
-<p>3. “I don’t need your attitude I have one of my own.”</p>
-<p>4. “If your ego speaks with me then my attitude replies to you.”</p>
-<p>5. “Aries don’t have masks. The Aries will always look as good as they are.”</p>
-<p>6. “Take care of your status, don’t be caretaker of my status.”</p>
-<p>7. “If Aries cares about you, they’ll make sure you get what you need.”</p>
-<p>8. “For Aries God is within, waiting only to be called.”</p>
-<p>9. “Sunshine mixed with a little hurricane.”</p>
-<h4 id="2-Love-Whatsapp-Bio-Quotes-for-Taurus-2"><a href="#2-Love-Whatsapp-Bio-Quotes-for-Taurus-2" class="headerlink" title="2.Love Whatsapp Bio Quotes for Taurus"></a>2.Love Whatsapp Bio Quotes for Taurus</h4><p>Need Whatsapp bio ideas for quotes that best represent the romantic you? Read on.</p>
-<p>1. “Taurus does not love easily. They like a lot, but rarely love. Once they do love, you’ll never see another love like it.”</p>
-<p>2. “Love is just like a game that two can play and both win.”</p>
-<p>3. “Speak low, if you speak love.”</p>
-<p>4. “If love is not madness, it can’t be seen as love.”</p>
-<p>5. “Taurus doesn’t hold grudges. They use them as motivation.”</p>
-<p>6. “You are my sunshine on my darkest days.”</p>
-<p>7. “What is done in love is done well” – Vincent Van Gogh</p>
-<p>8. “Loved you yesterday, love you still, always have, always will.”</p>
-<p>9. “One love, one heart, one destiny.”</p>
-<h4 id="3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-2"><a href="#3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-2" class="headerlink" title="3.WhatsApp Status Quotes About the Charisma of Gemini"></a>3.WhatsApp Status Quotes About the Charisma of Gemini</h4><p>Here’re a few WhatsApp bio quotes that celebrate the uniqueness of a Gemini:</p>
-<p>1. “The Gemini essence is extremely contagious.” – Linda Goodman</p>
-<p>2. “She is a mess and a masterpiece.”</p>
-<p>3. “A Gemini can miss you and hate you at the same time.”</p>
-<p>4. “Gemini is a lover and a fighter… rolled into one.”</p>
-<p>5. “Soft heart wrapped up in a tough shell.”</p>
-<p>6. “A Gemini will make you see heaven or give you hell.”</p>
-<p>7. “Gemini is the only sign capable of finding the truth in your lie.”</p>
-<p>8. “Give a Gemini something to do and everything will be fine.”</p>
-<p>9. “For Gemini, nothing is worth more than ‘here and now’.”</p>
-<h4 id="4-Inspirational-WhatsApp-Status-For-Cancer-2"><a href="#4-Inspirational-WhatsApp-Status-For-Cancer-2" class="headerlink" title="4.Inspirational WhatsApp Status For Cancer"></a>4.Inspirational WhatsApp Status For Cancer</h4><p>Want a WhatsApp bio that perfectly describes your zodiac sign? Check out below.</p>
-<p>1. “Don’t limit your challenges, challenge your limits.”</p>
-<p>2. “In the end, only three matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” – Buddha</p>
-<p>3. “Success is a journey from good to better to best.”</p>
-<p>4. “The wisest men follow their own direction.”</p>
-<p>5. “Cancers may not be good at taking risks, except in love, because we see no boundaries or limits when in love.”</p>
-<p>6. “Seek life, not comfort.”</p>
-<p>7. “Cancers usually have an internal battle on what to do and say.”</p>
-<p>8. “Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.”</p>
-<p>9. “Cancers can make a person feel non-existent and invisible when they decide they don’t want to bother with them anymore.”</p>
-<h4 id="5-Great-WhatsApp-Bio-for-Leo-2"><a href="#5-Great-WhatsApp-Bio-for-Leo-2" class="headerlink" title="5.Great WhatsApp Bio for Leo"></a>5.Great WhatsApp Bio for Leo</h4><p>Looking for the best bio for WhatsApp that best represents you? Keep reading.</p>
-<p>1. “If you don’t build your own dream, someone will hire you to build theirs.”</p>
-<p>2. “Never be ashamed of a scar, it simply means you were stronger than whatever tried to hurt you.”</p>
-<p>3. “Leos can turn from the sweetest person on Earth to the heartless and rudest in just a blink of an eye if you screw them over.”</p>
-<p>4. “Don’t worry when Leo argues with you. Worry when they stop, because that will mean there’s nothing left worth fighting for.”</p>
-<p>5. “You can’t let your failures define you. You have to let your failures teach you.” – Barrack Obama</p>
-<p>6. “Leo is a combination of tender, loving soul and a ready to snap firecracker.”</p>
-<p>7. “Success is a fight between you and yourself.”</p>
-<p>8. “Sometimes Leos sit in the bathroom and cry, but then walk out like nothing ever happened.”</p>
-<p>9. “Leo’s biggest asset is also their biggest weakness… their heart.”</p>
-<p>10. “Behind the hills of sacrifice, there’s a valley for success.”</p>
-<h4 id="6-Best-WhatsApp-Status-for-Virgo-2"><a href="#6-Best-WhatsApp-Status-for-Virgo-2" class="headerlink" title="6.Best WhatsApp Status for Virgo"></a>6.Best WhatsApp Status for Virgo</h4><p>Here’re a few WhatsApp bio ideas for the Virgo who needs some inspiration:</p>
-<p>1. “I have patience, but it doesn’t mean you can hurt me as if nothing happened.”</p>
-<p>2. “It may have taken a while for a Virgo to walk away… but when they do, it’s for good.”</p>
-<p>3. “A Virgo doesn’t want to be everyone’s friend. They’re picky and only choose those worthy of their time.”</p>
-<p>4. “Virgos are unquestionably dependable and sincere.” – Linda Goodman</p>
-<p>5. “Perfection is attained by slow degrees; it requires the hand of time.” – Voltaire</p>
-<p>6. “Head up, stay strong, fake a smile, and move on.”</p>
-<p>7. “Great things never come from comfort zones.”</p>
-<p>8. “For Virgos, while the fools decide, the intelligent ones deliberate.”</p>
-<p>9. “I would like my mind to give me a break, but it doesn’t have a single day off.”</p>
-<p>10. “Face it, 99% of things turn out I am right.”</p>
-<h4 id="7-Wise-WhatsApp-Bio-Ideas-for-Libra-2"><a href="#7-Wise-WhatsApp-Bio-Ideas-for-Libra-2" class="headerlink" title="7.Wise WhatsApp Bio Ideas for Libra"></a>7.Wise WhatsApp Bio Ideas for Libra</h4><p>Below you will find an extensive collection of wise bio ideas for a Libra.</p>
-<p>1. “Learn to appreciate what you have, before time makes you appreciate what you had.”</p>
-<p>2. “Libra is the best friend. They always listen and never judge.”</p>
-<p>3. “Keep your eyes on the stars and your feet on the ground.”</p>
-<p>4. “Piss a Libra off enough and you become invisible to them.”</p>
-<p>5. “I don’t wanna fight against the world.”</p>
-<p>6. “Quiet people have the loudest minds.”</p>
-<p>7. “If you dream it, you can do it.”</p>
-<p>8. “Your dream doesn’t have an expiration date. Take a deep breath and try again.”</p>
-<p>9. “Don’t stop when you’re tired. Stop when you’re done.” – Marilyn Monroe</p>
-<h4 id="8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-2"><a href="#8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-2" class="headerlink" title="8.Motivational WhatsApp Status Quotes for Scorpio"></a>8.Motivational WhatsApp Status Quotes for Scorpio</h4><p>Planning to put up a WhatsApp bio that gives you a boost? Read on for inspiration.</p>
-<p>1. “You never fail until you stop trying.” – Albert Einstein</p>
-<p>2. “The only person I trust in this world is me.”</p>
-<p>3. “Don’t wish for it. Work for it.”</p>
-<p>4. “Every day is a second chance.”</p>
-<p>5. “I am unstoppable.”</p>
-<p>6. “I will give up everything that weighs me down.”</p>
-<p>7. “Be teachable. You’re not always right.”</p>
-<p>8. “I won’t back away from the truth just because it’s something others don’t wish to hear.”</p>
-<h4 id="9-Sassy-WhatsApp-Quotes-for-Sagittarius-2"><a href="#9-Sassy-WhatsApp-Quotes-for-Sagittarius-2" class="headerlink" title="9.Sassy WhatsApp Quotes for Sagittarius"></a>9.Sassy WhatsApp Quotes for Sagittarius</h4><p>Here’re a few unique WhatsApp bio quotes for the adventurous and energetic Sagittarian.</p>
-<p>1.With freedom, books, flowers, and the moon, who could not be happy? – Oscar Wilde</p>
-<p>2. “One tequila, two tequila, three tequila, floor…”</p>
-<p>3. “Kiss me I’m human.”</p>
-<p>4. “I won’t mind getting in trouble if it’s worth the ride.”</p>
-<p>5. “I don’t want to grow old.”</p>
-<p>6. “The summer in your winter days.”</p>
-<p>7. “Sagittarians have a smile that can brighten any room and will always try to make you feel like you belong.”</p>
-<p>8. “Give God your weakness and he’ll give you his strength.”</p>
-<p>9. “When bored, music is a Sagittarius’ salvation.”</p>
-<h4 id="10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-2"><a href="#10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-2" class="headerlink" title="10.Funny WhatsApp Bio Ideas for Capricorn"></a>10.Funny WhatsApp Bio Ideas for Capricorn</h4><p>Seeking funny and humorous WhatsApp status? We’ve rounded up the best bio for WhatsApp.</p>
-<p>1. “Capricorn is a hard one to please. Sorry, but they have high standards.”</p>
-<p>2. “In spite of being pessimistic, the precautions always maintain a positive attitude.”</p>
-<p>3. “Capricorns are allergic to stupidity so forgive them if they don’t want to sit and listen to the bullshit that’s coming out of your mouth.”</p>
-<p>4. “Capricorns are very good listeners and great advice-givers and damn good at putting someone in their place.”</p>
-<p>5. “Goats happen to be independent as well as fierce. Every single individual including the king has respect for the goat.”</p>
-<p>6. “In case a Capricorn is ever insulted by you, they are going to kill you while ignoring your entire existence.</p>
-<p>7. “I have a sharp tongue when I am pissed.”</p>
-<p>8. “Falling in love with a Capricorn means that need to remind them every while that you love them.”</p>
-<p>9. “Capricorn values intimacy &amp; likes to keep their private life just that…Private!”</p>
-<h4 id="11-Sad-WhatsApp-Status-for-Aquarius-2"><a href="#11-Sad-WhatsApp-Status-for-Aquarius-2" class="headerlink" title="11.Sad WhatsApp Status for Aquarius"></a>11.Sad WhatsApp Status for Aquarius</h4><p>Looking for WhatsApp bio ideas that express your sadness? Check out below.</p>
-<p>1. “I will fake a perfect smile that no one knows my secrets.”</p>
-<p>2. “I am so perfectly at pretending like everything is fine and can shut down emotionally.”</p>
-<p>3. “I will never forget how you treated me, ever.”</p>
-<p>4. “Aquarius are very emotional people that are masters at keeping their feelings inside.”</p>
-<p>5. “I will never regret trusting their intuition because it’s usually always right.”</p>
-<p>6. “When an Aquarius doesn’t like you, they can be heartless and as cold as an iceberg.”</p>
-<p>7. “Once you lose an Aquarius’ respect or trust, it’s over for you.”</p>
-<p>8. “The Aquarius can’t stand to be around dramatic, clingy, or dishonest friends, partners or co-workers.”</p>
-<h4 id="12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-2"><a href="#12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-2" class="headerlink" title="12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces"></a>12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</h4><p>Want to have a WhatsApp bio that sets you apart from others? Read on for ideas.</p>
-<p>1. “Learn from yesterday. Live for today. Hope for tomorrow.” – Albert Einstein</p>
-<p>2. “I wish people are smart enough to pick up the hints I drop”</p>
-<p>3. “You have to follow and honor that inner voice.”</p>
-<p>4. “Let yourself be gutted. Let it open you. Start there.”</p>
-<p>5. “Settling is the worst feeling in the world.”</p>
-<p>6. “Wake up with determination. Go to bed with satisfaction.”</p>
-<p>7. “Be careful how you treat a Pisces because once they are fed up, they won’t come back.”</p>
-<p>8. “When a Pisces stops caring that is it. No second chances.”</p>
-<p>9. “I may look timid, but I am extremely wild deep inside and am up for anything”</p>
-<!-- affiliate ads begin -->
-<p><a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/23719-1988416"
-                      border="0" alt="" width="600" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1988416/23719"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Conclusion-2"><a href="#Conclusion-2" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Updating bio on WhatsApp or changing it occasionally simply defines your style towards life or way of living life. And the above WhatsApp status ideas are all you need for inspiration. So what are you still waiting for? It’s time to select a status that best expresses your mood and personality!</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<h5 id="Ollie-Mattison-3"><a href="#Ollie-Mattison-3" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>WhatsApp Bio or WhatsApp Status is an excellent way to express yourself – an expression explicitly written and in a precise way for revealing your views, beliefs, and emotions in a creative and unique style. It displays how ingeniously and distinctively you can put your thoughts in words.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png"
-                      border="0"
-                >EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe &amp; convert audio to text freely </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/whatsapp-bio-ideas.jpg"
-                      alt="Whatsapp Bio Ideas"
-                ></p>
-<p>But, with a plethora of status ideas for your WhatsApp out there for consideration, crafting a great WhatsApp bio can be hard. So, we’ve put a fun and interesting twist on our roundup of the best bio for WhatsApp – matching them to your zodiac sign!</p>
-<h2 id="WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-3"><a href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-3" class="headerlink" title="WhatsApp Bio Ideas for 12 Zodiac Signs"></a>WhatsApp Bio Ideas for 12 Zodiac Signs</h2><ul>
-<li><a href="#part1">1.Attitude WhatsApp Bios For Aries</a></li>
-<li><a href="#part2">2.Love Whatsapp Bio Quotes for Taurus</a></li>
-<li><a href="#part3">3.WhatsApp Status Quotes About the Charisma of Gemini</a></li>
-<li><a href="#part4">4.Inspirational WhatsApp Status For Cancer</a></li>
-<li><a href="#part5">5.Great WhatsApp Bio for Leo</a></li>
-<li><a href="#part6">6.Best WhatsApp Status for Virgo</a></li>
-<li><a href="#part7">7.Wise WhatsApp Bio Ideas for Libra</a></li>
-<li><a href="#part8">8.Motivational WhatsApp Status Quotes for Scorpio</a></li>
-<li><a href="#part9">9.Sassy WhatsApp Quotes for Sagittarius</a></li>
-<li><a href="#part10">10.Funny WhatsApp Bio Ideas for Capricorn</a></li>
-<li><a href="#part11">11.Sad WhatsApp Status for Aquarius</a></li>
-<li><a href="#part12">12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</a></li>
-</ul>
-<h4 id="1-Attitude-WhatsApp-Bios-For-Aries-3"><a href="#1-Attitude-WhatsApp-Bios-For-Aries-3" class="headerlink" title="1.Attitude WhatsApp Bios For Aries"></a>1.Attitude WhatsApp Bios For Aries</h4><p>Wondering how to choose attitude bio for WhatsApp status? Check out:</p>
-<p>1. “What an Aries wants, an Aries gets.”</p>
-<p>2. “Tell an Aries they can’t, and they will prove you wrong”</p>
-<p>3. “I don’t need your attitude I have one of my own.”</p>
-<p>4. “If your ego speaks with me then my attitude replies to you.”</p>
-<p>5. “Aries don’t have masks. The Aries will always look as good as they are.”</p>
-<p>6. “Take care of your status, don’t be caretaker of my status.”</p>
-<p>7. “If Aries cares about you, they’ll make sure you get what you need.”</p>
-<p>8. “For Aries God is within, waiting only to be called.”</p>
-<p>9. “Sunshine mixed with a little hurricane.”</p>
-<h4 id="2-Love-Whatsapp-Bio-Quotes-for-Taurus-3"><a href="#2-Love-Whatsapp-Bio-Quotes-for-Taurus-3" class="headerlink" title="2.Love Whatsapp Bio Quotes for Taurus"></a>2.Love Whatsapp Bio Quotes for Taurus</h4><p>Need Whatsapp bio ideas for quotes that best represent the romantic you? Read on.</p>
-<p>1. “Taurus does not love easily. They like a lot, but rarely love. Once they do love, you’ll never see another love like it.”</p>
-<p>2. “Love is just like a game that two can play and both win.”</p>
-<p>3. “Speak low, if you speak love.”</p>
-<p>4. “If love is not madness, it can’t be seen as love.”</p>
-<p>5. “Taurus doesn’t hold grudges. They use them as motivation.”</p>
-<p>6. “You are my sunshine on my darkest days.”</p>
-<p>7. “What is done in love is done well” – Vincent Van Gogh</p>
-<p>8. “Loved you yesterday, love you still, always have, always will.”</p>
-<p>9. “One love, one heart, one destiny.”</p>
-<h4 id="3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-3"><a href="#3-WhatsApp-Status-Quotes-About-the-Charisma-of-Gemini-3" class="headerlink" title="3.WhatsApp Status Quotes About the Charisma of Gemini"></a>3.WhatsApp Status Quotes About the Charisma of Gemini</h4><p>Here’re a few WhatsApp bio quotes that celebrate the uniqueness of a Gemini:</p>
-<p>1. “The Gemini essence is extremely contagious.” – Linda Goodman</p>
-<p>2. “She is a mess and a masterpiece.”</p>
-<p>3. “A Gemini can miss you and hate you at the same time.”</p>
-<p>4. “Gemini is a lover and a fighter… rolled into one.”</p>
-<p>5. “Soft heart wrapped up in a tough shell.”</p>
-<p>6. “A Gemini will make you see heaven or give you hell.”</p>
-<p>7. “Gemini is the only sign capable of finding the truth in your lie.”</p>
-<p>8. “Give a Gemini something to do and everything will be fine.”</p>
-<p>9. “For Gemini, nothing is worth more than ‘here and now’.”</p>
-<h4 id="4-Inspirational-WhatsApp-Status-For-Cancer-3"><a href="#4-Inspirational-WhatsApp-Status-For-Cancer-3" class="headerlink" title="4.Inspirational WhatsApp Status For Cancer"></a>4.Inspirational WhatsApp Status For Cancer</h4><p>Want a WhatsApp bio that perfectly describes your zodiac sign? Check out below.</p>
-<p>1. “Don’t limit your challenges, challenge your limits.”</p>
-<p>2. “In the end, only three matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.” – Buddha</p>
-<p>3. “Success is a journey from good to better to best.”</p>
-<p>4. “The wisest men follow their own direction.”</p>
-<p>5. “Cancers may not be good at taking risks, except in love, because we see no boundaries or limits when in love.”</p>
-<p>6. “Seek life, not comfort.”</p>
-<p>7. “Cancers usually have an internal battle on what to do and say.”</p>
-<p>8. “Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.”</p>
-<p>9. “Cancers can make a person feel non-existent and invisible when they decide they don’t want to bother with them anymore.”</p>
-<h4 id="5-Great-WhatsApp-Bio-for-Leo-3"><a href="#5-Great-WhatsApp-Bio-for-Leo-3" class="headerlink" title="5.Great WhatsApp Bio for Leo"></a>5.Great WhatsApp Bio for Leo</h4><p>Looking for the best bio for WhatsApp that best represents you? Keep reading.</p>
-<p>1. “If you don’t build your own dream, someone will hire you to build theirs.”</p>
-<p>2. “Never be ashamed of a scar, it simply means you were stronger than whatever tried to hurt you.”</p>
-<p>3. “Leos can turn from the sweetest person on Earth to the heartless and rudest in just a blink of an eye if you screw them over.”</p>
-<p>4. “Don’t worry when Leo argues with you. Worry when they stop, because that will mean there’s nothing left worth fighting for.”</p>
-<p>5. “You can’t let your failures define you. You have to let your failures teach you.” – Barrack Obama</p>
-<p>6. “Leo is a combination of tender, loving soul and a ready to snap firecracker.”</p>
-<p>7. “Success is a fight between you and yourself.”</p>
-<p>8. “Sometimes Leos sit in the bathroom and cry, but then walk out like nothing ever happened.”</p>
-<p>9. “Leo’s biggest asset is also their biggest weakness… their heart.”</p>
-<p>10. “Behind the hills of sacrifice, there’s a valley for success.”</p>
-<h4 id="6-Best-WhatsApp-Status-for-Virgo-3"><a href="#6-Best-WhatsApp-Status-for-Virgo-3" class="headerlink" title="6.Best WhatsApp Status for Virgo"></a>6.Best WhatsApp Status for Virgo</h4><p>Here’re a few WhatsApp bio ideas for the Virgo who needs some inspiration:</p>
-<p>1. “I have patience, but it doesn’t mean you can hurt me as if nothing happened.”</p>
-<p>2. “It may have taken a while for a Virgo to walk away… but when they do, it’s for good.”</p>
-<p>3. “A Virgo doesn’t want to be everyone’s friend. They’re picky and only choose those worthy of their time.”</p>
-<p>4. “Virgos are unquestionably dependable and sincere.” – Linda Goodman</p>
-<p>5. “Perfection is attained by slow degrees; it requires the hand of time.” – Voltaire</p>
-<p>6. “Head up, stay strong, fake a smile, and move on.”</p>
-<p>7. “Great things never come from comfort zones.”</p>
-<p>8. “For Virgos, while the fools decide, the intelligent ones deliberate.”</p>
-<p>9. “I would like my mind to give me a break, but it doesn’t have a single day off.”</p>
-<p>10. “Face it, 99% of things turn out I am right.”</p>
-<h4 id="7-Wise-WhatsApp-Bio-Ideas-for-Libra-3"><a href="#7-Wise-WhatsApp-Bio-Ideas-for-Libra-3" class="headerlink" title="7.Wise WhatsApp Bio Ideas for Libra"></a>7.Wise WhatsApp Bio Ideas for Libra</h4><p>Below you will find an extensive collection of wise bio ideas for a Libra.</p>
-<p>1. “Learn to appreciate what you have, before time makes you appreciate what you had.”</p>
-<p>2. “Libra is the best friend. They always listen and never judge.”</p>
-<p>3. “Keep your eyes on the stars and your feet on the ground.”</p>
-<p>4. “Piss a Libra off enough and you become invisible to them.”</p>
-<p>5. “I don’t wanna fight against the world.”</p>
-<p>6. “Quiet people have the loudest minds.”</p>
-<p>7. “If you dream it, you can do it.”</p>
-<p>8. “Your dream doesn’t have an expiration date. Take a deep breath and try again.”</p>
-<p>9. “Don’t stop when you’re tired. Stop when you’re done.” – Marilyn Monroe</p>
-<h4 id="8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-3"><a href="#8-Motivational-WhatsApp-Status-Quotes-for-Scorpio-3" class="headerlink" title="8.Motivational WhatsApp Status Quotes for Scorpio"></a>8.Motivational WhatsApp Status Quotes for Scorpio</h4><p>Planning to put up a WhatsApp bio that gives you a boost? Read on for inspiration.</p>
-<p>1. “You never fail until you stop trying.” – Albert Einstein</p>
-<p>2. “The only person I trust in this world is me.”</p>
-<p>3. “Don’t wish for it. Work for it.”</p>
-<p>4. “Every day is a second chance.”</p>
-<p>5. “I am unstoppable.”</p>
-<p>6. “I will give up everything that weighs me down.”</p>
-<p>7. “Be teachable. You’re not always right.”</p>
-<p>8. “I won’t back away from the truth just because it’s something others don’t wish to hear.”</p>
-<h4 id="9-Sassy-WhatsApp-Quotes-for-Sagittarius-3"><a href="#9-Sassy-WhatsApp-Quotes-for-Sagittarius-3" class="headerlink" title="9.Sassy WhatsApp Quotes for Sagittarius"></a>9.Sassy WhatsApp Quotes for Sagittarius</h4><p>Here’re a few unique WhatsApp bio quotes for the adventurous and energetic Sagittarian.</p>
-<p>1.With freedom, books, flowers, and the moon, who could not be happy? – Oscar Wilde</p>
-<p>2. “One tequila, two tequila, three tequila, floor…”</p>
-<p>3. “Kiss me I’m human.”</p>
-<p>4. “I won’t mind getting in trouble if it’s worth the ride.”</p>
-<p>5. “I don’t want to grow old.”</p>
-<p>6. “The summer in your winter days.”</p>
-<p>7. “Sagittarians have a smile that can brighten any room and will always try to make you feel like you belong.”</p>
-<p>8. “Give God your weakness and he’ll give you his strength.”</p>
-<p>9. “When bored, music is a Sagittarius’ salvation.”</p>
-<h4 id="10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-3"><a href="#10-Funny-WhatsApp-Bio-Ideas-for-Capricorn-3" class="headerlink" title="10.Funny WhatsApp Bio Ideas for Capricorn"></a>10.Funny WhatsApp Bio Ideas for Capricorn</h4><p>Seeking funny and humorous WhatsApp status? We’ve rounded up the best bio for WhatsApp.</p>
-<p>1. “Capricorn is a hard one to please. Sorry, but they have high standards.”</p>
-<p>2. “In spite of being pessimistic, the precautions always maintain a positive attitude.”</p>
-<p>3. “Capricorns are allergic to stupidity so forgive them if they don’t want to sit and listen to the bullshit that’s coming out of your mouth.”</p>
-<p>4. “Capricorns are very good listeners and great advice-givers and damn good at putting someone in their place.”</p>
-<p>5. “Goats happen to be independent as well as fierce. Every single individual including the king has respect for the goat.”</p>
-<p>6. “In case a Capricorn is ever insulted by you, they are going to kill you while ignoring your entire existence.</p>
-<p>7. “I have a sharp tongue when I am pissed.”</p>
-<p>8. “Falling in love with a Capricorn means that need to remind them every while that you love them.”</p>
-<p>9. “Capricorn values intimacy &amp; likes to keep their private life just that…Private!”</p>
-<h4 id="11-Sad-WhatsApp-Status-for-Aquarius-3"><a href="#11-Sad-WhatsApp-Status-for-Aquarius-3" class="headerlink" title="11.Sad WhatsApp Status for Aquarius"></a>11.Sad WhatsApp Status for Aquarius</h4><p>Looking for WhatsApp bio ideas that express your sadness? Check out below.</p>
-<p>1. “I will fake a perfect smile that no one knows my secrets.”</p>
-<p>2. “I am so perfectly at pretending like everything is fine and can shut down emotionally.”</p>
-<p>3. “I will never forget how you treated me, ever.”</p>
-<p>4. “Aquarius are very emotional people that are masters at keeping their feelings inside.”</p>
-<p>5. “I will never regret trusting their intuition because it’s usually always right.”</p>
-<p>6. “When an Aquarius doesn’t like you, they can be heartless and as cold as an iceberg.”</p>
-<p>7. “Once you lose an Aquarius’ respect or trust, it’s over for you.”</p>
-<p>8. “The Aquarius can’t stand to be around dramatic, clingy, or dishonest friends, partners or co-workers.”</p>
-<h4 id="12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-3"><a href="#12-Compassionate-Encouraging-WhatsApp-Bio-Ideas-for-Pisces-3" class="headerlink" title="12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces"></a>12.Compassionate &amp; Encouraging WhatsApp Bio Ideas for Pisces</h4><p>Want to have a WhatsApp bio that sets you apart from others? Read on for ideas.</p>
-<p>1. “Learn from yesterday. Live for today. Hope for tomorrow.” – Albert Einstein</p>
-<p>2. “I wish people are smart enough to pick up the hints I drop”</p>
-<p>3. “You have to follow and honor that inner voice.”</p>
-<p>4. “Let yourself be gutted. Let it open you. Start there.”</p>
-<p>5. “Settling is the worst feeling in the world.”</p>
-<p>6. “Wake up with determination. Go to bed with satisfaction.”</p>
-<p>7. “Be careful how you treat a Pisces because once they are fed up, they won’t come back.”</p>
-<p>8. “When a Pisces stops caring that is it. No second chances.”</p>
-<p>9. “I may look timid, but I am extremely wild deep inside and am up for anything”</p>
-<!-- affiliate ads begin -->
-<p><a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/21553-1896607"
-                      border="0" alt="" width="750" height="422"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1896607/21553"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="Conclusion-3"><a href="#Conclusion-3" class="headerlink" title="Conclusion"></a>Conclusion</h3><p>Updating bio on WhatsApp or changing it occasionally simply defines your style towards life or way of living life. And the above WhatsApp status ideas are all you need for inspiration. So what are you still waiting for? It’s time to select a status that best expresses your mood and personality!</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/pdf-unlocker.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-2024-approved-ending-static-audio-in-obs-streams/"><u>[New] 2024 Approved  Ending Static Audio in OBS Streams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-apex-window-based-podcast-enhancements-top-8-selections/"><u>[New] Apex Window-Based Podcast Enhancements  Top 8 Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-of-breed-premium-4k-camera-mounts-for-pros/"><u>[New] Best of Breed  Premium 4K Camera Mounts for Pros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-practices-in-converting-images-to-videos/"><u>[New] Best Practices in Converting Images to Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-blending-iphone-videos-a-simple-guide/"><u>[New] Blending iPhone Videos  A Simple Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/new-complete-breakdown-hero4-black-functionality/"><u>[New] Complete Breakdown  Hero4 Black Functionality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/new-in-2024-effective-ways-to-save-your-ps4-games/"><u>[New] In 2024, Effective Ways to Save Your PS4 Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-top-8-linux-screenshot-utilities-compared-for-2024/"><u>[New] Top 8 Linux Screenshot Utilities Compared for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-message-reactions-with-ease-discord/"><u>[Updated] 2024 Approved  Navigating Message Reactions with Ease (Discord)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-the-6th-richest-strategies-for-successful-ig/"><u>[Updated] 2024 Approved  Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chinese-vr-headset-marketplace-wonders/"><u>[Updated] Chinese VR Headset Marketplace Wonders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>[Updated] Comprehensive Lookup  Experience the World in Virtual Reality</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-insider-tips-selecting-the-best-ig-video-editors-for-success-for-2024/"><u>[Updated] Insider Tips  Selecting the Best IG Video Editors for Success for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-share.techidaily.com/updated-navigating-youtubes-profit-maze/"><u>[Updated] Navigating YouTube's Profit Maze</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>2024 Approved  A Comprehensive Look at FFPM  Your PIP Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-overview-how-to-navigate-telegram-web/"><u>2024 Approved  Complete Overview  How To Navigate Telegram Web</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-cinematic-stories-in-extended-seconds-a-guide-to-creating-spectacularly-long-lasting-video-from-still-images-online/"><u>2024 Approved  Crafting Cinematic Stories in Extended Seconds  A Guide to Creating Spectacularly Long Lasting Video From Still Images Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/2024-approved-elevate-your-instagram-game-scouting-the-8-top-post-schedulers/"><u>2024 Approved  Elevate Your Instagram Game  Scouting the 8 Top Post Schedulers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-best-360-degree-action-cameras/"><u>5 Best 360-Degree Action Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>8 Best Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-further-the-revolutionary-lg-360-vr-headset-reviewed-for-2024/"><u>A Step Further  The Revolutionary LG 360 VR Headset Reviewed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-6-value-proposition-affordable-4k-projectors/"><u>Best 6 Value Proposition  Affordable 4K Projectors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format-for-2024/"><u>Best in Class  Top 8 Software Turning Subtitles Into Simplified SRT Format for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>Bold Broadcasters on a Budget  YouTube LIVE, Not 1000+ Supporters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-bandw-vibrancy-ps-grading-hacks/"><u>Boost B&W Vibrancy  PS Grading Hacks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-conscious-filmmakers-guide-to-360-cameras-for-2024/"><u>Budget-Conscious Filmmakers' Guide to 360° Cameras for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/building-bonds-before-buying-subscription-strategies-for-2024/"><u>Building Bonds Before Buying  Subscription Strategies for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/el-honor-roll-play-button-and-follower-awards/"><u>Channel Honor Roll - Play Button & Follower Awards</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-the-ideal-backdrop-for-windows-11/"><u>Crafting the Ideal Backdrop for Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2022-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2022) Without Apple Password? | Stellar</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>In 2024, Capturing Clarity in Close-Ups  The Filmmaker’s Kinemaster Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo V30 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m34-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M34 5GFRP Lock</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nokia-c12-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nokia C12 Phone? Unlock It Now</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-12-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme 12 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-top-9-drone-video-editing-software-for-different-level/"><u>In 2024, Top 9 Drone Video Editing Software for Different Level</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-capture.techidaily.com/in-2024-uncovering-budget-friendly-video-communication-apps-pcmac/"><u>In 2024, Uncovering Budget-Friendly Video Communication Apps  PC/MAC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/joke-jingles-top-online-ringtone-sources/"><u>Joke Jingles  Top Online Ringtone Sources</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>Mastering Subtitles  The Ultimate Guide to FREE Tools</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://meme-emoji.techidaily.com/new-2024-approved-top-6-animated-emoji-video-effects/"><u>New 2024 Approved Top 6 Animated Emoji Video Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/refining-reality-close-up-creations-in-minecraft/"><u>Refining Reality  Close-Up Creations in Minecraft</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/the-mechanics-of-modern-photography-auto-smart-hdr-3-and-4-unveiled-for-2024/"><u>The Mechanics of Modern Photography  Auto, Smart HDR 3 & 4 Unveiled for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/the-prime-collection-of-gopro-complements-for-2024/"><u>The Prime Collection of GoPro Complements for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-no-cost-4k-uhd-players-for-win-and-mac-users/"><u>Top 8 No-Cost, 4K UHD Players for Win & Mac Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-classrooms-future-learning-unleashed/"><u>Virtual Classrooms  Future Learning Unleashed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-odyssey-comparing-oculus-htc-vive-and-ps-vrs-gaming-offerings/"><u>Virtual Odyssey  Comparing Oculus, HTC Vive & PS VR’s Gaming Offerings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/where-to-hunt-for-excellent-instagram-ringtones-and-perfect-alarm-crafts/"><u>Where to Hunt for Excellent Instagram Ringtones and Perfect Alarm Crafts</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;[New] Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:43:37</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:43:37
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/new-birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/in-2024-blending-sound-with-moving-pictures-hub/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, Blending Sound with Moving Pictures Hub</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/in-2024-best-video-player-apps-for-windows-phone/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In 2024, Best Video Player Apps for Windows Phone</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;[New] Birthstones and Emojis  Tailoring Your WhatsApp Profile by Sign&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Birthstones-and-Emojis-Tailoring-Your-WhatsApp-Profile-by-Sign"><span class="nav-text">Birthstones and Emojis: Tailoring Your WhatsApp Profile by Sign</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#100-Best-Whatsapp-Bio-Ideas-for-12-Zodiac-Signs"><span class="nav-text">100+ Best Whatsapp Bio Ideas for 12 Zodiac Signs</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs"><span class="nav-text">WhatsApp Bio Ideas for 12 Zodiac Signs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-1"><span class="nav-text">WhatsApp Bio Ideas for 12 Zodiac Signs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-2"><span class="nav-text">WhatsApp Bio Ideas for 12 Zodiac Signs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion-2"><span class="nav-text">Conclusion</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#WhatsApp-Bio-Ideas-for-12-Zodiac-Signs-3"><span class="nav-text">WhatsApp Bio Ideas for 12 Zodiac Signs</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Conclusion-3"><span class="nav-text">Conclusion</span></a></li></ol></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

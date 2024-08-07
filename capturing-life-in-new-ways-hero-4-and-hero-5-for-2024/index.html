@@ -605,15 +605,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -635,869 +635,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7b4431d8ccd93ecf0eac5efe.png" alt="&#34;Capturing Life in New Ways  Hero 4 &amp; Hero 5 for 2024&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Capturing Life in New Ways  Hero 4 &amp; Hero 5 for 2024&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 10:46:27</span>
-        <span class="mobile">2024-07-27 10:46:27</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 10:46:27</span>
-            <span class="mobile">2024-07-28 10:46:27</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Capturing-Life-in-New-Ways-Hero-4-Hero-5"><a href="#Capturing-Life-in-New-Ways-Hero-4-Hero-5" class="headerlink" title="Capturing Life in New Ways: Hero 4 &amp; Hero 5"></a>Capturing Life in New Ways: Hero 4 &amp; Hero 5</h2><h1 id="GoPro-Hero5-Session-Vs-Hero-Session"><a href="#GoPro-Hero5-Session-Vs-Hero-Session" class="headerlink" title="GoPro Hero5 Session Vs Hero Session"></a>GoPro Hero5 Session Vs Hero Session</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Max-Wales"><a href="#Max-Wales" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>GoPro launched so many high tech and streamlined camera models by this year and consumers are almost confused about on which one they must spend for better action recording results. The series of Black and Silver models are competing with each other in terms of specifications, you just need to make decision about your budget and then your favorite device can join you on your adventurous trip.</p>
-<p><strong>You may also like:</strong></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Review for GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >GoPro Hero5 Black vs GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>By this year Hero5 Session was launched into the market and it immediately took place of Hero Silver series. Presently professionals are rating session as more entry level device whereas Black is the top end series. In terms of looks, Hero Session and Hero5 Session both are almost same but if you are thinking to buy device from this series then it is much better to discuss their features in detail. Some of the significant differences can be visualized from the complete review given below.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png"
-                      border="0"
-                >DLNow Video Downloader</a></p>
-<!-- affiliate ads end -->
-<h2 id="Comparison-for-Hero5-Session-and-Hero-Session"><a href="#Comparison-for-Hero5-Session-and-Hero-Session" class="headerlink" title="Comparison for Hero5 Session and Hero Session"></a>Comparison for Hero5 Session and Hero Session</h2><h4 id="Specs-Comparison-Table"><a href="#Specs-Comparison-Table" class="headerlink" title="Specs Comparison Table:"></a><strong>Specs Comparison Table:</strong></h4><table>
-<thead>
-<tr>
-<th>GoPro Hero5 Session</th>
-<th>GoPro Hero Session</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>$299 only</td>
-<td>$199 only</td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>October 2, 2016</td>
-<td>July 6, 2015</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1000mAh</td>
-<td>1000mAh</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>73g</td>
-<td>74g</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 10mp</td>
-<td>Up to 8mp</td>
-</tr>
-<tr>
-<td><strong>Dimensions</strong></td>
-<td>38x38x36mm</td>
-<td>38x38x36mm</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Up to 4k&#x2F;30fps</td>
-<td>Up to 1440p&#x2F;30fps</td>
-</tr>
-<tr>
-<td><strong>Waterproof</strong></td>
-<td>(60m with housing) 10 meters without housing</td>
-<td>(60m with housing) 10 meters without housing</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No built-in display</td>
-<td>No built-in display</td>
-</tr>
-<tr>
-<td><strong>Shooting mode</strong></td>
-<td>Time lapse video, Auto-Low Light mode, Burst mode, Night Lapse mode and Night Photo</td>
-<td>Time-lapse photo, Auto-Low Light mode, Burst mode,</td>
-</tr>
-<tr>
-<td><strong>Field of view</strong></td>
-<td>Wide, SuperView, Linear, Medium, Narrow</td>
-<td>Wide, Medium</td>
-</tr>
-<tr>
-<td><strong>Digital image stabilization</strong></td>
-<td>Yes</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Voice Control</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>GPS</strong></td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Advanced wind noise reduction</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>WIFI and bluetooth</strong></td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-</tbody></table>
-<h4 id="Design"><a href="#Design" class="headerlink" title="Design:"></a><strong>Design:</strong></h4><!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif"
-                      border="0"
-                >Forex Robotron Basic Package</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/GoPro-Hero5-Session-vs-GoPro-Hero4-Session.jpg"
-                      alt="Hero5 Session VS Hero Session"
-                ></p>
-<p>Image resource:DC Rainmaker</p>
-<p>In terms of handling, ruggedness and housing both these models are comparatively equal. Both models possess almost equal dimensions and are well known for their built in type rugged protection. The waterproof body can serve you up to 33 feet or 10 meters below water even without any additional housing arrangement. They fit perfectly in the same sized frames and you necessarily need to attach this frame whenever it is required to mount cameras on certain surface because there is no other medium to attach them with mounting.</p>
-<h4 id="Image-Quality"><a href="#Image-Quality" class="headerlink" title="Image Quality:"></a><strong>Image Quality:</strong></h4><p>Hero5 session can record photos with 10MP resolution where images will be measured as 3648 by 2736 and they have breathtaking clarity but in case of Hero session this resolution is limited to 8MP only and pixels in image use to be around 3264x2448 only. With the cheaper model you can also adjust camera settings to crop mode take takes pictures at 5MP.</p>
-<h4 id="Video-Quality"><a href="#Video-Quality" class="headerlink" title="Video Quality:"></a><strong>Video Quality:</strong></h4><p>If we talk about video quality then Hero5 session is assumed to have much better results with lots of modes and settings available. Some features that Hero5 session has but are missing in Hero Session are:</p>
-<ol>
-<li>The 4K resolution where cheaper model is able to reach only up to 1080p with 60fps frame rate.</li>
-<li>The frame rates also differ by great level so speed varies.</li>
-<li>In camera stabilization is an essential feature; it is essential for action camera lovers because this facility help to save video quality from jerks or jumps.</li>
-<li>If we talk about field of view then in case of Hero5 session you can enjoy 5 different options in terms of: Narrow, Linear, Medium, Wide and SuperView whereas in case of Hero4 Session you can enjoy recording only with Wide and Medium mode.</li>
-</ol>
-<h4 id="Other-Features"><a href="#Other-Features" class="headerlink" title="Other Features:"></a><strong>Other Features:</strong></h4><ol>
-<li><strong>GPS:</strong> Both of these Cameras lack in GPS capabilities. Currently this feature is only available in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Hero5 Black <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li><strong>Voice Control:</strong> This feature is specifically dedicated to Hero5 models and Hero session does not possess it. Actually with Voice control commands users can easily initiate the basic recording functions or take photos even without using hands. Such voice commands are really useful when you are driving or diving and wish to capture scenes all around. If you are searching for this feature then it is good to switch to Hero5 models.</li>
-<li><strong>Image Stabilization:</strong> This feature is included in Hero5 Session but is missing from Hero Session. It helps users to avoid distortion in videos due to shakes or jerks on the way while driving or hiking.</li>
-<li><strong>Wind Noise Reduction:</strong> If you go for Hero5 Session then you will be able to protect your videos from wind noise and audios will have much better clarity after processing but in case of Hero Session you will miss this feature.</li>
-</ol>
-<h4 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p>Both cameras are quite amazing and all features are much impressive. It is good to consult professionals before investing on any of these devices and also check your budget as well as need. Hero5 Session is suitable for adventure lovers who use to spend most of their time in exploring different locations.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-1"><a href="#Max-Wales-1" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>GoPro launched so many high tech and streamlined camera models by this year and consumers are almost confused about on which one they must spend for better action recording results. The series of Black and Silver models are competing with each other in terms of specifications, you just need to make decision about your budget and then your favorite device can join you on your adventurous trip.</p>
-<p><strong>You may also like:</strong></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Review for GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >GoPro Hero5 Black vs GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>By this year Hero5 Session was launched into the market and it immediately took place of Hero Silver series. Presently professionals are rating session as more entry level device whereas Black is the top end series. In terms of looks, Hero Session and Hero5 Session both are almost same but if you are thinking to buy device from this series then it is much better to discuss their features in detail. Some of the significant differences can be visualized from the complete review given below.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/13846-1572622"
-                      border="0" alt="" width="1000" height="1298"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1572622/13846"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Comparison-for-Hero5-Session-and-Hero-Session-1"><a href="#Comparison-for-Hero5-Session-and-Hero-Session-1" class="headerlink" title="Comparison for Hero5 Session and Hero Session"></a>Comparison for Hero5 Session and Hero Session</h2><h4 id="Specs-Comparison-Table-1"><a href="#Specs-Comparison-Table-1" class="headerlink" title="Specs Comparison Table:"></a><strong>Specs Comparison Table:</strong></h4><table>
-<thead>
-<tr>
-<th>GoPro Hero5 Session</th>
-<th>GoPro Hero Session</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>$299 only</td>
-<td>$199 only</td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>October 2, 2016</td>
-<td>July 6, 2015</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1000mAh</td>
-<td>1000mAh</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>73g</td>
-<td>74g</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 10mp</td>
-<td>Up to 8mp</td>
-</tr>
-<tr>
-<td><strong>Dimensions</strong></td>
-<td>38x38x36mm</td>
-<td>38x38x36mm</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Up to 4k&#x2F;30fps</td>
-<td>Up to 1440p&#x2F;30fps</td>
-</tr>
-<tr>
-<td><strong>Waterproof</strong></td>
-<td>(60m with housing) 10 meters without housing</td>
-<td>(60m with housing) 10 meters without housing</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No built-in display</td>
-<td>No built-in display</td>
-</tr>
-<tr>
-<td><strong>Shooting mode</strong></td>
-<td>Time lapse video, Auto-Low Light mode, Burst mode, Night Lapse mode and Night Photo</td>
-<td>Time-lapse photo, Auto-Low Light mode, Burst mode,</td>
-</tr>
-<tr>
-<td><strong>Field of view</strong></td>
-<td>Wide, SuperView, Linear, Medium, Narrow</td>
-<td>Wide, Medium</td>
-</tr>
-<tr>
-<td><strong>Digital image stabilization</strong></td>
-<td>Yes</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Voice Control</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>GPS</strong></td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Advanced wind noise reduction</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>WIFI and bluetooth</strong></td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-</tbody></table>
-<h4 id="Design-1"><a href="#Design-1" class="headerlink" title="Design:"></a><strong>Design:</strong></h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/GoPro-Hero5-Session-vs-GoPro-Hero4-Session.jpg"
-                      alt="Hero5 Session VS Hero Session"
-                ></p>
-<p>Image resource:DC Rainmaker</p>
-<p>In terms of handling, ruggedness and housing both these models are comparatively equal. Both models possess almost equal dimensions and are well known for their built in type rugged protection. The waterproof body can serve you up to 33 feet or 10 meters below water even without any additional housing arrangement. They fit perfectly in the same sized frames and you necessarily need to attach this frame whenever it is required to mount cameras on certain surface because there is no other medium to attach them with mounting.</p>
-<h4 id="Image-Quality-1"><a href="#Image-Quality-1" class="headerlink" title="Image Quality:"></a><strong>Image Quality:</strong></h4><p>Hero5 session can record photos with 10MP resolution where images will be measured as 3648 by 2736 and they have breathtaking clarity but in case of Hero session this resolution is limited to 8MP only and pixels in image use to be around 3264x2448 only. With the cheaper model you can also adjust camera settings to crop mode take takes pictures at 5MP.</p>
-<h4 id="Video-Quality-1"><a href="#Video-Quality-1" class="headerlink" title="Video Quality:"></a><strong>Video Quality:</strong></h4><p>If we talk about video quality then Hero5 session is assumed to have much better results with lots of modes and settings available. Some features that Hero5 session has but are missing in Hero Session are:</p>
-<ol>
-<li>The 4K resolution where cheaper model is able to reach only up to 1080p with 60fps frame rate.</li>
-<li>The frame rates also differ by great level so speed varies.</li>
-<li>In camera stabilization is an essential feature; it is essential for action camera lovers because this facility help to save video quality from jerks or jumps.</li>
-<li>If we talk about field of view then in case of Hero5 session you can enjoy 5 different options in terms of: Narrow, Linear, Medium, Wide and SuperView whereas in case of Hero4 Session you can enjoy recording only with Wide and Medium mode.</li>
-</ol>
-<h4 id="Other-Features-1"><a href="#Other-Features-1" class="headerlink" title="Other Features:"></a><strong>Other Features:</strong></h4><ol>
-<li><strong>GPS:</strong> Both of these Cameras lack in GPS capabilities. Currently this feature is only available in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Hero5 Black <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li><strong>Voice Control:</strong> This feature is specifically dedicated to Hero5 models and Hero session does not possess it. Actually with Voice control commands users can easily initiate the basic recording functions or take photos even without using hands. Such voice commands are really useful when you are driving or diving and wish to capture scenes all around. If you are searching for this feature then it is good to switch to Hero5 models.</li>
-<li><strong>Image Stabilization:</strong> This feature is included in Hero5 Session but is missing from Hero Session. It helps users to avoid distortion in videos due to shakes or jerks on the way while driving or hiking.</li>
-<li><strong>Wind Noise Reduction:</strong> If you go for Hero5 Session then you will be able to protect your videos from wind noise and audios will have much better clarity after processing but in case of Hero Session you will miss this feature.</li>
-</ol>
-<h4 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p>Both cameras are quite amazing and all features are much impressive. It is good to consult professionals before investing on any of these devices and also check your budget as well as need. Hero5 Session is suitable for adventure lovers who use to spend most of their time in exploring different locations.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png"
-                      border="0"
-                ><br>DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-2"><a href="#Max-Wales-2" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>GoPro launched so many high tech and streamlined camera models by this year and consumers are almost confused about on which one they must spend for better action recording results. The series of Black and Silver models are competing with each other in terms of specifications, you just need to make decision about your budget and then your favorite device can join you on your adventurous trip.</p>
-<p><strong>You may also like:</strong></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Review for GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >GoPro Hero5 Black vs GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>By this year Hero5 Session was launched into the market and it immediately took place of Hero Silver series. Presently professionals are rating session as more entry level device whereas Black is the top end series. In terms of looks, Hero Session and Hero5 Session both are almost same but if you are thinking to buy device from this series then it is much better to discuss their features in detail. Some of the significant differences can be visualized from the complete review given below.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External&#x2F;Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
-<h2 id="Comparison-for-Hero5-Session-and-Hero-Session-2"><a href="#Comparison-for-Hero5-Session-and-Hero-Session-2" class="headerlink" title="Comparison for Hero5 Session and Hero Session"></a>Comparison for Hero5 Session and Hero Session</h2><h4 id="Specs-Comparison-Table-2"><a href="#Specs-Comparison-Table-2" class="headerlink" title="Specs Comparison Table:"></a><strong>Specs Comparison Table:</strong></h4><table>
-<thead>
-<tr>
-<th>GoPro Hero5 Session</th>
-<th>GoPro Hero Session</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>$299 only</td>
-<td>$199 only</td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>October 2, 2016</td>
-<td>July 6, 2015</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1000mAh</td>
-<td>1000mAh</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>73g</td>
-<td>74g</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 10mp</td>
-<td>Up to 8mp</td>
-</tr>
-<tr>
-<td><strong>Dimensions</strong></td>
-<td>38x38x36mm</td>
-<td>38x38x36mm</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Up to 4k&#x2F;30fps</td>
-<td>Up to 1440p&#x2F;30fps</td>
-</tr>
-<tr>
-<td><strong>Waterproof</strong></td>
-<td>(60m with housing) 10 meters without housing</td>
-<td>(60m with housing) 10 meters without housing</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No built-in display</td>
-<td>No built-in display</td>
-</tr>
-<tr>
-<td><strong>Shooting mode</strong></td>
-<td>Time lapse video, Auto-Low Light mode, Burst mode, Night Lapse mode and Night Photo</td>
-<td>Time-lapse photo, Auto-Low Light mode, Burst mode,</td>
-</tr>
-<tr>
-<td><strong>Field of view</strong></td>
-<td>Wide, SuperView, Linear, Medium, Narrow</td>
-<td>Wide, Medium</td>
-</tr>
-<tr>
-<td><strong>Digital image stabilization</strong></td>
-<td>Yes</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Voice Control</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>GPS</strong></td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Advanced wind noise reduction</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>WIFI and bluetooth</strong></td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-</tbody></table>
-<h4 id="Design-2"><a href="#Design-2" class="headerlink" title="Design:"></a><strong>Design:</strong></h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/GoPro-Hero5-Session-vs-GoPro-Hero4-Session.jpg"
-                      alt="Hero5 Session VS Hero Session"
-                ></p>
-<p>Image resource:DC Rainmaker</p>
-<p>In terms of handling, ruggedness and housing both these models are comparatively equal. Both models possess almost equal dimensions and are well known for their built in type rugged protection. The waterproof body can serve you up to 33 feet or 10 meters below water even without any additional housing arrangement. They fit perfectly in the same sized frames and you necessarily need to attach this frame whenever it is required to mount cameras on certain surface because there is no other medium to attach them with mounting.</p>
-<h4 id="Image-Quality-2"><a href="#Image-Quality-2" class="headerlink" title="Image Quality:"></a><strong>Image Quality:</strong></h4><p>Hero5 session can record photos with 10MP resolution where images will be measured as 3648 by 2736 and they have breathtaking clarity but in case of Hero session this resolution is limited to 8MP only and pixels in image use to be around 3264x2448 only. With the cheaper model you can also adjust camera settings to crop mode take takes pictures at 5MP.</p>
-<h4 id="Video-Quality-2"><a href="#Video-Quality-2" class="headerlink" title="Video Quality:"></a><strong>Video Quality:</strong></h4><p>If we talk about video quality then Hero5 session is assumed to have much better results with lots of modes and settings available. Some features that Hero5 session has but are missing in Hero Session are:</p>
-<ol>
-<li>The 4K resolution where cheaper model is able to reach only up to 1080p with 60fps frame rate.</li>
-<li>The frame rates also differ by great level so speed varies.</li>
-<li>In camera stabilization is an essential feature; it is essential for action camera lovers because this facility help to save video quality from jerks or jumps.</li>
-<li>If we talk about field of view then in case of Hero5 session you can enjoy 5 different options in terms of: Narrow, Linear, Medium, Wide and SuperView whereas in case of Hero4 Session you can enjoy recording only with Wide and Medium mode.</li>
-</ol>
-<h4 id="Other-Features-2"><a href="#Other-Features-2" class="headerlink" title="Other Features:"></a><strong>Other Features:</strong></h4><ol>
-<li><strong>GPS:</strong> Both of these Cameras lack in GPS capabilities. Currently this feature is only available in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Hero5 Black <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li><strong>Voice Control:</strong> This feature is specifically dedicated to Hero5 models and Hero session does not possess it. Actually with Voice control commands users can easily initiate the basic recording functions or take photos even without using hands. Such voice commands are really useful when you are driving or diving and wish to capture scenes all around. If you are searching for this feature then it is good to switch to Hero5 models.</li>
-<li><strong>Image Stabilization:</strong> This feature is included in Hero5 Session but is missing from Hero Session. It helps users to avoid distortion in videos due to shakes or jerks on the way while driving or hiking.</li>
-<li><strong>Wind Noise Reduction:</strong> If you go for Hero5 Session then you will be able to protect your videos from wind noise and audios will have much better clarity after processing but in case of Hero Session you will miss this feature.</li>
-</ol>
-<h4 id="Conclusion-2"><a href="#Conclusion-2" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p>Both cameras are quite amazing and all features are much impressive. It is good to consult professionals before investing on any of these devices and also check your budget as well as need. Hero5 Session is suitable for adventure lovers who use to spend most of their time in exploring different locations.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<h5 id="Max-Wales-3"><a href="#Max-Wales-3" class="headerlink" title="Max Wales"></a>Max Wales</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>GoPro launched so many high tech and streamlined camera models by this year and consumers are almost confused about on which one they must spend for better action recording results. The series of Black and Silver models are competing with each other in terms of specifications, you just need to make decision about your budget and then your favorite device can join you on your adventurous trip.</p>
-<p><strong>You may also like:</strong></p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Review for GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >GoPro Hero5 Black vs GoPro Hero5 Session &gt;&gt; <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p>By this year Hero5 Session was launched into the market and it immediately took place of Hero Silver series. Presently professionals are rating session as more entry level device whereas Black is the top end series. In terms of looks, Hero Session and Hero5 Session both are almost same but if you are thinking to buy device from this series then it is much better to discuss their features in detail. Some of the significant differences can be visualized from the complete review given below.</p>
-<h2 id="Comparison-for-Hero5-Session-and-Hero-Session-3"><a href="#Comparison-for-Hero5-Session-and-Hero-Session-3" class="headerlink" title="Comparison for Hero5 Session and Hero Session"></a>Comparison for Hero5 Session and Hero Session</h2><h4 id="Specs-Comparison-Table-3"><a href="#Specs-Comparison-Table-3" class="headerlink" title="Specs Comparison Table:"></a><strong>Specs Comparison Table:</strong></h4><table>
-<thead>
-<tr>
-<th>GoPro Hero5 Session</th>
-<th>GoPro Hero Session</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td><strong>Price</strong></td>
-<td>$299 only</td>
-<td>$199 only</td>
-</tr>
-<tr>
-<td><strong>Date available</strong></td>
-<td>October 2, 2016</td>
-<td>July 6, 2015</td>
-</tr>
-<tr>
-<td><strong>Battery</strong></td>
-<td>1000mAh</td>
-<td>1000mAh</td>
-</tr>
-<tr>
-<td><strong>Weight</strong></td>
-<td>73g</td>
-<td>74g</td>
-</tr>
-<tr>
-<td><strong>Image resolution</strong></td>
-<td>Up to 10mp</td>
-<td>Up to 8mp</td>
-</tr>
-<tr>
-<td><strong>Dimensions</strong></td>
-<td>38x38x36mm</td>
-<td>38x38x36mm</td>
-</tr>
-<tr>
-<td><strong>Video resolution</strong></td>
-<td>Up to 4k&#x2F;30fps</td>
-<td>Up to 1440p&#x2F;30fps</td>
-</tr>
-<tr>
-<td><strong>Waterproof</strong></td>
-<td>(60m with housing) 10 meters without housing</td>
-<td>(60m with housing) 10 meters without housing</td>
-</tr>
-<tr>
-<td><strong>Display</strong></td>
-<td>No built-in display</td>
-<td>No built-in display</td>
-</tr>
-<tr>
-<td><strong>Shooting mode</strong></td>
-<td>Time lapse video, Auto-Low Light mode, Burst mode, Night Lapse mode and Night Photo</td>
-<td>Time-lapse photo, Auto-Low Light mode, Burst mode,</td>
-</tr>
-<tr>
-<td><strong>Field of view</strong></td>
-<td>Wide, SuperView, Linear, Medium, Narrow</td>
-<td>Wide, Medium</td>
-</tr>
-<tr>
-<td><strong>Digital image stabilization</strong></td>
-<td>Yes</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Voice Control</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>GPS</strong></td>
-<td>N</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>Advanced wind noise reduction</strong></td>
-<td>Y</td>
-<td>N</td>
-</tr>
-<tr>
-<td><strong>WIFI and bluetooth</strong></td>
-<td>Y</td>
-<td>Y</td>
-</tr>
-</tbody></table>
-<h4 id="Design-3"><a href="#Design-3" class="headerlink" title="Design:"></a><strong>Design:</strong></h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/GoPro-Hero5-Session-vs-GoPro-Hero4-Session.jpg"
-                      alt="Hero5 Session VS Hero Session"
-                ></p>
-<p>Image resource:DC Rainmaker</p>
-<p>In terms of handling, ruggedness and housing both these models are comparatively equal. Both models possess almost equal dimensions and are well known for their built in type rugged protection. The waterproof body can serve you up to 33 feet or 10 meters below water even without any additional housing arrangement. They fit perfectly in the same sized frames and you necessarily need to attach this frame whenever it is required to mount cameras on certain surface because there is no other medium to attach them with mounting.</p>
-<h4 id="Image-Quality-3"><a href="#Image-Quality-3" class="headerlink" title="Image Quality:"></a><strong>Image Quality:</strong></h4><p>Hero5 session can record photos with 10MP resolution where images will be measured as 3648 by 2736 and they have breathtaking clarity but in case of Hero session this resolution is limited to 8MP only and pixels in image use to be around 3264x2448 only. With the cheaper model you can also adjust camera settings to crop mode take takes pictures at 5MP.</p>
-<h4 id="Video-Quality-3"><a href="#Video-Quality-3" class="headerlink" title="Video Quality:"></a><strong>Video Quality:</strong></h4><p>If we talk about video quality then Hero5 session is assumed to have much better results with lots of modes and settings available. Some features that Hero5 session has but are missing in Hero Session are:</p>
-<ol>
-<li>The 4K resolution where cheaper model is able to reach only up to 1080p with 60fps frame rate.</li>
-<li>The frame rates also differ by great level so speed varies.</li>
-<li>In camera stabilization is an essential feature; it is essential for action camera lovers because this facility help to save video quality from jerks or jumps.</li>
-<li>If we talk about field of view then in case of Hero5 session you can enjoy 5 different options in terms of: Narrow, Linear, Medium, Wide and SuperView whereas in case of Hero4 Session you can enjoy recording only with Wide and Medium mode.</li>
-</ol>
-<h4 id="Other-Features-3"><a href="#Other-Features-3" class="headerlink" title="Other Features:"></a><strong>Other Features:</strong></h4><ol>
-<li><strong>GPS:</strong> Both of these Cameras lack in GPS capabilities. Currently this feature is only available in <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Hero5 Black <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li><strong>Voice Control:</strong> This feature is specifically dedicated to Hero5 models and Hero session does not possess it. Actually with Voice control commands users can easily initiate the basic recording functions or take photos even without using hands. Such voice commands are really useful when you are driving or diving and wish to capture scenes all around. If you are searching for this feature then it is good to switch to Hero5 models.</li>
-<li><strong>Image Stabilization:</strong> This feature is included in Hero5 Session but is missing from Hero Session. It helps users to avoid distortion in videos due to shakes or jerks on the way while driving or hiking.</li>
-<li><strong>Wind Noise Reduction:</strong> If you go for Hero5 Session then you will be able to protect your videos from wind noise and audios will have much better clarity after processing but in case of Hero Session you will miss this feature.</li>
-</ol>
-<h4 id="Conclusion-3"><a href="#Conclusion-3" class="headerlink" title="Conclusion:"></a><strong>Conclusion:</strong></h4><p>Both cameras are quite amazing and all features are much impressive. It is good to consult professionals before investing on any of these devices and also check your budget as well as need. Hero5 Session is suitable for adventure lovers who use to spend most of their time in exploring different locations.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/max-wales-author.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Max Wales</p>
-<p>Max Wales is a writer and a lover of all things video.</p>
-<p>Follow @Max Wales</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/new-2024-approved-online-tv-downloading-a-complete-recording-blueprint/"><u>[New] 2024 Approved  Online TV Downloading  A Complete Recording Blueprint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-a-comprehensive-guide-for-converting-pinterest-video-content-to-mp3-format/"><u>[New] A Comprehensive Guide for Converting Pinterest Video Content to MP3 Format</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-drone-selections-for-young-pilots-and-rookie-flyers/"><u>[New] Best Drone Selections for Young Pilots and Rookie Flyers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/new-essential-steps-to-update-your-macos-sierra-system/"><u>[New] Essential Steps to Update Your macOS Sierra System</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-in-2024-free-thumbnail-downloader-solutions-online/"><u>[New] In 2024, Free Thumbnail Downloader Solutions Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-in-2024-professional-livestream-tools-outside-of-standard-obs/"><u>[New] In 2024, Professional Livestream Tools Outside of Standard OBS</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screenpause-recorder-tutorial/"><u>[Updated] 2024 Approved  ScreenPause Recorder Tutorial</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-chromeos-screeen-logging/"><u>[Updated] 2024 Approved  Seamless ChromeOS Screeen Logging</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>[Updated] 2024 Approved  Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-9plus-ways-to-experience-cricket-live-streaming-at-its-best/"><u>[Updated] 9+ Ways to Experience Cricket Live Streaming at Its Best</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breathing-life-into-your-phone-the-complete-guide-to-android-audio-customization/"><u>[Updated] Breathing Life Into Your Phone  The Complete Guide to Android Audio Customization</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clear-shots-a-guide-to-still-image-stability/"><u>[Updated] Clear Shots  A Guide to Still Image Stability</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>[Updated] In 2024, Advanced Microphone Recorders for Mac Users  Our Five Superstar Picks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/updated-in-2024-reviewing-free-screen-recorder-tools-for-pc/"><u>[Updated] In 2024, Reviewing Free Screen Recorder Tools for PC</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-the-art-of-selective-engagement-on-ig/"><u>[Updated] The Art of Selective Engagement on IG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-apps-to-elevate-your-picture-grids/"><u>10 Apps to Elevate Your Picture Grids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deeper-dive-into-high-definition-online-visibility/"><u>2024 Approved  A Deeper Dive Into High Definition Online Visibility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bringing-history-alive-old-images-in-new-video-formats/"><u>2024 Approved  Bringing History Alive  Old Images in New Video Formats</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>2024 Approved  Clearer Visions  Advanced Techniques for Zooming Photos & Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/2024-approved-visionary-tech-review-the-video-hub/"><u>2024 Approved  Visionary Tech Review  The Video Hub</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-honor-100-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Honor 100</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bring-back-windows-photo-viewer-steps-in-win-11-edition-for-2024/"><u>Bring Back Windows Photo Viewer  Steps in Win 11 Edition for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/broadcast-tools-battle-wirecast-versus-obs-in-detail/"><u>Broadcast Tools Battle  Wirecast versus OBS in Detail</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/concealing-identity-swift-methods-for-picscanner-for-2024/"><u>Concealing Identity  Swift Methods for PicScanner for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-harmonious-mixes-the-audacity-crossfade-method-for-2024/"><u>Crafting Harmonious Mixes  The Audacity Crossfade Method for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-immersive-brand-experiences-in-metaverse-for-2024/"><u>Crafting Immersive Brand Experiences in Metaverse for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-http.techidaily.com/cutting-edge-tactics-for-engaging-social-media-medical-ads-for-2024/"><u>Cutting-Edge Tactics for Engaging Social Media Medical Ads for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/draft-humoristic-visuals-with-adobe-suite/"><u>Draft Humoristic Visuals with Adobe Suite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-photo-quality-discover-the-best-10-web-enhancement-software/"><u>Elevate Photo Quality  Discover the Best 10 Web Enhancement Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/extracted-image-selection-from-videos-to-windows-photos-for-2024/"><u>Extracted Image Selection  From Videos to Windows Photos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-tools-unlock-a-world-of-dvd-experience-on-devices/"><u>Free Tools  Unlock a World of DVD Experience on Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/funimate-masterclass-gameplay-enhancement/"><u>Funimate Masterclass  Gameplay Enhancement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highly-ranked-drone-selections-for-gopro-videos-and-shoots/"><u>Highly Ranked Drone Selections for GoPro Videos & Shoots</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a2-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A2 Phone that is Locked?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>In 2024, Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>In 2024, Conquering the Crash  Solutions for Windows 10 Photos Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-ideal-whatsapp-ringtone-ios-and-android-guide/"><u>In 2024, Crafting the Ideal WhatsApp Ringtone - iOS & Android Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-s17e-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo S17e</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-sure.techidaily.com/24-the-backward-playbook-youtubes-video-flip/"><u>In 2024, The Backward Playbook  YouTube's Video Flip</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/motorcycle-video-magic-best-cam-hats-of-2023-selection/"><u>Motorcycle Video Magic  Best Cam Hats of 2023 Selection</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-pip-a-step-by-step-guide-to-final-cut-pro/"><u>New In 2024, Mastering PiP A Step-by-Step Guide to Final Cut Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimize-online-sessions-tackling-zoom-audio-noise/"><u>Optimize Online Sessions  Tackling Zoom Audio Noise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-images-backup-portals/"><u>Premier Images Backup Portals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-energy-packs-for-gopro-hero5-black-certified-and-counterfeit-options/"><u>Premium Energy Packs for GoPro Hero5 Black – Certified & Counterfeit Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/round-lens-photography-a-complete-circuit/"><u>Round Lens Photography  A Complete Circuit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/samsung-bd-j5900-review-2023-update/"><u>Samsung BD-J5900 Review - 2023 Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-prime-websites-for-boxes-at-bargain-prices/"><u>The Ultimate List of Prime Websites for Boxes at Bargain Prices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-full-potential-of-video-calls-with-zoom-and-gmail-integration/"><u>Unlocking Full Potential of Video Calls with Zoom & Gmail Integration</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-install.techidaily.com/unlocking-new-features-msi-bios-driver-tweaks-in-classic-oss/"><u>Unlocking New Features: MSI BIOS Driver Tweaks in Classic OSs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lenovo-thinkphone-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lenovo ThinkPhone Device</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Capturing Life in New Ways  Hero 4 &amp; Hero 5 for 2024&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 10:46:27</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 10:46:27
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/capturing-life-in-new-ways-hero-4-and-hero-5-for-2024/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/charting-new-territories-leading-6-artists-in-nft-landscape-for-2024/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Charting New Territories  Leading 6 Artists in NFT Landscape for 2024&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/2024-approved-learn-how-to-change-number-on-tiktok-with-working-methods/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;2024 Approved  Learn How to Change Number on TikTok with Working Methods&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Capturing Life in New Ways  Hero 4 &amp; Hero 5 for 2024&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Capturing-Life-in-New-Ways-Hero-4-Hero-5"><span class="nav-text">Capturing Life in New Ways: Hero 4 &amp; Hero 5</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#GoPro-Hero5-Session-Vs-Hero-Session"><span class="nav-text">GoPro Hero5 Session Vs Hero Session</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Comparison-for-Hero5-Session-and-Hero-Session"><span class="nav-text">Comparison for Hero5 Session and Hero Session</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Comparison-for-Hero5-Session-and-Hero-Session-1"><span class="nav-text">Comparison for Hero5 Session and Hero Session</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Comparison-for-Hero5-Session-and-Hero-Session-2"><span class="nav-text">Comparison for Hero5 Session and Hero Session</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Comparison-for-Hero5-Session-and-Hero-Session-3"><span class="nav-text">Comparison for Hero5 Session and Hero Session</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

@@ -604,15 +604,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -634,407 +634,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287710359624ae1485aff3b993.jpg" alt="&#34;Enhancing Audio-Visual Sync with Subtitles on Windows Media Player&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;Enhancing Audio-Visual Sync with Subtitles on Windows Media Player&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 11:37:35</span>
-        <span class="mobile">2024-07-27 11:37:35</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 11:37:35</span>
-            <span class="mobile">2024-07-28 11:37:35</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Enhancing-Audio-Visual-Sync-with-Subtitles-on-Windows-Media-Player"><a href="#Enhancing-Audio-Visual-Sync-with-Subtitles-on-Windows-Media-Player" class="headerlink" title="Enhancing Audio-Visual Sync with Subtitles on Windows Media Player"></a>Enhancing Audio-Visual Sync with Subtitles on Windows Media Player</h2><h1 id="How-to-add-subtitles-to-windows-media-player"><a href="#How-to-add-subtitles-to-windows-media-player" class="headerlink" title="How to add subtitles to windows media player"></a>How to add subtitles to windows media player</h1><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<h5 id="Ollie-Mattison"><a href="#Ollie-Mattison" class="headerlink" title="Ollie Mattison"></a>Ollie Mattison</h5><p> Mar 27, 2024• Proven solutions</p>
-<p>Windows Media Player is still maintaining its wide popularity among users from every corner of world. There is no doubt to say that it hold impressive feature set with user friendly platform so people stay always curious to do adventurous things over it. The article below will help you to understand the trick to add subtitles into video clips using Window Media Player. By following few simple steps as discussed below, soon you will be able to gain access to your desired subtitles and then they can be merged with videos so easily. Keep reading:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19272-2087264"
-                      border="0" alt="" width="336" height="280"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2087264/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Step-by-Step-Guide"><a href="#Step-by-Step-Guide" class="headerlink" title="Step by Step Guide"></a>Step by Step Guide</h2><p>The process of adding subtitles to video clips is quite simple; you need to follow these steps: First of all, you need to install Windows media player on your Personal Computer. Prefer to get the latest version, it is easily available over internet and can be downloaded and installed by beginners too. Once your software tool is ready on your system then proceed ahead.</p>
-<p><strong>Step 1:</strong> First of all you need to save your video and subtitle file with same name. It is not possible to manually add subtitles using Window Media Player but it can easily detect all subtitles when both files are saved with same name.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/subtitle-wmp-1.jpg"
-                     
-                ></p>
-<p><strong>Step 2:</strong> Once you are done with the first step then simply open your Window Media Player and move to the Library Mode. Now switch to play, then Lyrics, captions and finally you will reach at subtitles. Hit this option and choose “On if Available”. The same option is also available in the Now Playing Mode where you simply need to right click and this option will appear in drop down menu.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg"
-                     
-                ></p>
-<p><strong>Step 3:</strong> Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.</p>
-<p><strong>Step 4:</strong> Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg"
-                      border="0"
-                >Nero Burning ROM:<br>The ultimate burning program for all your needs!</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg"
-                     
-                ></p>
-<p><strong>Step 5:</strong> Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4&#x2F;MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18498-2084399"
-                      border="0" alt="" width="1125" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2084399/18498"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/subtitle-wmp-4.jpg"
-                     
-                ></p>
-<p>As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.</p>
-<h2 id="Websites-for-Downloading-Subtitles"><a href="#Websites-for-Downloading-Subtitles" class="headerlink" title="Websites for Downloading Subtitles"></a>Websites for Downloading Subtitles</h2><p>If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg"
-                      border="0"
-                >Project Manager - Asset Browser for 3Ds Max</a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Moviesubtitles-com"><a href="#1-Moviesubtitles-com" class="headerlink" title="1. Moviesubtitles.com:"></a>1. Moviesubtitles.com:</h3><p>You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.</p>
-<h3 id="2-Subscene-com"><a href="#2-Subscene-com" class="headerlink" title="2. Subscene.com:"></a>2. Subscene.com:</h3><p>This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.</p>
-<h3 id="3-TVsubtitles-net"><a href="#3-TVsubtitles-net" class="headerlink" title="3. TVsubtitles.net:"></a>3. TVsubtitles.net:</h3><p>There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/19578-1793234"
-                      border="0" alt="" width="678" height="452"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1793234/19578"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="4-Tvsubs-net"><a href="#4-Tvsubs-net" class="headerlink" title="4. Tvsubs.net:"></a>4. Tvsubs.net:</h3><p>One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg"
-                      alt="author avatar"
-                ></p>
-<p>Ollie Mattison</p>
-<p>Ollie Mattison is a writer and a lover of all things video.</p>
-<p>Follow @Ollie Mattison</p>
-<p><ins class="adsbygoogle"
-      style="display:block"
-      data-ad-client="ca-pub-7571918770474297"
-      data-ad-slot="8358498916"
-      data-ad-format="auto"
-      data-full-width-responsive="true"></ins><br><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-2024-approved-beginners-path-to-screen-casting-with-apple-devices/"><u>[New] 2024 Approved  Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-behind-the-scenes-top-picks-of-monitors-and-tvs-for-xbox-series-x-gamers/"><u>[New] Behind-the-Scenes  Top Picks of Monitors & TVs for Xbox Series X Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-5-fpv-goggles-for-drone-racing/"><u>[New] Best 5 FPV Goggles for Drone Racing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/new-gently-introducing-scene/"><u>[New] Gently Introducing Scene</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/new-in-2024-get-real-in-depth-recording-with-macbooks-cam/"><u>[New] In 2024, Get Real  In-Depth Recording with MacBook's Cam</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/new-navigating-the-world-of-ig-data-an-expert-guide-to-understanding-metrics-for-2024/"><u>[New] Navigating the World of IG Data  An Expert Guide to Understanding Metrics for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/new-pixiz-essentials-from-stills-to-moving-images/"><u>[New] Pixiz Essentials  From Stills to Moving Images</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-converting-and-sharing-h-videos-on-igtv-for-2024/"><u>[New] The Ultimate Guide to Converting and Sharing H-Videos on IGTV for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/new-trailblazing-tiktok-profile-features-to-become-iconic/"><u>[New] Trailblazing TikTok Profile Features to Become Iconic</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] 2024 Approved  From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-sd-card-options-for-gopro-hero-8-plus-7-cameras/"><u>[Updated] Best SD Card Options for GoPro Hero 8 + 7 Cameras</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-discreetly-discovering-content-how-to-read-instagram-stories-privately-on-pcandroidios-for-2024/"><u>[Updated] Discreetly Discovering Content  How to Read Instagram Stories Privately on PC/Android/iOS for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-gamers-guide-to-video-recording/"><u>[Updated] Gamer's Guide to Video Recording</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/updated-how-to-time-your-instagram-content-for-max-engagement/"><u>[Updated] How to Time Your Instagram Content For Max Engagement</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-monthly-income-patterns-for-content-creators/"><u>[Updated] Monthly Income Patterns for Content Creators</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-the-travelers-guide-transforming-journeys-into-shareable-content/"><u>[Updated] The Traveler’s Guide  Transforming Journeys Into Shareable Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audiophiles-collection-of-drama-writing/"><u>2024 Approved  Audiophile's Collection of Drama Writing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breakthrough-methodology-introducing-chapters-in-your-youtube-videos/"><u>2024 Approved  Breakthrough Methodology  Introducing Chapters in Your YouTube Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-how-to-shoot-a-green-screen-video/"><u>2024 Approved  How to Shoot a Green Screen Video</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/2024-approved-luminaries-crafting-spectaculous-vr-journeys/"><u>2024 Approved  Luminaries Crafting Spectaculous VR Journeys</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/2024-approved-strategic-lighting-for-best-iphone-photography/"><u>2024 Approved  Strategic Lighting for Best iPhone Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-perfect-silence-swaps-with-reaper/"><u>Achieving Perfect Silence Swaps with Reaper</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-ever-film-dialogues-showcase-for-2024/"><u>Best-Ever Film Dialogues Showcase for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beyond-boxes-crafting-memorable-receiving-moments/"><u>Beyond Boxes  Crafting Memorable Receiving Moments</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/boost-your-instagrams-accessibility-with-easy-caption-features/"><u>Boost Your Instagram's Accessibility with Easy Caption Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-iphone-videography-skills-master-these-8-essentials/"><u>Boost Your iPhone Videography Skills  Master These 8 Essentials</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/bring-back-windows-photo-viewer-a-1111-edition-guide/"><u>Bring Back Windows Photo Viewer: A 11/11 Edition Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/daily-videography-size-byte-conversion-to-gb/"><u>Daily Videography Size  Byte Conversion to GB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-action-4-vs-gopro-max-360-vs-insta360-x3-which-suits-you-better/"><u>DJI Action 4 vs GoPro Max 360 vs Insta360 X3 Which Suits You Better?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/download-free-compelling-video-intros/"><u>Download Free  Compelling Video Intros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expertise-in-mobile-lut-apps/"><u>Expertise in Mobile LUT Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-hero-10-secrets-for-flawless-long-exposure-films/"><u>GoPro Hero 10 Secrets for Flawless Long-Exposure Films</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/guide-to-recording-adobe-presentation-videos-for-2024/"><u>Guide to Recording Adobe Presentation Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harness-the-power-of-post-production-top-11-techniques-for-vibrant-colors/"><u>Harness the Power of Post-Production  Top 11 Techniques for Vibrant Colors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-visual-impact-essential-tricks-for-pixlr-pros/"><u>In 2024, Boost Your Visual Impact  Essential Tricks for Pixlr Pros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-audio-artistry-in-visual-formats/"><u>In 2024, Bridging Audio Artistry in Visual Formats</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>In 2024, Canon Camera Experience  No Cost, But Pay for More LUTs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-canvascartoons-detailed-scrutiny-and-handbooks-24/"><u>In 2024, CanvasCartoons Detailed Scrutiny & Handbooks '24</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-reno-8t-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo Reno 8T Phone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/in-2024-video-editing-power-filmora-for-youtube-trailers/"><u>In 2024, Video Editing Power  Filmora for YouTube Trailers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-drone-flight-q500-typhoon-review/"><u>Innovative Drone Flight - Q500 Typhoon Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-platforms-modeling-animating-unite/"><u>Leading Platforms  Modeling, Animating Unite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-webinar-creation-kit/"><u>Premier Webinar Creation Kit</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/reaping-cognitive-rewards-in-later-life/"><u>Reaping Cognitive Rewards in Later Life</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/selecting-the-supreme-top-5-4k-tvs-for-vivid-hues/"><u>Selecting the Supreme  Top 5 4K TVs for Vivid Hues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-science-of-luts-elevating-photo-aesthetics/"><u>The Science of LUTs  Elevating Photo Aesthetics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/throughput-your-videos-8-top-android-apps/"><u>Throughput Your Videos  8 Top Android Apps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/unleash-your-ads-potential-mastering-fb-ad-roi-with-motion-graphics/"><u>Unleash Your Ad's Potential  Mastering FB Ad ROI with Motion Graphics</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;Enhancing Audio-Visual Sync with Subtitles on Windows Media Player&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 11:37:35</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 11:37:35
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/enhancing-audio-visual-sync-with-subtitles-on-windows-media-player/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/enhance-audio-visual-experience-windows-media-player-subtitles/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Enhance Audio-Visual Experience  Windows Media Player Subtitles&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/elevating-execution-the-fonts-of-after-effects/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Elevating Execution  The Fonts of After Effects&#34;</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;Enhancing Audio-Visual Sync with Subtitles on Windows Media Player&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Enhancing-Audio-Visual-Sync-with-Subtitles-on-Windows-Media-Player"><span class="nav-text">Enhancing Audio-Visual Sync with Subtitles on Windows Media Player</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#How-to-add-subtitles-to-windows-media-player"><span class="nav-text">How to add subtitles to windows media player</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Step-by-Step-Guide"><span class="nav-text">Step by Step Guide</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Websites-for-Downloading-Subtitles"><span class="nav-text">Websites for Downloading Subtitles</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Moviesubtitles-com"><span class="nav-text">1. Moviesubtitles.com:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Subscene-com"><span class="nav-text">2. Subscene.com:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-TVsubtitles-net"><span class="nav-text">3. TVsubtitles.net:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Tvsubs-net"><span class="nav-text">4. Tvsubs.net:</span></a></li></ol></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

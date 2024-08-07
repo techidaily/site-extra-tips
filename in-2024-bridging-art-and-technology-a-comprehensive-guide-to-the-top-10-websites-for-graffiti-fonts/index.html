@@ -635,15 +635,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,907 +665,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png" alt="&#34;In 2024, Bridging Art and Technology  A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts&#34;" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">&#34;In 2024, Bridging Art and Technology  A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts&#34;</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:53:51</span>
-        <span class="mobile">2024-07-27 07:53:51</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:53:51</span>
-            <span class="mobile">2024-07-28 07:53:51</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Bridging-Art-and-Technology-A-Comprehensive-Guide-to-the-Top-10-Websites-for-Graffiti-Fonts"><a href="#Bridging-Art-and-Technology-A-Comprehensive-Guide-to-the-Top-10-Websites-for-Graffiti-Fonts" class="headerlink" title="Bridging Art and Technology: A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts"></a>Bridging Art and Technology: A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts</h2><p>In digital marketing and web designing, you have to emphasize visuals to spice up your social media posts or website. Adding 3D graffiti text can make your site look dynamic and give it a more professional feel.</p>
-<p>However, finding high-definition 3D graffiti fonts can take time and effort. In this article, we’ll recommend the 8 best online resources that offer numerous text styles for you to choose from.</p>
-<p>So, let’s get started with our review without any further delay!</p>
-<ol>
-<li><a href="#part1-1">FreePik</a></li>
-<li><a href="#part1-2">Shutterstock</a></li>
-<li><a href="#part1-3">Vecteezy</a></li>
-<li><a href="#part1-4">Befonts</a></li>
-<li><a href="#part1-5">Adobe Stock</a></li>
-<li><a href="#part1-6">Dafont</a></li>
-<li><a href="#part1-7">MyFonts</a></li>
-<li><a href="#part1-8">FontSpace</a></li>
-</ol>
-<ul>
-<li><a href="#part2">How To Edit Graffiti Text Effects in Video</a></li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png"
-                      border="0"
-                >TubeDigger - online video downloader from mostly any site</a></p>
-<!-- affiliate ads end -->
-<h2 id="Recommendation-8-Websites-To-Find-3D-Graffiti-Text"><a href="#Recommendation-8-Websites-To-Find-3D-Graffiti-Text" class="headerlink" title="Recommendation - 8 Websites To Find 3D Graffiti Text"></a>Recommendation - 8 Websites To Find 3D Graffiti Text</h2><p>Many resources are available online for font styles, so it can be challenging to know which is the best. To help you find the correct repository, we’ve extensively researched and compiled a list of the 8 best online websites for 3D graffiti fonts.</p>
-<p>No matter what style you’re going for, you’re sure to find the perfect 3D graffiti text resource in one of these online libraries.</p>
-<h3 id="1-Freepik"><a href="#1-Freepik" class="headerlink" title="1. Freepik"></a>1. <a class="link"   target="_blank" rel="noopener" href="https://www.freepik.com/free-photos-vectors/graffiti-font" >Freepik <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>With a large selection of high-quality assets, Freepik is an excellent website to start your search for the perfect 3d graffiti font for your project. On this online resource, you can find over 8,000 editable vector text effects for free.</p>
-<p>To get the font, visit the Freepik website using a browser and use the search field to find the text style. Use the filters in the left panel to categorize the search result, select a template, and click <strong>“Download.”</strong></p>
-<!-- affiliate ads begin -->
-<p><a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17091-2042323"
-                      border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2042323/17091"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/freepik-3d-gold-text.png"
-                      alt="freepik for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Fully scalable and editable assets</li>
-<li>Available as an Android app</li>
-<li>Millions of free and premium assets</li>
-<li>High-definition royalty-free stock images</li>
-<li>New assets are uploaded daily</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You can only download 10 pictures for free</li>
-</ul>
-<h3 id="2-Shutterstock"><a href="#2-Shutterstock" class="headerlink" title="2. Shutterstock"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://www.shutterstock.com/zh/search/3d-graffiti-font?image_type=vector" >Shutterstock <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Shutterstock is a global online marketplace for high-definition stunning visuals, including royalty-free photos, 3D graffiti fonts, videos, and vectors. Here, you can get over 405 million assets at a price starting from $0.22–$14.50&#x2F;image and $67.96–$99.50&#x2F;image for an extended license.</p>
-<p>Furthermore, this online resource allows you to download 10 images for free during the trial period. To begin with, visit the website using a browser, sign up for a free trial or premium plan, and simply search for 3D graffiti fonts.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/shutterstock-for-3d-graffiti-text.png"
-                      alt="shutterstock for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>30-day free trial</li>
-<li>Reasonable pricing</li>
-<li>Largest online collection of royalty-free assets</li>
-<li>Over 2,600 graffiti fonts</li>
-<li>User-friendly UI</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Some users are experiencing issues while canceling their subscription</li>
-</ul>
-<h3 id="3-Vecteezy"><a href="#3-Vecteezy" class="headerlink" title="3. Vecteezy"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.vecteezy.com/free-vector/graffiti-font" >Vecteezy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Vecteezy is another excellent online resource with a vast selection of high-quality 3D graffiti fonts that will make your designs look different. In addition, the website offers royalty-free photos, videos, and vectors for free and premium.</p>
-<p>To download the 3D graffiti fonts from Vecteezy:</p>
-<ol>
-<li>Launch a browser on your desktop and visit the website.</li>
-<li>Use the search field and filters to find the template you want.</li>
-<li>Click <strong>“Download”</strong> to save the effect.</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG"
-                      border="0"
-                >The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/3d-gold-text-behance-vecteezy.png"
-                      alt="vecteezy for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>The website’s database is constantly updated</li>
-<li>Unlimited downloads in the premium version</li>
-<li>Affordable</li>
-<li>Precise licensing requirements and details</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot download the assets in the format you want</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.blumentals.net/scrwonder/images/screensaver-software.png"
-                      border="0"
-                >With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a></p>
-<!-- affiliate ads end -->
-<h3 id="4-Befonts"><a href="#4-Befonts" class="headerlink" title="4. Befonts"></a>4. <a class="link"   target="_blank" rel="noopener" href="https://befonts.com/display-font/graffiti" >Befonts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Whether looking for 3D graffiti text for personal or commercial use, you’ll find a suitable template on the Befonts website. From script fonts to handwritten to Sans Serif and calligraphy, this online resource is full of every text style you want.</p>
-<p>On Befonts, you can also find text templates from different font designers. To get the 3D graffiti fonts for your next project:</p>
-<ol>
-<li>Visit the website using your preferred browser and click the ;<strong>Search</strong> ;icon.</li>
-<li>Type <strong>3D graffiti text</strong> and hit ;<strong>Enter</strong>.</li>
-<li>Select a template and click <strong>Download</strong> ;to save it. ;</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/befonts-for-3d-graffiti-text.png"
-                      alt="befonts for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Free templates for personal and commercial use</li>
-<li>Excellent UI</li>
-<li>Numerous text categories and styles</li>
-<li>It helps you with fonts identification</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You can download text styles in only zip format.</li>
-</ul>
-<h3 id="5-Adobe-Stock"><a href="#5-Adobe-Stock" class="headerlink" title="5. Adobe Stock"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://stock.adobe.com/search?k=graffiti%20fonts" >Adobe Stock <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>With over a million fonts, Adobe Stock has a wide selection of templates perfect for any project. In addition, the website’s interface is easy-to-use and comes with advanced search functionality.</p>
-<p>You can access all the fonts you need to create stunning visuals for $49.99 monthly and a 30-day free trial (limited to 10 downloads).</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/adobe-stock-for-3d-text-png.png"
-                      alt="adobe stock for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>297 million royalty-free</li>
-<li>A hassle-free licensing process</li>
-<li>AI image search</li>
-<li>Creative Cloud integration</li>
-<li>Diverse subscription option</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot get extended licenses in bulk</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png"
-                      border="0"
-                >ZoneAlarm Extreme Security NextGen</a></p>
-<!-- affiliate ads end -->
-<h3 id="6-Dafont"><a href="#6-Dafont" class="headerlink" title="6. Dafont"></a>6. <a class="link"   target="_blank" rel="noopener" href="https://www.dafont.com/theme.php?cat=606" >Dafont <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Dafonts is an excellent online platform for downloading free 3D graffiti fonts to add depth and dimension to the text and make your project stand out. You can even search for fonts by theme.</p>
-<p>To begin with, visit the <strong>Dafont</strong> website using a browser and use the search field to find <strong>3D graffiti font.</strong> Next, choose the template you like and click <strong>Download</strong> to get the zip file.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/dafont-for-3d-graffiti-fonts.png"
-                      alt="dafont for 3d graffiti fonts"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Easy-to-understand interface</li>
-<li>Free license</li>
-<li>Over 71,000 fonts to choose from</li>
-<li>No registration required</li>
-<li>Easy categorization</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Only zip file format is available to download</li>
-</ul>
-<h3 id="7-MyFonts"><a href="#7-MyFonts" class="headerlink" title="7. MyFonts"></a>7. <a class="link"   target="_blank" rel="noopener" href="https://www.myfonts.com/collections/tags/3d+Graffiti-fonts" >MyFonts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Founded in 2002, MyFonts is the largest repository for free and paid font styles. You can find any 3D graffiti font style on this online resource, whether looking for classic serifs or funky display ones.</p>
-<p>To download:</p>
-<ol>
-<li>Launch a browser and go to the <strong>MyFonts</strong> website.</li>
-<li>Set the text size, color, basic typesetting, and letter case.</li>
-<li>Type <strong>3D graffiti tex</strong>t in the search field and hit <strong>Enter</strong>.</li>
-<li>Select the font and download it.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/myfonts-for-3d-graffiti-text.png"
-                      alt="myfonts for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Creative text styles and shapes</li>
-<li>Let you select the correct license type</li>
-<li>Intuitive user interface</li>
-<li>Various filters and categories</li>
-<li>The library is updated regularly</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Complicated licensing process</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/16396-1399701"
-                      border="0" alt="" width="960" height="300"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1399701/16396"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h3 id="8-FontSpace"><a href="#8-FontSpace" class="headerlink" title="8. FontSpace"></a>8. <a class="link"   target="_blank" rel="noopener" href="https://www.fontspace.com/category/graffiti" >FontSpace <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>FontSpace is a website that offers a vast selection of free 3D graffiti fonts. In addition, you can browse through the text styles by category, type, and color.</p>
-<p>With over 90,000 resources, you’re sure to find the perfect customizable font for your next project. If not, you can always create a new one using its <strong>Font Generator.</strong></p>
-<!-- affiliate ads begin -->
-<p><a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17634-1509856"
-                      border="0" alt="" width="730" height="383"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/fontspace-for-3d-graffiti-fonts.png"
-                      alt="fontspace for 3d graffiti fonts"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Licensed free fonts.</li>
-<li>Available for both personal and commercial use</li>
-<li>Easy-to-use website</li>
-<li>Lets designers share their fonts</li>
-<li>It doesn’t require an account</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot use various fonts for commercial use.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/18460-2006123"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/2006123/18460"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="How-To-Edit-Graffiti-Text-Effects-in-Video"><a href="#How-To-Edit-Graffiti-Text-Effects-in-Video" class="headerlink" title="How To Edit Graffiti Text Effects in Video"></a>How To Edit Graffiti Text Effects in Video</h2><p>Although the above-mentioned online resources are rich with gold text styles, they do not offer editing tools to edit text effects in a video. Therefore, we recommend using Filmora – a powerful video editing software that can help you add any 3D graffiti fonts to your footage.</p>
-<p>The following step-by-step process will show you <strong>how to create 3D graffiti text in video</strong> using <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1 Go to the <strong>Wondershare Filmora</strong> website to download the installation file, depending on your operating system. ;</p>
-<p>Next, open the <strong>Downloads</strong> folder on your system, install the software, and launch it. Once the program opens, click <strong>“New Project”</strong> on the welcome screen.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png"
-                      alt="creating new project"
-                ></p>
-<p>Step2 Drag &amp; drop the file directly to the ;<strong>Project Media</strong> ;folder, click the ;<strong>“File” ;<strong>option and choose ;</strong>“Import Media Files”</strong> ;to upload your video clip to Filmora. ;</p>
-<p>Step3 Now, drag &amp; drop the video clip to the timeline to begin editing 3D graffiti text in a video. Next, go to the <strong>Titles</strong> tab located in the top panel.</p>
-<p>In the search field, type 3D graffiti text and hit Enter. Next, select the template, click the ;<strong>download</strong> ;icon, and drop the font layer in the timeline. ;</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png"
-                      border="0"
-                >FX PRO (Gold Robot + Silver Robot(Basic Package))</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png"
-                      alt="creating 3d graffiti text animation in filmora"
-                ></p>
-<p>Step4 Place the text effect in the timeline where you want it to be displayed in the video. Now, double-click the template and type your text.<br>Configure the text style, duration, and color on the video. You can also apply animation by clicking the <strong>“Advanced”</strong> option.</p>
-<p>Step5 Once done, click the Play icons in the video player to preview the video. Finally, click the <strong>Export &gt; Export</strong> buttons to save the final project.</p>
-<p>You can also watch this video to follow the steps to create 3D text animation in Filmora:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/17020-1453719"
-                      border="0" alt="" width="300" height="250"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1453719/17020"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In this detailed guide, we’ve recommended the 8 best websites to find 3D graffiti fonts. In addition, we’ve discussed their features and limitations to help you make sure that you get high-quality text styles.</p>
-<p>We’ve also provided a step-by-step guide to help you edit graffiti text effects in a video using Wondershare Filmora. ;</p>
-<p>Hopefully, you’ve found this article helpful and can now get the proper 3D fonts for your website or social media post to make them visually appealing.</p>
-<p>Recommendation - 8 Websites To Find 3D Graffiti Text</p>
-<p>Many resources are available online for font styles, so it can be challenging to know which is the best. To help you find the correct repository, we’ve extensively researched and compiled a list of the 8 best online websites for 3D graffiti fonts.</p>
-<p>No matter what style you’re going for, you’re sure to find the perfect 3D graffiti text resource in one of these online libraries.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="1-Freepik-1"><a href="#1-Freepik-1" class="headerlink" title="1. Freepik"></a>1. <a class="link"   target="_blank" rel="noopener" href="https://www.freepik.com/free-photos-vectors/graffiti-font" >Freepik <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>With a large selection of high-quality assets, Freepik is an excellent website to start your search for the perfect 3d graffiti font for your project. On this online resource, you can find over 8,000 editable vector text effects for free.</p>
-<p>To get the font, visit the Freepik website using a browser and use the search field to find the text style. Use the filters in the left panel to categorize the search result, select a template, and click <strong>“Download.”</strong></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png"
-                      border="0"
-                >dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/freepik-3d-gold-text.png"
-                      alt="freepik for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Fully scalable and editable assets</li>
-<li>Available as an Android app</li>
-<li>Millions of free and premium assets</li>
-<li>High-definition royalty-free stock images</li>
-<li>New assets are uploaded daily</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You can only download 10 pictures for free</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.epubor.com/images/uppic/audible-converter-interface.png"
-                      border="0"
-                >Epubor Audible Converter for Win： Download and convert Audible AAXC&#x2F;AA&#x2F;AAX to MP3 with 100% original quality preserved.</a></p>
-<!-- affiliate ads end -->
-<h3 id="2-Shutterstock-1"><a href="#2-Shutterstock-1" class="headerlink" title="2. Shutterstock"></a>2. <a class="link"   target="_blank" rel="noopener" href="https://www.shutterstock.com/zh/search/3d-graffiti-font?image_type=vector" >Shutterstock <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Shutterstock is a global online marketplace for high-definition stunning visuals, including royalty-free photos, 3D graffiti fonts, videos, and vectors. Here, you can get over 405 million assets at a price starting from $0.22–$14.50&#x2F;image and $67.96–$99.50&#x2F;image for an extended license.</p>
-<p>Furthermore, this online resource allows you to download 10 images for free during the trial period. To begin with, visit the website using a browser, sign up for a free trial or premium plan, and simply search for 3D graffiti fonts.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/shutterstock-for-3d-graffiti-text.png"
-                      alt="shutterstock for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>30-day free trial</li>
-<li>Reasonable pricing</li>
-<li>Largest online collection of royalty-free assets</li>
-<li>Over 2,600 graffiti fonts</li>
-<li>User-friendly UI</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Some users are experiencing issues while canceling their subscription</li>
-</ul>
-<h3 id="3-Vecteezy-1"><a href="#3-Vecteezy-1" class="headerlink" title="3. Vecteezy"></a>3. <a class="link"   target="_blank" rel="noopener" href="https://www.vecteezy.com/free-vector/graffiti-font" >Vecteezy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Vecteezy is another excellent online resource with a vast selection of high-quality 3D graffiti fonts that will make your designs look different. In addition, the website offers royalty-free photos, videos, and vectors for free and premium.</p>
-<p>To download the 3D graffiti fonts from Vecteezy:</p>
-<ol>
-<li>Launch a browser on your desktop and visit the website.</li>
-<li>Use the search field and filters to find the template you want.</li>
-<li>Click <strong>“Download”</strong> to save the effect.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/3d-gold-text-behance-vecteezy.png"
-                      alt="vecteezy for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>The website’s database is constantly updated</li>
-<li>Unlimited downloads in the premium version</li>
-<li>Affordable</li>
-<li>Precise licensing requirements and details</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot download the assets in the format you want</li>
-</ul>
-<h3 id="4-Befonts-1"><a href="#4-Befonts-1" class="headerlink" title="4. Befonts"></a>4. <a class="link"   target="_blank" rel="noopener" href="https://befonts.com/display-font/graffiti" >Befonts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Whether looking for 3D graffiti text for personal or commercial use, you’ll find a suitable template on the Befonts website. From script fonts to handwritten to Sans Serif and calligraphy, this online resource is full of every text style you want.</p>
-<p>On Befonts, you can also find text templates from different font designers. To get the 3D graffiti fonts for your next project:</p>
-<ol>
-<li>Visit the website using your preferred browser and click the ;<strong>Search</strong> ;icon.</li>
-<li>Type <strong>3D graffiti text</strong> and hit ;<strong>Enter</strong>.</li>
-<li>Select a template and click <strong>Download</strong> ;to save it. ;</li>
-</ol>
-<!-- affiliate ads begin -->
-<p><a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/3022-398453"
-                      border="0" alt="www.sentrypc.com" width="580" height="400"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://sentrypc.7eer.net/i/5597632/398453/3022"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/befonts-for-3d-graffiti-text.png"
-                      alt="befonts for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Free templates for personal and commercial use</li>
-<li>Excellent UI</li>
-<li>Numerous text categories and styles</li>
-<li>It helps you with fonts identification</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You can download text styles in only zip format.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h3 id="5-Adobe-Stock-1"><a href="#5-Adobe-Stock-1" class="headerlink" title="5. Adobe Stock"></a>5. <a class="link"   target="_blank" rel="noopener" href="https://stock.adobe.com/search?k=graffiti%20fonts" >Adobe Stock <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>With over a million fonts, Adobe Stock has a wide selection of templates perfect for any project. In addition, the website’s interface is easy-to-use and comes with advanced search functionality.</p>
-<p>You can access all the fonts you need to create stunning visuals for $49.99 monthly and a 30-day free trial (limited to 10 downloads).</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/adobe-stock-for-3d-text-png.png"
-                      alt="adobe stock for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>297 million royalty-free</li>
-<li>A hassle-free licensing process</li>
-<li>AI image search</li>
-<li>Creative Cloud integration</li>
-<li>Diverse subscription option</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot get extended licenses in bulk</li>
-</ul>
-<h3 id="6-Dafont-1"><a href="#6-Dafont-1" class="headerlink" title="6. Dafont"></a>6. <a class="link"   target="_blank" rel="noopener" href="https://www.dafont.com/theme.php?cat=606" >Dafont <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Dafonts is an excellent online platform for downloading free 3D graffiti fonts to add depth and dimension to the text and make your project stand out. You can even search for fonts by theme.</p>
-<p>To begin with, visit the <strong>Dafont</strong> website using a browser and use the search field to find <strong>3D graffiti font.</strong> Next, choose the template you like and click <strong>Download</strong> to get the zip file.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2087484"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2087484/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/dafont-for-3d-graffiti-fonts.png"
-                      alt="dafont for 3d graffiti fonts"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Easy-to-understand interface</li>
-<li>Free license</li>
-<li>Over 71,000 fonts to choose from</li>
-<li>No registration required</li>
-<li>Easy categorization</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Only zip file format is available to download</li>
-</ul>
-<h3 id="7-MyFonts-1"><a href="#7-MyFonts-1" class="headerlink" title="7. MyFonts"></a>7. <a class="link"   target="_blank" rel="noopener" href="https://www.myfonts.com/collections/tags/3d+Graffiti-fonts" >MyFonts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>Founded in 2002, MyFonts is the largest repository for free and paid font styles. You can find any 3D graffiti font style on this online resource, whether looking for classic serifs or funky display ones.</p>
-<p>To download:</p>
-<ol>
-<li>Launch a browser and go to the <strong>MyFonts</strong> website.</li>
-<li>Set the text size, color, basic typesetting, and letter case.</li>
-<li>Type <strong>3D graffiti tex</strong>t in the search field and hit <strong>Enter</strong>.</li>
-<li>Select the font and download it.</li>
-</ol>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/myfonts-for-3d-graffiti-text.png"
-                      alt="myfonts for 3d graffiti text"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Creative text styles and shapes</li>
-<li>Let you select the correct license type</li>
-<li>Intuitive user interface</li>
-<li>Various filters and categories</li>
-<li>The library is updated regularly</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>Complicated licensing process</li>
-</ul>
-<h3 id="8-FontSpace-1"><a href="#8-FontSpace-1" class="headerlink" title="8. FontSpace"></a>8. <a class="link"   target="_blank" rel="noopener" href="https://www.fontspace.com/category/graffiti" >FontSpace <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><p>FontSpace is a website that offers a vast selection of free 3D graffiti fonts. In addition, you can browse through the text styles by category, type, and color.</p>
-<p>With over 90,000 resources, you’re sure to find the perfect customizable font for your next project. If not, you can always create a new one using its <strong>Font Generator.</strong></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/fontspace-for-3d-graffiti-fonts.png"
-                      alt="fontspace for 3d graffiti fonts"
-                ></p>
-<p><strong>Features</strong></p>
-<ul>
-<li>Licensed free fonts.</li>
-<li>Available for both personal and commercial use</li>
-<li>Easy-to-use website</li>
-<li>Lets designers share their fonts</li>
-<li>It doesn’t require an account</li>
-</ul>
-<p><strong>Limitations</strong></p>
-<ul>
-<li>You cannot use various fonts for commercial use.</li>
-</ul>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<h2 id="How-To-Edit-Graffiti-Text-Effects-in-Video-1"><a href="#How-To-Edit-Graffiti-Text-Effects-in-Video-1" class="headerlink" title="How To Edit Graffiti Text Effects in Video"></a>How To Edit Graffiti Text Effects in Video</h2><p>Although the above-mentioned online resources are rich with gold text styles, they do not offer editing tools to edit text effects in a video. Therefore, we recommend using Filmora – a powerful video editing software that can help you add any 3D graffiti fonts to your footage.</p>
-<p>The following step-by-step process will show you <strong>how to create 3D graffiti text in video</strong> using <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Wondershare Filmora <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p>Step1 Go to the <strong>Wondershare Filmora</strong> website to download the installation file, depending on your operating system. ;</p>
-<p>Next, open the <strong>Downloads</strong> folder on your system, install the software, and launch it. Once the program opens, click <strong>“New Project”</strong> on the welcome screen.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png"
-                      border="0"
-                ><br>WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)–Yearly</a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png"
-                      alt="creating new project"
-                ></p>
-<p>Step2 Drag &amp; drop the file directly to the ;<strong>Project Media</strong> ;folder, click the ;<strong>“File” ;<strong>option and choose ;</strong>“Import Media Files”</strong> ;to upload your video clip to Filmora. ;</p>
-<p>Step3 Now, drag &amp; drop the video clip to the timeline to begin editing 3D graffiti text in a video. Next, go to the <strong>Titles</strong> tab located in the top panel.</p>
-<p>In the search field, type 3D graffiti text and hit Enter. Next, select the template, click the ;<strong>download</strong> ;icon, and drop the font layer in the timeline. ;</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png"
-                      alt="creating 3d graffiti text animation in filmora"
-                ></p>
-<p>Step4 Place the text effect in the timeline where you want it to be displayed in the video. Now, double-click the template and type your text.<br>Configure the text style, duration, and color on the video. You can also apply animation by clicking the <strong>“Advanced”</strong> option.</p>
-<p>Step5 Once done, click the Play icons in the video player to preview the video. Finally, click the <strong>Export &gt; Export</strong> buttons to save the final project.</p>
-<p>You can also watch this video to follow the steps to create 3D text animation in Filmora:</p>
-<!-- affiliate ads begin -->
-<p><a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/14483-1872496"
-                      border="0" alt="" width="750" height="625"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1872496/14483"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<h2 id="Conclusion-1"><a href="#Conclusion-1" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>In this detailed guide, we’ve recommended the 8 best websites to find 3D graffiti fonts. In addition, we’ve discussed their features and limitations to help you make sure that you get high-quality text styles.</p>
-<p>We’ve also provided a step-by-step guide to help you edit graffiti text effects in a video using Wondershare Filmora. ;</p>
-<p>Hopefully, you’ve found this article helpful and can now get the proper 3D fonts for your website or social media post to make them visually appealing.</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-canonayers-guide-to-color-gratification-paid-and-no-cost-luts/"><u>[New] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-tips.techidaily.com/xplore-popular-youtube-comment-sections/"><u>[New] Explore Popular YouTube Comment Sections</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-activity-recording.techidaily.com/new-full-screen-recovered-from-obs-errors/"><u>[New] Full Screen Recovered From OBS Errors</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/new-home-theater-excellence-the-best-blu-ray-selections/"><u>[New] Home Theater Excellence  The Best Blu-Ray Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-captivating-titles-easily-achievable/"><u>[Updated] Captivating Titles, Easily Achievable</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/updated-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok-for-2024/"><u>[Updated] Gentle Grooves  A Selection of Chill Country Songs for Relaxing Dancing (TikTok) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-10-iconic-movie-moments-to-inspire-your-edits/"><u>2024 Approved  10 Iconic Movie Moments to Inspire Your Edits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>2024 Approved  Boost Your Movie Magic  Free Text Animation Basics</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/2024-approved-increase-watch-time-tailoring-fantastic-templates-for-your-yt-descriptions/"><u>2024 Approved  Increase Watch Time  Tailoring Fantastic Templates for Your YT Descriptions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-guide-to-designing-spectacular-photo-tileworks-for-2024/"><u>A Guide to Designing Spectacular Photo Tileworks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/adobe-auditions-guide-to-incremental-volume-for-2024/"><u>Adobe Audition's Guide to Incremental Volume for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-gopros-where-to-buy-with-best-price/"><u>Affordable GoPros  Where to Buy with Best Price</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/alluring-phrase-formulation-device-for-2024/"><u>Alluring Phrase Formulation Device for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-and-you-understanding-its-healing-power/"><u>ASMR and You  Understanding Its Healing Power</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-resources.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success/"><u>Building an Empire in SMM  A Step-by-Step Guide for Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-discussion-googles-podcast-uncovered-for-2024/"><u>Comprehensive Discussion  Google's Podcast Uncovered for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-review-top-vehicle-monitoring-devices-for-2024/"><u>Comprehensive Review  TOP Vehicle Monitoring Devices for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-install.techidaily.com/direct-enhancement-for-gtx-750-ti-drivers/"><u>Direct Enhancement for GTX 750 Ti Drivers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/direct-transfer-path-youtube-content-to-dailymotion-hub-for-2024/"><u>Direct Transfer Path  YouTube Content to Dailymotion Hub for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/ient-techniques-ios-screenshots-and-youtube-content-creation-for-2024/"><u>Efficient Techniques  IOS Screenshots and YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficiently-manage-your-ios-gallery-album-organization-and-cloud-syncing/"><u>Efficiently Manage Your iOS Gallery  Album Organization & Cloud Syncing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/elevate-canva-creations-with-these-10-secrets/"><u>Elevate Canva Creations with These 10 Secrets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/envisioned-realities-a-selective-list-of-virtual-wisdoms/"><u>Envisioned Realities  A Selective List of Virtual Wisdoms</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s21-fe-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S21 FE 5G (2023) Phones with/without a PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/image-magic-top-10-frame-enhancement-tools-online/"><u>Image Magic  Top 10 Frame-Enhancement Tools Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-20-complimentary-luts-available-for-dji-miniair-2-users/"><u>In 2024, 20 Complimentary LUTs Available for DJI Mini/Air 2 Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-gopro-purchase-guide-tips-and-tricks/"><u>In 2024, Affordable GoPro Purchase Guide  Tips & Tricks</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/in-2024-invisible-strategies-to-avoid-home-school-vids/"><u>In 2024, Invisible Strategies to Avoid Home School Vids</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/in-2024-sons-of-midgard-unite-epic-release/"><u>In 2024, Sons of Midgard Unite! Epic Release</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-step-into-a-world-of-eye-catching-imagery-at-pexels/"><u>In 2024, Step Into a World of Eye-Catching Imagery at Pexels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/insight-dji-paper-bird-goggles-functionality/"><u>Insight  DJI Paper Bird Goggles Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/live-streaming-simplified-a-guide-to-using-onestream/"><u>Live Streaming Simplified  A Guide to Using OneStream</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>Maximizing B-Roll  Effective Techniques for Enhancing Videos</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-files.techidaily.com/rapid-recovery-of-elusive-memories/"><u>Rapid Recovery of Elusive Memories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplified-avi-to-graphic-style-gif-transformation-using-the-power-of-filmora/"><u>Simplified AVI to Graphic-Style GIF Transformation Using the Power of Filmora</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skillful-strategies-for-sustaining-design-success/"><u>Skillful Strategies for Sustaining Design Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/starters-guide-to-optimal-gopro-accessories-list/"><u>Starter’s Guide to Optimal GoPro Accessories List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tailored-visual-representation-free-logo-base-for-personal-touches/"><u>Tailored Visual Representation  Free Logo Base for Personal Touches</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-insiders-guide-to-mastering-windows-10/"><u>The Insider's Guide to Mastering WINDOWS 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-path-to-professional-pictures-with-video-enhance-v22/"><u>The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/the-social-media-revolution-a-side-by-side-look-at-tiktok-and-snapchats-features-for-2024/"><u>The Social Media Revolution  A Side-By-Side Look at TikTok and Snapchat's Features for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-pathway-understanding-adobes-storage-solutions-and-best-backups/"><u>The Ultimate Pathway  Understanding Adobe's Storage Solutions & Best Backups</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/unlocking-potential-how-to-gain-more-viewers-and-followers-on-youtube-for-2024/"><u>Unlocking Potential  How to Gain More Viewers and Followers on Youtube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unraveling-the-enthralling-elements-of-filmora-editing/"><u>Unraveling the Enthralling Elements of Filmora Editing</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> &#34;In 2024, Bridging Art and Technology  A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts&#34;</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:53:51</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:53:51
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/in-2024-bridging-art-and-technology-a-comprehensive-guide-to-the-top-10-websites-for-graffiti-fonts/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/new-boost-your-buzz-telegram-tactics-for-impactful-promotion/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;[New] Boost Your Buzz  Telegram Tactics for Impactful Promotion&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/boost-your-home-cinema-skills-with-these-top-5-tips-for-2024/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Boost Your Home Cinema Skills with These Top 5 Tips for 2024</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">&#34;In 2024, Bridging Art and Technology  A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts&#34;</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Bridging-Art-and-Technology-A-Comprehensive-Guide-to-the-Top-10-Websites-for-Graffiti-Fonts"><span class="nav-text">Bridging Art and Technology: A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Recommendation-8-Websites-To-Find-3D-Graffiti-Text"><span class="nav-text">Recommendation - 8 Websites To Find 3D Graffiti Text</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Freepik"><span class="nav-text">1. Freepik </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shutterstock"><span class="nav-text">2. Shutterstock </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Vecteezy"><span class="nav-text">3. Vecteezy </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Befonts"><span class="nav-text">4. Befonts </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Adobe-Stock"><span class="nav-text">5. Adobe Stock </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Dafont"><span class="nav-text">6. Dafont </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-MyFonts"><span class="nav-text">7. MyFonts </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-FontSpace"><span class="nav-text">8. FontSpace </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-To-Edit-Graffiti-Text-Effects-in-Video"><span class="nav-text">How To Edit Graffiti Text Effects in Video</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-Freepik-1"><span class="nav-text">1. Freepik </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-Shutterstock-1"><span class="nav-text">2. Shutterstock </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-Vecteezy-1"><span class="nav-text">3. Vecteezy </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-Befonts-1"><span class="nav-text">4. Befonts </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#5-Adobe-Stock-1"><span class="nav-text">5. Adobe Stock </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#6-Dafont-1"><span class="nav-text">6. Dafont </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#7-MyFonts-1"><span class="nav-text">7. MyFonts </span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#8-FontSpace-1"><span class="nav-text">8. FontSpace </span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#How-To-Edit-Graffiti-Text-Effects-in-Video-1"><span class="nav-text">How To Edit Graffiti Text Effects in Video</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion-1"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 

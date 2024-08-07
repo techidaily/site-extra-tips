@@ -607,15 +607,15 @@
 
         <div class="statistics flex justify-around my-2.5">
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">7</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">11</div>
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18144</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18191</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -637,471 +637,263 @@
                 
 		    <!-- add seo affiliate products -->
 <a target="_blank" rel="noopener" href="https://store.drivereasy.com/order/cart.php?PRODS=4731822&QTY=1&AFFILIATE=108875&COUPON=EASE-6YPW-GGYA"><img src="https://secure.avangate.com/images/merchant/960ade68ab05b7e113c6c410ba34c4ee/products/package_1024x1024.png" border="0"></a>
-                    <div class="post-page-container flex relative justify-between box-border w-full h-full">
-    <div class="article-content-container">
+                    @import '../common/variables'
 
-        <div class="article-title relative w-full">
-            
-                
-                
-                <img src="https://www.lifewire.com/thmb/Ox6vAuLUV4dyE0jdhv92jjP32j8=/210x138/filters:no_upscale():max_bytes(150000):strip_icc()/google-search-ai-15b52ee190004c9a910ff7da078277ed.png" alt="Draft Distinctive Visual Identities From Templates for Free" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
-                
-                <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Draft Distinctive Visual Identities From Templates for Free</h1>
-                </div>
-            
-            </div>
+$arrow-icon-width = 16px
+$post-nav-max-width = 220px
+$article-title-font-size = 3.2rem
+$temp-toc-width = hexo-config('global.sidebar_width')
+$toc-container-width = $temp-toc-width ? convert($temp-toc-width) : 210px
+$without-toc-container-width = calc(100% - $temp-toc-width)
+$gap = 30px
 
-        
-            <div class="article-header flex flex-row gap-2 items-center px-2 sm:px-6 md:px-8">
-                <div class="avatar w-[46px] h-[46px] flex-shrink-0 rounded-medium border border-border-color p-[1px]">
-                    <img src="/images/site-logo.png">
-                </div>
-                <div class="info flex flex-col justify-between">
-                    <div class="author flex items-center">
-                        <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
-                        
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv13</span>
-                        
-                    </div>
-                    <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-07-27 07:31:45</span>
-        <span class="mobile">2024-07-27 07:31:45</span>
-        <span class="hover-info">Created</span>
-    </span>
-    
-        <span class="article-date article-meta-item">
-            <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-07-28 07:31:45</span>
-            <span class="mobile">2024-07-28 07:31:45</span>
-            <span class="hover-info">Updated</span>
-        </span>
-    
+.post-page-container
+  gap 0px
 
-    
-        <span class="article-categories article-meta-item">
-            <i class="fa-regular fa-folders"></i>&nbsp;
-            <ul>
-                
-                
-                    
-                        
-                        <li>
-                            <a href="/categories/ai/">ai</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/ai/screen/">screen</a>&nbsp;
-                        </li>
-                    
-                    
-                
-            </ul>
-        </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fa-regular fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/screen-recording/">screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-video/">ai video</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-audio/">ai audio</a>&nbsp;
-                    </li>
-                
-                    <li>
-                        | <a href="/tags/ai-auto/">ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
-
-    
-    
-    
-    
-</div>
-
-                    </div>
-                </div>
-            </div>
-        
-
-        
+  +redefine-mobile()
+    overflow-x hidden
 
 
-        <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Draft-Distinctive-Visual-Identities-From-Templates-for-Free"><a href="#Draft-Distinctive-Visual-Identities-From-Templates-for-Free" class="headerlink" title="Draft Distinctive Visual Identities From Templates for Free"></a>Draft Distinctive Visual Identities From Templates for Free</h2><p>A logo represents your brand and gives the audience a sense of identity; brand identity is a key factor in brand building and growth. For example, the main difference between cloth vendors&#x2F;manufacturers is brand identity. In a simple term, “what makes your brand different from the competitors?” – your logo is one of the answers. <strong>Free logo templates</strong> are easy to use, customizable, and applicable for brand promotion and recognition. Although most <strong>logo templates</strong> are customizable, some are not editable. This article talks about editable and not editable free logo templates. Learn more below.</p>
-<h2 id="Part-1-Free-logo-templates-Editable"><a href="#Part-1-Free-logo-templates-Editable" class="headerlink" title="Part 1: Free logo templates (Editable)"></a>Part 1: Free logo templates (Editable)</h2><p>Editable logo templates differ from other templates because they support modification and diversification. Customizing a template gives total access and quality creation in your care. In short, if it is editable, you remove, add, and save a modified version of a logo template. All logo makers are not free or easy to edit; however, some editable free logo templates include:</p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.canva.com/create/logos/"><strong>Canva</strong></a></li>
-</ol>
-<p>Canva is an essential logo template maker. You can do more with the editable logo template creator because it contains several collections of logo templates that serve as the basis for your logo creation. You may not necessarily subscribe to the premium package if you do not need the premium files. You can learn more about Canva, especially how to create logo templates, from the official website.</p>
-<p>The website gives full access to all users, educating them on how to use the Canva tool for better logo making. Canva AI algorithm suggests designs based on your history. For example, you locate resourceful raw collections for projects without much stress. The beautiful algorithm feature is important if you create more than one logo.</p>
-<p>The Canva (free) feature includes free download (limited resolution), limited editing tools, and unlimited space work. You must create an account before accessing the official website editing tool since the software does not require an editor to make changes or customize a template.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.systoolsgroup.com/box/pdf-unlocker.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/canva.jpg"
-                      alt="canva official homepage"
-                ></p>
-<ol>
-<li><strong>Adobe</strong></li>
-</ol>
-<p>Adobe has software for logo making and design; however, <a class="link"   target="_blank" rel="noopener" href="https://express.adobe.com/express-apps/logo-maker/" >Adobe Create Logo Maker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, an official website option, allows direct free logo making. You need not download or install the software before using Adobe Create from the page. Adobe has outstanding features that put it above the competition: vector graphics, scaling, and quality maintenance.</p>
-<p>All designs come from a basic idea; with Adobe, you can amplify your idea into a captivating logo – this is possible with the vector graphics. Logos are naturally simple and small; however, if you need a high print logo for your company, especially a 3D inscription, you may need Adobe vector graphics. The vector graphics put you at a high resolution to size ratio: maintaining a quality resolution irrespective of the log size.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/adobe-express.jpg"
-                      alt="adobe logo maker"
-                ></p>
-<p>Tips: Adobe also provides a lot of well-customized templates involving various styles and types. Click <a target="_blank" rel="noopener" href="https://www.adobe.com/creativecloud/design/discover/illustrator-logo-templates.html"><strong>Illustrator templates</strong></a> to preview.</p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.brandcrowd.com/logo-maker"><strong>Brandcrowd</strong></a></li>
-</ol>
-<p>Brandcrowd logo template maker gives you access to thousands of unique logos. Using the online logo editor, you can make a logo in a few minutes. Brandcrowd works by generating logo designs from world-class designers. All the templates are available for edit and download.</p>
-<p>Although you may need to create a free account with BrandCrowd, having an account with this online logo editor is worth the investment and your time. Aside from this, logo customization includes colors, fonts, and taglines. Since uniqueness is important in logo making (due to copyright issues and branding), BrandCrowd ensures you create 100% original logos from free templates.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/brandcrowd.jpg"
-                      alt="brandcrowd logo page"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://placeit.net/logo-maker"><strong>Placeit</strong></a></li>
-</ol>
-<p>Placeit by Envato is an online logo editor that allows you to create a logo from scratch or via templates. Envato is an image stock company that gives free access to unlimited files. Thus, Placeit contains unlimited access to some collections that boost your logo-making skill. Placeit has innovative logo-making tools: individual tools are a factor of the selected template.</p>
-<p>Placeit readily makes all the tools and options to edit a particular template available upon selection. In short, Placeit is user-friendly and gives outstanding resourceful editing functions to beginners.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/placeit.jpg"
-                      alt="placeit log"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.wix.com/logo/maker"><strong>Wix</strong></a></li>
-</ol>
-<p>Wix logo maker improves your vision in three steps: select your brand, narrow your design, edit, and save. Wix is an e-commerce design platform for organizations and businesses. A business logo is another design dimension since it represents your brand and identity: Wix allows you to create a more grounded logo and makes special touch to business via templates available on the platform. These templates are ready-made, easy to edit, and free to download.</p>
-<p>Wix operates with free and premium design packages: free templates are a limited version of Wix designing packages. However, the premium version gives you full access to restricted offers in a free version.</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/wix.jpg"
-                      alt="wix logo page"
-                ></p>
-<h2 id="Part-2-Logo-templates-free-download-Not-editable"><a href="#Part-2-Logo-templates-free-download-Not-editable" class="headerlink" title="Part 2: Logo templates free download (Not editable)"></a>Part 2: Logo templates free download (Not editable)</h2><p>You can download free logo templates from a reliable platform. The downloaded copies may be the basis of further graphics exploration. Not editable logo templates give high results when you use them for extended logo creation because they are available in the highest resolution. Some free templates makers include:</p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.freepik.com/vectors/logo-templates"><strong>Freepik</strong></a></li>
-</ol>
-<p>You can find free logo templates on Freepik via search: input the categories and select search. All the templates are free for download, although you may need to pay for premium content. The online free logo template creator gives you all assets in a single place, and some categories include free, circle, eagle, IG, and restaurant logos. Freepik is a better choice since “categories” classify all logo templates; the “sub-categories” also improve diversification.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2075475"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2075475/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/freepik.jpg"
-                      alt="freepik logo page"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.istockphoto.com/search/2/image?mediatype=illustration&phrase=logo"><strong>iStock</strong></a></li>
-</ol>
-<p>iStock has logos in several categories and options: logo illustrations, logo vectors, logo icons, and logo elements. Logo selection by category is easy with iStock because the content is equally segmented: you will locate the right logo file for download. iStock gives logo orientation: vertical, horizontal, square, panoramic horizontal, panoramic vertical. It also makes logo making easy with color variation and styles. iStock supports multiple downloads, although you need to subscribe for copyright and ownership claims.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/istock.jpg"
-                      alt="istock logo page"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.shutterstock.com/search/logo"><strong>Shutterstock</strong></a></li>
-</ol>
-<p>Shutterstock allows high-end logo editing: AI-powered search gives you access to classified collections based on your performance on the platform. You may not necessarily search the whole platform before accessing high-quality materials for download. Shutterstock offers logo templates based on catalog, prediction, and planning.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png"
-                      border="0"
-                >Glarysoft File Recovery Pro - Helps to recover your lost file&#x2F;data, even permanently deleted data. </a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/shutterstock.jpg"
-                      alt="shutterstock logo page"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://www.pexels.com/search/logo/"><strong>Pexels</strong></a></li>
-</ol>
-<p>Pexels logos are accessible through <a class="link"   target="_blank" rel="noopener" href="https://www.pexels.com/search/logo/" >the official website <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or via <a class="link"   target="_blank" rel="noopener" href="https://apps.apple.com/us/app/pexels/id1434330413" >the mobile app <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The software contains millions of media collections. Pexels claim to be the archive of several collections suitable for all logo creators, irrespective of the field&#x2F;niche. Pexels have one of the most sensitive and relatable smart search engines: with few lines, you can get all you need.</p>
-<!-- affiliate ads begin -->
-<p><a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-ad/7443-2087484"
-                      border="0" alt="" width="1200" height="600"
-                ></a><img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2087484/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                ></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/pexels.jpg"
-                      alt="pexels logo page"
-                ></p>
-<ol>
-<li><a target="_blank" rel="noopener" href="https://unsplash.com/s/photos/logo"><strong>Unsplash</strong></a></li>
-</ol>
-<p>Unsplash provides current effect logo ideas for effective graphic creation. The platform supports easy search and use of ideas because it has many contributors. Unsplash is a source of inspiration to content creators: you can easily find your need among thousands of logos available on the platform.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://images.wondershare.com/filmora/article-images/2022/07/unsplash.jpg"
-                      alt="unsplash logo page"
-                ></p>
-<h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a>Conclusion</h2><p>Logo making should be informative and captivating since it represents your brand. Logos give the first impression and put you above the competition. Embracing logo-making via available templates saves time and money.</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For Win 7 or later(64-bit)</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/wondershare/filmora/download/" >Free Download <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> For macOS 10.14 or later</p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="autorelaxed"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="1223367746"></ins></p>
-<p><ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins></p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-android-video-playback-turning-ends-into-beginnings/"><u>[New] Android Video Playback  Turning Ends Into Beginnings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-audience-peak-hours-crafting-release-dates/"><u>[New] Audience Peak Hours  Crafting Release Dates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-avoid-payment-secure-your-free-fcp-copy/"><u>[New] Avoid Payment  Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts/"><u>[New] Becoming a Metaverse Veteran  Top 7 Gadgets for the Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-practices-for-hospitals-social-media-health-promos/"><u>[New] Best Practices for Hospitals' Social Media Health Promos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-connect-movie-files-in-youtv-catalog/"><u>[New] Connect Movie Files in YouTV Catalog</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/updated-2024-approved-downloading-your-youtube-watch-lists-step-by-step/"><u>[Updated] 2024 Approved  Downloading Your YouTube Watch Lists  Step by Step</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/updated-2024-approved-mastering-audio-ease-out-methods-in-premiere-pro/"><u>[Updated] 2024 Approved  Mastering Audio Ease-Out Methods in Premiere Pro</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/updated-2024-approved-outperforming-vimeo-with-these-superior-alternatives/"><u>[Updated] 2024 Approved  Outperforming Vimeo with These Superior Alternatives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>[Updated] Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-cameras-for-sports-capturing-edge/"><u>[Updated] Best Cameras for Sports Capturing Edge</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-beyond-borders-with-virtual-reality-tours/"><u>[Updated] Beyond Borders with Virtual Reality Tours</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cheap-yet-quality-top-cam-lows/"><u>[Updated] Cheap Yet Quality  Top Cam Lows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinematography-insights-the-leading-5-secrets/"><u>[Updated] Cinematography Insights  The Leading 5 Secrets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-8-premier-mp3-downloaders-for-android-devices/"><u>2024 Approved  8 Premier MP3 Downloaders for Android Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-playbook-for-rotating-and-joining-videography/"><u>2024 Approved  Android's Playbook for Rotating and Joining Videography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-augmented-realities-transforming-movie-production/"><u>2024 Approved  Augmented Realities  Transforming Movie Production</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-explorers-guide-online-pulse-sensors/"><u>2024 Approved  Beat Explorers’ Guide  Online Pulse Sensors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-zoom-hd-quality-step-by-step-guide/"><u>2024 Approved  Boosting Zoom HD Quality  Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-core-virtual-reality-cinematic-gems/"><u>2024 Approved  Core Virtual Reality Cinematic Gems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-video-enhancement-strategies-for-2024/"><u>Android Video Enhancement Strategies for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asuss-high-tech-display-unveiled-the-mg28uq-monitor-insight/"><u>ASUS's High Tech Display Unveiled – The MG28UQ Monitor Insight</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/charm-with-charisma-animate-your-instagram-story-texts-for-2024/"><u>Charm with Charisma  Animate Your Instagram Story Texts for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-cash-flow-chart-launching-a-successful-podcast/"><u>Comprehensive Cash Flow Chart  Launching a Successful Podcast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/constructing-imagery-wonders-with-montages-for-2024/"><u>Constructing Imagery Wonders with Montages for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>Craft a Closer Vision  5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-the-leading-livestream-service-sites/"><u>Discover the Leading Livestream Service Sites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-steps-to-change-fins-sounds-in-windows/"><u>Easy Steps to Change Fins' Sounds in Windows</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-red-magic-9-proplus-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Red Magic 9 Pro+?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-internet-spots-curated-custom-tones-downloads/"><u>Ideal Internet Spots  Curated Custom Tones Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-4k-perfection-selecting-youtubes-best-video-tools/"><u>In 2024, 4K Perfection  Selecting YouTube's Best Video Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-arc-electrify-powerful-media-player-replacement/"><u>In 2024, Arc Electrify  Powerful Media Player Replacement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-pitfalls-in-angled-and-merged-video-manipulation-android/"><u>In 2024, Avoiding Pitfalls in Angled & Merged Video Manipulation (Android)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-slideshow-apps-iphone-series-8-series-12/"><u>In 2024, Best Slideshow Apps (iPhone Series 8-Series 12)</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/in-2024-best-virtual-race-games-roundup/"><u>In 2024, Best Virtual Race Games Roundup</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/innovative-methods-for-high-definition-vr-gameplay-recordings-for-2024/"><u>Innovative Methods for High-Definition VR Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-a-revolutionary-approach-to-hdr-imaging/"><u>IPhone  A Revolutionary Approach to HDR Imaging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-tiktok-video-enhancement-with-zoom/"><u>Mastering TikTok Video Enhancement with Zoom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/oneclickpodcaststream-effortlessly-livestream-your-podcast-content/"><u>OneClickPodcastStream  Effortlessly Livestream Your Podcast Content</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://printer-issues.techidaily.com/solve-print-queue-problems-on-windows-11/"><u>Solve Print Queue Problems on Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nokia-xr21-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nokia XR21? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-quest-achieving-immaculate-upconversion-from-sdr-to-hdri/"><u>The Ultimate Quest  Achieving Immaculate Upconversion From SDR to HDRI</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-a60-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel A60</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-tier-eyeball-enticer-author/"><u>Top-Tier Eyeball Enticer Author</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a18-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A18</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/utilizing-b-footage-an-essential-filmmaking-skill/"><u>Utilizing B-Footage  An Essential Filmmaking Skill</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/whats-the-difference-between-360-video-and-vr-video/"><u>What's the Difference Between 360° Video and VR Video?</u></a></li>
-</ul></div>
+  &.show-toc
+    gap 30px
 
-        </div>
+    .toc-content-container
+      display block
+      opacity 1
+      transition opacity 0.2s ease-in 0.2s
+      width $toc-container-width
 
-        
-            <div class="post-copyright-info w-full my-8 px-2 sm:px-6 md:px-8">
-                <div class="article-copyright-info-container">
-    <ul>
-        <li><strong>Title:</strong> Draft Distinctive Visual Identities From Templates for Free</li>
-        <li><strong>Author:</strong> Joseph</li>
-        <li><strong>Created at
-                :</strong> 2024-07-27 07:31:45</li>
-        
-            <li>
-                <strong>Updated at
-                    :</strong> 2024-07-28 07:31:45
-            </li>
-        
-        <li>
-            <strong>Link:</strong> https://extra-tips.techidaily.com/draft-distinctive-visual-identities-from-templates-for-free/
-        </li>
-        <li>
-            <strong>
-                License:
-            </strong>
-            
+      &:hover::-webkit-scrollbar-thumb
+        border 3px solid rgba(183, 183, 183, 0.3)
 
-            
-                This work is licensed under <a class="license" target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</a>.
-            
-        </li>
-    </ul>
-</div>
+      &::-webkit-scrollbar
+        width 6px
+        height 6px
+        transition all 0.2s ease
+        display block
 
-            </div>
-        
+      &::-webkit-scrollbar-track
+        background transparent
+        border none
 
-        
-            <ul class="post-tags-box text-lg mt-1.5 flex-wrap justify-center flex md:hidden">
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/screen-recording/">#screen-recording</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-video/">#ai video</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-audio/">#ai audio</a>&nbsp;
-                    </li>
-                
-                    <li class="tag-item mx-0.5">
-                        <a href="/tags/ai-auto/">#ai auto</a>&nbsp;
-                    </li>
-                
-            </ul>
-        
+      &::-webkit-scrollbar-thumb
+        border-radius 20px
+        border 3px solid rgba(183, 183, 183, 0)
+        transition all 0.2s ease
 
-        
+    .article-content-container
+      width calc(100% - 210px) !important
 
-        
-            <div class="article-nav my-8 flex justify-between items-center px-2 sm:px-6 md:px-8">
-                
-                    <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="prev"
-                        rel="prev"
-                        href="/dynamic-and-diverse-10-essential-text-presets-for-adobe-ae/"
-                        >
-                            <span class="left arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-left"></i>
-                            </span>
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">&#34;Dynamic and Diverse  10 Essential Text Presets for Adobe AE&#34;</span>
-                                <span class="post-nav-item">Prev posts</span>
-                            </span>
-                        </a>
-                    </div>
-                
-                
-                    <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
-                        <a class="next"
-                        rel="next"
-                        href="/discovering-the-peak-of-mobile-photo-collages-for-tech-users/"
-                        >
-                            <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Discovering the Peak of Mobile Photo Collages for Tech Users</span>
-                                <span class="post-nav-item">Next posts</span>
-                            </span>
-                            <span class="right arrow-icon flex justify-center items-center">
-                                <i class="fa-solid fa-chevron-right"></i>
-                            </span>
-                        </a>
-                    </div>
-                
-            </div>
-        
+  +redefine-tablet()
+    .toc-content-container
+      display none !important
 
+    .article-content-container
+      width 100% !important
 
-        
-    </div>
+    &.show-toc
+      .toc-content-container
+        display none
 
-    
-        <div class="toc-content-container">
-            <div class="post-toc-wrap">
-    <div class="post-toc">
-        <div class="toc-title">On this page</div>
-        <div class="page-title">Draft Distinctive Visual Identities From Templates for Free</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Draft-Distinctive-Visual-Identities-From-Templates-for-Free"><span class="nav-text">Draft Distinctive Visual Identities From Templates for Free</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-1-Free-logo-templates-Editable"><span class="nav-text">Part 1: Free logo templates (Editable)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Part-2-Logo-templates-free-download-Not-editable"><span class="nav-text">Part 2: Logo templates free download (Not editable)</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Conclusion"><span class="nav-text">Conclusion</span></a></li></ol>
+      .article-content-container
+        width 100% !important
 
-    </div>
-</div>
+  .article-content-container
+    width 100%
+    transition width 0.2s ease
+    redefine-container(
+      false,
+      0,
+      0,
+      0,
+      30px
+    )
 
-        </div>
-    
-</div>
+    +redefine-mobile()
+      padding 1.2rem 0.2rem
+      box-shadow none !important
+      max-width 100vw
 
+    .article-header .avatar img
+          border-radius: $redefine-border-radius-medium * 0.87
+          width 100%
+          height 100%
+          // background var(--avatar-background-color)
+
+    .article-header, .article-header-meta-info
+      margin-top 16px
+
+      +redefine-tablet()
+        transform scale(0.9)
+        transform-origin left top
+
+    .article-content
+      margin-top $spacing-unit
+      padding-bottom 10px
+      word-wrap break-word
+      border-bottom 1px solid var(--border-color)
+      color var(--default-text-color)
+
+      &>:first-child
+        margin-top 0 !important
+
+    .article-prev, .article-next
+
+        a
+          position relative
+          display block
+          width 100%
+          height 100%
+          box-sizing border-box
+
+          &.prev
+            padding-left $arrow-icon-width
+
+          &.next
+            padding-right $arrow-icon-width
+
+          .arrow-icon
+            position absolute
+            top 0
+            height 100%
+            width $arrow-icon-width
+
+            &.left
+              left 0
+
+            &.right
+              right 0
+
+          .title
+            width 100%
+            height 100%
+
+      .post-nav-item
+        display none
+
+        +redefine-tablet()
+          display inline-block
+
+      .post-nav-title-item
+        overflow hidden
+        text-overflow ellipsis
+        white-space nowrap
+
+        +redefine-tablet()
+          display none
+
+    .recommended-article
+      overflow visible !important
+
+      .recommended-mobile
+        display none
+        +redefine-tablet()
+          display block
+
+      .recommended-desktop
+        display block
+        +redefine-tablet()
+          display none
+
+      .recommended-article-group
+        padding 10px 0
+        display flex
+        justify-content space-between
+        flex-wrap wrap
+        overflow visible !important
+
+        @media screen and (max-width $device-tablet)
+          height 190px
+          overflow scroll
+
+          &::-webkit-scrollbar
+            width 0 !important
+
+          -ms-overflow-style none
+
+        .recommended-article-item
+          redefine-container(
+            false,
+            0,
+            0,
+            10px,
+            0
+          )
+          box-shadow var(--redefine-box-shadow-flat)
+          padding 12px !important
+          display flex
+          flex-wrap wrap
+          align-content center
+          justify-content center
+          align-items center
+          overflow hidden
+          width 32%
+          max-height 200px
+          margin-top: $gap * 0.5
+          margin-right 0
+
+          +redefine-tablet()
+            width 49%
+
+          img
+            display flex
+            width calc(100% + 24px)
+            height 150px
+            object-fit cover
+            border-radius $redefine-border-radius-medium-top
+            margin -12px -12px 0 -12px !important
+
+          span
+            margin-top 0.5rem
+            display block
+            display -webkit-box
+            -webkit-box-orient vertical
+            -webkit-line-clamp 1
+            overflow hidden
+
+  .toc-content-container
+    white-space nowrap
+    opacity 0
+    position sticky
+    top: $navbar-height + $spacing-unit
+    // border-radius $redefine-border-radius-large
+    border-radius $redefine-border-radius-none
+    // display none
+    // visibility hidden
+    // width $toc-container-width
+    width 0
+    height auto
+    max-height calc(100vh - 210px)
+    //margin-left 30px
+    // z-index $z-index-6
+    overflow-y auto
+    overflow-x hidden
+    float right
+    padding 10px
+    box-sizing border-box
+    box-shadow none !important
+    transition opacity 0.3s ease-out 0.3s
+    hover-style(
+      false,
+      0,
+      0
+    )
+    transition-t('display', '0', '0.3', 'ease-out')
+
+    +redefine-tablet()
+      left 0 !important
+      display none !important
+
+  figure.image-caption
+    img
+      margin-bottom 0
+
+    figcaption
+      margin-top 5px
+      margin-bottom 10px
+      text-align center
+      font-size 0.9rem
+      color var(--third-text-color)
 
                 
 
