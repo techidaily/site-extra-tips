@@ -1,0 +1,206 @@
+---
+title: "[New] All About Firefox's Split Screen Feature"
+date: 2024-08-13T22:39:31.296Z
+updated: 2024-08-14T22:39:31.296Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] All About Firefox's Split Screen Feature"
+excerpt: "This Article Describes [New] All About Firefox's Split Screen Feature"
+keywords: "\"Firefox Split View,Firefox Twin Pane,Multi-Tasking Firefox,Firefox Dual Display,Firefox Split Screeen,Firefox Window Splitting,Firefox Side By Side\""
+thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1628ff4b17b2024d943bf02d.jpg
+---
+
+## All About Firefox's Split Screen Feature
+
+Using your PC to watch films while working on something else has recently been possible due to the new picture-in-picture mode function. Mozilla Firefox users may utilize this functionality to accomplish two or more things simultaneously.
+
+This feature is an important tool to help you multitask by dragging videos from web pages and navigating to another tab so you can continue working on other tabs while the video keeps playing. In this article, you will understand everything about this feature and how to enable this feature.
+
+![the firefox]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. How Picture-in-Picture Mode Works
+
+Picture-in-Picture allows for simple tab navigation without interfering with the video you are viewing. Enabling this feature allows your videos to play in a tiny overlay utilizing a separate video player. Users may move, resize and even pin the player on the screen. You may even switch between tabs without interfering with video playing.
+
+The interface has a play/pause button. You may also recover a video by locating it as well as close the interface by clicking the close button if you wish to. It will return to the initial tab and continue from where it left off when the player was closed.
+
+When your video is in picture-in-picture mode, the video placeholder also displays on the website. "This video is playing in Picture-in-Picture mode," it reads.
+
+Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Part 2\. How to activate Picture-in-Picture (PiP) in Firefox
+
+Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.
+
+Firefox, like Google Chrome, Microsoft Edge, and other current browsers, supports picture-in-picture mode. This functionality allows you to view movies in a floating window while working with other tabs, browsers, desktop apps, and so on.
+
+Because this picture-in-picture panel is an overlay, you may move it to any part of your screen. So, in picture-in-picture mode, you may click play/pause, shut it, or expand it to its full size.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Step-by-step Guide to Enable Firefox Picture-in-Picture Mode
+
+Without the assistance of third-party add-on modules, PiP mode is a feasible choice. The picture-in-picture (PiP) mode option in the Firefox browser is activated by default. However, if this does not work, you can easily re-enable the option in the Firefox browser's Settings area.
+
+Here's how to activate picture-in-picture video control in Firefox**:**
+
+1. **To start**, locate and open the Firefox browser on your PC.
+2. Click on the 3 horizontal lines in the top-right menu.
+3. Choose the **Options/Settings** from the menu list. This opens the settings mode and its general model.
+
+![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
+
+1. Scroll down in the General mode to locate the **Browsing** settings option.
+2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
+
+![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
+
+Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
+
+![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You can load only a single video using the above guideline. Suppose you want to lunch multiple videos to increase your multitasking experience. In that case, follow the outlined procedure:
+
+1. Open any website with video in Firefox web browser.
+2. When the video start. Move the cursor over the video to reveal the Picture-in-Picture logo.
+3. Picture-in-Picture mode is activated by tapping the logo. The video is repositioned to the side of the web page.
+4. Repeat the preceding steps on the same page or in a separate tab to open several movies.
+5. Firefox plays the new video above the first. Drag and drop it anywhere to display both.
+
+![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
+
+By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
+
+## Part 3\. How to Disable the Picture-in-Picture Mode
+
+Sometimes, the PiP mode can disturb necessary research or task that needs your full concentration. In this scenario, disabling the Picture-in-Picture mode is a way to get your task done with the optimum attention. If you want to turn off Picture-in-Picture mode and return to the video tab, hover over the video, then click the following icon **“X”**.
+
+![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
+
+## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
+
+### 4.1 Picture-in-Picture extension in Firefox
+
+Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
+
+It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
+
+![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 5\. FAQs
+
+### How do I keep the picture-in-picture window always on top?
+
+After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Why is picture-in-picture in Firefox not working?
+
+On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### How do I resize the picture-in-picture window in Firefox?
+
+You can, of course, resize it and move it wherever you want. Hold down the left click and move it with your mouse to do this. Simply place your cursor in a corner to expand or shrink the window.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+Picture-in-Picture is a nice feature that helps you increase productivity while multitasking. You can successfully enable and disable this feature by following our step-by-step guide outlined in this article. After carefully reading this article, you should also be able to pin, resize and fix any issue related to picture-in-picture in Firefox.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-brushbuddies-full-examination-and-manual-2024/"><u>[New] BrushBuddies Full Examination & Manual 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-compendium-of-video-camera-classifications/"><u>[New] Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-stunning-designs-learn-to-cleanse-images-background-in-canva/"><u>[New] Craft Stunning Designs  Learn to Cleanse Images' Background in Canva</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-tutorial-on-exploiting-googles-ai-driven-speech-transcription-service/"><u>[New] Full Tutorial on Exploiting Google's AI-Driven Speech Transcription Service</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-waterfront-top-5-cameras-for-big-waters/"><u>[New] Master the Waterfront  Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[Updated] Beyond Basics  Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choose-right-gopro-hero5-vs-garmin-virb-updated-22/"><u>[Updated] Choose Right  GoPro Hero5 Vs. Garmin VIRB (Updated '22)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-revolutionizing-tv-broadcasts-with-fb-live-streaming/"><u>[Updated] Revolutionizing TV Broadcasts with FB Live Streaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[Updated] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-premier-digital-hubs-seamless-ringtones-acquisition/"><u>2024 Approved  Premier Digital Hubs  Seamless Ringtones Acquisition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency-for-2024/"><u>Accelerate Image Enhancement  Top 15 Pixlr Tips for Speed and Efficiency for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delving-into-ai-security-threats-how-do-prompt-injection-attacks-function/"><u>Delving Into AI Security Threats: How Do Prompt Injection Attacks Function?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-harness-googles-potential-for-your-podcasts/"><u>How to Harness Google’s Potential for Your Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>In 2024, A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accessible-legal-tracks-for-gameplay-enjoyment/"><u>In 2024, Accessible Legal Tracks for Gameplay Enjoyment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieve-more-with-costless-timer-software/"><u>In 2024, Achieve More with Costless Timer Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assemble-creative-gifs-for-online-sharing/"><u>In 2024, Assemble Creative GIFs for Online Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-cameras-for-pixel-art-animation/"><u>In 2024, Best Cameras for Pixel Art Animation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-constructing-home-made-vr-headgear-with-google-cards/"><u>In 2024, Constructing Home-Made VR Headgear with Google Cards</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-sony-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Sony Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-pro-max-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 Pro Max to Roku? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-image-enhancement-for-breathtaking-results-for-2024/"><u>Mastering Image Enhancement for Breathtaking Results for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-mobile-alter-picture-size-on-iphone-easefully/"><u>Mastering Mobile  Alter Picture Size on iPhone Easefully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-poster-design-removing-borders-from-canva-images/"><u>Perfect Poster Design  Removing Borders From Canva Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-video-capture-leaders-revealed/"><u>Prime Video Capture Leaders Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/restoring-videography-pieces-to-wholeness/"><u>Restoring Videography Pieces to Wholeness</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selective-focus-topiphoto-blurrers-revealed/"><u>Selective Focus  Topiphoto Blurrers Revealed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-guide-to-cd-conversion-and-burning-with-wmp-for-2024/"><u>The Complete Guide to CD Conversion & Burning with WMP for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-path-to-higher-rankings-a-podcast-seo-guidebook/"><u>The Path to Higher Rankings  A Podcast SEO Guidebook</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-shutdown-saga-how-meta-ended-facial-id-on-facebook/"><u>The Shutdown Saga: How Meta Ended Facial ID on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/triggering-windows-11-hdr-in-dynamic-mode/"><u>Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-claude-an-in-depth-look-at-this-revolutionary-artificial-intelligence-system/"><u>Unveiling Claude - An In-Depth Look at This Revolutionary Artificial Intelligence System</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Realme 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
