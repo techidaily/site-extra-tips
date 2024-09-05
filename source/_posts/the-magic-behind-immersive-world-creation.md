@@ -1,7 +1,7 @@
 ---
 title: "The Magic Behind Immersive World Creation"
-date: 2024-08-26T20:41:24.409Z
-updated: 2024-08-27T20:41:24.409Z
+date: 2024-09-04T14:07:06.672Z
+updated: 2024-09-05T14:07:06.672Z
 tags: 
   - screen-recording
   - ai video
@@ -50,22 +50,51 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
@@ -74,24 +103,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
@@ -99,9 +126,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Precise Time Indicators in YouTubes"
-date: 2024-08-26T20:37:38.195Z
-updated: 2024-08-27T20:37:38.195Z
+date: 2024-09-04T14:07:10.940Z
+updated: 2024-09-05T14:07:10.940Z
 tags: 
   - screen-recording
   - ai video
@@ -40,9 +40,6 @@ A YouTube timestamp is a way to link to a specific moment in your video. When vi
 
 You can then share the link as you wish.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Using the Video Sharing Button to Share Timestamps
 
 1. Go to YouTube and find the video you'd like to share.
@@ -51,10 +48,22 @@ You can then share the link as you wish.
 
 ![share timestamps](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Check the _**“Start at \[time slot\]”**_ box in the popup menu that appears.
 
 ![popup menu](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. If you need to adjust the time marker manually, tap the _**“time”**_ and enter a new value.
 
 ![enter a new value](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-4.jpg)
@@ -63,18 +72,13 @@ You can then share the link as you wish.
 
 ![select copy](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Link to a YouTube Timestamp Manually
 
@@ -90,13 +94,16 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** When manually linking to a timestamp, always omit the zeros and include only whole numbers. For example, use 8 instead of 08.
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Using the YouTube app for Android or iPhone, link to a particular time slot
 
 1. Launch the _**“YouTube App”**_ and find the video you'd like to share where it starts playing at a specific timeslot.
@@ -105,9 +112,6 @@ It is also important to note that referring to a specific timestamp does not mea
 
 ![click on the share button](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 1. To save the timeslot URL to use for multiple apps or for later use, select "Copy Link" and paste it where you can retrieve it as needed. You can edit the time period in the URL later.
 2. Edit the URL you saved in step 4\. For short URLs (youtu.be) use "?t=Xs" where X=seconds or "?t=XmYs" where X=minutes and S= seconds. Replace “?” with “&” for long URLs (youtube.com/watch?v=). Adjust the "X" and "Y" values to your specified pause time.
 3. Save the edited URL in Notepad, post it in a social media app, or paste it into a mobile browser.
@@ -124,6 +128,12 @@ Link generators allow you to not only share specific parts of videos from YouTub
 
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
 2. You will get a dedicated link to your video with the option to embed it on your website or blog.
 
@@ -140,6 +150,12 @@ Here's the guide to adding a timestamp to a YouTube comment or description:
 
 The process is simple - just write the time you want to redirect viewers to in the comment. The timestamp format is hours:minutes:seconds (no spaces). Make sure the time format is correct, then a timestamp with a jump link will be generated automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTubers want videos to be short and to the point. However, if the video needs to be longer, you can help users browse and find what's important to them by adding a timestamp to the YouTube link or a timestamp to the YouTube descriptions. This can help your viewers go directly to the interesting part of the video instead of watching the entire video, saving them time, and improving the user experience. The most recommended way to the timestamp on YouTube is using a built-in function in YouTube.
@@ -152,9 +168,6 @@ Timestamps can help you share information with your audience without having to w
 
 Part 1\. How to add a timestamp to YouTube video?
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Using Built-in function - copy video URL at current time (Most Recommended)
 
 1. Visit [**YouTube**](http://www.youtube.com/) and open the video of interest.
@@ -164,10 +177,25 @@ Part 1\. How to add a timestamp to YouTube video?
 ![youtube timestamp](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You can then share the link as you wish.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using the Video Sharing Button to Share Timestamps
 
 1. Go to YouTube and find the video you'd like to share.
@@ -177,25 +205,43 @@ You can then share the link as you wish.
 ![share timestamps](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 1. Check the _**“Start at \[time slot\]”**_ box in the popup menu that appears.
 
 ![popup menu](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. If you need to adjust the time marker manually, tap the _**“time”**_ and enter a new value.
 
 ![enter a new value](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Highlight the _**“URL,”**_ then _**“Right-click”**_ (Windows) or _**“two-finger tap”**_ (Mac) and select _**“Copy.”**_
 
 ![select copy](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Viewers are taken immediately to the desired timestamp when they click the copied link. The video starts to play at that point.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Link to a YouTube Timestamp Manually
 
 There are two types of URLs used for each YouTube video:
@@ -214,9 +260,6 @@ When sharing (email, Facebook, Twitter, etc.), the URL is "<https://youtu.be/>"
 
 It is also important to note that referring to a specific timestamp does not mean that one cannot watch earlier video segments. They can move the time slider in any direction.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### 4\. Using the YouTube app for Android or iPhone, link to a particular time slot
 
 1. Launch the _**“YouTube App”**_ and find the video you'd like to share where it starts playing at a specific timeslot.
@@ -225,20 +268,24 @@ It is also important to note that referring to a specific timestamp does not mea
 
 ![click on the share button](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. To save the timeslot URL to use for multiple apps or for later use, select "Copy Link" and paste it where you can retrieve it as needed. You can edit the time period in the URL later.
 2. Edit the URL you saved in step 4\. For short URLs (youtu.be) use "?t=Xs" where X=seconds or "?t=XmYs" where X=minutes and S= seconds. Replace “?” with “&” for long URLs (youtube.com/watch?v=). Adjust the "X" and "Y" values to your specified pause time.
 3. Save the edited URL in Notepad, post it in a social media app, or paste it into a mobile browser.
 
 Finally, remember that the formula for a time period is t=Xs or t=XmYs. You modify X and Y to reflect your own time values. Short URLs starting with "youtu.be" use "?" first, while long URLs starting with "youtube.com/watch?v=" use "&" before the time data.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Using link generator to add timestamp
 
 The methods above to add and submit a timestamped YouTube link are quick and easy but have a few limitations. If you need more control and sharing of YouTube video highlights without cutting the video, you need to use third-party link generators.
@@ -249,16 +296,9 @@ Link generators allow you to not only share specific parts of videos from YouTub
 
 ![edit the time](https://images.wondershare.com/filmora/article-images/2022/08/youtube-timestamp-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 1. To confirm whether the jump time is right, you can simply click on the generated link. If the verification is successful, you can then copy the address.
 2. You will get a dedicated link to your video with the option to embed it on your website or blog.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to add a timestamp in YouTube comments or description
 
 If you are a Youtuber and your videos are informative, adding a jumpable timestamp in the comments or description will make it easier for viewers to understand your videos. The duration of your video will also grow if viewers keep returning to a certain piece of it.

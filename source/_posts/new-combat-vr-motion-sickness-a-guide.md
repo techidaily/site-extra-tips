@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Combat VR Motion Sickness  A Guide\""
-date: 2024-08-26T20:37:52.456Z
-updated: 2024-08-27T20:37:52.456Z
+date: 2024-09-04T14:07:10.698Z
+updated: 2024-09-05T14:07:10.698Z
 tags: 
   - screen-recording
   - ai video
@@ -53,7 +53,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Why virtual reality make people sickness
 
@@ -62,7 +65,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Benjamin Arango
 

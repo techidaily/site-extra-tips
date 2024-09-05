@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2024-08-26T20:36:43.431Z
-updated: 2024-08-27T20:36:43.431Z
+date: 2024-09-04T14:07:11.930Z
+updated: 2024-09-05T14:07:11.930Z
 tags:
   - desktop
 categories:
@@ -102,5 +102,8 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

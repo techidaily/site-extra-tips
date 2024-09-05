@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Sequences  A Movie Maker Approach to Animation\""
-date: 2024-08-26T20:39:42.836Z
-updated: 2024-08-27T20:39:42.836Z
+date: 2024-09-04T14:07:08.651Z
+updated: 2024-09-05T14:07:08.651Z
 tags: 
   - screen-recording
   - ai video
@@ -87,8 +87,10 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -110,6 +112,12 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
@@ -117,7 +125,10 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Step4Add Transitions
 
@@ -125,9 +136,6 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
@@ -135,10 +143,22 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -167,7 +187,10 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Related FAQs about Windows Movie Maker
 
