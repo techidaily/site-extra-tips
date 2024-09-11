@@ -1,7 +1,7 @@
 ---
 title: "\"The 3D Photography Duel  Samsung VS LG Edition\""
-date: 2024-09-04T14:07:07.216Z
-updated: 2024-09-05T14:07:07.216Z
+date: 2024-09-10T01:13:48.830Z
+updated: 2024-09-11T01:13:48.830Z
 tags: 
   - screen-recording
   - ai video
@@ -16,6 +16,18 @@ keywords: "\"Samsung Photo Duel,LG vs Samsung 3D,Samsung 3D Imaging,LG 3D Photog
 thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The 3D Photography Duel: Samsung VS LG Edition
 
 # Samsung Gear 360 vs LG 360 Cam: Which 360 degree camera is better
@@ -37,6 +49,18 @@ Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 E
 
 ![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 Basic specs comparison
 
 _Below you can find the difference between both devices at a glance:_
@@ -61,6 +85,18 @@ _Below you can find the difference between both devices at a glance:_
 
 All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2 Pros and Cons
 
 | **\-**                                                       | **Samsung Gear 360**                                                                       | **LG 360 Cam**                                                                       |
@@ -80,22 +116,10 @@ All these specifications can help users to make decision about best cam as per t
 | \-                                                           | Not water-resistant                                                                        |                                                                                      |
 | \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3 Image quality comparison
 
 When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4 Editing software comparison comparison
 
 It is possible to stitch videos as well as photographs taken from the 360 degree camera using Galaxy phone and they can be directly shared on social media. Some consumers also love to use Desktop software to edit the camera results in detail. Same as like Gear 360, the latest device from LG can also capture good quality 360 degree videos as well as photographs but it do not support spherical share as like Samsung unit. You can pair up LG360 cam only with LG G5 latest smartphone whereas video and photo editing options are not yet known for smartphone as well as PC. Both these devices come with Wi-Fi connectivity, USB port and Bluetooth capabilities whereas in case of Samsung 360 gear NFC is an additional option. The ultimate combination of time lapse recording, 360 spherical recording and loop recording makes everything easy in Samsung gear where you can avail wonderful results for each real time recording.
@@ -103,10 +127,10 @@ It is possible to stitch videos as well as photographs taken from the 360 degree
 Check this side-by-side video review to know more about this two 360 degree cameras:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5 Conclusion
 
@@ -115,16 +139,10 @@ Price difference of both devices is well reflected in the comparison table above
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Benjamin Arango
 

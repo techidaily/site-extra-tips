@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Brief Methods for Sending iPhone Media to PC"
-date: 2024-09-04T14:07:05.973Z
-updated: 2024-09-05T14:07:05.973Z
+date: 2024-09-10T01:13:47.746Z
+updated: 2024-09-11T01:13:47.746Z
 tags: 
   - screen-recording
   - ai video
@@ -40,32 +40,50 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 ![](https://images.wondershare.com/filmora/article-images/transfer-iphone-photo-to-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on the My Computer icon on your desktop and locate your iPhone in the Portable Devices section. Double click on the icon to access the contents of your phone, and locate the DCIM folder in the Internal Storage folder where all photos are stored.
 
 ![](https://images.wondershare.com/filmora/article-images/transfer-iphone-photo-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the next step, you should select all the images you want to transfer to your PC and then use the right-click to copy them to a location on your PC where you want to store them.
 
  If you want to copy all the pictures and videos from your iPhone to a PC, right-click on the Apple iPhone icon in the My Computer folder and then select the Import Pictures and Videos option from the menu.
 
 ![](https://images.wondershare.com/filmora/article-images/transfer-iphone-photo-to-pc-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once the Import Pictures and Videos window appears on your screen, click on the Import Settings option to select the folder on your computer where you want to store the photos and videos.
 
 ![](https://images.wondershare.com/filmora/article-images/transfer-iphone-photo-to-pc-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also click on the Always Erase From Device After Importing to automatically delete photos and videos from your iPhone.
 
 ![](https://images.wondershare.com/filmora/article-images/transfer-iphone-photo-to-pc-5.jpg)
 
  After selecting the destination folder and adjusting the settings, click on the OK button and wait for the pictures to be transferred to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Using iTunes to transfer pictures and videos to a PC
 
  Transferring photos from an iPhone to a PC with iTunes requires you to have this software installed on both devices. If this is the case, you should connect your iPhone to a PC with a USB cable, but before you do make sure that all files you want to transfer are located in the same folder on your iPhone.
@@ -73,20 +91,26 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 ![](https://images.wondershare.com/filmora/article-images/transfer-photo-from-iphone-to-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Open the software on your PC and click on the iPhone icon in the menu located in the upper left corner of the iTunes. The Settings menu will appear on the left side of your screen and you should click on the Photo tab. At the top of the screen, you'll be able to see the Sync Photo checkbox, click on it and then select the folder from the drop-down menu.
 
  Locate the folder on your iPhone in which images you want to sync are located and select them. Once you've selected all pictures you want to transfer click on the Apply button located at the lower right corner of your screen. The duration of the transfer depends on the version of the Windows you have, and the transfer may be slow on some older versions of the OS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Transferring iPhone photos via iCloud to a PC
 
@@ -95,21 +119,15 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 ![](https://images.wondershare.com/filmora/article-images/icloud-photo-from-iphone-to-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You need to enable iCloud service on your iPhone in your phone's Settings menu and enable the Photo Stream option in order to start backing up your photos on a PC. Afterwards, you should install the iCloud Control Panel on your computer and two devices should be synced-in. However, transferring your videos with iCloud is not an option, and photos taken before this service was activated will not be automatically transferred. Despite this iCloud is an extremely simple and efficient way to back up all of your photos, and make sure that you can always have enough free space on your iPhone to take amazing photos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
