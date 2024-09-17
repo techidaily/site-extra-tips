@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-09-10T01:13:46.444Z
-updated: 2024-09-11T01:13:46.444Z
+date: 2024-09-16T00:15:08.328Z
+updated: 2024-09-17T04:05:43.105Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/abkoJvvs5WQYRQDy6tiUG7-320-80.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Future-Proof Your Setup with Cutting-Edge Hardware Insights From [Your Site Name] – Tech Enthusiast's Hub
 
 This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show was filled interesting AI focused PCs, but often, their most interesting features had little to do with AI. Such is the case with[MSI](https://www.tomshardware.com/tag/msi-microstar) 's MEG Vision X AI Desktop, which we stumbled upon in the company's sprawling booth.
@@ -35,36 +23,18 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X with Gelsinger Signature](https://cdn.mos.cms.futurecdn.net/BYkvUDqMNVz6ycnx4BZFYV-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  By default, the touch display shows key PC stats such as your CPU temperature and clock speed. It also allows you to launch your favorite apps on your primary screen by tapping a shortcut icon. You can change performance modes here as well, opting for more speed or quieter fans.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/2SRaW8dq9GVUxC4BK2xbzh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  The display is seen by Windows as a full-fledged second display in portrait mode. So you can play YouTube videos on it or run apps on it if you wish. MSI reps said a game streamer should keep their chat or OBS window on the front-panel screen while gaming on their primary monitor. They also said that the touch screen uses Intel integrated graphics while the main monitor or any secondary monitors you attach would use the Nvidia graphics card.
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -79,26 +49,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Tom's Hardware)
 
  But even if having a local image generator / chatbot is really valuable to you, you don't need a special PC or an on-case screen on the case to get those features. MSI may have its own branded apps, but it's likely using the same chat and image generation that's available elsewhere. Anyone who has a decent graphics card can download and install Stable Diffusion image generator or LLama for chat. If you have an RTX card, try[ComfyUI](https://github.com/comfyanonymous/ComfyUI) , which is a very powerful frontend for Stable Diffusion.
 
  What you can't get elsewhere is a full HD screen that takes up the entire front surface of your chassis. We have seen some cases with screens on the front -- the[Jonsbo D41](https://www.jonsbo.com/en/products/D41MESHSCREENBlack.html) comes to mind. But MSI's display takes up the entire space and is meant to be an integral part of the user experience, not just a cute special effect.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,43 +70,30 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-5-simple-tricks-for-aspiring-photoshop-editors/"><u>[New] 5 Simple Tricks for Aspiring Photoshop Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-tools-tweet-with-converted-videos/"><u>[New] Advanced Tools  Tweet with Converted Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-analyzing-aurora-hdrs-impact-on-visual-experience/"><u>[New] Analyzing Aurora HDR's Impact on Visual Experience</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success-for-2024/"><u>[New] How Often to Post  A Guide to YouTube Video Upload Patterns for Success for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mobile-streamers-guide-post-photos-and-videos-not-twits/"><u>[Updated] 2024 Approved  Mobile Streamers' Guide  Post Photos & Videos, Not Twits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-accelerated-cinematic-tips-diy-filming-mastery/"><u>[Updated] Accelerated Cinematic Tips  DIY Filming Mastery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-boundaries-with-metaverse-humor-a-guide-for-you/"><u>[Updated] Breaking Boundaries with Metaverse Humor  A Guide for You</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/an-in-depth-guide-to-periscope-recording-procedures/"><u>An In-Depth Guide to Periscope Recording Procedures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722996909879-fix-your-fortnite-login-issues-fast-and-easy-step-by-step-guide/"><u>Fix Your Fortnite Login Issues Fast and Easy – Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-screen-excellence-in-ppro-video-editing/"><u>Full Screen Excellence in PPro Video Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-do-color-correction-in-gopro-studio-for-2024/"><u>How to Do Color Correction in GoPro Studio for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-90-lite-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor 90 Lite Contacts  An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-3d-viewing-on-your-android-device/"><u>In 2024, Advanced 3D Viewing on Your Android Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-4k-display-selection-the-creme-de-la-creme-list/"><u>In 2024, Best 4K Display Selection  The Crème De La Crème List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-bargain-for-windowmac-users-top-8-free-3d-players/"><u>In 2024, Best Bargain for Window/Mac Users  Top 8 FREE 3D Players</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-classic-comedy-compilation-a-goofy-movie-review/"><u>In 2024, Classic Comedy Compilation  A 'Goofy Movie' Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clearing-imagery-the-canva-method-for-clean-bounds/"><u>In 2024, Clearing Imagery  The Canva Method for Clean Bounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-lg-27-oled-screens-visual-edge/"><u>In 2024, Complete Analysis  LG 27 OLED Screen's Visual Edge</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-reno-10-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo Reno 10 Pro 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-toms-computer-world-expert-insights-and-advice/"><u>Inside Tom's Computer World: Expert Insights and Advice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-color-grading-techniques-with-luts/"><u>Integrating Color Grading Techniques with Luts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting/"><u>IPhone Video Tips  Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/learn-to-bring-text-alive-free-animation-for-vids/"><u>Learn to Bring Text Alive  Free Animation for Vids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-mind-games-top-trivia-channels-for-24/"><u>Mastering Mind Games – Top Trivia Channels for '24</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids/"><u>Navigating the World of No-Fee Visual Aids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/professionals-choice-leading-video-editors-for-sierra/"><u>Professional's Choice  Leading Video Editors for Sierra</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/provideocapture-pro-10plus-features-and-functionality-overview/"><u>ProVideoCapture Pro 10+  Features & Functionality Overview</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-fixes-for-sluggish-windows-11-and-10-machines/"><u>Quick Fixes for Sluggish Windows 11 and 10 Machines</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>Seamless Transition  Leading 8 Tools for Sub to SRT Changeover</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>Simplifying Visual Transformations  Utilizing LUTs for OBS Videos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-essential-mac-deletion-software-customize-and-schedule-your-file-removals-with-ease/"><u>Stellar's Essential Mac Deletion Software: Customize and Schedule Your File Removals with Ease</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-disregarding-harmful-youtube-comments-for-2024/"><u>The Art of Disregarding Harmful YouTube Comments for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-low-volume-playback-system-guide/"><u>The Art of Low-Volume Playback  System Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-comprehensive-guide-to-10-best-meme-patterns/"><u>The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-screencast-software-on-the-market-bandicam-vs-camtasia-for-2024/"><u>Top Screencast Software on the Market  Bandicam Vs. Camtasia for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-ringtone-collection-top-download-locales/"><u>Ultimate Ringtone Collection  Top Download Locales</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>Unlocking Content Creation  Free Tools for Downloading Vids Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unmatched-value-game-changing-voice-switcher-for-valorant-awaits-you/"><u>Unmatched Value, Game-Changing Voice Switcher for Valorant Awaits You</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/viral-potential-top-15-easy-to-create-videos/"><u>Viral Potential  Top 15 Easy-to-Create Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-curated-selection-of-top-6-nft-maker-applications/"><u>[New] A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-gentle-volume-alteration-using-fl-studio/"><u>[New] Achieving Gentle Volume Alteration Using FL Studio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-full-exploration-of-the-sj7s-high-definition-star-cameras-for-action/"><u>[New] Full Exploration of the SJ7's High-Definition Star Cameras for Action</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-crafting-engagement-with-weblink-content-in-instagram/"><u>[Updated] In 2024, Crafting Engagement with Weblink Content in Instagram</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-understanding-auto-hdr-and-smart-exposure-techniques-in-photos/"><u>[Updated] In 2024, Understanding Auto HDR and Smart Exposure Techniques in Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-lava-blaze-2-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Lava Blaze 2 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-creating-flavorful-culinary-videos-top-7-techniques/"><u>In 2024, Creating Flavorful Culinary Videos - Top 7 Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition/"><u>Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-black-desert-online-pc-crashes-solutions-for-smoother-gameplay/"><u>Troubleshooting Black Desert Online PC Crashes: Solutions for Smoother Gameplay</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

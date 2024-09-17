@@ -1,7 +1,7 @@
 ---
 title: "Spin Cycle in the Ice Arena of '22"
-date: 2024-09-10T01:13:45.593Z
-updated: 2024-09-11T01:13:45.593Z
+date: 2024-09-16T06:40:49.093Z
+updated: 2024-09-17T04:28:34.309Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "\"Ice Arena Spin-Up22,Winter Sports Arena Rotation,Freezing Rinks Twi
 thumbnail: https://thmb.techidaily.com/1621022f15bae9f90515e95f15edd431dd0fad0e7e4a31a614efb85ef8dac6ad.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Spin Cycle in the Ice Arena of '22
 
 Winter Olympics is synonymous with Figure Skating as it is the oldest sports event in the Winter Olympics. Figure Skating has been prominently featuring since the first Winter Olympics held at Chamonix, France in 1924.No wonders why everyone around the world is closely following figure skating competition at the 2022 Beijing Winter Olympics. There are as many as five figure skating competitions held this year. They are men's single, women's single, mixed, team, and ice dancing. Check out the brief figure skating highlights right here.
@@ -36,22 +30,10 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
@@ -60,22 +42,10 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
@@ -106,18 +76,6 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
@@ -134,62 +92,34 @@ Step 6: When everything is done, click on Export to save the video and share any
 
 Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>[New] 2024 Approved  Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-amplifying-tiktok-videos-using-zoom-settings/"><u>[New] Amplifying TikTok Videos Using Zoom Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chill-peaks-2022-winter-games-moments/"><u>[New] Chill Peaks  2022 Winter Games Moments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns  A Compreran Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-enhanced-game-recorders-beyond-fbx-frameworks/"><u>[New] In 2024, Enhanced Game Recorders Beyond FBX Frameworks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-radiant-reels-elevate-your-visuals-with-3-insta-tactics/"><u>[New] Radiant Reels  Elevate Your Visuals with 3 Insta Tactics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-picks-browsers-excelling-at-digital-visualization-for-2024/"><u>[New] Top Picks  Browsers Excelling at Digital Visualization for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhancing-comments-with-emojis-on-youtube/"><u>[Updated] 2024 Approved  Enhancing Comments with Emojis on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/"><u>[Updated] A Compreran Guide for Seamless Soundtrack Integration in Video Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-broadcasting-solo-youtube-live-from-your-smartphone/"><u>[Updated] Broadcasting Solo  YouTube Live From Your Smartphone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-solo-spotlight-crafting-a-chart-topping-podcast/"><u>[Updated] Solo Spotlight  Crafting a Chart-Topping Podcast</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-superior-on-screen-moment-documentation/"><u>[Updated] Superior On-Screen Moment Documentation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/dget-friendly-platforms-for-youtube-branding-mastery/"><u>10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-efficient-techniques-to-enhance-engagement-by-uploading-srt-content/"><u>2024 Approved  Efficient Techniques to Enhance Engagement by Uploading SRT Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-record-complete-page-display/"><u>2024 Approved  Record Complete Page Display</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>Capture Dynamic Movements  IPad Timelapse Tips for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-hobbyist-to-professional-your-guide-to-design-success/"><u>From Hobbyist to Professional  Your Guide to Design Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/go-beyond-basics-with-these-advanced-whatsapp-features/"><u>Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion/"><u>HDR Mastery  Essential Steps for SDR-to-HDR Upconversion</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-p40plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40+ Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-power-for-pause-how-to-create-amazing-time-lagged-footage/"><u>In 2024, Android's Power for Pause  How to Create Amazing Time-Lagged Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-accentuation-tunes-for-visual-projects/"><u>In 2024, Audio Accentuation  Tunes for Visual Projects</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comparative-study-twitch-and-youtube-in-streaming-land/"><u>In 2024, Comparative Study  Twitch & YouTube in Streaming Land</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-11-proplus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 11 Pro+ for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-facetune-complete-app-revision/"><u>In-Depth Look at Facetune  Complete App Revision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-out-a-thorough-examination-of-dji-phantom-4/"><u>Inside Out  A Thorough Examination of DJI Phantom 4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>IPhone/Android Edition  Find the Best 8 Multimedia Editing Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-printer-drivers-for-windows-10-and-windows-11-free-downloads/"><u>Latest HP Printer Drivers for Windows 10 and Windows 11 - Free Downloads</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-platforms-for-snagging-snapchat-soundtracks/"><u>Leading Platforms for Snagging Snapchat Soundtracks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lightning-loop-top-10-agile-games-on-mobilepc/"><u>Lightning Loop  Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721101631137-no-more-loneliness-for-wacom-connected/"><u>No More Loneliness for Wacom, Connected</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>Picture-in-Picture Pro  Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/podcast-basics-crafting-your-first-rss-feed/"><u>Podcast Basics  Crafting Your First RSS Feed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-whatsapp-tips-unlocking-untapped-potentials/"><u>Pro-WhatsApp Tips  Unlocking Untapped Potentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-editing-removing-out-of-place-backgrounds/"><u>Seamless Editing  Removing Out-of-Place Backgrounds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/skyrocketing-performance-boosting-ram-in-minecraft-for-2024/"><u>Skyrocketing Performance  Boosting RAM in Minecraft for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-power-of-4k-in-the-samsung-galaxy-s8-experience/"><u>The Power of 4K in the Samsung Galaxy S8 Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-20-unencumbered-public-domain-pubg-artifacts/"><u>Top 20 Unencumbered, Public Domain PUBG Artifacts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gadget-insights-from-toms-hardware-experts/"><u>Ultimate Gadget Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unearthing-the-potential-in-magixs-image-sorter/"><u>Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-mighty-halo-bolt-combo-of-portable-charger-and-battery-booster-roadside-rescue-in-a-packet/"><u>Unveiling The Mighty Halo Bolt Combo of Portable Charger & Battery Booster: Roadside Rescue in a Packet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide  Rift, Vive & VR PlayStation Compared</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-video-reverser-online-for-2024/"><u>[New] Best YouTube Video Reverser Online for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-conveniently-keep-your-linkedin-videos-with-these-6-apps/"><u>[New] Conveniently Keep Your LinkedIn Videos with These 6 Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-screen-record-skype-with-obs/"><u>[New] How to Screen Record Skype with OBS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-engage-fans-through-real-time-streams-mobile-edition/"><u>[Updated] How to Engage Fans Through Real-Time Streams Mobile Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>[Updated] In 2024, Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laughable-film-grabber-review/"><u>Laughable Film Grabber Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-srt-file-engagement-for-os-users/"><u>Seamless SRT File Engagement for OS Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shopping-spree-chronicles-the-editors-blueprint/"><u>Shopping Spree Chronicles The Editor's Blueprint</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/taming-baldurs-gate-3-cpu-hogging-issue-with-these-6-essential-tweaks/"><u>Taming Baldur’s Gate 3 CPU Hogging Issue with These 6 Essential Tweaks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-15-action-camera-picks-beyond-your-gopro-needs/"><u>Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-8-ios-data-backup-solutions-protecting-your-photos-messages-and-more/"><u>Top 8 iOS Data Backup Solutions: Protecting Your Photos, Messages & More</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-photos-using-adobes-power/"><u>Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unparalleled-immersion-with-eizos-high-resolution-4k-display/"><u>Unparalleled Immersion with EIZO’s High-Resolution 4K Display</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

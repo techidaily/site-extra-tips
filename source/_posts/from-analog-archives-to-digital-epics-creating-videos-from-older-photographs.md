@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2024-09-10T01:13:48.573Z
-updated: 2024-09-11T01:13:48.573Z
+date: 2024-09-11T06:15:07.117Z
+updated: 2024-09-17T12:11:44.226Z
 tags: 
   - screen-recording
   - ai video
@@ -36,18 +36,6 @@ Therefore, it is highly recommended to digitize photos to make them lasting. In 
 * [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
 * [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Smart Ways to Digitize Your Memorable Old Photos
 
 With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
@@ -76,12 +64,6 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -96,12 +78,6 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -122,12 +98,6 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -136,28 +106,10 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
@@ -170,12 +122,6 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## More Editing Tips for Creating Memorable Videos
 
 To get better results while making your video collage, you can consider following these suggestions.
@@ -208,63 +154,11 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-3dr-alone-unpackaging-a-single-user-review/"><u>[New] '3DR' Alone  Unpackaging a Single User Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-turning-horizons-into-heights-uploading-videos-to-igtv/"><u>[New] 2024 Approved  Turning Horizons Into Heights  Uploading Videos to IGTV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-amplifying-tiktok-videos-using-zoom-settings/"><u>[New] Amplifying TikTok Videos Using Zoom Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-basics-of-narrative-crafting/"><u>[New] Basics of Narrative Crafting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chill-peaks-2022-winter-games-moments/"><u>[New] Chill Peaks  2022 Winter Games Moments</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content-for-2024/"><u>[New] Fresh Footage, Frequent Flows  Do's & Don'ts for Streamlining Video Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>[Updated] Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-drone-deals-ready-to-buy/"><u>[Updated] Best Drone Deals Ready to Buy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-broadcasting-solo-youtube-live-from-your-smartphone/"><u>[Updated] Broadcasting Solo  YouTube Live From Your Smartphone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-seamless-social-journey-from-instaplustik/"><u>[Updated] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-online-aggregators-for-securing-affiliates-on-googles-platform/"><u>[Updated] In 2024, Online Aggregators for Securing Affiliates on Google's Platform</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-depth-how-vimeo-stacks-up-against-youtube-for-2024/"><u>[Updated] In-Depth  How Vimeo Stacks Up Against YouTube for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/allianz-se/"><u>Allianz SE</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-affordable-local-listings-on-oodle-platform/"><u>Explore Affordable Local Listings on Oodle Platform</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/go-beyond-basics-with-these-advanced-whatsapp-features/"><u>Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-blaze-2-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Blaze 2 5G Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion/"><u>HDR Mastery  Essential Steps for SDR-to-HDR Upconversion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-the-missing-mingwm10dll-file-issue/"><u>How to Correctly Address the Missing Mingwm10.dll File Issue</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-power-for-pause-how-to-create-amazing-time-lagged-footage/"><u>In 2024, Android's Power for Pause  How to Create Amazing Time-Lagged Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comparative-study-twitch-and-youtube-in-streaming-land/"><u>In 2024, Comparative Study  Twitch & YouTube in Streaming Land</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-facetune-complete-app-revision/"><u>In-Depth Look at Facetune  Complete App Revision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-out-a-thorough-examination-of-dji-phantom-4/"><u>Inside Out  A Thorough Examination of DJI Phantom 4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>IPhone/Android Edition  Find the Best 8 Multimedia Editing Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lightning-loop-top-10-agile-games-on-mobilepc/"><u>Lightning Loop  Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/max-effects-for-vector-files/"><u>Max Effects for Vector Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/podcast-basics-crafting-your-first-rss-feed/"><u>Podcast Basics  Crafting Your First RSS Feed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premiere-pro-starter-pack-2023-edition-free/"><u>Premiere Pro Starter Pack - 2023 Edition (Free)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-whatsapp-tips-unlocking-untapped-potentials/"><u>Pro-WhatsApp Tips  Unlocking Untapped Potentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/proven-methods-to-master-time-lapse-creation/"><u>Proven Methods to Master Time Lapse Creation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/rotibox-bluetooth-beanie-headpiece-revealed-an-in-depth-look-at-unparalleled-warmth-and-audio-clarity-synergy/"><u>Rotibox Bluetooth Beanie Headpiece Revealed: An In-Depth Look at Unparalleled Warmth and Audio Clarity Synergy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-editing-removing-out-of-place-backgrounds/"><u>Seamless Editing  Removing Out-of-Place Backgrounds</u></a></li>
-<li><a href="https://extra-information.techidaily.com/techniques-for-steadying-your-motion-sensitive-gopro/"><u>Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tomtoms-ultimate-adventure-cam-2023/"><u>TomTom's Ultimate Adventure Cam 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-htc-u23-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 HTC U23 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gadget-insights-from-toms-hardware-experts/"><u>Ultimate Gadget Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-mighty-halo-bolt-combo-of-portable-charger-and-battery-booster-roadside-rescue-in-a-packet/"><u>Unveiling The Mighty Halo Bolt Combo of Portable Charger & Battery Booster: Roadside Rescue in a Packet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide  Rift, Vive & VR PlayStation Compared</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-window-to-flawless-video-viewing/"><u>Your Window to Flawless Video Viewing</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -272,3 +166,31 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[New] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>[New] Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-creating-a-streamlined-podcast-rss-feed-structure/"><u>[New] Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-maximizing-engagement-with-instagrams-ask-emoji/"><u>[New] Maximizing Engagement with Instagram's Ask Emoji</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>[Updated] Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>[Updated] Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-sj7-redefines-capturing-life-comprehensively-reviewing-its-4k-star-cam/"><u>2024 Approved SJ7 Redefines Capturing Life Comprehensively Reviewing Its 4K Star Cam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-and-share-the-top-10-free-screenshot-apps-on-macos/"><u>Capture & Share The Top 10 FREE Screenshot Apps on MacOS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/exiting-obstacle-the-story-of-52-error/"><u>Exiting Obstacle: The Story of #52 Error</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-glue-methods-for-spotless-video-creations-on-tiktok-for-2024/"><u>No-Glue Methods for Spotless Video Creations on TikTok for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-reactivate-intrinsic-local-security-functionality/"><u>Resolved: Reactivate Intrinsic Local Security Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-c50-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco C50 Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/virtual-vanguard-over-a-hundred-games-galore-for-2024/"><u>Virtual Vanguard Over a Hundred Games Galore for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

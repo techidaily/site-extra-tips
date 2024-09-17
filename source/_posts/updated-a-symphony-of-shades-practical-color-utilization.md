@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Practical Color Utilization\""
-date: 2024-09-10T01:13:52.555Z
-updated: 2024-09-11T01:13:52.555Z
+date: 2024-09-11T16:33:25.103Z
+updated: 2024-09-17T08:24:03.040Z
 tags: 
   - screen-recording
   - ai video
@@ -22,44 +22,20 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -74,17 +50,18 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -92,13 +69,14 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -134,41 +112,17 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-amplifying-tiktok-videos-using-zoom-settings/"><u>[New] Amplifying TikTok Videos Using Zoom Settings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chill-peaks-2022-winter-games-moments/"><u>[New] Chill Peaks  2022 Winter Games Moments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns  A Compreran Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-easy-guide-to-capturing-youtube-content/"><u>[New] In 2024, Easy Guide to Capturing YouTube Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-your-content-choose-these-top-10-reel-apps/"><u>[New] Mastering Your Content  Choose These Top 10 Reel Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-compreran-guide-for-seamless-soundtrack-integration-in-video-editing/"><u>[Updated] A Compreran Guide for Seamless Soundtrack Integration in Video Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-broadcasting-solo-youtube-live-from-your-smartphone/"><u>[Updated] Broadcasting Solo  YouTube Live From Your Smartphone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-restoring-functionality-to-your-corsair-virtuoso-mic/"><u>DIY Solutions: Restoring Functionality to Your Corsair Virtuoso Mic</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-apple-iphone-14-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 14 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-additional-views-in-win-11s-context-menu/"><u>Eliminating Additional Views in Win 11'S Context Menu</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-on-quora-your-comprehensive-guide-to-poe-and-chatbot-interaction/"><u>Exploring AI on Quora: Your Comprehensive Guide to Poe & Chatbot Interaction</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fasten-graphics-performance-intels-g3000-for-ws11-users/"><u>Fasten Graphics Performance: Intel's G3000 for WS11 Users.</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/freezing-gameplay-essential-pc-screen-snaps/"><u>Freezing Gameplay  Essential PC Screen Snaps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/go-beyond-basics-with-these-advanced-whatsapp-features/"><u>Go Beyond Basics with These Advanced WhatsApp Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-mastery-essential-steps-for-sdr-to-hdr-upconversion/"><u>HDR Mastery  Essential Steps for SDR-to-HDR Upconversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-power-for-pause-how-to-create-amazing-time-lagged-footage/"><u>In 2024, Android's Power for Pause  How to Create Amazing Time-Lagged Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-accentuation-tunes-for-visual-projects/"><u>In 2024, Audio Accentuation  Tunes for Visual Projects</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-low-cost-smartwatches-with-gaming-features/"><u>In 2024, Best Low-Cost Smartwatches with Gaming Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comparative-study-twitch-and-youtube-in-streaming-land/"><u>In 2024, Comparative Study  Twitch & YouTube in Streaming Land</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-facetune-complete-app-revision/"><u>In-Depth Look at Facetune  Complete App Revision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-out-a-thorough-examination-of-dji-phantom-4/"><u>Inside Out  A Thorough Examination of DJI Phantom 4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphoneandroid-edition-find-the-best-8-multimedia-editing-tools/"><u>IPhone/Android Edition  Find the Best 8 Multimedia Editing Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-platforms-for-snagging-snapchat-soundtracks/"><u>Leading Platforms for Snagging Snapchat Soundtracks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lightning-loop-top-10-agile-games-on-mobilepc/"><u>Lightning Loop  Top 10 Agile Games on Mobile/PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>Picture-in-Picture Pro  Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/podcast-basics-crafting-your-first-rss-feed/"><u>Podcast Basics  Crafting Your First RSS Feed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-whatsapp-tips-unlocking-untapped-potentials/"><u>Pro-WhatsApp Tips  Unlocking Untapped Potentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-editing-removing-out-of-place-backgrounds/"><u>Seamless Editing  Removing Out-of-Place Backgrounds</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/tips-for-seamlessly-screening-instagram-stories-for-2024/"><u>Tips for Seamlessly Screening Instagram Stories for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-20-unencumbered-public-domain-pubg-artifacts/"><u>Top 20 Unencumbered, Public Domain PUBG Artifacts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-optimal-epub-reading-apps-compatible-with-macos/"><u>Top 5 Optimal EPUB Reading Apps Compatible with macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-gadget-insights-from-toms-hardware-experts/"><u>Ultimate Gadget Insights From Tom's Hardware Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unearthing-the-potential-in-magixs-image-sorter/"><u>Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-mighty-halo-bolt-combo-of-portable-charger-and-battery-booster-roadside-rescue-in-a-packet/"><u>Unveiling The Mighty Halo Bolt Combo of Portable Charger & Battery Booster: Roadside Rescue in a Packet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-worlds-collide-rift-vive-and-vr-playstation-compared/"><u>Virtual Worlds Collide  Rift, Vive & VR PlayStation Compared</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-vlog-confidently-like-popular-youtubers/"><u>[New] 2024 Approved How to Vlog Confidently Like Popular YouTubers?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[New] Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asmr-quality-meets-economic-realities/"><u>[Updated] ASMR Quality Meets Economic Realities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blazing-lanes-at-sochi-2022-games/"><u>[Updated] Blazing Lanes at Sochi 2022 Games</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-playing-quietly-sound-restoration-tips-for-windows-11-gamers/"><u>Cyberpunk 2077 Playing Quietly? Sound Restoration Tips for Windows 11 Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-search-issues-on-windows-11-os/"><u>Eliminating Search Issues on Windows 11 OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967359587-hassle-free-setup-of-your-scansnap-device-downloads-for-windows-inside/"><u>Hassle-Free Setup of Your ScanSnap Device - Downloads for Windows Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>In 2024, Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-best-windows-8-podcasting/"><u>In 2024, Excellent Choices Best Windows 8 Podcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>In 2024, Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-go-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark Go (2023) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mp3-from-tweeted-media-a-step-by-step-guide/"><u>MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
 </ul></div>
+

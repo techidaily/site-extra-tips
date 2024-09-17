@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-09-10T01:13:49.715Z
-updated: 2024-09-11T01:13:49.715Z
+date: 2024-09-10T10:28:51.165Z
+updated: 2024-09-17T00:56:21.126Z
 tags:
   - desktop
 categories:
@@ -9,18 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/JrhRMs4SQRcfksApRBGvxR-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -58,12 +46,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -72,12 +54,6 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -86,14 +62,11 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -104,40 +77,23 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-tackling-frame-rate-glitches-in-obs-outputs/"><u>[New] 2024 Approved  Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-action-cams-duel-black-hero5-against-sj7/"><u>[New] Action Cams Duel  Black Hero5 Against SJ7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-circumventing-virtual-classroom-videos-without-hesitation/"><u>[New] Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-scraps-to-spectacle-a-collage-manual/"><u>[New] From Scraps to Spectacle  A Collage Manual</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>[Updated] Audiovisual Amplification  Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-balancing-dynamics-with-controlled-decays/"><u>[Updated] Balancing Dynamics with Controlled Decays</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-script-innovation-place/"><u>[Updated] Best Script Innovation Place</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-biggest-fifa-footage-trends-in-graphics-for-2024/"><u>[Updated] Exploring Biggest FIFA Footage Trends in Graphics for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-creating-engaging-stream-content-shorts/"><u>[Updated] In 2024, Creating Engaging Stream Content Shorts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>[Updated] The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unmissable-video-capturing-discover-top-5-tools-now/"><u>[Updated] Unmissable Video Capturing - Discover Top 5 Tools Now</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-size-matters-crafting-engaging-video-titles/"><u>2024 Approved  Size Matters  Crafting Engaging Video Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-s18-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo S18 Pro Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/box-it-up-right-10-online-haunts-for-tailored-gift-boxes-for-2024/"><u>Box It Up Right  10 Online Haunts for Tailored Gift Boxes for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-set-up-with-your-new-epson-wf-3540-download-and-install-drivers-for-windows-machines/"><u>Get Set Up with Your New Epson WF-3540 - Download & Install Drivers for Windows Machines</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-share-your-winning-forex-trades-with-friends-and-family-by-mt4copier-guide/"><u>How to Share Your Winning Forex Trades With Friends and Family</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-lenovo-thinkphone-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Lenovo ThinkPhone to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-90-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor 90 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/investigating-whether-photostabilizer-transforms-image-quality/"><u>Investigating Whether PhotoStabilizer Transforms Image Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/invisible-presence-guide-to-instagram-live-broadcasts-and-streaming/"><u>Invisible Presence Guide to Instagram Live Broadcasts and Streaming</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-marketplaces-for-bespoke-wrapping-marvels/"><u>Leading Marketplaces for Bespoke Wrapping Marvels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-unboxing-series-s-must-watch-yt-channels/"><u>Leading Unboxing Series 'S Must-Watch YT Channels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/monetary-milestones-pewdiepies-income-summary/"><u>Monetary Milestones  PewDiePie’s Income Summary</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-education-beyond-video-lessons/"><u>Navigating Education Beyond Video Lessons</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-top-rated-livestreams-your-guide-to-watching-cricket/"><u>Navigating Through Top-Rated Livestreams  Your Guide to Watching Cricket</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-creativity-celebrating-top-6-nft-innovators/"><u>Next-Level Creativity  Celebrating Top 6 NFT Innovators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secrets-of-skillful-navigation-around-edgenuity-videos/"><u>Secrets of Skillful Navigation Around Edgenuity Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shaking-no-more-evaluating-photoshops-anti-shake-feature/"><u>Shaking No More  Evaluating Photoshop's Anti-Shake Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-action-camera-upgrades-what-to-buy/"><u>Streamline Action Camera Upgrades  What to Buy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-playstation-experience-transform-your-voice/"><u>The PlayStation Experience  Transform Your Voice</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unmatched-camcorders-for-total-rotation-capture/"><u>Unmatched Camcorders for Total Rotation Capture</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-live-streaming-platforms-to-engage-audiences-and-increase-viewership/"><u>Updated In 2024, Best Live Streaming Platforms To Engage Audiences and Increase Viewership</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xplits-competitors-for-seamless-streaming/"><u>Xplit's Competitors for Seamless Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cross-platform-iptv-adaptability/"><u>[New] 2024 Approved Cross-Platform IPTV Adaptability</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-still-shots-to-soundscapes-an-instagram-mp3-journey/"><u>[New] In 2024, From Still Shots to Soundscapes An Instagram-MP3 Journey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-ps5-storage-revamped-topping-10-external-units/"><u>[New] In 2024, PS5 Storage Revamped Topping 10 External Units</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advancements-in-quantum-hdr-technology-explained/"><u>[Updated] Advancements in Quantum HDR Technology Explained</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-quick-youtube-video-uploads-and-rendering-secrets/"><u>2024 Approved Master Quick YouTube Video Uploads and Rendering Secrets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-frameworks-amplify-your-youtube-vision/"><u>Free Frameworks Amplify Your YouTube Vision</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-2024-cloud-services-for-minimum-spend/"><u>Optimal 2024 Cloud Services for Minimum Spend</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-15-action-camera-picks-beyond-your-gopro-needs/"><u>Top 15 Action Camera Picks Beyond Your GoPro Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-gopro-cases-unveiled-1-10-ranking/"><u>Top-Tier GoPro Cases Unveiled - #1-10 Ranking</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-amd-ryzen-gpu-drivers-now-secure-download/"><u>Update Your AMD Ryzen GPU Drivers Now – Secure Download</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
