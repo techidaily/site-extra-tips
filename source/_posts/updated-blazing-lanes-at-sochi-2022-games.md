@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2024-09-14T08:18:28.536Z
-updated: 2024-09-17T01:19:06.733Z
+date: 2024-09-16T00:39:02.752Z
+updated: 2024-09-23T04:28:08.249Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,13 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -31,6 +38,13 @@ Here are the main highlights of 1500 meter short track speed skating held at the
 Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
@@ -44,9 +58,23 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -74,13 +102,6 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -100,10 +121,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -129,13 +150,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-distance-to-face-to-face-laptop-techniques-for-whatsapp-calls/"><u>[New] 2024 Approved From Distance to Face-to-Face Laptop Techniques for WhatsApp Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-professional-audio-recorder-reviews-ipad-edition-3/"><u>2024 Approved Professional Audio Recorder Reviews IPad Edition #3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-key-themes-in-the-new-york-times-connections-challenge-for-july-15-400-expert-analysis-and-solutions/"><u>Discover Key Themes in The New York Times Connections Challenge for July 15 (#400) - Expert Analysis and Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-1-to-10-superior-4k-screen-selections/"><u>In 2024, 1 to #10 Superior 4K Screen Selections</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-fresh-drivers-boost-your-msi-gs65-laptops-speed-with-new-windows-updates/"><u>Install Fresh Drivers: Boost Your MSI GS65 Laptop's Speed with New Windows Updates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/macbook-air-vs-pro-evaluating-the-m1-advantage/"><u>MacBook Air Vs. Pro Evaluating the M1 Advantage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-your-music-movement-between-services/"><u>Streamline Your Music Movement Between Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-hands-on-strategies-to-keep-vimeo-videos/"><u>[New] In 2024, Hands-On Strategies to Keep Vimeo Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-simplified-transfer-tactics-from-iphone-to-computer/"><u>[New] Simplified Transfer Tactics From iPhone to Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-seamless-media-consumption-enable-automatic-playback-of-youtube-content-on-fb/"><u>[Updated] 2024 Approved Seamless Media Consumption Enable Automatic Playback of YouTube Content on FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-journey-into-professional-gopro-editing/"><u>[Updated] A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[Updated] Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/filefixers-experts-evaluation-for-2024/"><u>FileFixers Experts Evaluation for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-samsung-galaxy-a25-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Samsung Galaxy A25 5G Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-select-best-dvd-software-for-sierra-mac-users/"><u>In 2024, Select Best Dvd Software for Sierra Mac Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-srts-most-effective-upgrades-for-macwindows/"><u>In 2024, SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spin-cycle-in-the-ice-arena-of-22/"><u>Spin Cycle in the Ice Arena of '22</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-list-of-video-recording-apps-for-iphone/"><u>Top List of Video Recording Apps for iPhone</u></a></li>
 </ul></div>
 

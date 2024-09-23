@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Symphony of Shades  Practical Color Utilization\""
-date: 2024-09-11T16:33:25.103Z
-updated: 2024-09-17T08:24:03.040Z
+date: 2024-09-18T22:07:37.117Z
+updated: 2024-09-22T19:00:12.730Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,21 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -50,6 +64,13 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -57,10 +78,10 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -70,13 +91,6 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -112,17 +126,25 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-vlog-confidently-like-popular-youtubers/"><u>[New] 2024 Approved How to Vlog Confidently Like Popular YouTubers?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-mobile-media-the-art-of-filming-with-a-smartphone/"><u>[New] Mastering Mobile Media The Art of Filming with a Smartphone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-asmr-quality-meets-economic-realities/"><u>[Updated] ASMR Quality Meets Economic Realities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-blazing-lanes-at-sochi-2022-games/"><u>[Updated] Blazing Lanes at Sochi 2022 Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cyberpunk-2077-playing-quietly-sound-restoration-tips-for-windows-11-gamers/"><u>Cyberpunk 2077 Playing Quietly? Sound Restoration Tips for Windows 11 Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-search-issues-on-windows-11-os/"><u>Eliminating Search Issues on Windows 11 OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967359587-hassle-free-setup-of-your-scansnap-device-downloads-for-windows-inside/"><u>Hassle-Free Setup of Your ScanSnap Device - Downloads for Windows Inside</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-video-impact-integrating-free-luts-into-your-obs-workflow/"><u>In 2024, Boosting Video Impact Integrating Free LUTs Into Your OBS Workflow</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-choices-best-windows-8-podcasting/"><u>In 2024, Excellent Choices Best Windows 8 Podcasting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>In 2024, Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-go-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark Go (2023) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mp3-from-tweeted-media-a-step-by-step-guide/"><u>MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-curated-selection-of-top-6-nft-maker-applications/"><u>[New] A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breathtaking-review-and-different-directions/"><u>[New] Breathtaking Review & Different Directions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>[New] Countdown Charm Top Android & iOS Timers for Weddings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capture-creativity-with-smartphones-best-apps/"><u>[Updated] Capture Creativity with Smartphones' Best Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compreran-exploration-of-giroptics-panorama/"><u>[Updated] Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] In 2024, How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-streamlining-your-video-editing-with-device-filters-for-2024/"><u>[Updated] Streamlining Your Video Editing with Device Filters for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ddr5-pro-memory-boosted-beyond-limits-crucials-ddr5-6000-overclocking-mastery/"><u>DDR5 Pro Memory Boosted Beyond Limits: Crucial's DDR5-6000 Overclocking Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-9plus-essential-guides-to-mastering-the-art-of-online-cricket-viewership/"><u>In 2024, 9+ Essential Guides to Mastering the Art of Online Cricket Viewership</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-front-runners-in-4k-gaming-graphics/"><u>In 2024, Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-f5-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco F5 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>In 2024, The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-review-unveiling-bublcams-full-potential/"><u>In-Depth Review Unveiling Bublcam's Full Potential</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-aging-strategy-edit-and-confirm-on-tiktok/"><u>Optimal Aging Strategy Edit and Confirm On TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition/"><u>Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-issues-when-your-iphone-cant-sync-songs-playlists-or-photos-with-itunes-or-mac/"><u>Troubleshooting Guide: How to Resolve Issues When Your iPhone Can't Sync Songs, Playlists or Photos with iTunes or Mac</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-beyond-powerdirector-the-best-mobile-video-editing-apps/"><u>Updated 2024 Approved Beyond PowerDirector The Best Mobile Video Editing Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windowed-world-of-video-editing-a-selective-recommendation-guide/"><u>Windowed World of Video Editing A Selective Recommendation Guide</u></a></li>
 </ul></div>
 

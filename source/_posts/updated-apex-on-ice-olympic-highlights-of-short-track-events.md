@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events\""
-date: 2024-09-12T21:48:08.189Z
-updated: 2024-09-16T17:54:56.821Z
+date: 2024-09-18T04:36:50.667Z
+updated: 2024-09-23T10:03:57.730Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,23 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
@@ -52,13 +66,40 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -92,13 +133,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -108,13 +142,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,13 +156,18 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-compare-and-contrast-best-6-hdmi-monitor-models-in-detail/"><u>[New] Compare & Contrast Best 6 HDMI Monitor Models in Detail</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-methods-for-iphone-screen-capture-for-2024/"><u>[New] Step-by-Step Methods for iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chime-connoisseurs-curated-list-of-download-websites/"><u>In 2024, Chime Connoisseurs Curated List of Download Websites</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-troubleshooting-frozen-footage-in-photo-booths/"><u>In 2024, Troubleshooting Frozen Footage in Photo Booths</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/technology-showcase-highlights-of-the-5-best-slow-cams-for-2024/"><u>Technology Showcase Highlights of the 5 Best Slow Cams for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-itel-a60-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-charging-phones-with-alternative-methods/"><u>Ultimate Guide: Charging Phones with Alternative Methods</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-premium-webcams-shoppers-insights/"><u>[New] 2024 Approved Exploring Premium Webcams - Shopper's Insights</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-sharing-bygone-photos-through-snapchats-memories-feature-for-2024/"><u>[New] Sharing Bygone Photos Through Snapchat's Memories Feature for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-staying-above-copyright-infringement-insta-watermarks-explained/"><u>[Updated] 2024 Approved Staying Above Copyright Infringement Insta Watermarks Explained</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-xr-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone XR Lock Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/future-proofing-your-footage-the-2024-camcorder-roundup/"><u>Future-Proofing Your Footage The 2024 Camcorder Roundup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-storm-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Storm 5G PC | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-next-gen-sound-and-vision-leading-devices-of-24/"><u>In 2024, Next-Gen Sound and Vision Leading Devices of '24</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/premium-portables-laptops-to-supercharge-your-creative-work-for-2024/"><u>Premium Portables Laptops to Supercharge Your Creative Work for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-windows-surfing-guide-unveiled/"><u>Quick Windows Surfing Guide Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/toms-tech-insights-in-depth-reviews-of-cutting-edge-hardware/"><u>Tom's Tech Insights: In-Depth Reviews of Cutting-Edge Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-srt-transformations-for-mac-and-windows-pcs/"><u>Top-Tier SRT Transformations for Mac & Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-spark-20c-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Spark 20C Phone Network-Ready</u></a></li>
 </ul></div>
 

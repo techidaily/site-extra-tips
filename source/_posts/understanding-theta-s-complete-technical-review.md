@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2024-09-12T16:34:38.359Z
-updated: 2024-09-17T06:44:51.969Z
+date: 2024-09-17T23:36:18.218Z
+updated: 2024-09-23T02:18:08.351Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -82,6 +89,13 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -100,10 +114,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -115,16 +129,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -142,18 +150,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-visual-treat-discover-these-14-text-animation-delights/"><u>[New] A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-cinematic-magic-a-filmmakers-guide-to-light/"><u>[New] In 2024, Crafting Cinematic Magic A Filmmaker's Guide to Light</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-tablet-artistry-top-8-drawing-software-for-ipados/"><u>[New] In 2024, Tablet Artistry Top 8 Drawing Software for iPadOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-your-auditory-signature-master-sound-modification-for-zero-cost/"><u>[Updated] Boost Your Auditory Signature Master Sound Modification for Zero Cost</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-creating-a-professional-periscope-presence/"><u>[Updated] Creating a Professional Periscope Presence</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-hp-officejet-pro-8610-drivers-available-here-ensuring-full-compatibility-with-all-windows-os-including-windows-11-8-and-more/"><u>Latest HP Officejet Pro 8610 Drivers Available Here: Ensuring Full Compatibility with All Windows OS Including Windows 11, 8, & More</u></a></li>
-<li><a href="https://games-able.techidaily.com/say-goodbye-to-unhappy-moments-resolving-the-top-10-reasons-games-freeze/"><u>Say Goodbye to Unhappy Moments: Resolving the Top 10 Reasons Games Freeze</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spectacular-stop-motion-animations-15-list/"><u>Spectacular Stop-Motion Animations #15 List</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-smooth-video-playback-on-pc-mac-android-and-iphone/"><u>Step-by-Step Guide: Smooth Video Playback on PC, Mac, Android & iPhone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strategies-in-tagging-and-titling-videos-for-success-for-2024/"><u>Strategies in Tagging and Titling Videos for Success for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-budget-friendly-4k-capture-devices/"><u>Top Budget-Friendly 4K Capture Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-budget-friendly-excellent-webm-viewers/"><u>Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-chromebook-screenshots-made-easy-top-5-app-choices-for-2024/"><u>[New] Chromebook Screenshots Made Easy Top 5 App Choices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-instantaneous-screen-logging-chromebooks/"><u>[New] In 2024, Instantaneous Screen Logging (Chromebooks)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-pinnacle-of-iphone-photography-finding-ultimate-angles/"><u>[Updated] 2024 Approved The Pinnacle of iPhone Photography Finding Ultimate Angles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-activity-inspection-guide/"><u>[Updated] Complete Activity Inspection Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-choose-the-best-android-and-ios-timers-for-your-dream-wedding-for-2024/"><u>How to Choose the Best Android & iOS Timers for Your Dream Wedding for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-8-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 8 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Spark 10 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/propel-your-video-writes-the-ai-way/"><u>Propel Your Video' Writes The AI Way</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts/"><u>Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
 </ul></div>
 

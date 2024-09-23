@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Cold Climates, Hot Wins  Beijing Highlights\""
-date: 2024-09-15T01:43:39.642Z
-updated: 2024-09-17T08:48:18.907Z
+date: 2024-09-19T16:22:05.795Z
+updated: 2024-09-23T05:05:07.740Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,10 @@ Injuries are part of sports events but some injuries are gruesome and are result
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
@@ -61,13 +61,6 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 ## 5\. Van der Poel Breaks the World Record
@@ -76,14 +69,14 @@ Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
@@ -91,14 +84,14 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
-The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
@@ -117,10 +110,16 @@ We are all aware of the tensions between Ukraine and Russia are at their peak an
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. American Favorite Out of the Tournament
@@ -129,13 +128,34 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
 
 ![russian figure skater](https://images.wondershare.com/filmora/article-images/russian-figure-skater.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
@@ -148,19 +168,25 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-alternatives-the-best-online-learning-platforms-without-udemy/"><u>[New] 2024 Approved Prime Alternatives The Best Online Learning Platforms without Udemy</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[New] In 2024, Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-core-tenets-of-narrative-construction/"><u>[Updated] Core Tenets of Narrative Construction</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-subtle-screen-entry-sequence/"><u>2024 Approved Subtle Screen Entry Sequence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-family-fun-top-six-online-platforms-for-kids-movies/"><u>Free Family Fun: Top Six Online Platforms for Kids' Movies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-guide-to-making-engaging-audio-promos/"><u>In 2024, A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-gt-5-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme GT 5 Pro? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-the-top-93-vital-spanish-phrases-for-trips-abroad/"><u>Learn the Top 93 Vital Spanish Phrases for Trips Abroad</u></a></li>
-<li><a href="https://techtrends.techidaily.com/linking-several-bluetooth-audio-players-to-a-single-source-a-step-by-step-guide/"><u>Linking Several Bluetooth Audio Players to a Single Source: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/photographic-albums-with-soundscape-features/"><u>Photographic Albums with Soundscape Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-troubleshoot-and-resolve-voice-chat-glitches-in-overwatch/"><u>Quick Fixes: How to Troubleshoot and Resolve Voice Chat Glitches in Overwatch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smile-station-quick-tips-for-chuckling-creations/"><u>Smile Station Quick Tips for Chuckling Creations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/superb-simple-countdown-apps-for-free/"><u>Superb Simple Countdown Apps for Free</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-trim-cut-and-edit-divx-videos-for-free-top-tools/"><u>Updated 2024 Approved Trim, Cut, and Edit Divx Videos for Free Top Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harnessing-the-full-potential-of-windows-11s-auto-hdr-feature/"><u>[New] 2024 Approved Harnessing the Full Potential of Windows 11'S Auto HDR Feature</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-swiftly-switch-songs-in-yt-playlist-heres-how/"><u>[New] 2024 Approved Swiftly Switch Songs in YT Playlist, Here's How</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-into-the-future-with-these-7-premier-live-streaming-apps-iphoneandroid-for-2024/"><u>[Updated] Step Into the Future with These 7 Premier LIVE Streaming Apps (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unparalleled-window-watchers-top-video-player-picks/"><u>2024 Approved Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gaiety-media-download-review/"><u>Gaiety Media Download Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>How to Reset a Locked Vivo Y78+ Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>In 2024, Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-filmmaking-for-the-future-adapting-videos-vertically-for-instagram/"><u>In 2024, Filmmaking for the Future Adapting Videos Vertically for Instagram</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-visual-storytelling-with-vsco/"><u>Mastering Visual Storytelling with VSCO</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-the-world-of-electronics-with-expert-advice-from-toms-hardware-haven/"><u>Navigate the World of Electronics with Expert Advice From Tom's Hardware Haven</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-workflow-with-aero-shake-w11-tech/"><u>Optimizing Your Workflow with Aero Shake W11 Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-photography-with-quantum-hdr-tech/"><u>Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-multiversus-from-freezing-and-crashing-with-these-8-pro-tips/"><u>Stop Multiversus From Freezing & Crashing with These 8 Pro Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone/"><u>The Art of Audio-Visual Storytelling with iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tuneful-transmissions-integrating-audio-with-statuses/"><u>Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncover-the-leading-free-online-subtitle-makers-srt/"><u>Uncover the Leading Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xsplit-versus-obs-ultimate-livestream-guide/"><u>XSplit versus OBS – Ultimate Livestream Guide</u></a></li>
 </ul></div>
 

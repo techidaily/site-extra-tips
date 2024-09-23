@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2024-09-15T06:58:46.878Z
-updated: 2024-09-17T00:59:11.691Z
+date: 2024-09-22T01:07:41.124Z
+updated: 2024-09-23T04:33:09.752Z
 tags:
   - desktop
 categories:
@@ -56,24 +56,25 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-perfect-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails/"><u>[Updated] Perfect Your YouTube Presence Learn to Create Engaging Ads & Thumbnails</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-11-best-streaming-audio-recorders/"><u>2024 Approved 11 Best Streaming Audio Recorders</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-troubleshooting-chivalry-ii-stability-problems/"><u>Expert Tips on Troubleshooting Chivalry II Stability Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-logitech-g35-headset-drivers-compatible-with-windows-7-8-and-10/"><u>Free Logitech G35 Headset Drivers Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gaiety-media-download-review/"><u>Gaiety Media Download Review</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-v27e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo V27e Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-dell-thunderbolt-connectivity-hub-finding-and-installing-the-latest-drivers/"><u>How to Update Your Dell Thunderbolt Connectivity Hub: Finding and Installing the Latest Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choosing-top-8-free-ai-powered-srt-translators/"><u>In 2024, Choosing Top 8 Free, AI-Powered SRT Translators</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-photography-with-quantum-hdr-tech/"><u>Pioneering Photography with Quantum HDR Tech</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/repairing-your-turtle-beach-recon-n-common-solutions-for-a-non-functional-mic/"><u>Repairing Your Turtle Beach Recon N: Common Solutions for a Non-Functional Mic</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/time-lapse-tales-smartphone-storytelling-techniques/"><u>Time-Lapse Tales Smartphone Storytelling Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-live-link-lore-when-does-gear-give-way-to-grids-in-2024/"><u>[New] Live Link Lore When Does Gear Give Way to Grids, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-role-of-crossfade-in-modern-music-mixing/"><u>[New] The Role of Crossfade in Modern Music Mixing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-what-is-a-parody-and-how-to-make-a-parody-video-for-2024/"><u>[New] What Is a Parody and How to Make a Parody Video for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-journey-into-professional-gopro-editing/"><u>[Updated] A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[Updated] Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/"><u>An In-Depth Study on FFmpeg's Excellence in Original Audio Extraction</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-the-creator-gap-with-ai-help/"><u>Bridging the Creator Gap with AI Help</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>In 2024, Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-mastery-how-to-design-your-vr-alter-egos-efficiently/"><u>In 2024, Step-by-Step Mastery How to Design Your VR Alter Egos Efficiently</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spin-cycle-in-the-ice-arena-of-22/"><u>Spin Cycle in the Ice Arena of '22</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

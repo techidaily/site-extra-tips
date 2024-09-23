@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-09-12T02:24:39.800Z
-updated: 2024-09-17T05:44:34.528Z
+date: 2024-09-17T17:20:28.435Z
+updated: 2024-09-22T18:07:46.287Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -65,9 +72,23 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
@@ -76,6 +97,13 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -92,20 +120,15 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-selection-of-high-quality-tiktok-backdrops/"><u>[New] A Selection of High-Quality TikTok Backdrops</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-panoramas-and-cinematography-with-hero5-black/"><u>[New] Professional Panoramas & Cinematography with Hero5 Black</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-top-10-fitness-channels-for-yogis/"><u>[Updated] 2024 Approved Discover the Top 10 Fitness Channels for Yogis</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassed-direct3d-delays-unleash-full-gpu-capabilities-now/"><u>Bypassed Direct3D Delays - Unleash Full GPU Capabilities Now</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-aukey-usb-30-hub-assessment-a-stylish-and-functional-tech-accessory/"><u>Comprehensive Aukey USB 3.0 Hub Assessment: A Stylish and Functional Tech Accessory</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/open-access-mindful-harmonies/"><u>Open Access Mindful Harmonies</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-solutions-overcoming-common-difficulties-with-lenovos-usb-driver/"><u>Quick Solutions: Overcoming Common Difficulties with Lenovo's USB Driver</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-apex-gaming-graphics-4k-edition-guide/"><u>[Updated] Apex Gaming Graphics 4K Edition Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-natural-inside-glow-techniques-for-homes/"><u>[Updated] Natural Inside Glow Techniques for Homes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simple-steps-to-great-videos-crafting-10-basic-concepts-easily/"><u>[Updated] Simple Steps to Great Videos Crafting 10 Basic Concepts Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-ps4-network-errors-an-in-depth-stepwise-strategy-for-nat-success/"><u>Defeating PS4 Network Errors: An In-Depth Stepwise Strategy for NAT Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-melodic-mute-mode-operating-system-steps/"><u>In 2024, Melodic Mute Mode Operating System Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-pics-high-quality-no-cost/"><u>Transform Your Pics - High Quality, No Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visualvertexzoomerx7-enhance-and-expand-with-ease/"><u>VisualVertexZoomerX7 Enhance & Expand with Ease</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

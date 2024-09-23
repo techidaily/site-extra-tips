@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-09-13T23:59:20.017Z
-updated: 2024-09-16T17:04:36.966Z
+date: 2024-09-22T01:12:43.709Z
+updated: 2024-09-23T01:54:32.460Z
 tags:
   - desktop
 categories:
@@ -58,34 +58,31 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximizing-hd-quality-fb-live-broadcast-tips/"><u>[New] In 2024, Maximizing HD Quality FB Live Broadcast Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-steps-for-transforming-your-ppts-into-video-magic/"><u>[New] In 2024, Ultimate Steps for Transforming Your PPTs Into Video Magic</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tips-for-snagging-quality-streams-on-facebook-for-2024/"><u>[New] Tips for Snagging Quality Streams on Facebook for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-50plus-best-practices-in-video-text-design/"><u>[Updated] 50+ Best Practices in Video Text Design</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-auto-arcade-adventures-for-kids/"><u>[Updated] Auto Arcade Adventures for Kids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convert-songs-to-calls-essential-websites-for-youtubetones-extraction/"><u>[Updated] Convert Songs to Calls Essential Websites for YoutubeTones Extraction</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-gradual-audio-decline-in-adobe-premiere/"><u>[Updated] Mastering Gradual Audio Decline in Adobe Premiere</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-freely-accessible-comedy-soundtracks-5-recommended-sources-for-video-editors/"><u>2024 Approved Freely Accessible Comedy Soundtracks 5 Recommended Sources for Video Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-analog-archives-to-digital-epics-creating-videos-from-older-photographs/"><u>From Analog Archives to Digital Epics Creating Videos From Older Photographs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-e13-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto E13 Phone FRP Lock</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simple-processes-for-logging-vimeo-content/"><u>In 2024, Simple Processes for Logging Vimeo Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/interior-illumination-through-natural-sun-exposure/"><u>Interior Illumination Through Natural Sun Exposure</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premiere-pro-rapid-transitions/"><u>Premiere Pro Rapid Transitions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/save-big-enjoy-500-discount-on-the-powerful-alienware-aurora-r16-equipped-with-rtx-4080-super-and-intels-core-i9-14900kf-processor/"><u>Save Big: Enjoy $500 Discount on the Powerful Alienware Aurora R16, Equipped with RTX 4080 Super & Intel's Core I9-14900KF Processor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-magic-behind-immersive-world-creation/"><u>The Magic Behind Immersive World Creation</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-starting-pathfinder-wrath-of-the-righteous-heres-how-to-fix-it/"><u>Trouble Starting Pathfinder: Wrath of the Righteous? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-captivation-craftsman-for-posters/"><u>[New] Captivation Craftsman for Posters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cost-efficient-filmmaking-action-cams-under-100-guide/"><u>[New] Cost-Efficient Filmmaking ACTION Cams Under $100 Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-behind-the-scenes-of-podcast-scripts-tips-and-examples/"><u>[Updated] Behind the Scenes of Podcast Scripts Tips and Examples</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-constructing-an-inspirational-tiktok-end-screen-for-2024/"><u>[Updated] Constructing An Inspirational TikTok End Screen for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-tips-how-to-perfectly-flip-videos-on-devices-for-2024/"><u>[Updated] Instagram Tips How to Perfectly Flip Videos on Devices for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-15-top-montage-music-for-different-video-types/"><u>2024 Approved 15 Top Montage Music for Different Video Types</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sync-your-style-across-ios-and-android-with-a-customized-whatsapp-sound/"><u>2024 Approved Sync Your Style Across iOS and Android with a Customized WhatsApp Sound</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-escort-max-360-the-ultimate-dual-radar-and-laser-detector-with-gps/"><u>Comprehensive Guide to Escort Max 360: The Ultimate Dual Radar & Laser Detector With GPS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-overlay-photos-on-computer-desktop-and-online/"><u>How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a14-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A14 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/identify-opengl-drivers-for-intel-chipsets-quickly/"><u>Identify OpenGL Drivers for Intel Chipsets Quickly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-advanced-tips-for-accurate-and-smooth-hp-laptop-screen-capture/"><u>In 2024, Advanced Tips for Accurate and Smooth HP Laptop Screen Capture</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laughable-film-grabber-review/"><u>Laughable Film Grabber Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-narrative-scripts-dialogue-excellence/"><u>Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ridiculousrender-hub/"><u>RidiculousRender Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-srt-file-engagement-for-os-users/"><u>Seamless SRT File Engagement for OS Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unparalleled-immersion-with-eizos-high-resolution-4k-display/"><u>Unparalleled Immersion with EIZO’s High-Resolution 4K Display</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtubes-economic-model-month-to-month-income-for-2024/"><u>YouTube's Economic Model Month-to-Month Income for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

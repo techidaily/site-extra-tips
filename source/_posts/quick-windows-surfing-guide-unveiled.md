@@ -1,7 +1,7 @@
 ---
 title: "Quick Windows Surfing Guide Unveiled"
-date: 2024-09-16T10:53:51.344Z
-updated: 2024-09-17T05:24:31.710Z
+date: 2024-09-22T03:36:27.273Z
+updated: 2024-09-23T00:15:53.042Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
@@ -58,9 +65,23 @@ Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://g
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -71,10 +92,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -90,13 +111,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -132,20 +146,15 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-binge-watch-or-live-stream-twitch-and-youtube-compared/"><u>[New] Binge-Watch or Live-Stream? Twitch and YouTube Compared</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-techniques-for-smartphone-video-capture/"><u>[New] Essential Techniques for Smartphone Video Capture</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-advanced-techniques-for-better-obs-encoding/"><u>[Updated] 2024 Approved Advanced Techniques for Better OBS Encoding</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-distinguishing-between-youtube-policies-and-cc-clauses/"><u>[Updated] Distinguishing Between YouTube Policies and CC Clauses</u></a></li>
-<li><a href="https://video-capture.techidaily.com/8-best-video-conferencing-software-for-small-business-safely-for-2024/"><u>8 Best Video Conferencing Software for Small Business Safely for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721465909359-dont-delay-discover-the-must-have-features-in-latest-ios-update-153/"><u>Don’t Delay: Discover the Must-Have Features in Latest iOS Update, 15.3!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-fantasy-to-feasibility-vrs-milestones/"><u>From Fantasy to Feasibility VR's Milestones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-storing-session-videos-in-gh/"><u>In 2024, Storing Session Videos in GH</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/love-and-light-nine-essential-filmora-elements/"><u>Love and Light Nine Essential Filmora Elements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-timecodes-and-text-in-srt-with-macos/"><u>Navigating Timecodes and Text in SRT with macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/one-click-wonder-livestream-your-podcast/"><u>One Click Wonder Livestream Your Podcast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rapid-transition-from-srt-to-subc-with-simple-steps/"><u>Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swift-remedies-for-stalling-spotify-connectivity/"><u>Swift Remedies for Stalling Spotify Connectivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-advantages-of-choosing-the-claude-ai-over-chatgpt/"><u>Top 4 Advantages of Choosing the Claude AI Over ChatGPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-8-search-engines-for-person-lookup/"><u>Unveiling the Ultimate 8 Search Engines for Person Lookup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[New] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unlocking-archived-stories-from-facebook-a-digital-handbook/"><u>[New] Unlocking Archived Stories From Facebook A Digital Handbook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>[Updated] Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-camon-30-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Camon 30 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-apples-extended-warranty-service-applecareplus-truly-essential-or-not/"><u>Is Apple's Extended Warranty Service (AppleCare+) Truly Essential or Not?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/step-by-step-to-adobe-cloud-success-and-non-adobe-options-for-2024/"><u>Step-by-Step to Adobe Cloud Success & Non-Adobe Options for 2024</u></a></li>
 </ul></div>
 

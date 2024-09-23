@@ -1,7 +1,7 @@
 ---
 title: "The Connoisseur's Guide to Adding Precise Dates on Images"
-date: 2024-09-13T20:19:50.958Z
-updated: 2024-09-16T19:15:49.668Z
+date: 2024-09-18T22:16:37.533Z
+updated: 2024-09-22T19:30:29.380Z
 tags: 
   - screen-recording
   - ai video
@@ -107,13 +107,6 @@ Instasize is an app that you will find quite useful. The app was developed for i
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key features**
 
 * Collage maker
@@ -199,6 +192,13 @@ Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Click on the text button.
 
 ![click on the text button](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-9.jpg)
@@ -220,6 +220,13 @@ Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the imag
 Step2At the top of your screen, click on Edit & Create to get.
 
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
 
@@ -243,20 +250,27 @@ Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6Select Menu in the upper-left corner.
 
 ![select menu](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Edit Photos Online to add date stamps
 
@@ -267,6 +281,13 @@ Step7Proceed to click on the Save option.
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
 ![canva](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-19.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -298,13 +319,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Photo Resizing
 * Background Remover
 * Retouching of photo
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -378,6 +392,13 @@ The stock Android Camera app has full editing features that allow you to crop, r
 
 The stock iPhone Camera app also has full editing tools that allow you to crop, rotate and adjust the contrast of your photos. You can also add stickers and frames to your photo within this app.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use other photo editors to edit photos
 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
@@ -389,6 +410,13 @@ You can make use of other photo editing apps to edit your pictures. Here are thr
 Instasize is an app that you will find quite useful. The app was developed for influencers and social media users who wish to produce captivating, imaginative images and films..
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key features**
 
@@ -437,13 +465,6 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) and [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Edit Photos and Add Date Stamps On The Computer
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
@@ -459,6 +480,13 @@ You can perform simple tweaking after the image is in the editor to help make yo
 First, to resize an image in the Photos app on a Mac, enter editing mode by clicking the Edit button located at the top right corner of the Photos app window. Next, select an option by dragging the edges of the cropping framework that shows on your image in the Crop tab, which is in the middle of your Photos window.
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step2Sharpen your images
 
@@ -495,13 +523,6 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
 
 Step6Finally, select File>Save to add your date to the picture.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use an inbuilt app to edit photos on Windows
 
@@ -614,18 +635,17 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-beat-explorers-guide-online-pulse-sensors/"><u>[New] Beat Explorers’ Guide Online Pulse Sensors</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-best-chosen-templates-for-viral-ae-content-for-2024/"><u>[New] Best Chosen Templates for Viral AE Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>[New] Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-through-troubled-waters-instagram-videos-guide-for-2024/"><u>[New] Navigating Through Troubled Waters Instagram Videos Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-quick-fixes-screen-recording-snapchat-hacks/"><u>[New] Quick Fixes Screen Recording Snapchat Hacks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-achieve-viral-fame-crafting-engaging-instagram-unboxing-videos/"><u>[Updated] Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/dominate-the-storm-circle-with-these-insider-secrets-to-elevating-your-fortnite-fps-game-in-2e24/"><u>Dominate the Storm Circle with These Insider Secrets to Elevating Your Fortnite FPS Game in 2E24</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-diagnosing-and-repairing-pc-compatibility-problems-with-gray-zone-warfare-software/"><u>Expert Advice: Diagnosing & Repairing PC Compatibility Problems with Gray Zone Warfare Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/metaverse-vs-multiverse-what-are-the-differences-complete-guide/"><u>Metaverse Vs. Multiverse What Are the Differences [Complete Guide]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mind-your-words-with-ai-keep-secrets-safe/"><u>Mind Your Words with AI; Keep Secrets Safe</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-handbook-for-telegram-web-newbies/"><u>The Complete Handbook for Telegram Web Newbies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-creativity-with-animated-gifs/"><u>Unleash Creativity with Animated GIFS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transcoding-vimeo-to-mp3-audio-file-for-2024/"><u>[New] Transcoding Vimeo to MP3 Audio File for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[Updated] The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-gratuite-de-fichiers-mpeg-en-ligne-avec-movavi-guide-ultime/"><u>Conversion Gratuite De Fichiers MPEG en Ligne Avec Movavi - Guide Ultime</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-picks-home-weather-station-showdown-the-best-of-2024/"><u>Expert Picks: Home Weather Station Showdown - The Best of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-business-communication-essentials-free-slide-show-tools/"><u>In 2024, Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cataloging-tiktok-scenes-as-backgrounds/"><u>In 2024, Cataloging TikTok Scenes as Backgrounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-hiring-best-film-makers/"><u>In 2024, Expert Tips for Hiring Best Film Makers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g-5g-2023-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G 5G (2023) to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-stabilizers-roundup-securing-smooth-cinematography/"><u>Professional Stabilizers Roundup Securing Smooth Cinematography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers/"><u>Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-persona-4-goldens-stability-problems/"><u>Troubleshooting and Solving Persona 4 Golden's Stability Problems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-ios-troubleshooting-package-a-single-source-for-resolving-iphone-glitches/"><u>Ultimate iOS Troubleshooting Package: A Single Source for Resolving iPhone Glitches</u></a></li>
 </ul></div>
 

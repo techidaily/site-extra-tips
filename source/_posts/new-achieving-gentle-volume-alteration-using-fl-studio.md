@@ -1,7 +1,7 @@
 ---
 title: "[New] Achieving Gentle Volume Alteration Using FL Studio"
-date: 2024-09-09T23:24:48.083Z
-updated: 2024-09-16T16:42:47.776Z
+date: 2024-09-19T01:42:22.686Z
+updated: 2024-09-22T17:49:48.665Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ After selecting that, there will be an addition of a new automation clip to the 
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -56,9 +63,23 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -67,10 +88,10 @@ No matter which audio editing software, what matters is the learning outcome. Le
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
@@ -95,13 +116,6 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
@@ -113,16 +127,16 @@ No matter which audio editing software, what matters is the learning outcome. Le
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
@@ -157,20 +171,25 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-selection-of-high-quality-tiktok-backdrops/"><u>[New] A Selection of High-Quality TikTok Backdrops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-integrating-automatic-speech-conversion-into-powerpoint-presentations/"><u>[Updated] 2024 Approved Integrating Automatic Speech Conversion Into PowerPoint Presentations</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-peek-into-the-heart-of-youtubes-video-operations/"><u>A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-update-intel-ac-3160-wifi-driver-instantly-and-seamlessly/"><u>Download the Latest Update: Intel AC 3160 WiFi Driver Instantly and Seamlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gadget-grapple-comparing-gopros-hero5-and-garmin-virb/"><u>Gadget Grapple Comparing GoPro's Hero5 & Garmin VIRB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-remove-jello-effect-from-an-aerial-video/"><u>How to Remove Jello Effect From an Aerial Video</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2v-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2V Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-c32-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia C32 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-7-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 7 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/integrating-azures-speech-recognition-into-development/"><u>Integrating Azure’s Speech Recognition Into Development</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-techniques-for-editing-copious-amounts-of-tiktoks/"><u>Master Techniques for Editing Copious Amounts of TikToks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/open-access-mindful-harmonies/"><u>Open Access Mindful Harmonies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-playback-apply-filters-to-video-content/"><u>Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spotlight-savvy-profiling-and-promoting-on-snapchat/"><u>Spotlight Savvy Profiling and Promoting on Snapchat</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-composers-craft-crossfade-in-logic-pro-x-for-2024/"><u>The Composer's Craft - Crossfade in Logic Pro X for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-leading-5-audio-caps-for-streaming-enthusiasts/"><u>[New] 2024 Approved Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-5-rapid-ways-to-access-obliviated-reddit-content/"><u>[New] 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chronological-tagging-adding-times-to-youtube-vids/"><u>[New] Chronological Tagging Adding Times to YouTube Vids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>[New] Comprehensive Examination Videon X – The Ultimate Video Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-walkthrough-installing-windows-movie-maker-60/"><u>[New] Comprehensive Walkthrough Installing Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-maze-of-insta-story-downloads/"><u>[New] Navigating the Maze of Insta Story Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-symphony-of-shades-practical-color-utilization/"><u>[Updated] A Symphony of Shades Practical Color Utilization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-freeframe-finders-your-path-to-aesthetic-economical-backdrops-on-tiktok/"><u>[Updated] In 2024, FreeFrame Finders Your Path to Aesthetic, Economical Backdrops on TikTok</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlock-seamless-replay-on-youtube-with-our-pro-tips/"><u>2024 Approved Unlock Seamless Replay on YouTube with Our Pro Tips</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-a05s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel A05s without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-10-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark 10 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-broadcast-brains-vs-bodies-finding-the-frontier/"><u>In 2024, Broadcast Brains Vs Bodies Finding the Frontier</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphoneandroidmp420249/"><u>IPhone・Androidで最高のMP4コンバーター革新！【2024年新着9選】</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mac-windows-vmx-substitute/"><u>Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://techtrends.techidaily.com/meet-your-match-the-5-most-effective-apps-for-finding-and-making-friends/"><u>Meet Your Match: The 5 Most Effective Apps for Finding and Making Friends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-picture-presentation-top-frames-of-2024/"><u>Perfecting Picture Presentation - Top Frames of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/techniques-to-increase-periscope-stream-velocity/"><u>Techniques to Increase Periscope Stream Velocity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-8-top-collaborative-video-collage-tools-on-android-affordable/"><u>The Ultimate 8 Top Collaborative Video Collage Tools on Android (Affordable)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Combat VR Motion Sickness  A Guide\""
-date: 2024-09-14T02:07:37.525Z
-updated: 2024-09-16T23:55:34.185Z
+date: 2024-09-17T08:05:35.987Z
+updated: 2024-09-23T05:40:55.829Z
 tags: 
   - screen-recording
   - ai video
@@ -46,17 +46,38 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Virtual reality sickness?
 
  All we know about the reality of the real world around us is that it comes from the perception of our sensory organs and their co-relation with the sense-managing system of our brain to generate useful information. Thus if we present our sensory system with the kind of information that really isn’t there our brain would begin to explore it and comprehend it as reality to us. Such a type of self-made information and the resulting outcome is what we call ‘virtual reality’.
 
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why virtual reality make people sickness
 
  Now the question arises, what is really making us sick? Is it the gadgets or gears? Or some manufacturing flaw? The link connecting virtual reality and the sickness, lies within the human body itself. When you are in a virtual environment, in some cases, your body’s sense of balance does not completely line up with the movements of your head. Also, when the environment around you moves, but your body stays stationary you experience dizziness or nausea. Typically, the bigger the mismatch the worse the sickness. According to the statement delivered by a military pilot, when you go inside a simulator, the movements don’t exactly match the same as they do in the real world, and all of a sudden, what you feel is just not right. Another reason causing the problem is based on virtual reality games and other such systems. In such a VR system you experience environment larger than the room you are in. All these factors can ultimately drive you sick!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -73,32 +94,14 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[New] 2024 Approved Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-apple-m1-explained-the-future-in-your-hands/"><u>[New] Apple M1 Explained The Future in Your Hands</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beat-explorers-guide-online-pulse-sensors/"><u>[New] Beat Explorers’ Guide Online Pulse Sensors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-creating-breathtaking-slow-motion-photo-editing-techniques-explored/"><u>[New] Creating Breathtaking Slow Motion Photo Editing Techniques Explored</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unleash-the-full-potential-of-your-xbox-series-x-with-ideal-displays/"><u>[New] In 2024, Unleash The Full Potential of Your Xbox Series X with Ideal Displays</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[Updated] A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-entering-metaverse-ranked-best-virtual-reality-gear/"><u>2024 Approved Entering Metaverse Ranked Best Virtual Reality Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/become-an-expert-at-unearthing-unique-visuals-from-pexels-for-2024/"><u>Become an Expert at Unearthing Unique Visuals From Pexels for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f34-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F34 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-blaze-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Blaze 2 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-step-by-step-guide-establishing-your-first-youtube-profile/"><u>In 2024, Step-by-Step Guide Establishing Your First YouTube Profile</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-utilizing-famebit-techniques-for-youtube-sponsorship-success/"><u>In 2024, Utilizing FameBit Techniques for YouTube Sponsorship Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigate-the-world-of-video-conferencing/"><u>Navigate the World of Video Conferencing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cadences-and-crescendos-your-ringtone-repository-guide/"><u>[New] Cadences and Crescendos Your Ringtone Repository Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-activity-inspection-guide/"><u>[Updated] Complete Activity Inspection Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-highpoint-artist-toolkit-review/"><u>[Updated] Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fb-melody-cache-legally/"><u>[Updated] In 2024, FB Melody Cache (Legally)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-audio-transformation-from-instagram-visuals-mp3/"><u>2024 Approved Audio Transformation From Instagram Visuals (MP3)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-how-to-be-a-good-interviewer/"><u>In 2024, How To Be A Good Interviewer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-virtual-space-insights-into-vr-cinema/"><u>Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-through-files-with-command-line-tools-a-beginners-approach/"><u>Navigating Through Files with Command Line Tools: A Beginner's Approach</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-recovery-recover-lost-data-from-nokia-g310-by-fonelab-android-recover-data/"><u>Nokia Data Recovery – recover lost data from Nokia G310</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

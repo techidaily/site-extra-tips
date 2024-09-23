@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2024-09-11T06:15:07.117Z
-updated: 2024-09-17T12:11:44.226Z
+date: 2024-09-20T20:08:07.380Z
+updated: 2024-09-23T08:43:05.302Z
 tags: 
   - screen-recording
   - ai video
@@ -86,6 +86,13 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -97,6 +104,13 @@ Once you have imported your photos, you can include them in the timeline. To do 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -110,9 +124,29 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -169,28 +203,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>[New] Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-an-iconic-identity-on-instagram-with-these-9-tricks/"><u>[New] Crafting an Iconic Identity on Instagram with These 9 Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-creating-a-streamlined-podcast-rss-feed-structure/"><u>[New] Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-maximizing-engagement-with-instagrams-ask-emoji/"><u>[New] Maximizing Engagement with Instagram's Ask Emoji</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>[Updated] Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chucklechips-studio-laughlens-lab/"><u>[Updated] ChuckleChips Studio LaughLens Lab</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>[Updated] Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-sj7-redefines-capturing-life-comprehensively-reviewing-its-4k-star-cam/"><u>2024 Approved SJ7 Redefines Capturing Life Comprehensively Reviewing Its 4K Star Cam</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/capture-and-share-the-top-10-free-screenshot-apps-on-macos/"><u>Capture & Share The Top 10 FREE Screenshot Apps on MacOS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/exiting-obstacle-the-story-of-52-error/"><u>Exiting Obstacle: The Story of #52 Error</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/no-glue-methods-for-spotless-video-creations-on-tiktok-for-2024/"><u>No-Glue Methods for Spotless Video Creations on TikTok for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-reactivate-intrinsic-local-security-functionality/"><u>Resolved: Reactivate Intrinsic Local Security Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-c50-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco C50 Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/virtual-vanguard-over-a-hundred-games-galore-for-2024/"><u>Virtual Vanguard Over a Hundred Games Galore for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[New] 2024 Approved In-Depth Tutorial for Immaculate 3D Shapes Perfect Circles, Spheres</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-prime-video-communication-platforms-for-modern-tech/"><u>[Updated] Prime Video Communication Platforms for Modern Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-affordable-methods-to-craft-your-own-youtube-intros/"><u>2024 Approved Affordable Methods to Craft Your Own YouTube Intros</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y55s-5g-2023-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y55s 5G (2023) Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-visual-storytelling-with-vsco/"><u>Mastering Visual Storytelling with VSCO</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-photography-with-quantum-hdr-tech/"><u>Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popsocket-mounts-for-optimal-video-shooting/"><u>PopSocket Mounts for Optimal Video Shooting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-user-manual-to-facetunes-photo-fixes-for-2024/"><u>The Complete User Manual to Facetune's Photo Fixes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tuneful-transmissions-integrating-audio-with-statuses/"><u>Tuneful Transmissions Integrating Audio with Statuses</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-over-controller-woes-a-guide-to-steam-detection/"><u>Win Over Controller Woes: A Guide to Steam Detection</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
