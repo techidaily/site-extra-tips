@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-09-22T01:12:43.709Z
-updated: 2024-09-23T01:54:32.460Z
+date: 2024-09-23T16:18:07.301Z
+updated: 2024-09-30T04:10:57.176Z
 tags:
   - desktop
 categories:
@@ -56,12 +56,30 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-clear-audio-crystal-clear-view-premium-webcams-for-podcasts/"><u>[New] Clear Audio, Crystal-Clear View Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>[Updated] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-av1-decoded-for-starters/"><u>[Updated] In 2024, AV1 Decoded for Starters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-best-asmr-series-on-youtube-platform/"><u>[Updated] In 2024, Best ASMR Series on YouTube Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/50plus-best-text-techniques-in-film-making/"><u>50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/awesome-online-destinations-for-advanced-text-customization/"><u>Awesome Online Destinations for Advanced Text Customization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/detailed-steps-to-capture-all-your-messenger-conversations/"><u>Detailed Steps to Capture All Your Messenger Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-canon-scanner-software-downloads-for-windows-users-quick-guide/"><u>Free Canon Scanner Software Downloads for Windows Users - Quick Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725290383325-dvd4/"><u>デジアーティソフトウェアの最新動向：DVDコピー情報サイトパート4</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
