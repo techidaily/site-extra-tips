@@ -140,58 +140,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-11-key-steps-for-perfect-color-grading-in-photography/"><u>[New] 11 Key Steps for Perfect Color Grading in Photography</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-rankings-secrets-enhancing-video-visibility/"><u>[New] 2024 Approved  YouTube Rankings Secrets  Enhancing Video Visibility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-quality-steadicam-equipment-for-drone-filmmaking/"><u>[New] Best-Quality Steadicam Equipment for Drone Filmmaking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-artful-pictures-on-android-devices/"><u>[New] Crafting Artful Pictures on Android Devices</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-navigating-the-world-of-desktop-tiktok-a-step-by-step-guide/"><u>[New] Navigating the World of Desktop TikTok  A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-professional-tips-to-diminish-ambient-sound-in-videos/"><u>[New] Professional Tips to Diminish Ambient Sound in Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-sdk-innovations-for-android-the-updated-rankings-of-facebook-video-downloading-tools-for-2024/"><u>[New] SDK Innovations for Android  The Updated Rankings of Facebook Video Downloading Tools for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-cricket-ultimate-guide-to-live-streaming-selection-for-2024/"><u>[New] Top Cricket  Ultimate Guide to Live Streaming Selection for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-economical-choice-high-performance-asmr-mic-picks/"><u>[Updated] Best Economical Choice  High-Performance ASMR Mic Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-compelling-iphone-shadow-images/"><u>[Updated] Crafting Compelling iPhone Shadow Images</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-easy-transition-integrating-snapchat-with-macos/"><u>[Updated] Easy Transition  Integrating Snapchat with macOS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-achieve-financial-success-on-youtube-start-at-500-views/"><u>[Updated] In 2024, Achieve Financial Success on YouTube  Start at 500 Views</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-instructions-for-fb-live-broadcasts/"><u>[Updated] In 2024, Step-by-Step Instructions for FB Live Broadcasts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-what-makes-vimeo-special-a-look-inside/"><u>[Updated] In 2024, What Makes Vimeo Special? A Look Inside</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insightful-analysis-the-phenomenon-of-mixed-reality/"><u>[Updated] Insightful Analysis  The Phenomenon of Mixed Reality</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-loop-and-love-effortless-youtube-video-views-on-your-tv-screen/"><u>[Updated] Loop & Love  Effortless YouTube Video Views on Your TV Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-effortless-vlog-themes-youll-love/"><u>10 Effortless Vlog Themes You'll Love</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/11-key-steps-for-perfect-color-grading-in-photography/"><u>11 Key Steps for Perfect Color Grading in Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adjusting-screenshots-why-does-imovie-alter-video-sizes/"><u>2024 Approved  Adjusting Screenshots  Why Does iMovie Alter Video Sizes?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-in-clarity-best-tools-for-quality-4k-conversion/"><u>2024 Approved  Capture in Clarity  Best Tools for Quality 4K Conversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-drone-accessory-setlist-for-expert-pilots/"><u>2024 Approved  Complete Drone Accessory Setlist for Expert Pilots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-look-at-lg-bp350-display-specifications/"><u>2024 Approved  Comprehensive Look at LG BP350 Display Specifications</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b/"><u>2024 Approved  Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-streamlining-your-video-sequence-on-youtube/"><u>2024 Approved  Streamlining Your Video Sequence on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor-for-2024/"><u>Accelerated Aesthetics  Rapid Revamping of Images on Windows Photo Editor for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boosting-instagram-video-speed-onlinemobile-for-2024/"><u>Boosting Instagram Video Speed Online/Mobile for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-impressive-images-with-photoshops-radial-distortion-features-for-2024/"><u>Craft Impressive Images with Photoshop's Radial Distortion Features for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/designing-your-own-instagram-notification-sounds/"><u>Designing Your Own Instagram Notification Sounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-images-with-gorgeous-mosaics/"><u>Elevate Your Images with Gorgeous Mosaics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-windows-10-photos-visuals-through-personalized-filtersmusic/"><u>Elevating Windows 10 Photos Visuals Through Personalized Filters/Music</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ce-youtube-views-leveraging-outro-content-partnerships/"><u>Enhance YouTube Views  Leveraging Outro Content Partnerships</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-expenses-for-launching-your-podcast/"><u>Essential Expenses for Launching Your Podcast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-tutorial-quick-hassle-free-ios-snapshots-for-2024/"><u>Expert Tutorial  Quick, Hassle-Free iOS Snapshots for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/eye-shadow-and-lips-tutorials/"><u>Eye Shadow & Lips Tutorials</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-noisy-soundscape-of-cyberpunk-2077-comprehensive-guide-for-gamers/"><u>Fixing the Noisy Soundscape of Cyberpunk 2077 - Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-history-best-theme-songs-in-anime/"><u>Harmonizing History  Best Theme Songs in Anime</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-becoming-an-animoji-expert-on-your-iphone-x-device/"><u>In 2024, Becoming an Animoji Expert on Your iPhone X Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-backstage-pass-to-photo-tricks/"><u>In 2024, Beginner's Backstage Pass to Photo Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-guide-to-simple-yet-effective-filming-gear/"><u>In 2024, Beginner's Guide to Simple, Yet Effective Filming Gear</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-redmi-13c-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Redmi 13C 5G? Try These Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A56s 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-c55-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme C55 Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jokejigsaw-compiler/"><u>JokeJigsaw Compiler</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>New In 2024, Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/supreme-seminar-strategist-summit/"><u>Supreme Seminar Strategist Summit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/techniques-to-reduce-iphone-video-shake/"><u>Techniques to Reduce iPhone Video Shake</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo V27? | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
