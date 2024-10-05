@@ -1,7 +1,7 @@
 ---
 title: "\"[New] '3DR' Alone  Unpackaging a Single User Review\""
-date: 2024-08-20T06:11:10.069Z
-updated: 2024-08-21T06:11:10.069Z
+date: 2024-09-28T13:53:39.595Z
+updated: 2024-10-05T07:57:36.542Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1\. Basic Specs Info
@@ -67,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
 
  People call 3DR Solo one of the most impressive drone with minimal complexities in design. It is the best product for cinematographic needs and you could easily imagine it hovering on the top to capture scenes for Hollywood movies. You will find a 5200mAh battery on top portion of this drone, located near power button. It appears little heavier with the gimbal, camera and battery installation, the overall weight goes up to 3.35 pounds. Note that, you need to get your drone registered with FAA to organise its flights because the weight goes above 0.5 pounds limit. You will find indicating LEDs on this device that keep on indicating full status during its flights and they can be observed in day light too. Users need to connect this device with a smartphone or iOS device to avail full control as well as to get live preview of shoots.
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
 
 #### 6\. Camera
@@ -97,13 +118,18 @@ thumbnail: https://thmb.techidaily.com/1b9c0ec4aac0a389de35bac2a472d37b33435d994
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,6 +137,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-airborne-warriors-meet-dji-mavic-2-and-hero5-black/"><u>[Updated] Airborne Warriors Meet DJi Mavic 2 & HERO5 Black</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elevating-mobile-messaging-customizing-whatsapp-ringtones-on-iphonesandroids/"><u>[Updated] Elevating Mobile Messaging Customizing WhatsApp Ringtones on iPhones/Androids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-visual-branding-mastery-implementing-watermarks-and-logos-into-video-content/"><u>2024 Approved Visual Branding Mastery Implementing Watermarks & Logos Into Video Content</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/evga-offers-free-new-nvme-drives-following-mishap-with-returned-psus/"><u>EVGA Offers Free New NVMe Drives Following Mishap with Returned PSUs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-2023s-premier-tale-spinners-on-yt/"><u>In 2024, 2023’S Premier Tale Spinners on YT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blur-apps-that-work-wonders-on-iphonesandroids/"><u>In 2024, Blur Apps That Work Wonders on iPhones/Androids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-media-on-mobile-best-phones-of-the-year/"><u>Mastering Media on Mobile Best Phones of the Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-apple-techniques-for-high-quality-interviews-on-air/"><u>Step-by-Step Apple Techniques for High-Quality Interviews on Air</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-solutions-for-windows-10-users-experiencing-bluetooth-driver-woes/"><u>Step-by-Step Solutions for Windows 10 Users Experiencing Bluetooth Driver Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-amazon-prime-day-2024-top-tips-and-info-you-cant-miss/"><u>The Ultimate Guide to Amazon Prime Day 2024 – Top Tips and Info You Can't Miss!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transitioning-photos-from-physical-to-digital-storage/"><u>Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-captioning-in-final-cut-pro-x-tips-and-tricks-for-success-for-2024/"><u>Updated Captioning in Final Cut Pro X Tips and Tricks for Success for 2024</u></a></li>
+</ul></div>
+

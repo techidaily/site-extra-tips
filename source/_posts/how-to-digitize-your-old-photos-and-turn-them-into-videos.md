@@ -1,7 +1,7 @@
 ---
 title: "How to Digitize Your Old Photos and Turn Them Into Videos"
-date: 2024-09-27T02:55:52.594Z
-updated: 2024-09-30T01:33:19.383Z
+date: 2024-10-04T13:54:49.592Z
+updated: 2024-10-05T14:28:19.316Z
 tags: 
   - screen-recording
   - ai video
@@ -86,31 +86,24 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
@@ -123,6 +116,19 @@ As stated above, you can find a wide range of video editing options to explore i
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
@@ -137,10 +143,16 @@ That’s it! After making all the changes, you can preview your video on the rig
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
@@ -176,10 +188,10 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -197,18 +209,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-how-to-change-video-speed-on-instagram-stories/"><u>[New] How to Change Video Speed on Instagram Stories?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>[Updated] Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cheap-yet-superior-4k-equipment/"><u>2024 Approved Cheap Yet Superior 4K Equipment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-best-performers-elite-4k-laptops/"><u>2024 Approved Top 10 Best Performers Elite 4K Laptops</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/diy-repair-guide-to-eliminate-cod-black-ops-cold-war-error-code-80070057/"><u>DIY Repair Guide to Eliminate COD: Black Ops Cold War Error Code 80070057</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-camon-30-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Camon 30 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-insight-into-benqs-bl2711u-pioneering-the-4k-standard/"><u>In 2024, A Comprehensive Insight Into BenQ’s BL2711U - Pioneering the 4K Standard</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 12 Pro Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nubia-z50-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nubia Z50 Ultra Phones with/without a PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-nearby-areas-for-an-immersive-roblox-experience/"><u>Navigating Nearby Areas for an Immersive Roblox Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smooth-operation-seamless-addition-of-linktree-to-tiktok-bios/"><u>Smooth Operation Seamless Addition of Linktree to TikTok Bios</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-15-ways-to-fix-a-non-functional-facetime/"><u>Troubleshooting Guide: 15 Ways to Fix a Non-Functional FaceTime</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>[New] Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-memes-with-ease-on-9gag-platform/"><u>[New] Crafting Memes with Ease on 9GAG Platform</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-demystifying-the-instagram-selfie-process-for-2024/"><u>[Updated] Demystifying the Instagram Selfie Process for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[Updated] The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-broadcasting-hidden-voices-on-instagram-live/"><u>2024 Approved Broadcasting Hidden Voices on Instagram Live</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unlock-iphones-full-video-loop-potential/"><u>2024 Approved Unlock iPhone's Full Video Loop Potential</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-advice-on-acquiring-royalty-free-high-quality-graphics/"><u>Expert Advice on Acquiring Royalty-Free, High-Quality Graphics</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Without Passcode?</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-and-amd-face-off-determining-the-ultimate-gaming-cpu/"><u>Nvidia & AMD Face-Off: Determining the Ultimate Gaming CPU</u></a></li>
+<li><a href="https://fox-access.techidaily.com/premium-extensions-for-after-effects-magic/"><u>Premium Extensions for After Effects Magic</u></a></li>
 </ul></div>
 

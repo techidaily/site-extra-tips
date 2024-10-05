@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Creative Processes  Efficiently Adding Text to Videos with Microsoft Photos\""
-date: 2024-08-20T06:09:57.120Z
-updated: 2024-08-21T06:09:57.120Z
+date: 2024-09-30T11:59:06.613Z
+updated: 2024-10-04T23:28:50.253Z
 tags: 
   - screen-recording
   - ai video
@@ -62,11 +62,31 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
@@ -75,8 +95,12 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,15 +108,17 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +126,20 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-evaluation-gecata-pro-monitoring-for-2024/"><u>[New] Comprehensive Evaluation Gecata Pro Monitoring for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-science-behind-engaging-video-content-on-fb/"><u>[New] In 2024, The Science Behind Engaging Video Content on FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capture-words-from-your-speech-in-microsoft-word-easily/"><u>[Updated] Capture Words From Your Speech in Microsoft Word Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dazzle-and-stand-out-50-free-youtube-branding-pieces-for-2024/"><u>[Updated] Dazzle and Stand Out 50 FREE YouTube Branding Pieces for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chinas-bargain-bin-of-virtual-reality-gear-for-2024/"><u>China's Bargain Bin of Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-greatest-free-software-removers-a-selection-of-15-must-try-apps/"><u>Discover the Greatest Free Software Removers: A Selection of 15 Must-Try Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drift-innovations-ghost-s-action-camera-review/"><u>Drift Innovations Ghost-S Action Camera Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hear-the-difference-change-your-playstation-sound/"><u>Hear the Difference Change Your PlayStation Sound</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-15-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y17s-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y17s Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-health-outreach-via-fb-advertising/"><u>In 2024, Maximizing Health Outreach via FB Advertising</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-xr-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone XR Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+</ul></div>
+

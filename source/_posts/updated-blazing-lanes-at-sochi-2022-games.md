@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2024-09-29T03:04:02.690Z
-updated: 2024-09-30T03:45:26.712Z
+date: 2024-09-29T17:00:00.769Z
+updated: 2024-10-05T14:48:29.503Z
 tags: 
   - screen-recording
   - ai video
@@ -24,13 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -43,6 +36,19 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -50,6 +56,13 @@ Russia’s Semen Elistratov wins the bronze medal.
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -59,27 +72,27 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -96,10 +109,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -130,13 +143,6 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -150,22 +156,24 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>[New] 2024 Approved Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chucklechisel-app/"><u>[New] ChuckleChisel App</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-rise-of-popular-images-a-deep-dive-into-meme-culture/"><u>[New] In 2024, The Rise of Popular Images A Deep Dive Into Meme Culture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-price-of-youtube-marketing/"><u>[New] Mastering the Price of YouTube Marketing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exciting-quests-selecting-the-top-10-adventure-gaming-treasures/"><u>[Updated] 2024 Approved Exciting Quests Selecting the Top 10 Adventure Gaming Treasures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shaky-video-tamer-for-handheld-cams/"><u>[Updated] Shaky Video Tamer for Handheld Cams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-steps-to-combat-chromes-video-blackout-for-2024/"><u>9 Steps to Combat Chrome's Video Blackout for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-insta-content-anonymously-a-guide-to-non-account-browsing/"><u>Access Insta-Content Anonymously: A Guide to Non-Account Browsing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beat-the-hate-smoothly-add-tracks-into-your-video-on-windows-11/"><u>Beat the Hate Smoothly Add Tracks Into Your Video on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-vr-tools-for-drones/"><u>Cutting-Edge VR Tools for Drones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/download-and-read-ebooks-with-apples-books-app-on-your-ios-device/"><u>Download and Read eBooks with Apple's Books App on Your iOS Device</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-itel-p40plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Itel P40+ to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>In 2024, 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-add-cinematic-shake-to-images-using-ps/"><u>In 2024, Add Cinematic Shake to Images Using PS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-animated-film-series-the-top-15-list/"><u>Pioneering Animated Film Series The Top 15 List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-tier-80s-visual-tricks-for-elevated-editing/"><u>Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/win-the-fight-against-glitches-how-to-prevent-crashes-in-fireteam-elite-on-pc-gaming-systems/"><u>Win the Fight Against Glitches - How to Prevent Crashes in Fireteam Elite on PC Gaming Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-collage-manual-tips-and-tricks/"><u>[New] Complete Collage Manual Tips and Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[New] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[Updated] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-10-facelift-tech-for-iphones-and-android-phones/"><u>[Updated] Best 10 Facelift Tech for iPhones and Android Phones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-your-ultimate-guide-to-accessing-facebook-content-on-applemedia-hub/"><u>[Updated] Your Ultimate Guide to Accessing Facebook Content on AppleMedia Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-illusion-vr-timeline-explored-for-2024/"><u>Beyond Illusion VR Timeline Explored for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-connections-vrs-impact-on-business-communication/"><u>Creating Connections VR's Impact on Business Communication</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/guide-to-repairing-hyperx-cloud-alpha-microphone-failures/"><u>Guide to Repairing HyperX Cloud Alpha Microphone Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/implementing-gradual-intensity-boost-in-audio-projects/"><u>Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-creating-viral-hashtag-campaigns-on-twitter/"><u>In 2024, Creating Viral Hashtag Campaigns on Twitter</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y02t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infusing-musical-streams-of-youtube-in-videos/"><u>Infusing Musical Streams of YouTube in Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-5-audio-caps-for-streaming-enthusiasts/"><u>Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-crossfades-and-sweeps-in-premiere/"><u>Perfecting Crossfades & Sweeps in Premiere</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photoshop-techniques-for-dynamic-realistic-text-for-2024/"><u>Photoshop Techniques for Dynamic, Realistic Text for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/plotting-your-path-in-the-realm-of-visual-arts-for-2024/"><u>Plotting Your Path in the Realm of Visual Arts for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-ringtones-guide-top-downloads/"><u>Ultimate Ringtones Guide Top Downloads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-seamless-conversations-with-tango-complimentary-messaging-and-calls/"><u>Unlock Seamless Conversations with Tango: Complimentary Messaging & Calls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unpacking-the-pace-problem-why-is-chatgpt-4-not-as-fast-as-its-predecessor-chatgpt-3e/"><u>Unpacking the Pace Problem: Why Is ChatGPT-4 Not As Fast As Its Predecessor, ChatGPT-3.e.</u></a></li>
 </ul></div>
 

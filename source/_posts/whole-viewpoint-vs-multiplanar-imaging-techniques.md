@@ -1,7 +1,7 @@
 ---
 title: "Whole Viewpoint vs Multiplanar Imaging Techniques"
-date: 2024-08-20T06:13:46.979Z
-updated: 2024-08-21T06:13:46.979Z
+date: 2024-09-29T10:04:30.283Z
+updated: 2024-10-04T16:47:44.716Z
 tags: 
   - screen-recording
   - ai video
@@ -43,25 +43,22 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 ## About 3D or a Stereo Camera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1.What is 3D Camera
 
 ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  wallpaperfolder.com
 
  Also known as a stereo camera, 3D cameras record images which will appear in three dimensions. The cameras are fitted with two or more lenses, with each lens having a separate film frame or image sensor. This makes it possible for 3D cameras to simulate the human binoculars vision, leading to the rendition of three dimensional images. Such cameras are suitable for taking stereoviews as well as 3D pictures for range imaging or for movies.
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2. How Do 3D Cameras Work
 
 ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
@@ -75,21 +72,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![3D image](https://images.wondershare.com/filmora/article-images/3d-image-avatar.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  <www.zavvi.com>
 
  It is also important to note that most of the 3D cameras take photos or images and save them in the standard MPO format to make it possible for the images to be played back in 3D photo frames or TVs, but to view such images in 3D, a special 3D glass may be needed.
 
 ## About 360-Degree Cameras
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.What is 360-Degree Camera
 
  A 360-degree camera, also known as omnidirectional camera refers to a camera with a 360-degree field of view in horizontal plane or simply a camera with a visual field of view which can cover an entire sphere. 360-degree cameras are widely used in instances when the photographer needs to cover large visual fields such as when dealing with robotics or panoramic photography.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. How Does 360-Degree Camera Work
 
  With the normal cameras, the field of view ranges from a few degrees to at most 180 degrees. It implies that the camera capture light falling into its focal point through a hemisphere. A 360-degree camera on the other hand captures light from all directions falling onto its focal point, thus effectively covering a full sphere. One important thing to note about 360-degree cameras is that in practice, they can only cover the full 360 degrees along the equator of the sphere and this is never the case with the top or the bottom of the sphere. Should it manage to capture the top and the bottom as well, then the light rays captured in the creation of the image will not intersect at one focal point.
@@ -97,15 +102,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +120,24 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-tags-a-must-read-before-uploading/"><u>[New] 2024 Approved Mastering Tags A Must-Read Before Uploading</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-split-and-save-going-beyond-xsplit/"><u>[New] Streamline, Split & Save Going Beyond XSplit</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-achieving-peer-recognition-from-undiscovered-to-popular-on-vimeo-for-2024/"><u>[Updated] Achieving Peer Recognition From Undiscovered to Popular on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-quick-views-snap-and-share/"><u>2024 Approved FB Quick Views Snap & Share</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-top-4k-all-in-one-touch-screen-desktops/"><u>2024 Approved Top 4K All-in-One Touch Screen Desktops</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-reno-10-proplus-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Reno 10 Pro+ 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/becoming-a-podcast-writer-pro-strategies-and-comprehensible-script-samples/"><u>Becoming a Podcast Writer Pro Strategies & Comprehensible Script Samples</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/combine-and-rotate-the-ultimate-guide-to-multimedia-editing-android/"><u>Combine & Rotate The Ultimate Guide to Multimedia Editing (Android)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-find-x7-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Find X7 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-note-50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme Note 50 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra/"><u>In 2024, Become a PIP Expert Enhancing Visual Narratives on macOS Sierra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-seamless-inshot-edits/"><u>Mastering the Art of Seamless Inshot Edits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/supercharge-your-vehicles-top-10-srt-mods-for-os-x-and-windows/"><u>Supercharge Your Vehicles Top 10 SRT Mods for OS X & Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-note-12-pro-4g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi Note 12 Pro 4G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-elite-list-10-best-cases-for-your-gopro-for-2024/"><u>The Elite List 10 Best Cases for Your GoPro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-virtual-worlds-the-top-ten-sci-fi-films-of-the-metaverse-age/"><u>Visionary Virtual Worlds The Top Ten Sci-Fi Films of the Metaverse Age</u></a></li>
+</ul></div>
+

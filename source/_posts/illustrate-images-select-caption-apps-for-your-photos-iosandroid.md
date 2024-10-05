@@ -1,7 +1,7 @@
 ---
 title: "\"Illustrate Images  Select Caption Apps for Your Photos (iOS/Android)\""
-date: 2024-09-25T22:26:01.764Z
-updated: 2024-09-29T16:04:52.952Z
+date: 2024-09-28T18:57:15.451Z
+updated: 2024-10-04T18:48:02.880Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ To add text to a photo using iPhone (Version: iOS 11 and later), you can follow 
 
 ![make desirable changes in the text](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Android:**
 
 Aren't you an iPhone user? No worries! Here is how to write over photoson mobile using default Google photos.
@@ -70,18 +77,18 @@ Aren't you an iPhone user? No worries! Here is how to write over photoson mobile
 
 ## Best 10 Apps for writing on photos
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Phonto - Text on photos
 
 So guys, if you are looking for an app that is easy to use and offers various features, then Phonto will be the right choice. Phonto is free to download and use, but it contains ads. However, it also provides in-app purchases to unlock its full potential. You can add text, change its color, size, opacity, etc.
 
 ![phonto](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -93,25 +100,11 @@ So guys, if you are looking for an app that is easy to use and offers various fe
 
 [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en) (Contain ads, In-App purchases) | [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) (Free, Offers In-App purchases)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. PicLab - Photo Editor
 
 PicLab - Photo Editor will be the right fit for you if you are someone who wants a lot more features than only adding text. PicLab offers more advanced photo editing tools to help you in giving your photo a unique look. You can download and use it for free, but it contains ads you can remove by paying a small amount.
 
 ![piclab](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -124,6 +117,19 @@ PicLab - Photo Editor will be the right fit for you if you are someone who wants
 **Download: PicLab - Photo Editor for**
 
 [Android](https://play.google.com/store/apps/details?id=com.apperto.piclabapp&hl=en) (Contain ads, In-App purchases) | [iOS](https://apps.apple.com/us/app/photo-editor/id597851882) (Free, Offers In-App purchases)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Word Swag - Add Text on Photos
 
@@ -160,13 +166,6 @@ Font Candy Photo & Text Editor offers a great user experience with its great too
 **Download: Font Candy Photo & Text Editor for**
 
 [iOS](https://apps.apple.com/app/font-candy-better-photo-editor/id661971496) (Free, Offers In-App purchases)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. PicMonkey Photo Editor: Design, Touch Up, Filters
 
@@ -208,6 +207,13 @@ Caption is a simple app for writing over photos. You only need to choose an imag
 
 ![caption it](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key features:**
 
 * Add text to the image
@@ -218,18 +224,18 @@ Caption is a simple app for writing over photos. You only need to choose an imag
 
 [Android](https://play.google.com/store/apps/details?id=com.codemybrainsout.captionitpro&hl=en) (Contain ads, In-App purchases)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Watermark - Watermark Photo & Watermark Video
 
 This app works for both photos and videos. You can add text to them. This is also another free app with premium subscriptions.
 
 ![watermark](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -295,6 +301,13 @@ To add text to a photo using iPhone (Version: iOS 11 and later), you can follow 
 
 ![tap the edit button](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Just click on the plus button (+)at the bottom.
 2. Now choose the Text option. It's all done. However, if you want to resize or rotate the text, it can be done quickly through dragging.
 3. You can also change the font by clicking the font button, which appears small, and the capital A rounded by a circle(aA).
@@ -338,13 +351,6 @@ So guys, if you are looking for an app that is easy to use and offers various fe
 
 [Android](https://play.google.com/store/apps/details?id=com.youthhr.phonto&hl=en) (Contain ads, In-App purchases) | [iOS](https://apps.apple.com/us/app/phonto-text-on-photos/id438429273) (Free, Offers In-App purchases)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. PicLab - Photo Editor
 
 PicLab - Photo Editor will be the right fit for you if you are someone who wants a lot more features than only adding text. PicLab offers more advanced photo editing tools to help you in giving your photo a unique look. You can download and use it for free, but it contains ads you can remove by paying a small amount.
@@ -381,6 +387,19 @@ This app is also an excellent tool. Word Swag is one of those apps mainly design
 
 [Android](https://play.google.com/store/apps/details?id=wordswag.stylishfree.gwyn) (Contain ads, In-App purchases) | [iOS](https://apps.apple.com/app/apple-store/id645746786) (Free, Offers In-App purchases)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Font Candy Photo & Text Editor
 
 Font Candy Photo & Text Editor offers a great user experience with its great tools. You can easily add text to an image and customize it with various options. It is free to use, but you can make some In-App purchases to unleash its premium features.
@@ -398,13 +417,6 @@ Font Candy Photo & Text Editor offers a great user experience with its great too
 **Download: Font Candy Photo & Text Editor for**
 
 [iOS](https://apps.apple.com/app/font-candy-better-photo-editor/id661971496) (Free, Offers In-App purchases)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. PicMonkey Photo Editor: Design, Touch Up, Filters
 
@@ -446,6 +458,13 @@ Caption is a simple app for writing over photos. You only need to choose an imag
 
 ![caption it](https://images.wondershare.com/filmora/article-images/2022/07/write-on-photos-for-ios-and-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key features:**
 
 * Add text to the image
@@ -471,19 +490,6 @@ This app works for both photos and videos. You can add text to them. This is als
 **Download:** **Watermark - Watermark Photo & Watermark Video for**
 
 [Android](https://play.google.com/store/apps/details?id=com.origa.salt&hl=en) (Contain ads, In-App purchases)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. New Designs: Photo Editor Backgrounds, Fonts, Fun
 
@@ -551,24 +557,22 @@ It's now a difficult task if you want to add text to your photos. Instead, it's 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-masterclass-in-drones-exploring-the-q500-typhoon/"><u>[New] 2024 Approved Masterclass in Drones Exploring the Q500 Typhoon</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-basics-of-weaving-a-narrative-thread/"><u>[New] Basics of Weaving a Narrative Thread</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comedic-content-coder/"><u>[New] Comedic Content Coder</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/omprehensive-guide-your-shorts-hidden-thumbnails-for-2024/"><u>[New] Comprehensive Guide Your Shorts' Hidden Thumbnails for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-insights-fullscreen-perfection-with-adobe-premiere/"><u>[Updated] Advanced Insights Fullscreen Perfection with Adobe Premiere</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-exclusive-list-top-5-affordable-screen-recorders-for-windows-for-2024/"><u>[Updated] Exclusive List Top 5 Affordable Screen Recorders for Windows for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-selective-slideshow-software-for-xrxsx-models-for-2024/"><u>[Updated] Selective Slideshow Software for Xr/XS/X Models for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-shots-quality-test-mi-drone-4k-edition/"><u>2024 Approved Aerial Shots Quality Test - Mi Drone 4K Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-c55-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-chips-for-immersive-4k-video-workflows/"><u>Best Chips for Immersive 4K Video Workflows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/five-star-duo-of-picture-taking-and-musical-integration/"><u>Five-Star Duo of Picture Taking & Musical Integration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/go-green-save-time-discover-easy-parking-and-hov-lane-advantages-for-your-electric-ride/"><u>Go Green, Save Time: Discover Easy Parking & HOV Lane Advantages for Your Electric Ride</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/groundbreaking-release-discover-the-global-innovation-in-photo-restoration-by-stellar/"><u>Groundbreaking Release: Discover the Global Innovation in Photo Restoration by Stellar</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-p55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel P55 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-androids-evolving-landscape-in-virtual-reality360-viewing/"><u>In 2024, Android's Evolving Landscape in Virtual Reality/360 Viewing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beats-and-bits-video-sound-mixing-on-win11/"><u>In 2024, Beats & Bits Video Sound Mixing on Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-marvels-mutants-orderly-viewing-of-x-men-features-explained/"><u>Mastering Marvel's Mutants: Orderly Viewing of X-Men Features Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>The Pro's Choice A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-image-enlargers-making-photographs-larger-without-losing-quality/"><u>[New] Best Image Enlargers Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-clearsnapzoom7-master-your-photographic-scaling/"><u>[New] ClearSnapZoom7 Master Your Photographic Scaling</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-formulate-funny-imagery-with-adobe/"><u>[New] Formulate Funny Imagery with Adobe</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-memory-upgrade-for-sony-a7c/"><u>[New] Ultimate Memory Upgrade for Sony A7C</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinematic-dialogues-writing-the-movies-soul/"><u>[Updated] Cinematic Dialogues Writing the Movie's Soul</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-strategies-for-lowering-audible-levels-on-lumafusion/"><u>[Updated] In 2024, Essential Strategies for Lowering Audible Levels on Lumafusion</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-glide-3-duel-illusionist-4-emerges/"><u>[Updated] In 2024, Glide 3 Duel Illusionist 4 Emerges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-the-avant-garde-of-the-internets-av-masters-for-2024/"><u>A Guide to the Avant-Garde of the Internet's AV Masters for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-touchpad-and-windows-11-smooth-driver-installation-guide-and-downloads/"><u>ASUS Touchpad and Windows 11: Smooth Driver Installation Guide & Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-boundaries-weaving-single-photos-into-masterpieces/"><u>Breaking Boundaries Weaving Single Photos Into Masterpieces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/detailed-guide-to-googles-voice-to-text-service-features-and-usage/"><u>Detailed Guide to Google's Voice-to-Text Service Features and Usage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-innovations-today-and-their-imminent-breakthroughs/"><u>Drone Innovations Today and Their Imminent Breakthroughs</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-solve-nvidiae-experience-scanner-woes-on-windows/"><u>Easily Solve Nvidia'e Experience Scanner Woes on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-rotation-problem-for-videos-on-asus-portable-computers-an-easy-guide/"><u>Fixing the Rotation Problem for Videos on ASUS Portable Computers - An Easy Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/igniting-gpts-potential-a-pc-owners-blueprint/"><u>Igniting GPT's Potential: A PC Owner's Blueprint</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-10-tools-to-enhance-your-youtube-vocal-recordings/"><u>In 2024, Top 10 Tools to Enhance Your YouTube Vocal Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>PicSweets Where Free TikTok BGs and Beauty Meet</u></a></li>
 </ul></div>
 

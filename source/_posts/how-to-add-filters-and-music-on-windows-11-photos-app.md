@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-09-17T17:20:28.435Z
-updated: 2024-09-22T18:07:46.287Z
+date: 2024-09-29T14:16:10.663Z
+updated: 2024-10-05T06:42:36.437Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -72,25 +72,25 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -118,5 +118,22 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10plus-preferred-no-pay-webm-player-options/"><u>[New] 10+ Preferred No-Pay WebM Player Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimizing-googles-automatic-speech-recognition-features-for-2024/"><u>[Updated] Optimizing Google's Automatic Speech Recognition Features for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>2024 Approved Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-skypes-performance-with-advanced-zoom-functionalities-for-2024/"><u>Boosting Skype's Performance with Advanced Zoom Functionalities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cold-games-2022s-ultimate-snowboard-dueling-display-for-2024/"><u>Cold Games 2022'S Ultimate Snowboard Dueling Display for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722859664165-delightful-premium-technology-finds-for-smart-shoppers-seeking-value/"><u>Delightful, Premium Technology Finds for Smart Shoppers Seeking Value.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-streaming-hardware-a-comprehensive-guide-on-devices-for-media-consumption/"><u>Demystifying Streaming Hardware: A Comprehensive Guide on Devices for Media Consumption</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-finest-top-10-affordable-drawers-on-mac/"><u>Discover the Finest Top 10 Affordable Drawers on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-transforming-your-ipad-videos-into-high-quality-mp4-format/"><u>Easy Steps: Transforming Your iPad Videos Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x800f0831-fast-fix-with-automated-windows-update-solutions/"><u>Error Code 0X800F0831? Fast Fix with Automated Windows Update Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y100-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y100 Is Unlocked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-when-basking-in-the-podcast-glow/"><u>In 2024, Best Practices When Basking in the Podcast Glow</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pushing-the-limits-advanced-strategies-for-google-podcasting/"><u>Pushing the Limits Advanced Strategies for Google Podcasting</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-connectivity-problems-for-razer-blackshark-v2s-non-functional-mic/"><u>Solving Connectivity Problems for Razer BlackShark V2's Non-Functional Mic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-youtubes-finest-story-sages-and-weavers-in-23/"><u>Unveiling YouTube's Finest Story Sages and Weavers in '23</u></a></li>
+</ul></div>
 

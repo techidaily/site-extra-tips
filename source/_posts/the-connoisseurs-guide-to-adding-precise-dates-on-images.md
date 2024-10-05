@@ -1,7 +1,7 @@
 ---
 title: "The Connoisseur's Guide to Adding Precise Dates on Images"
-date: 2024-09-27T21:44:16.213Z
-updated: 2024-09-30T02:35:14.108Z
+date: 2024-09-29T06:54:14.856Z
+updated: 2024-10-05T13:46:34.977Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ Step2Install the app after downloading.
 Step3Add data/timestamps to both new and old pictures.
 
 You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
@@ -154,13 +161,6 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) and [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. Edit Photos and Add Date Stamps On The Computer
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
@@ -190,10 +190,10 @@ When retouching your image in the Photos app, select the Adjust tab, then drag t
 ![adjust lighting and exposure](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use inbuilt photo app on mac to add date stamps
@@ -217,6 +217,13 @@ Step4Proceed to add date and time into the text area manually.
 Step5When ready, drag and slide the date to the area of the image where you wish to stamp it.
 
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6Finally, select File>Save to add your date to the picture.
 
@@ -246,6 +253,13 @@ Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
@@ -257,19 +271,6 @@ Step6Select Menu in the upper-left corner.
 Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Edit Photos Online to add date stamps
 
@@ -311,6 +312,13 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Photo Resizing
 * Background Remover
 * Retouching of photo
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -416,13 +424,6 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 
 ![adobe photoshop lightroom](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Preset creation
@@ -454,6 +455,19 @@ The app is available for [Android](https://play.google.com/store/apps/details?id
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the inbuilt photo on Mac to edit the photo
 
 Drag and drop your image onto the app window after launching the built-in Images app from your dock or **Finder > Applications** to begin editing photos on your Mac.
@@ -465,13 +479,6 @@ You can perform simple tweaking after the image is in the editor to help make yo
 First, to resize an image in the Photos app on a Mac, enter editing mode by clicking the Edit button located at the top right corner of the Photos app window. Next, select an option by dragging the edges of the cropping framework that shows on your image in the Crop tab, which is in the middle of your Photos window.
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step2Sharpen your images
 
@@ -508,16 +515,10 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6Finally, select File>Save to add your date to the picture.
@@ -553,10 +554,10 @@ Step5Enter the date you want.
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6Select Menu in the upper-left corner.
@@ -602,13 +603,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 
 ![pixlp](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Key features**
 
 * Photo Resizing
@@ -647,21 +641,17 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-8-virtual-backdrops-for-macbook-upgrades/"><u>[New] Best 8 Virtual Backdrops for MacBook Upgrades</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-expert-strategies-for-swift-and-smooth-media-navigation/"><u>[New] In 2024, Expert Strategies for Swift and Smooth Media Navigation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfecting-obs-streams-for-direct-facebook-engagement/"><u>[Updated] In 2024, Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-streamlining-multiple-youtube-videos-into-one/"><u>[Updated] In 2024, Streamlining Multiple YouTube Videos Into One</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-quintessential-memes-the-creation-guide/"><u>2024 Approved Quintessential Memes The Creation Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-ace-2v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus Ace 2V Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-journey-through-creativity-using-movie-maker-to-make-animated-dreams/"><u>A Journey Through Creativity Using Movie Maker to Make Animated Dreams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accessing-the-ultimate-10-lists-of-vector-pics-sites-for-2024/"><u>Accessing the Ultimate 10 Lists of Vector Pics Sites for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-excellence-in-your-android-video-brightness-for-2024/"><u>Achieving Excellence in Your Android Video Brightness for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-huawei-nova-y91-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Huawei Nova Y91.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beware-no-legitimate-chatgpt-app-for-windows-thats-malicious-software/"><u>Beware: No Legitimate ChatGPT App for Windows – That's Malicious Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridging-gaps-video-platforms-brands-and-collaborative-success/"><u>Bridging Gaps Video Platforms, Brands & Collaborative Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-shooting-gear-top-10-cameras-without-jitters/"><u>In 2024, Best Shooting Gear Top 10 Cameras Without Jitters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpts-personalized-directive-mode-features-and-usage-explained/"><u>Navigating ChatGPT's Personalized Directive Mode: Features and Usage Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategy-sketches-plotting-the-market-map/"><u>Strategy Sketches Plotting the Market Map</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-and-solving-lg-monitor-driver-problems-on-various-windows-versions/"><u>Troubleshooting and Solving LG Monitor Driver Problems on Various Windows Versions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-words-to-voices-scriptwriting-for-successful-podcasts/"><u>[New] From Words to Voices Scriptwriting for Successful Podcasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-hilarity-host-the-10-funniest-twitter-challenges/"><u>[New] Hilarity Host The 10 Funniest Twitter Challenges</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-guides-to-quick-webinar-recording-with-macos-and-windows/"><u>[New] In 2024, Guides to Quick Webinar Recording with macOS and Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-turn-your-instagram-stories-into-music/"><u>[Updated] In 2024, How to Turn Your Instagram Stories Into Music</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-high-speed-video-transitions-with-ease/"><u>2024 Approved Navigating High-Speed Video Transitions with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoid-draft-overload-on-tiktok-by-mastering-edit-techniques/"><u>Avoid Draft Overload on TikTok by Mastering Edit Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-the-best-footage-editor-hero-vs-polaroid-edition-for-2024/"><u>Choosing the Best Footage Editor Hero Vs. Polaroid Edition for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-converting-mb-to-seconds-a-20mb-scenario/"><u>In 2024, Converting MB to Seconds A 20MB Scenario</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-periscope-pro-the-in-depth-usage-guidebook/"><u>In 2024, Periscope Pro The In-Depth Usage Guidebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-polarr-editor-unveiled-ultimate-visual-transformation/"><u>In 2024, Polarr Editor Unveiled Ultimate Visual Transformation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-videos-with-tiktok-effects/"><u>Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-selection-of-top-rated-slow-motion-video-tools/"><u>Ultimate Selection of Top-Rated Slow-Motion Video Tools</u></a></li>
 </ul></div>
 

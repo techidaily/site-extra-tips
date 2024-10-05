@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adding Descriptive Tags to Your Images on PCs and Macs"
-date: 2024-09-26T21:41:42.324Z
-updated: 2024-09-29T22:19:05.935Z
+date: 2024-10-03T18:25:34.914Z
+updated: 2024-10-05T07:45:37.470Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,13 @@ Step1Open the Apple Photos app on your Mac and select the picture you want to ed
 Step2Click the edit button there at the top.
 
 ![click edit button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3Now click the More icon, which is at the top right portion of it (it usually looks like an ellipsis), and then in the dropdown menu, click on the Markup option.
 
@@ -100,16 +107,16 @@ Step2Now click on the **Text Button**, which will appear on your sidebar at the 
 
 ![click on text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3Now you must select your text style by clicking on **heading**, **sub-heading**, and **body text**, depending on which one you want. You can also choose your text style from the designs already available.
 
 ![select text style](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4To edit your text's color, size, style, alignment, bold or italic effects, etc., click on the **Text Box**.
 
@@ -128,6 +135,13 @@ Step7Moreover, if you want to change the size of the **Text Box**, drag its bord
 ![change the size of text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-18.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Important Note:** Remember that what changes you have done using the right sidebar menu will be applied to the whole text inside the selected text box.
 
@@ -185,13 +199,6 @@ Cons
 * You must purchase their premium plans to access more professional features.
 * There are some errors in previewing when you are using certain functions.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. [Pixlr](https://pixlr.com/x/)
 
 **Introduction:**
@@ -219,6 +226,13 @@ Cons
 Fotor is another online photo editing tool that you can use for this purpose. It has a friendly interface and excellent tools that help its users efficiently do basic photo editing. That's why it has a large number of users also.
 
 ![fotor](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pros
 
@@ -257,13 +271,6 @@ Cons
 * To acquire more advanced features, you must purchase its premium version.
 * A few problems sometimes occur due to the bugs in its newly updated versions or beta versions if you are using them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. [PhotoDirector](https://www.cyberlink.com/downloads/trials/photodirector-photo-editing-software/download%5Fen%5FUS.html)
 
 **Introduction:**
@@ -271,13 +278,6 @@ Cons
 PhotoDirector is also photo editing software used to enhance the quality and creativity of the photos. It provides several great features with a simple organizing interface which is best for newbies. You can also add text to images using it. Since it was released, it has had a good number of users.
 
 ![photodirector](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-24.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pros
 
@@ -323,10 +323,16 @@ You can use Inkscape for this purpose as it is also fully open source and free s
 ![inkscape](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Pros
@@ -348,13 +354,6 @@ Cons
 Phoxo is another alternative to all the above software. It is also photo editing software with powerful editing features. You can call it mini Photoshop also, but people primarily call it the advanced version of MS Paint. You can add text to your photos easily using it also.
 
 ![phoxo](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-27.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pros
 
@@ -436,6 +435,13 @@ Pixlr is also an alternative to the above all. It is a cloud-based online photo 
 
 ![pixlr](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pros
 
 * Have a very interactive user interface that is easy to understand also.
@@ -501,6 +507,13 @@ PhotoDirector is also photo editing software used to enhance the quality and cre
 
 ![photodirector](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-24.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pros
 
 * Have a unique and user-friendly interface
@@ -515,13 +528,6 @@ Cons
 * The lens profiles are not too enough, like in other photo editors.
 * Also, it is not too good in chromatic aberration and noise corrections.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [GIMP](https://www.gimp.org/downloads/)
 
 **Introduction:**
@@ -529,13 +535,6 @@ Cons
 If you still do not find any software to add text to your photos, you should also look at GIMP. It is also a good graphics editing program. Moreover, it is free and open source also. You can use it for both the editing and the manipulation of photos. Some people also still use WIMP for making their drawings, although it is not for such a purpose.
 
 ![gimp](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Pros
 
@@ -569,6 +568,13 @@ Cons
 * It is not too good in exporting formats.
 * Its interface is simple but not too much friendly. Therefore, you have to read or watch some tutorials first regarding it to understand its interface completely.
 * The startup screen doesn't have any close, minimize or maximize buttons.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. [Phoxo](http://www.phoxo.com/en/download/)
 
@@ -620,24 +626,24 @@ The last words for today's topic here is that there are numerous solutions avail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-11-window-wisdom-the-secret-techniques-youve-missed-out-on/"><u>[New] 11 Window Wisdom The Secret Techniques You've Missed Out On</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-weaving-a-web-of-sound-youtube-music-and-video-integration-guide/"><u>[New] 2024 Approved Weaving a Web of Sound YouTube Music & Video Integration Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[New] In 2024, Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-passport-photo-generator-download-print-for-free/"><u>[Updated] 10 Passport Photo Generator Download, Print for Free</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-10-leading-free-online-recording-tools-expert-opinions/"><u>2024 Approved 10 Leading Free Online Recording Tools - Expert Opinions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audioascend-rising-over-dacast/"><u>2024 Approved AudioAscend Rising Over DaCast</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/acclaimed-picture-perfection-software/"><u>Acclaimed Picture Perfection Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-your-typing-copy-pasting-expertise/"><u>Boost Your Typing, Copy-Pasting Expertise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bring-life-and-movement-to-stills-with-illustrator-techniques/"><u>Bring Life & Movement to Stills with Illustrator Techniques</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dota-nixing-how-to-unstick-your-frozen-launch-screen/"><u>Dota Nixing: How to Unstick Your Frozen Launch Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-boredom-to-chuckles-generating-funny-memes/"><u>From Boredom to Chuckles Generating Funny Memes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-10-prime-free-images-hosts-ensure-picture-longevity/"><u>In 2024, 10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-visual-synergy-iphones-role-in-modern-music-videos/"><u>In 2024, Audio-Visual Synergy IPhone's Role in Modern Music Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-iphone-x-camera-features-you-need-to-know/"><u>New iPhone X Camera Features You Need to Know</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-addressed-and-resolved-comexception-issue/"><u>Successfully Addressed and Resolved COMException Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-seamless-streaming-a-comprehensive-guide-to-using-roku-in-accommodations-and-dormitories/"><u>Unlock Seamless Streaming: A Comprehensive Guide to Using Roku in Accommodations and Dormitories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>[New] 2024 Approved How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-awesome-iphone-selfie-solutions-spot-8-now/"><u>[New] Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>[New] Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-the-magic-of-moonlight-iphonely/"><u>[New] Capture the Magic of Moonlight iPhonely</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-digital-worlds-the-essential-software-list-for-animators/"><u>[New] Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transforming-your-living-space-into-a-podcast-studio-for-2024/"><u>[New] Transforming Your Living Space Into a Podcast Studio for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-musical-guide-to-enhancing-slides-with-tunes/"><u>[Updated] A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/childhood-as-the-peak-time-for-second-language-acquisition/"><u>Childhood as the Peak Time for Second Language Acquisition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-premier-portable-audio/"><u>Discover Premier Portable Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unregistered-class-errors-in-windows-11-a-step-by-step-guide/"><u>Fixing Unregistered Class Errors in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes-for-2024/"><u>From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c12-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C12 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/now-available-vr-hardware-specs/"><u>Now Available VR Hardware Specs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-in-google-meets-overcoming-microphone-faults-on-windows-1110-platforms/"><u>Restore Audio in Google Meets: Overcoming Microphone Faults on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smartest-3d-apps-available-on-android/"><u>Smartest 3D Apps Available on Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-analytical-approach-to-youtube-content-performance-for-2024/"><u>The Analytical Approach to YouTube Content Performance for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-essential-5-points-to-think-about-prior-to-purchasing-a-fitness-device/"><u>The Essential 5 Points to Think About Prior to Purchasing a Fitness Device</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c22-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C22 Device</u></a></li>
 </ul></div>
 

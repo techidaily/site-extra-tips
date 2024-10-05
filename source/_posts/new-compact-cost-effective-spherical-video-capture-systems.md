@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Compact, Cost-Effective Spherical Video Capture Systems\""
-date: 2024-08-20T06:12:18.127Z
-updated: 2024-08-21T06:12:18.127Z
+date: 2024-09-28T04:04:47.592Z
+updated: 2024-10-05T14:05:23.180Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ First, an offering from Ricoh, the Ricoh Theta S. This pocket-sized camera costs
 
 **Related article:** [Full review for Ricoh Theta S >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. [360fly 4K](https://www.360fly.com/360fly-4k.html)
 
 The 360fly 4k is a slightly more expensive option, retailing around $500\. Unlike many other 360-degree cameras, it has only a single lens to capture its video, meaning that there is no stitching together of two images to create a seamless image. Like the Ricoh camera, it offers an app, 360fly, to connect to your iOS device and act as a remote control. A second app, Livit, is offered to allow live streaming of your videos, along with editing. The 360fly camera is heavier duty than some of the other options out there, with water, dust, and shock-resistant body. It also offers a great image, with 2880x2880 resolution, 30fps, and a 240-degree vertical field of view. It also has some built-in sensors, including a barometer, accelerometer, and a GPS sensor.
@@ -56,9 +63,6 @@ Kodak, one of the older names in photography, offers the Kodak PixPro SP360 4K A
 
 A wonderful day with PixPro SP360 4K:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. [LG360 cam](http://www.lg.com/us/mobile-accessories/lg-LGR105.AVRZTS-360-cam)
 
 The LG360 cam retails for around $200, making it one of the cheapest phones on the market, and was designed to work with the company's G5 smartphone, though it also works with an iPhone. It captures 2K, 360-degree video, and 5.1 channel surround sound, as well as allowing you to use only one of its two lenses for 180-degree image capture. It's a small camera with no built-in display, but the companion app acts as a remote control and lets you view your recording in real-time.
@@ -66,8 +70,12 @@ The LG360 cam retails for around $200, making it one of the cheapest phones on t
 Check a detailed review about LG360 Cam from this video
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. [ALLie Camera](https://allie.camera/)
 
 The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2048 video. One interesting feature is the 10 built-in infrared LEDs that allow you to film in dark environments with a full 360-degree view. Its integrated microphone and speaker allows two-way audio so that users can communicate. Its app lets you view the footage from anywhere and, if your mobile device has gyroscopic motion sensors, change your perspective while viewing footage by tilting and moving the screen. In addition to the app, recording and playback is available through the subscription-based ALLieCam Cloud.
@@ -75,33 +83,24 @@ The ALLie Camera retails for $499 and uses two fisheye lenses to take its 4096x2
 Check a detailed review about Allie Camera from this video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. [Panono](https://www.panono.com/)
 
 Panono, a spherical camera retailing for around $549 is unique in using 36 lenses to take 108 MP photos and videos, avoiding the use of wide-angle lenses. It can be thrown safely, as well as supporting a universal mounting system. Final stitching together of the many images into a coherent photo or video requires sending the files to a cloud device, but the image quality more than makes up for it.
 
 Check this video to see how to take 360 pictures with Panono:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 8\. [Centr](https://www.centr.org/)
 
 Centr, a 360-degree cam funded on Kickstarter, retails for $399 and uses 4 110-degree lenses to capture its video. It has built-in image stitching technology, meaning that users don't need to use a desktop app or a cloud service to view the final video. It takes 20 MP photos and 4K video at 60 fps.
 
 Check a detailed review about Centr 360 camera:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 9\. [Bublcam](https://www.bublcam.com/)
 
 One of the most expensive cameras in this line-up at around $800, Bublcam uses 4 110-degree lenses to take spherical photos and videos. Taking 14 MP images and 1080p video, it's a hit with photographers for image quality. In addition to this, it has stabilization features activated when the camera is in motion, to keep shaky camera work from ruining your video.
@@ -116,14 +115,18 @@ Finally, Nikon's upcoming Key Mission 360 camera is built for action. It's a poc
 
 See more details about Nikon Key Mission 360 camera from this video:
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 These 10 options are only some of the 360-degree cameras that are upcoming or already on the consumer market. Most of them cost a bit more than a new phone and shoot a pretty nice video. While the video and images can be enjoyed on your computer screen, VR headsets come highly recommended for getting the full effect. So get out there and try this new way of capturing experiences to share with your friends and family. The world awaits.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -131,11 +134,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-nostalgic-portraits-retold-transforming-old-prints-to-digital/"><u>[New] Nostalgic Portraits Retold Transforming Old Prints to Digital</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>[Updated] Your Handy Hint Downloading YouTube Videos to Your Apple Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>2024 Approved AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-speaking-to-tomorrow-iphone-voice-memo/"><u>2024 Approved Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-magic-6-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Magic 6 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ways-to-transcribe-twitter-videos-into-high-fidelity-mp3s-for-2024/"><u>Best Ways to Transcribe Twitter Videos Into High-Fidelity MP3s for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquering-challenges-in-single-source-online-streaming-for-2024/"><u>Conquering Challenges in Single-Source Online Streaming for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ig-vids-mastery-for-effective-marketing-step-by-step-guide-to-success-for-2024/"><u>IG Vids Mastery for Effective Marketing Step-by-Step Guide to Success for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cost-effective-tactics-in-video-promotions/"><u>In 2024, Cost-Effective Tactics in Video Promotions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-critical-steps-to-record-and-relive-athletic-sports-competitions/"><u>In 2024, Critical Steps to Record & Relive Athletic Sports Competitions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-7-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-zte-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on ZTE Phones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/newcomers-journey-to-prosperity-via-periscope/"><u>Newcomer's Journey to Prosperity via Periscope</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-blueprint-to-acquire-clean-images/"><u>The Blueprint to Acquire Clean Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-to-find-the-best-videographer/"><u>Tips to Find The Best Videographer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-printscreen-key-fails-on-win10win11-systems/"><u>Troubleshooting Tips for When Your PrintScreen Key Fails on Win10/Win11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-of-movie-maker-on-windows-8/"><u>Unveiling the Secrets of Movie Maker on Windows 8</u></a></li>
+</ul></div>
+
