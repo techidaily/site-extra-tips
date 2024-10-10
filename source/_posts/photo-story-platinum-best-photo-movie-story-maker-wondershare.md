@@ -1,7 +1,7 @@
 ---
 title: "\"Photo Story Platinum - Best Photo Movie Story Maker | Wondershare\""
-date: 2024-08-06T12:29:27.780Z
-updated: 2024-08-07T12:29:27.780Z
+date: 2024-10-04T21:49:37.457Z
+updated: 2024-10-10T19:08:14.163Z
 tags: 
   - screen-recording
   - ai video
@@ -30,9 +30,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 
 [Learn more about Wondershare Photo Story Platinum.](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 ### Key Features of Photo Story Platinum
@@ -44,8 +41,12 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Directly share on YouTube, Facebook & virtually anywhere.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
 
 #### Step 1\. Add photos and videos
@@ -57,10 +58,14 @@ After the installation of the program, you will see a window with two options: s
 
 After the mode selection, click the Add Files button to import your photos and videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2\. Personalize your photo story
 
@@ -68,9 +73,6 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
 
 #### Step 3\. Publish your photo story
@@ -81,11 +83,22 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Supported Output Formats by Web Converter
 
 * **DVD**: Standard DVD (D5 or D9)
@@ -97,9 +110,6 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -108,11 +118,29 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-edit-youtube-videos-by-the-youtube-video-editor/"><u>[New] 2024 Approved How to Edit Youtube Videos by the YouTube Video Editor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-key-strategies-for-professional-video-production-via-nvidia/"><u>[New] In 2024, Key Strategies for Professional Video Production via NVIDIA</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beat-the-sickening-of-virtual-reality/"><u>[Updated] Beat the Sickening of Virtual Reality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevating-images-a-professionals-palette-playbook-for-2024/"><u>[Updated] Elevating Images A Professional's Palette Playbook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-subtle-art-of-dimming-sounds-via-audacity/"><u>[Updated] Mastering the Subtle Art of Dimming Sounds via Audacity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unwinding-film-narratives-the-art-of-reversing-on-instagram-for-2024/"><u>[Updated] Unwinding Film Narratives The Art of Reversing on Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-cameras-where-to-buy-economical-gopros/"><u>2024 Approved Affordable Cameras Where to Buy Economical GoPros</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/augmented-reality-shading-exploiting-free-lut-resources-for-ar-for-2024/"><u>Augmented Reality Shading Exploiting Free LUT Resources for AR for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-oppo-a58-4g-by-drfone-android/"><u>Full Guide to Unlock Your Oppo A58 4G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-casino-contestant-commentary/"><u>In 2024, CASINO CONTESTANT COMMENTARY</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovation-unveiled-the-leading-video-cams-of-2024/"><u>Innovation Unveiled The Leading Video Cams of 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-selecting-peak-pace-for-slow-video-capture/"><u>Mastering the Art of Selecting Peak Pace for Slow Video Capture</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sony-game-systems-redefine-your-gaming-soundscape/"><u>Sony Game Systems Redefine Your Gaming Soundscape</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-steam-deck-accessories/"><u>The Best Steam Deck Accessories</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Complete Insight Into Ricoh Theta S Camera"
-date: 2024-09-28T11:07:18.159Z
-updated: 2024-10-05T10:58:19.647Z
+date: 2024-10-05T18:14:52.056Z
+updated: 2024-10-10T20:29:52.392Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,16 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -91,10 +97,16 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -114,16 +126,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -135,10 +141,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -156,22 +162,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-building-the-ultimate-youtube-musical-collection/"><u>[New] 2024 Approved Building the Ultimate YouTube Musical Collection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-artistic-excellence-foremost-ios-art-tools/"><u>[Updated] Artistic Excellence Foremost iOS Art Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-monetizing-mastery-a-triple-step-approach-to-understanding-youtube-revenue/"><u>[Updated] Monetizing Mastery A Triple Step Approach to Understanding YouTube Revenue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-manual-for-simplified-live-streamers/"><u>[Updated] The Essential Manual for Simplified Live Streamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/202n-dat9/"><u>「最新オススメ! 202N DATファイルを自由に変換できる無料ソフトウェア9品種」</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-complete-guide-to-proficient-periscope-operation/"><u>2024 Approved Complete Guide to Proficient Periscope Operation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augmented-realms-blending-tech-and-entertainment-for-2024/"><u>Augmented Realms Blending Tech & Entertainment for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-mp4-player-you-should-know-for-2024/"><u>Best MP4 Player You Should Know for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-zoom-strategies-for-chromeos/"><u>Essential Zoom Strategies for ChromeOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highpoint-masterpiece-suite/"><u>Highpoint Masterpiece Suite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-aerial-robotics-simplified-how-drones-fly-talk-and-work/"><u>In 2024, Aerial Robotics Simplified How Drones Fly, Talk & Work</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/m2tsmovavi/"><u>M2Tsを無料で簡単に変換！オンラインツール・Movaviの使い方</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/peak-performance-audio-organizer-android/"><u>Peak Performance Audio Organizer, Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regain-access-to-elusive-5ghz-network-on-windows-11-with-these-tips/"><u>Regain Access to Elusive 5GHz Network on Windows 11 with These Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-best-4k-tvs-for-2024/"><u>Top 10 Best 4K TVs for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-14-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 14 Pro Max is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/egular-payouts-for-youtube-content-makers-in-2024/"><u>[New] Regular Payouts for YouTube Content Makers, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-2024s-premium-videography-tools-leading-brands-unveiled/"><u>[Updated] 2024’S Premium Videography Tools – Leading Brands Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-bestowed-guidance-premium-audio-designers-for-iphones/"><u>[Updated] Bestowed Guidance Premium Audio Designers for iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-detail-with-videoleaps-in-camera-zooming/"><u>[Updated] Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-character-choreography-compendiums/"><u>2024 Approved Character Choreography Compendiums</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-guide-to-podcast-creation-in-garageband/"><u>2024 Approved The Essential Guide to Podcast Creation in GarageBand</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-tips-for-documenting-virtual-meetings/"><u>2024 Approved Tips for Documenting Virtual Meetings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-aether-understanding-its-nature-and-ways-to-become-a-part-of-it/"><u>Discovering Aether: Understanding Its Nature & Ways to Become a Part of It</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-12-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-streamlining-social-media-posting-vimeo-on-instagram/"><u>In 2024, Streamlining Social Media Posting Vimeo on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-have-3d-model-systems-in-animation/"><u>Must-Have 3D Model Systems in Animation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-10-essential-family-flicks-the-ultimate-dvd-collection-you-cant-miss/"><u>Top 10 Essential Family Flicks: The Ultimate DVD Collection You Can't Miss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
 </ul></div>
 
