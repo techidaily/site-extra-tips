@@ -1,7 +1,7 @@
 ---
 title: "\"From Amateurs to Pros  Learning Audio Recording in Audacity\""
-date: 2024-07-27T11:38:43.202Z
-updated: 2024-07-28T11:38:43.202Z
+date: 2024-10-14T20:45:13.198Z
+updated: 2024-10-16T21:49:08.267Z
 tags: 
   - screen-recording
   - ai video
@@ -20,19 +20,12 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
 Most users choose for Voice Memos on Mac or Sound Recorder on PC when they wish to capture audio on their computer. However, despite the fact that these tools let you record audio using the microphone, they lack the features needed for more sophisticated audio recording and editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![record profeesional audio](https://images.wondershare.com/filmora/article-images/Audacity-add-audio.jpg)
 
 Therefore, the majority of users think of Audacity when they wish to record and edit high-quality audio on their PCs. Most people use this open-source audio recorder as their go-to tool because it is totally free to use.
 
 However, due to its large and difficult to comprehend interface, the majority of users find it difficult to operate. In this tutorial, we'll show you how to quickly record your desktop using Audacity. Even if you've never used Audacity before, the procedures we explain here will make it simple for you to record audio of any length.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 1\. Download the software
 
 Step1Go to your preferred browser and visit the official <https://www.audacityteam.org/> website using your preferred web browser.
@@ -44,8 +37,12 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -59,8 +56,12 @@ Step3In the "Device" section of the Audacity preferences box, choose "Soundflowe
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Export your audio
 
 It's time to export the finished file after finishing up your Audacity project's modification. It's crucial to realize that simply saving your Audacity project doesn't produce a file that you can share with others.
@@ -107,4 +108,24 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>[New] A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brevity-in-action-shortening-youtube-video-content/"><u>[New] In 2024, Brevity in Action Shortening YouTube Video Content</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nitiate-internet-income-low-cost-youtube-channel-buys-for-2024/"><u>[New] Initiate Internet Income Low-Cost YouTube Channel Buys for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-vlog-anxieties-unmasked-how-to-combat-them/"><u>[Updated] 2024 Approved Vlog Anxieties Unmasked How to Combat Them</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>[Updated] Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>2024 Approved Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography/"><u>A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/compact-yet-powerful-the-new-apple-m4-powered-mac-mini-review-how-does-it-stack-up-against-an-apple-tv/"><u>Compact Yet Powerful: The New Apple M4-Powered Mac Mini Review – How Does It Stack Up Against An Apple TV?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dell-alienware-aurora-r9-review-futuristic-gaming-pc-design/"><u>Dell Alienware Aurora R9 Review: Futuristic Gaming PC Design</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/expert-tips-for-preventing-continuous-failures-of-thunder-tier-one-on-desktopslaptops/"><u>Expert Tips for Preventing Continuous Failures of Thunder Tier One on Desktops/Laptops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-improve-gopro-battery-life/"><u>How to Improve GoPro Battery Life</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hardware-basics-preparing-for-big-sur-os/"><u>In 2024, Hardware Basics Preparing for Big Sur OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-best-iphone-camera-aids/"><u>In-Depth Look Best iPhone Camera Aids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-spherical-videos-the-iphone-way/"><u>Making Spherical Videos The iPhone Way</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808252249-step-by-step-guide-to-booting-windows-11-into-safe-mode-discover-all-4-methods-plus-visual-aids/"><u>Step-by-Step Guide to Booting Windows 11 Into Safe Mode – Discover All 4 Methods Plus Visual Aids!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2024-10-01T10:52:39.598Z
-updated: 2024-10-04T22:02:14.444Z
+date: 2024-10-15T23:16:39.941Z
+updated: 2024-10-16T16:49:08.984Z
 tags:
   - desktop
 categories:
@@ -56,24 +56,28 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>[New] Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[Updated] 2024 Approved Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-summit-of-synergy-for-vr-sensations/"><u>[Updated] 2024 Approved Summit of Synergy for VR Sensations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-best-cameras-for-capturing-live-dynamic-music-events-in-hd4k/"><u>[Updated] Best Cameras for Capturing Live, Dynamic Music Events in HD/4K</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>[Updated] Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot-for-2024/"><u>8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-drone-cameras-10-for-professional-filmmaking-for-2024/"><u>Best Drone Cameras #10 For Professional Filmmaking for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s18-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo S18 Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo V27 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-frame-rates-in-gta-5-fixes-for-previous-stutters-and-delays/"><u>Improved Frame Rates in GTA 5 - Fixes for Previous Stutters and Delays</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-ace-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus Ace 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/keep-your-identity-under-wraps-while-livestreaming/"><u>Keep Your Identity Under Wraps While Livestreaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video-for-2024/"><u>[New] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ascending-with-aerial-artistry-9-top-editors-for-diverse-levels/"><u>[New] Ascending with Aerial Artistry 9 Top Editors For Diverse Levels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-d3dgear-screen-recorder-review-for-2024/"><u>[Updated] D3DGear Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploringexcellentcameraspost-mycam-for-2024/"><u>[Updated] ExploringExcellentCamerasPost-MyCam for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-youtube-earnings-per-thousand-views-explained/"><u>[Updated] YouTube Earnings Per Thousand Views Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-infinix-zero-30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Infinix Zero 30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-10-drones-for-high-quality-cinematography/"><u>Best 10 Drones for High-Quality Cinematography</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/demystifying-absence-no-recommended-video-content-on-facebook/"><u>Demystifying Absence No Recommended Video Content on Facebook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-typing-experience-with-the-steelseries-keyboard-engine-download/"><u>Enhance Your Typing Experience with the SteelSeries Keyboard Engine Download</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-resolution-macs-favorite-4k-screens/"><u>Excellence in Resolution Mac's Favorite 4K Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-recommended-filmmaking-equipment-roundup/"><u>Expert-Recommended Filmmaking Equipment Roundup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-your-story-pace-with-instagrams-temp-control-feature/"><u>In 2024, Craft Your Story Pace with Instagram's Temp Control Feature</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/on-demand-acting-rights-form/"><u>On-Demand Acting Rights Form</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-potential-precision-zooming-for-professional-videoleap-footage/"><u>Unleash Potential Precision Zooming for Professional VideoLeap Footage</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vlc-trimming-software-for-mac-no-quality-loss-guaranteed/"><u>Updated Best VLC Trimming Software for Mac No Quality Loss Guaranteed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-stutter-solutions-updated-techniques-for-a-smoother-gaming-experience/"><u>Warzone PC Stutter Solutions: Updated Techniques for a Smoother Gaming Experience</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

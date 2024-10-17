@@ -1,7 +1,7 @@
 ---
 title: "\"From Fantasy to Feasibility  VR's Milestones\""
-date: 2024-10-03T21:03:30.269Z
-updated: 2024-10-10T19:15:06.641Z
+date: 2024-10-14T03:42:34.385Z
+updated: 2024-10-17T03:48:20.360Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1960s
@@ -51,10 +51,10 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1990s
@@ -62,10 +62,10 @@ VR headsets actually started development in the 1960s. Just 30 years from the or
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 2014
@@ -81,10 +81,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -102,20 +102,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-compilation-top-6-mac-compatible-recorder-software/"><u>[New] 2024 Approved Essential Compilation Top 6 Mac-Compatible Recorder Software</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-expertly-enhance-photos-with-free-technology-for-2024/"><u>[New] Expertly Enhance Photos with Free Technology for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-leading-tech-review-the-top-10-screen-recorders/"><u>[New] Leading Tech Review The Top 10 Screen Recorders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-trailblazer-in-photo-music-fusion-crafting/"><u>[Updated] 2024 Approved Trailblazer in Photo-Music Fusion Crafting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>2024 Approved Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-4k-all-in-one-touch-screen-desktops-for-2024/"><u>Best 4K All-in-One Touch Screen Desktops for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y100t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y100t Fingerprint Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/converting-photographic-moments-into-cinematic-vignettes-for-2024/"><u>Converting Photographic Moments Into Cinematic Vignettes for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ating-the-digital-realm-youtube-marketing-secrets-for-2024/"><u>Dominating the Digital Realm YouTube Marketing Secrets for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-moto-g04-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola Moto G04</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Samsung .</u></a></li>
-<li><a href="https://win-dash.techidaily.com/logitech-wireless-keyboard-driver-for-windows-10-download-easily/"><u>Logitech Wireless Keyboard Driver for Windows 10 Download Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplified-steps-for-crafting-professional-srt-files/"><u>Simplified Steps for Crafting Professional SRT Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-the-power-scriptwriting-for-popular-vlogs/"><u>Unlock the Power Scriptwriting for Popular Vlogs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-voice-inputs-powerpoint-speech-to-text-guide/"><u>Unlocking Voice Inputs PowerPoint Speech-to-Text Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-videoapp-insight-a-comprehensive-evaluation/"><u>[New] 2024 Approved VideoApp Insight A Comprehensive Evaluation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-art-of-package-revelation-amplifying-initial-impressions/"><u>[New] In 2024, The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastery-of-planting-the-finest-valheim-seeds/"><u>[Updated] In 2024, Mastery of Planting The Finest Valheim Seeds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-sierras-complete-access-to-cloud-documentationdrive-for-2024/"><u>[Updated] Sierra's Complete Access to Cloud Documentation/Drive for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-7-top-budget-friendly-digital-camera-editing-tools/"><u>2024 Approved 7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/embrace-the-eclipse-with-iphone-night-vision/"><u>Embrace the Eclipse with iPhone Night Vision</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/faithful-chimes-how-to-personalize-them/"><u>Faithful Chimes - How to Personalize Them</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphones-best-5-podcast-audio-platforms/"><u>IPhone's Best 5 Podcast Audio Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-virtual-territories-metaverse-and-multiverse-guide/"><u>Navigating Virtual Territories Metaverse & Multiverse Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Mix Fold 3 Device</u></a></li>
 </ul></div>
 

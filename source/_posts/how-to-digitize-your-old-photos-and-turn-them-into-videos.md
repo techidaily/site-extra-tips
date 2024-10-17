@@ -1,7 +1,7 @@
 ---
 title: "How to Digitize Your Old Photos and Turn Them Into Videos"
-date: 2024-10-08T20:54:31.000Z
-updated: 2024-10-10T20:43:13.624Z
+date: 2024-10-13T17:29:58.635Z
+updated: 2024-10-17T00:38:14.558Z
 tags: 
   - screen-recording
   - ai video
@@ -92,6 +92,13 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
@@ -110,22 +117,15 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -135,10 +135,10 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
@@ -171,16 +171,16 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -197,24 +197,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ultivating-connection-not-compulsion-in-subscriptions/"><u>[New] Cultivating Connection, Not Compulsion in Subscriptions</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-essential-asmr-apps-android-and-ios-edition/"><u>[New] In 2024, Essential ASMR Apps Android & iOS Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-camera-screens-at-your-fingertips-review-of-top-free-recorders-for-2024/"><u>[Updated] Camera Screens at Your Fingertips Review of Top Free Recorders for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-list-10-relaxing-game-hits/"><u>2024 Approved Ultimate List 10 Relaxing Game Hits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/acclaimed-choices-17-popular-programs-for-background-removal-for-2024/"><u>Acclaimed Choices 17 Popular Programs for Background Removal for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-visual-precision-with-the-right-4k-display-selection/"><u>Achieving Visual Precision with the Right 4K Display Selection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-panzoid-blueprint-selections/"><u>Exclusive Panzoid Blueprint Selections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gratuitous-goal-games-capturing-kicks-without-costs/"><u>Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hidden-window-10-features-unveiled-and-functional/"><u>Hidden Window 10 Features: Unveiled and Functional</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-detailed-tutorial-on-how-to-use-green-screen-in-kinemaster/"><u>In 2024, A Detailed Tutorial On How To Use Green Screen In Kinemaster</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cinemas-finest-techniques-top-5-tips-for-visual-impact/"><u>In 2024, Cinema's Finest Techniques Top 5 Tips for Visual Impact</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-exploring-isprings-screencap-capabilities/"><u>In 2024, Exploring iSpring's Screencap Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-defy-2-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Defy 2 To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-platforms-converting-vids-for-the-bird/"><u>Premium Platforms Converting Vids for the Bird</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-a59-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo A59 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-ae-title-effect-wizardry/"><u>The Ultimate Guide to AE Title Effect Wizardry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-affordable-gaming-mice-and-keyboards-99plus-for-2024/"><u>Top 5 Affordable Gaming Mice & Keyboards $99+ for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zipped-texts-to-subtitles-converting-files-in-a-flash/"><u>Zipped Texts to Subtitles Converting Files in a Flash</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pros-with-a-purpose-discover-the-best-5-videographers-and-audio-connoisseurs/"><u>[New] Pros with a Purpose Discover the Best 5 Videographers & Audio Connoisseurs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-incor-written-by-sarah-johnson/"><u>[Updated] Advanced Techniques for Incor Written By Sarah Johnson</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-gauge-if-an-mcn-is-right-for-your-youtube-journey/"><u>[Updated] In 2024, How to Gauge if an MCN Is Right for Your YouTube Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apex-audio-streamer-androids-choice/"><u>Apex Audio Streamer, Android's Choice</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/discover-the-top-10-platforms-offering-free-online-movie-viewing-instantly/"><u>Discover the Top 10 Platforms Offering Free Online Movie Viewing Instantly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellent-backdrops-setting-the-stage-for-streaming/"><u>Excellent Backdrops Setting the Stage for Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-does-a-whole-sphere-video-work/"><u>How Does a Whole-Sphere Video Work?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inspiration-unleashed-list-of-10-motivating-flicks/"><u>Inspiration Unleashed List of 10 Motivating Flicks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laughter-on-the-go-iphones/"><u>Laughter on the Go (iPhones)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-streaming-is-sub4sub-effective-for-2024/"><u>Maximizing Streaming Is Sub4Sub Effective for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-enhance-your-iphones-cellular-connectivity-top-10-tips/"><u>Troubleshoot and Enhance Your iPhone’s Cellular Connectivity – Top 10 Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-chart-watcher-rank-tracking-of-youtube-videos-for-2024/"><u>Ultimate Chart Watcher Rank Tracking of YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-visuals-unveiling-the-best-5-color-graded-screens/"><u>Visionary Visuals Unveiling the Best 5 Color-Graded Screens</u></a></li>
 </ul></div>
 

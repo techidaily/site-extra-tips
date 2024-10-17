@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2024-10-09T19:18:48.111Z
-updated: 2024-10-10T16:35:19.189Z
+date: 2024-10-15T20:14:32.232Z
+updated: 2024-10-17T00:50:23.242Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,10 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -91,10 +91,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -114,10 +114,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -129,10 +129,16 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -150,22 +156,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-guide-to-initiate-video-calls-using-whatsapp-web-for-laptops/"><u>[New] 2024 Approved Expert Guide to Initiate Video Calls Using WhatsApp Web for Laptops</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-through-instagrams-new-trends/"><u>[New] 2024 Approved Navigating Through Instagram's New Trends</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>[New] Color Perfection The Essential List of Best LUTs for LightRoom Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-engineering-endgame-echoes-for-2024/"><u>[New] Engineering Endgame Echoes for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[New] In 2024, Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-secrets-to-capturing-engaging-and-dynamic-presentations/"><u>[New] Secrets to Capturing Engaging and Dynamic Presentations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-if-sns-hdr-deserves-your-investment-time/"><u>2024 Approved Assessing If SNS HDR Deserves Your Investment Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-balancing-work-and-leisure-enhancing-podcast-listening/"><u>2024 Approved Balancing Work and Leisure Enhancing Podcast Listening</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-the-big-one-best-fishing-camers-ranked/"><u>2024 Approved Capture the Big One Best Fishing Camers Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/3-best-smartphones-for-recording-video/"><u>3 Best Smartphones for Recording Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-of-the-best-high-res-gaming-displays/"><u>Best of the Best High-Res Gaming Displays</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-diablo-gameplay-enthusiasts/"><u>Essential Tips for Diablo Gameplay Enthusiasts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-vob-videos-omzetten-naar-mpeg4mov-online-movavi/"><u>Gratis VOB-Video's Omzetten Naar MPEG4/MOV Online - Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-angles-shooting-vertical-smartphone-panos/"><u>Innovative Angles Shooting Vertical Smartphone Panos</u></a></li>
-<li><a href="https://discover-data.techidaily.com/step-by-step-guide-streaming-high-quality-audio-with-flac-files-on-your-iphone/"><u>Step-by-Step Guide: Streaming High-Quality Audio with FLAC Files on Your iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/voice-changing-methods-in-free-fire-for-2024/"><u>Voice Changing Methods in Free Fire for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-voice-recording-mastery-with-ipad-tools/"><u>[New] 2024 Approved Voice Recording Mastery with iPad Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-find-the-optimal-screen-capture-solutions-in-linux/"><u>[New] Find the Optimal Screen Capture Solutions in Linux</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[New] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>[Updated] Chic Characters Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-guide-to-optimizing-your-picsart-experience/"><u>[Updated] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapshot-sophistication-editing-to-dazzle/"><u>[Updated] Snapshot Sophistication Editing to Dazzle</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visual-guide-to-building-believable-characters-in-virtual-space-for-2024/"><u>A Visual Guide to Building Believable Characters in Virtual Space for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/como-mejorar-la-entrega-de-notificaciones-por-email/"><u>Cómo Mejorar La Entrega De Notificaciones Por Email</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-scrutiny-of-elite-parrot-ar-20-for-2024/"><u>Comprehensive Scrutiny of Elite Parrot AR 2.0 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-virtual-reality-lgs-360-degree-experience/"><u>Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/forget-not-fundamental-cinematography-for-aspiring-directors/"><u>Forget Not Fundamental Cinematography for Aspiring Directors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-lava-blaze-curve-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Lava Blaze Curve 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-srt-editing-a-comprehensive-mac-guide/"><u>Mastering SRT Editing A Comprehensive Mac Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-fixing-the-crash-bug-in-manor-lords/"><u>Optimize Your Gaming Experience: Fixing the Crash Bug in Manor Lords</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tricks-to-ensure-stable-iphone-cinematography/"><u>Tricks to Ensure Stable iPhone Cinematography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-gt-5-240w-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme GT 5 (240W)? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
