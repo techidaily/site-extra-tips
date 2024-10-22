@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-10-11T16:52:32.937Z
-updated: 2024-10-16T20:17:17.389Z
+date: 2024-10-15T20:49:58.686Z
+updated: 2024-10-22T18:32:51.719Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,24 +73,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,22 +120,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ace-the-art-of-game-recordings-in-windows-11/"><u>[New] Ace the Art of Game Recordings in Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-adjusting-your-macs-snapshot-formats-with-ease-for-2024/"><u>[New] Adjusting Your Mac's Snapshot Formats with Ease for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-starting-with-social-giving-best-practices-for-fb-posts/"><u>[New] Starting with Social Giving Best Practices for FB Posts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-gamers-manual-to-top-frame-rate-enhancers/"><u>[Updated] A Gamer's Manual to Top Frame Rate Enhancers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-power-of-gopro-burst-mode/"><u>[Updated] Exploring the Power of GoPro Burst Mode</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conduct-your-clicks-harmonize-images-and-sounds/"><u>2024 Approved Conduct Your Clicks Harmonize Images & Sounds</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-s24plus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy S24+</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-abyss-underwater-video-tips-using-a-gopro-camera/"><u>Exploring Abyss Underwater Video Tips Using a GoPro Camera</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-htc-u23-pro-phone-by-drfone-android/"><u>How to Reset a Locked HTC U23 Pro Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-samsung-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Samsung ?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-video-zoom-editing-cutting-edge-tools-listed/"><u>Pro Video Zoom Editing Cutting Edge Tools Listed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shoes-for-virtual-ground-leading-treadmill-insights/"><u>Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-professionals-selection-top-5-drones-ranked/"><u>The Professionals' Selection Top 5 Drones Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-drawing-apps-for-android-unleash-your-inner-artist/"><u>Top 10 Drawing Apps for Android Unleash Your Inner Artist</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-17-tools-for-seamless-image-border-extraction/"><u>Top 17 Tools for Seamless Image Border Extraction</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-featured-list-of-best-sounding-pop-melodies-and-lyrics-for-video-production/"><u>Updated In 2024, Featured List of Best-Sounding Pop Melodies and Lyrics for Video Production</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wallet-friendly-cloud-cabinetry-big-files-cheap-storage/"><u>Wallet-Friendly Cloud Cabinetry Big Files Cheap Storage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-aplus-game-streaming-tech-reviews/"><u>[New] A+ Game Streaming Tech Reviews</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[New] Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-celebrating-creativity-otu-samples-freepaid/"><u>[New] Celebrating Creativity OTU Samples (Free/Paid)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-five-fantastic-iphones-for-podcast-fans/"><u>[New] Five Fantastic iPhones for Podcast Fans</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-11-best-online-facebook-cover-photo-makers/"><u>[New] Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>[Updated] A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-android-users-ultimate-selection-top-10-fb-video-extractor-tools/"><u>[Updated] Android Users' Ultimate Selection Top 10 FB Video Extractor Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-demystifying-virtual-reality-headsets-explained/"><u>2024 Approved Demystifying Virtual Reality Headsets Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparing-hero4-and-hero5-capabilities/"><u>Comparing Hero4 and Hero5 Capabilities</u></a></li>
+<li><a href="https://driver-install.techidaily.com/connect-your-usb-to-wifi-directly-with-ethernet/"><u>Connect Your USB to WiFi Directly with Ethernet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/orchestrate-online-albums-photos-pair-with-songs/"><u>Orchestrate Online Albums Photos Pair With Songs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/popular-imagery-origins-decoded/"><u>Popular Imagery Origins Decoded</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-hdr-phenomenon-in-digital-photography/"><u>Quantum HDR Phenomenon in Digital Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rise-to-greatness-with-these-10-elevating-films/"><u>Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-power-of-openness-and-speed-a-comprehensive-review-of-two-trees-sk1-architecture/"><u>The Power of Openness and Speed: A Comprehensive Review of Two Trees SK1 Architecture</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-discover-the-best-free-wmv-video-editing-solutions-for-2024/"><u>Updated Discover the Best Free WMV Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/webcasts-on-demand-a-straightforward-recording-technique/"><u>Webcasts On Demand A Straightforward Recording Technique</u></a></li>
 </ul></div>
 

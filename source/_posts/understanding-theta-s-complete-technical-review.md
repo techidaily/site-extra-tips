@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2024-10-15T20:14:32.232Z
-updated: 2024-10-17T00:50:23.242Z
+date: 2024-10-16T17:52:27.465Z
+updated: 2024-10-22T22:18:00.770Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,10 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -91,10 +91,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -114,10 +114,16 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -129,16 +135,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -156,24 +156,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-voice-recording-mastery-with-ipad-tools/"><u>[New] 2024 Approved Voice Recording Mastery with iPad Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-find-the-optimal-screen-capture-solutions-in-linux/"><u>[New] Find the Optimal Screen Capture Solutions in Linux</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023/"><u>[New] The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chic-characters-enhancing-facial-photo-appeal-with-picsart-motion-blur/"><u>[Updated] Chic Characters Enhancing Facial Photo Appeal with Picsart Motion Blur</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-complete-guide-to-optimizing-your-picsart-experience/"><u>[Updated] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-snapshot-sophistication-editing-to-dazzle/"><u>[Updated] Snapshot Sophistication Editing to Dazzle</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-visual-guide-to-building-believable-characters-in-virtual-space-for-2024/"><u>A Visual Guide to Building Believable Characters in Virtual Space for 2024</u></a></li>
-<li><a href="https://win-community.techidaily.com/como-mejorar-la-entrega-de-notificaciones-por-email/"><u>Cómo Mejorar La Entrega De Notificaciones Por Email</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-scrutiny-of-elite-parrot-ar-20-for-2024/"><u>Comprehensive Scrutiny of Elite Parrot AR 2.0 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-virtual-reality-lgs-360-degree-experience/"><u>Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/forget-not-fundamental-cinematography-for-aspiring-directors/"><u>Forget Not Fundamental Cinematography for Aspiring Directors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-lava-blaze-curve-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Lava Blaze Curve 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-srt-editing-a-comprehensive-mac-guide/"><u>Mastering SRT Editing A Comprehensive Mac Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-fixing-the-crash-bug-in-manor-lords/"><u>Optimize Your Gaming Experience: Fixing the Crash Bug in Manor Lords</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tricks-to-ensure-stable-iphone-cinematography/"><u>Tricks to Ensure Stable iPhone Cinematography</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-gt-5-240w-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme GT 5 (240W)? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-editing-made-easy-shortening-video-lengths/"><u>[New] YouTube Editing Made Easy Shortening Video Lengths</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-mastery-spotting-unique-audience-groups/"><u>[New] Youtube Mastery Spotting Unique Audience Groups</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-core-tenets-of-narrative-construction/"><u>[Updated] Core Tenets of Narrative Construction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-lag-expert-advice-on-optimizing-fps-and-reducing-stutter-in-new-world/"><u>Eliminate Lag: Expert Advice on Optimizing FPS and Reducing Stutter in New World</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fast-and-reliable-intel-usb-30-drivers-for-windows-10-users-start-here/"><u>Fast & Reliable Intel USB 3.0 Drivers for Windows 10 Users – Start Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedom-in-the-digital-age-leaving-chatgpt-behind/"><u>Freedom in the Digital Age - Leaving ChatGPT Behind</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-textbooks-to-tech-how-students-can-score-big-savings-on-lenovo-devices/"><u>From Textbooks to Tech: How Students Can Score Big Savings on Lenovo Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/love-and-light-nine-essential-filmora-elements/"><u>Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photographic-albums-with-soundscape-features/"><u>Photographic Albums with Soundscape Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smile-station-quick-tips-for-chuckling-creations/"><u>Smile Station Quick Tips for Chuckling Creations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superb-simple-countdown-apps-for-free/"><u>Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-cinematic-journey-crafting-youtube-trailers-in-filmora/"><u>The Cinematic Journey Crafting YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-leading-photography-watermarkers-ranked/"><u>The Leading Photography Watermarkers Ranked</u></a></li>
 </ul></div>
 
