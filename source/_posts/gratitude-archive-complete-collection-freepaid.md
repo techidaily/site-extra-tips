@@ -1,7 +1,7 @@
 ---
 title: "\"Gratitude Archive  Complete Collection (Free/Paid)\""
-date: 2024-10-20T18:29:02.091Z
-updated: 2024-10-22T17:24:52.957Z
+date: 2024-10-21T17:10:55.645Z
+updated: 2024-10-28T17:09:54.290Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ A Quick Guide:
 4. [InVideo](#part1-4)
 5. [WoFox](#part1-5)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pinterest
 
 [Pinterest](https://in.pinterest.com/pin/679832506246229622/) is a fantastic platform for businesses and individuals alike, and thanks to its free templates, it's easy to add a professional-looking outro for a podcast or YouTube video.
@@ -52,10 +45,10 @@ However, the templates are not editable, and you will need software like Filmora
 ![pinterest thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/pinterest-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Vecteezy
@@ -66,13 +59,6 @@ As you create more and more videos, you'll want to find ways to make them stand 
 
 ![vecteezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/vecteezy-thanks-for-watching-templates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Snappa
 
 There are a variety of free templates that you can use for your **thanks for watching outros** on [Snappa](https://snappa.com/templates/youtube-end-screen?afmc=2qs), resulting in a professional and polished look for your channel.
@@ -82,6 +68,13 @@ With Snappa, you can create professional-looking outros in just a few clicks. Si
 You can customize the fonts, colors, and images to match your brand and add your own text to personalize the message on the templates. This will help you end your videos on a positive note and leave a lasting impression on your viewers.
 
 ![snappa thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/snappa-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### InVideo
 
@@ -109,6 +102,19 @@ A Quick Guide:
 2. [Videezy](#part2-2)
 3. [Placeit](#part2-3)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### iStock
 
 [iStock](https://www.istockphoto.com/search/2/film?phrase=thanks%20for%20watching%20outro) is an excellent resource for finding high-quality, paid **thanks for watching outro** templates. With a wide variety of options to choose from, it is easy to find the perfect template to match your channel's style.
@@ -116,6 +122,20 @@ A Quick Guide:
 You can purchase a template for **$0.22–$9.90/image or $14.90/video** and can integrate it into your videos using some other video editing software programs.
 
 ![istock thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/istock-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Videezy
 
@@ -126,10 +146,10 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 ![videezy thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/videezy-thanks-for-watching-templates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Placeit
@@ -139,6 +159,13 @@ The subscription pricing starts at **$19/file**, and it's definitely worth it fo
 The subscription plan offers two options: buy a template for **$2.95** or get an unlimited subscription for **$7.47** per month.
 
 ![placeit thanks for watching templates](https://images.wondershare.com/filmora/article-images/2022/11/placeit-thanks-for-watching-templates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. A Bonus Tip: How To Edit YouTube Outro?
 
@@ -152,21 +179,7 @@ Filmora is a powerful and easy-to-use video editor that has everything you need 
 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Video Tutorial - How to Make a YouTube Outro
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -179,20 +192,13 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 And to use Filmora making your outro without hassle, please watch this tutorial video below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Video Tutorial - How to Make a YouTube Outro
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -224,24 +230,16 @@ We hope you found this guide helpful in finding the right **Thanks for Watching 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-top-tier-grids-transforming-trivial-images-into-treasures/"><u>[New] 2024 Approved Top-Tier Grids Transforming Trivial Images Into Treasures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-an-intro-to-digital-realms-vr-simplified/"><u>[New] An Intro to Digital Realms VR Simplified</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-8-stability-tools-for-high-definition-cameras/"><u>[New] Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>[New] Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-expert-insights-into-synchronizing-desktops-in-google-meet/"><u>[New] In 2024, Expert Insights Into Synchronizing Desktops in Google Meet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-behind-the-curtain-the-hidden-costs-of-vr/"><u>[Updated] Behind the Curtain The Hidden Costs of VR</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[Updated] LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-transform-your-farm-with-stardews-most-innovative-mods-7-best-for-2024/"><u>[Updated] Transform Your Farm with Stardew's Most Innovative Mods (7 Best) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-viewers-adding-animation-to-instagram-text/"><u>2024 Approved Captivate Viewers Adding Animation to Instagram Text</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/awaken-your-inner-warrior-with-these-films-for-2024/"><u>Awaken Your Inner Warrior with These Films for 2024</u></a></li>
-<li><a href="https://techidaily.com/can-electric-cars-pose-risks-when-stuck-in-gridlock-situations/"><u>Can Electric Cars Pose Risks When Stuck in Gridlock Situations?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/effortless-transfer-tactics-harnessing-the-full-potential-of-files-on-windows-server-2019/"><u>Effortless Transfer Tactics: Harnessing the Full Potential of Files on Windows Server 2019</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-social-presence-the-ultimate-twitter-video-toolkit/"><u>Elevate Your Social Presence The Ultimate Twitter Video Toolkit</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-how-to-make-animation-talk-explained-with-easy-steps/"><u>New In 2024, How To Make Animation Talk? Explained with Easy Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-unlocked-potential-of-new-windows-11/"><u>The Unlocked Potential of New Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/timecodes-and-text-transformation-pro-level-srt-tutorials-for-macos/"><u>Timecodes & Text Transformation Pro-Level SRT Tutorials for macOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-common-errors-in-crafting-chatgpt-prompts-tips-to-steer-clear/"><u>Top 6 Common Errors in Crafting ChatGPT Prompts: Tips to Steer Clear</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-optimal-income-mastering-youtube-channel-profitability-on-mobile/"><u>[New] Optimal Income Mastering YouTube Channel Profitability on Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-beginners-blueprint-for-bolstering-youtube-believers-for-2024/"><u>A Beginner's Blueprint for Bolstering YouTube Believers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-contenders-navigating-cpu-wars-in-gaming/"><u>Core Contenders: Navigating CPU Wars in Gaming?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/economical-360-degree-video-cameras-elevating-creativity/"><u>Economical 360 Degree Video Cameras Elevating Creativity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-sound-selection-superior-downloads/"><u>Elite Sound Selection Superior Downloads</u></a></li>
+<li><a href="https://discover-help.techidaily.com/gerer-les-sauvegardes-de-fichiers-en-cas-dechec-du-demarrage-de-windows-astuces-rapides-et-efficaces/"><u>Gérer Les Sauvegardes De Fichiers en Cas D'échec Du Démarrage De Windows : Astuces Rapides Et Efficaces</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aging-yt-playlist-features-for-site-enhancement/"><u>Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-website-access-issues-in-google-chrome-tips-and-tricks/"><u>Resolving Website Access Issues in Google Chrome – Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seeking-visual-vintage-free-art-archives-online/"><u>Seeking Visual Vintage Free Art Archives Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-finest-budget-friendly-photo-processors-online/"><u>The Finest Budget-Friendly Photo Processors Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-tune-master-app-for-android/"><u>Ultimate Tune Master App for Android</u></a></li>
 </ul></div>
 

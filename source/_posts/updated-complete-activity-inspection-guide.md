@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Complete Activity Inspection Guide"
-date: 2024-10-20T18:03:53.138Z
-updated: 2024-10-22T21:32:36.134Z
+date: 2024-10-21T16:30:03.846Z
+updated: 2024-10-28T16:02:59.679Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ Being the first motion graphics app, Alight Motion has not just set a high stand
 
 **Download: [Android](http://https/play.google.com/store/apps/details?id=com.alightcreative.motion&hl=en%5FUS&gl=US) and [IOS](http://https/apps.apple.com/us/app/alight-motion/id1459833443)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Key Features of the Alight Motion App
 
 ### **1\. 4K 60fps support**
@@ -64,13 +57,6 @@ This feature allows users to separate a video into multiple layers and also edit
 ### **3\. Vector and Bitmap Support**
 
 You can import vector graphics while using the Alight Motion App. This is one amazing feature that sets this app apart from other video editing apps. It also supports vector drawing.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Wide Range of Video Ratios**
 
@@ -92,13 +78,6 @@ On the Alight Motion editing app, you can find not just 10 or 20 amazing element
 
 Get to know the Alight Motion editing app more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Download
 
 First things first, head straight to your Google play store app (for Android users) or apple store (for iOS users) and download the Alight Motion App. It will take you less than 180 megabytes to download.
@@ -112,6 +91,13 @@ Open it once you've finished downloading and installing it. It will open to a ho
 Once you have successfully gotten on the home page the next action is to import the image or graphics you want to edit. Click on the **plus (+)** button, it will take you to a page where you get to choose the resolution type, frame rate, and background color you want for your video. Click the **"Create Project"** button when you are done with your changes.
 
 ![import](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Select any image or video and carry on. On this page, you can also select a shape, audio, object, element, freehand drawing, vector drawing, and text.
 
@@ -127,13 +113,6 @@ You can also add slow motion and fast motion effects to your videos. This is one
 
 ![editing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add Text
 
 You can add text to your videos, and graphics. Alight motion has over 2000 fonts for you to play with however if you have special fonts you did like to use that are not on the list, you can import them. Alight motion allows you to import customize fonts. You can also add colors to your text.
@@ -146,6 +125,13 @@ You can draw amazing shapes using the alight motion freehand drawing tool. There
 
 ![freehand and vector drawing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Export
 
 Exporting your work from alight motion is quite easy. You can export files in all of these formats GIFs, MP4, , , and PNG Sequence. These features eliminate almost every possibility of converting your file to the required format after exporting.
@@ -153,6 +139,13 @@ Exporting your work from alight motion is quite easy. You can export files in al
 ### Subscription
 
 The alight motion app also comes with premium features. Although you create just the amazing and unique video you desire, there are still features you can only access when you subscribe for it. You can't access some new effects and creative sharing features on the free version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Advantages and Disadvantages of Alight Motion App
 
@@ -170,6 +163,13 @@ According to our practical experience above, we can sort out the advantages and 
 
 **Android and IOS Support:** you can use this app on android and IOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disadvantages
 
 **Advertisement Pop-Up (Free Version):** advertisement may pop up when using the alight motion app free version
@@ -181,6 +181,13 @@ According to our practical experience above, we can sort out the advantages and 
 Some video editors prefer using desktop video editors because they can use multiple hard drives on it. High-definition footage requires a large amount of space that a smartphone can't offer. If a hard drive gets filled, you can change it with little or no interruption to your work.
 
 If you don't want alight motion and you want to add motion to your videos, you can try its alternative [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Filmora is a simple, entry-level desktop video editor. It has a lot of editing features that can help you create high-standard videos. You can use a few videos to create a video, edit the video audio, add filters, crop, and trim them all on Filmora.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to Add Motion to your Video with Filmora?**
 
@@ -212,19 +219,6 @@ Being the first motion graphics app, Alight Motion has not just set a high stand
 
 **Download: [Android](http://https/play.google.com/store/apps/details?id=com.alightcreative.motion&hl=en%5FUS&gl=US) and [IOS](http://https/apps.apple.com/us/app/alight-motion/id1459833443)**
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Key Features of the Alight Motion App
 
 ### **1\. 4K 60fps support**
@@ -251,20 +245,27 @@ If you have come across a video editor app that exports videos in one format esp
 
 If you have a special element or font size that you want to add to your videos or graphics, you can do it with just a few clicks.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **7\. Hundreds of Effects and Elements**
 
 On the Alight Motion editing app, you can find not just 10 or 20 amazing elements but over a hundred of them. Just as the wise saying confirms " Variety is the sweetness of life " Alight Motion has made varieties of elements and effects available for its users to achieve their video and graphic editing goals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. How To Use Alight Motion App
 
 Get to know the Alight Motion editing app more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Download
 
@@ -273,6 +274,13 @@ First things first, head straight to your Google play store app (for Android use
 Open it once you've finished downloading and installing it. It will open to a home page similar to the one in the image below.
 
 ![download](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import
 
@@ -300,25 +308,11 @@ You can add text to your videos, and graphics. Alight motion has over 2000 fonts
 
 ![add text](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Freehand and Vector Drawing
 
 You can draw amazing shapes using the alight motion freehand drawing tool. There is a color wheel, an adjustable brush, eraser, etc. available to you. The alight motion also supports vector drawing.
 
 ![freehand and vector drawing](https://images.wondershare.com/filmora/article-images/2022/09/alight-motion-app-review-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Export
 
@@ -396,16 +390,19 @@ Alight Motion editing app has lived up to the expectation of being the first mot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-exploring-best-video-grabbers-for-win11/"><u>[New] 2024 Approved Exploring Best Video Grabbers for Win11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-compute-aspect-variety-from-anywhere/"><u>[Updated] Compute Aspect Variety From Anywhere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-photo-editor-showdown-can-pickup-claim-victory-for-2024/"><u>Android's Photo Editor Showdown Can PickUp Claim Victory for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androidiphone-the-best-selection-of-free-overlays-for-image-enhancement-for-2024/"><u>Android/iPhone The Best Selection of Free Overlays for Image Enhancement for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-130-music-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia 130 Music to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/creating-seamless-split-screen-visuals-on-sierra-systems/"><u>Creating Seamless Split-Screen Visuals on Sierra Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmony-in-sounds-legally-downloaded-meditation-chants-and-more/"><u>Harmony in Sounds Legally Downloaded Meditation Chants & More</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-create-meme-with-kinemaster-for-2024/"><u>How to Create Meme with KineMaster for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-features-of-the-synology-rt2600ac-wireless-router-stellar-range-and-robust-parental-control-options-explored/"><u>Innovative Features of the Synology RT2600ac Wireless Router - Stellar Range and Robust Parental Control Options Explored</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-narzo-60x-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme Narzo 60x 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-and-zoom-the-essence-of-videography-heres-how/"><u>[New] Capture and Zoom the Essence of Videography, Here's How</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-filters-through-windows-10-photos-extracting-picture-moments/"><u>[New] Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-outwit-facebook-vids-ad-blocking-basics-for-2024/"><u>[New] Outwit Facebook Vids Ad-Blocking Basics for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-zoom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[Updated] In 2024, Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860795098-2024-approved-capture-and-share-your-mac-life-free/"><u>2024 Approved Capture & Share Your Mac Life, FREE!</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accessible-and-quality-the-best-10-online-passport-photo-tools-revealed-for-2024/"><u>Accessible & Quality The Best 10 Online Passport Photo Tools Revealed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dissecting-magixs-visual-archiving-system/"><u>Dissecting MAGIX's Visual Archiving System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/finding-the-best-meme-ideas-to-create-viral-content/"><u>Finding the Best Meme Ideas to Create Viral Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>In 2024, Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-compelling-iphone-photo-and-video-applications-87x/"><u>In 2024, Compelling iPhone Photo & Video Applications (8/7/X)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-split-screens-top-video-apps-for-iphone-and-android/"><u>New In 2024, Create Stunning Split Screens Top Video Apps for iPhone and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/standards-of-conduct-reporting-actions-on-xbox-series-xs/"><u>Standards of Conduct: Reporting Actions on Xbox Series X|S</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-facetune-your-complete-2024-guidebook/"><u>Step-by-Step Facetune Your Complete 2024 Guidebook</u></a></li>
 </ul></div>
 

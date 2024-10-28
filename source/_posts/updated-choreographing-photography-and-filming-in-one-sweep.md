@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Choreographing Photography and Filming in One Sweep"
-date: 2024-10-14T22:21:08.344Z
-updated: 2024-10-16T18:54:12.350Z
+date: 2024-10-21T16:40:57.071Z
+updated: 2024-10-28T17:06:02.923Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The drawbacks of taking photos and videos simultaneously
@@ -66,28 +72,15 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 | **iPhone 6S series** | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why Choose Wondershare Filmora?
@@ -101,13 +94,20 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -124,21 +124,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-accelerated-image-viewer-in-windows-environment/"><u>[New] Accelerated Image Viewer in Windows Environment</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-securely-recording-android-tips-and-tricks/"><u>[New] In 2024, Securely Recording Android Tips and Tricks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-list-of-engaging-history-content-on-youtube/"><u>[New] The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-inside-insights-proclaiming-rights-to-free-clip-art-legally/"><u>[Updated] Inside Insights Proclaiming Rights to Free Clip Art Legally</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-x6-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find X6 Pro FRP</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-smooth-narrative-flow-mastering-inshots-seamless-segments-for-2024/"><u>A Smooth Narrative Flow Mastering Inshot's Seamless Segments for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridging-communication-gaps-utilizing-zoom-with-gmail-mail/"><u>Bridging Communication Gaps Utilizing Zoom with Gmail Mail</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chart-topping-storytellers-to-follow-on-youtube-this-year-for-2024/"><u>Chart-Topping Storytellers to Follow on YouTube This Year for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cloud-savings-showdown-top-2024-stores-compared/"><u>Cloud Savings Showdown Top 2024 Stores Compared</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-high-definition-smarts-sony-xperia-xz-reviewed/"><u>Discovering High-Definition Smarts Sony Xperia XZ Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-gripping-real-life-cases-in-our-selection-of-the-best-13-true-crime-podcasts/"><u>Explore Gripping Real-Life Cases in Our Selection of the Best 13 True Crime Podcasts</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-shooting-stunning-timelapse-videos-on-black-hero5/"><u>In 2024, Step by Step Shooting Stunning Timelapse Videos on Black Hero5</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y78-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y78 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-distances-with-easy-to-use-xbox-zooming/"><u>[New] Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevating-your-digital-presence-best-vocal-tweakers-for-vtubers/"><u>[New] Elevating Your Digital Presence Best Vocal Tweakers for VTubers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[New] Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sculpt-satirical-scenes-with-giphy/"><u>[New] Sculpt Satirical Scenes with Giphy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-bridging-social-spheres-transferring-tweets-to-whatsapp-directly/"><u>[Updated] Bridging Social Spheres Transferring Tweets to WhatsApp Directly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-clearing-the-vision-zoom-mastery-for-intimate-online-gatherings/"><u>[Updated] Clearing the Vision Zoom Mastery for Intimate Online Gatherings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastery-in-music-selection-enhancing-video-packages/"><u>[Updated] In 2024, Mastery in Music Selection Enhancing Video Packages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>[Updated] Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-online-workshop-replay/"><u>2024 Approved Online Workshop Replay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-top-5-best-microphones-for-4k-camera/"><u>2024 Approved Top 5 Best Microphones for 4K Camera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-life-to-stills-motion-blur-technique-for-2024/"><u>Bring Life to Stills Motion Blur Technique for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-collaboration-the-seamless-merge-of-zoom-and-gmail/"><u>Enhancing Collaboration The Seamless Merge of Zoom & Gmail</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lars-crafting-multimedia-narratives-with-images-and-melody-for-2024/"><u>Exemplars Crafting Multimedia Narratives with Images & Melody for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/friendship-in-folded-space-top-vr-games/"><u>Friendship in Folded Space Top VR Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>In 2024, Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-canon-driver-installation-and-updates-on-windows/"><u>Simple Guide: Canon Driver Installation and Updates on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-local-secrets-in-croatia-with-these-crucial-phrases-and-expressions/"><u>Unlock Local Secrets in Croatia with These Crucial Phrases and Expressions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionupgrade-pro-universal-platform-edition/"><u>VisionUpgrade Pro – Universal Platform Edition</u></a></li>
 </ul></div>
 

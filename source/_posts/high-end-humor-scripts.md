@@ -1,7 +1,7 @@
 ---
 title: "\"High-End Humor Scripts\""
-date: 2024-10-13T16:53:37.654Z
-updated: 2024-10-16T23:25:51.208Z
+date: 2024-10-21T17:26:57.168Z
+updated: 2024-10-28T16:46:16.755Z
 tags: 
   - screen-recording
   - ai video
@@ -34,13 +34,6 @@ You get 110 animated elements that you can apply to the text in your video. The 
 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Dynamic Text Animations
 
 There is always a high demand for dynamic text animations in After Effects. This pack focuses on three types of animations namely bounce, kinetic and overshoot. You get 50 presets, 20 title scenes as well as 10 different typography scenes. You can animate texts, titles, as well as characters. You can even adjust the properties to match your video content as per your requirements. In fact, there are advanced controls available for further customization.
@@ -48,10 +41,23 @@ There is always a high demand for dynamic text animations in After Effects. This
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Squash & Stretch Preset
@@ -59,6 +65,13 @@ There is always a high demand for dynamic text animations in After Effects. This
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
 
@@ -72,6 +85,13 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Kinetic Text Animation
 
 Kinetic text effect is a part of dynamic text effects and there is a high demand for kinetic text animation. In this pack, you get 56 text animations and all the effects have full HD resolution. The effect will literally transform your video content and help you to get a proper branding on the video. There are different types of animations available and you videos will not look boring by any chance.
@@ -79,17 +99,10 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -97,13 +110,6 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
 
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -139,16 +145,21 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-accelerate-your-media-top-8-android-picks/"><u>[Updated] Accelerate Your Media Top 8 Android Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-an-ultimate-overview-of-polarr-photo-editor/"><u>[Updated] An Ultimate Overview of Polarr Photo Editor</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unleash-your-potential-top-8-tablets-for-stellar-photo-editing-for-2024/"><u>[Updated] Unleash Your Potential Top 8 Tablets For Stellar Photo Editing for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ascend-to-million-view-milestone-with-this-guide/"><u>2024 Approved Ascend to Million View Milestone with This Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-overview-dji-inspire-2-for-2024/"><u>Comprehensive Overview - DJI Inspire 2 for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-tips-for-crafting-gifs/"><u>Essential Tips for Crafting GIFs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-how-to-record-your-desktop-with-filmora-scrn/"><u>New How to Record Your Desktop with Filmora Scrn?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-clearer-visuals-with-iphone-video-focus/"><u>Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-edit-flv-files-with-ease-top-windows-8-video-editor-for-2024/"><u>Updated Edit FLV Files with Ease Top Windows 8 Video Editor for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/white-walkers-whistle-where-to-find-your-favorite-got-ringtone/"><u>White Walkers Whistle Where to Find Your Favorite GoT Ringtone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>[Updated] Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-review-for-parrot-ar-drone-20-elite-edition/"><u>2024 Approved Review for Parrot AR Drone 2.0 Elite Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-final-word-on-powerdirector-a-complete-review/"><u>2024 Approved The Final Word on PowerDirector A Complete Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-fix-guide-overcoming-the-challenge-of-error-code-0x80072f8f-in-windows-operating-systems/"><u>Complete Fix Guide: Overcoming the Challenge of Error Code 0X80072F8F in Windows Operating Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-lineup-of-vr-bicycle-experiences/"><u>Elite Lineup of VR Bicycle Experiences</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-pop-8-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Pop 8 Face Lock?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highest-qp-for-gradual-video-playback/"><u>Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-plus-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Plus With 7 Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-game-streaming-software-you-should-know/"><u>In 2024, Best Game Streaming Software You Should Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-netflix-recording-mac-edition-6-essential-steps/"><u>Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-video-conferencing-combining-the-power-of-zoom-and-skype/"><u>Mastering Video Conferencing Combining the Power of ZOOM & SKYPE</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-6-essential-video-dubbing-tools-for-pc-users-free-and-paid-for-2024/"><u>Updated 6 Essential Video Dubbing Tools for PC Users - Free and Paid for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-6-best-free-online-audio-editor-to-use-100-free/"><u>Updated Top 6 Best Free Online Audio Editor to Use (100 Free)</u></a></li>
 </ul></div>
 

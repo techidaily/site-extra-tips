@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting the Future's Past  Digital Conversion for Timeless Images\""
-date: 2024-07-27T11:24:52.089Z
-updated: 2024-07-28T11:24:52.089Z
+date: 2024-10-23T16:10:36.899Z
+updated: 2024-10-28T16:24:51.050Z
 tags: 
   - screen-recording
   - ai video
@@ -20,484 +20,7 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 # How to Digitize Your Old Photos and Turn Them into Impressive Videos
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
-
-Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
-
-* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
-* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
-* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
-## 4 Smart Ways to Digitize Your Memorable Old Photos
-
-With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
-
-#### 1\. Use your Smartphones or Digital Cameras
-
-This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
-
-Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
-
-#### 2\. Use a Scanner
-
-If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
-
-Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
-
-#### 3\. Use a Photo Scanner App
-
-There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
-
-Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
-
-![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
-
-#### 4\. Get in Touch with a Professional
-
-In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
-
-## How to Convert Old Photos into a Video Effortlessly?
-
-By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
-
-To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
-
-* You can import tons of old photos to Filmora and further arrange their order in its timeline.
-* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
-* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
-* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
-* Filmora is freely available and would let you export your videos to different formats and resolutions.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to come up with an impressive video collage using Filmora, just follow these steps:
-
-#### 1\.  Import your digitized photos
-
-To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
-
-![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
-
-#### 2\. Create a timeline for your photos
-
-Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
-
-#### 3\. Edit the video
-
-Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
-
-![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
-
-#### 4\. Add effects, transitions, audio, and more
-
-As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
-
-![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
-![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
-
-Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
-
-![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
-
-#### 5\. Export your video
-
-That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
-
-![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-## More Editing Tips for Creating Memorable Videos
-
-To get better results while making your video collage, you can consider following these suggestions.
-
-#### 1\. Get high-quality pictures
-
-When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
-
-#### 2\. Maintain a timeline
-
-When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
-
-#### 3\. Don’t apply too many effects and transitions
-
-While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
-
-#### 4\. Insert suitable music
-
-The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
-
-Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5\. Use a reliable video editor
-
-Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
-
-Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
-
-* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
-* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
-* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 4 Smart Ways to Digitize Your Memorable Old Photos
-
-With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
-
-#### 1\. Use your Smartphones or Digital Cameras
-
-This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
-
-Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
-
-#### 2\. Use a Scanner
-
-If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
-
-Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
-
-#### 3\. Use a Photo Scanner App
-
-There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
-
-Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
-
-![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
-
-#### 4\. Get in Touch with a Professional
-
-In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
-
-## How to Convert Old Photos into a Video Effortlessly?
-
-By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
-
-To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
-
-* You can import tons of old photos to Filmora and further arrange their order in its timeline.
-* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
-* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
-* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
-* Filmora is freely available and would let you export your videos to different formats and resolutions.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to come up with an impressive video collage using Filmora, just follow these steps:
-
-#### 1\.  Import your digitized photos
-
-To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
-
-#### 2\. Create a timeline for your photos
-
-Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
-
-#### 3\. Edit the video
-
-Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
-
-#### 4\. Add effects, transitions, audio, and more
-
-As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
-
-![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
-
-Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
-
-![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
-
-#### 5\. Export your video
-
-That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## More Editing Tips for Creating Memorable Videos
-
-To get better results while making your video collage, you can consider following these suggestions.
-
-#### 1\. Get high-quality pictures
-
-When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
-
-#### 2\. Maintain a timeline
-
-When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
-
-#### 3\. Don’t apply too many effects and transitions
-
-While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
-
-#### 4\. Insert suitable music
-
-The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
-
-Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5\. Use a reliable video editor
-
-Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
-
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
-
-Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
-![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
-
-* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
-* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
-* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
-
-## 4 Smart Ways to Digitize Your Memorable Old Photos
-
-With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
-
-#### 1\. Use your Smartphones or Digital Cameras
-
-This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
-
-Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
-
-#### 2\. Use a Scanner
-
-If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
-
-Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
-
-#### 3\. Use a Photo Scanner App
-
-There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
-
-Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
-
-#### 4\. Get in Touch with a Professional
-
-In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
-## How to Convert Old Photos into a Video Effortlessly?
-
-By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
-
-To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
-
-* You can import tons of old photos to Filmora and further arrange their order in its timeline.
-* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
-* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
-* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
-* Filmora is freely available and would let you export your videos to different formats and resolutions.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-To learn how to come up with an impressive video collage using Filmora, just follow these steps:
-
-#### 1\.  Import your digitized photos
-
-To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
-
-![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
-
-#### 2\. Create a timeline for your photos
-
-Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
-
-#### 3\. Edit the video
-
-Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
-
-![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
-
-The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
-
-#### 4\. Add effects, transitions, audio, and more
-
-As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
-
-![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
-
-To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
-
-![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
-
-Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
-
-#### 5\. Export your video
-
-That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
-
-![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-## More Editing Tips for Creating Memorable Videos
-
-To get better results while making your video collage, you can consider following these suggestions.
-
-#### 1\. Get high-quality pictures
-
-When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
-
-#### 2\. Maintain a timeline
-
-When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
-
-#### 3\. Don’t apply too many effects and transitions
-
-While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
-
-#### 4\. Insert suitable music
-
-The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
-
-Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5\. Use a reliable video editor
-
-Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
 
 ##### Ollie Mattison
 
@@ -553,10 +76,20 @@ To convert your old photos into stunning videos, you can take the assistance of 
 * The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
 * Filmora is freely available and would let you export your videos to different formats and resolutions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
@@ -564,10 +97,6 @@ To learn how to come up with an impressive video collage using Filmora, just fol
 
 To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
 #### 2\. Create a timeline for your photos
@@ -588,73 +117,529 @@ The edit option will present tons of additional features that you can implement 
 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
-#### 5\. Export your video
-
-That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
-
-![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## More Editing Tips for Creating Memorable Videos
-
-To get better results while making your video collage, you can consider following these suggestions.
-
-#### 1\. Get high-quality pictures
-
-When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
-
-#### 2\. Maintain a timeline
-
-When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
-
-#### 3\. Don’t apply too many effects and transitions
-
-While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
-
-#### 4\. Insert suitable music
-
-The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
-
-Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### 5\. Use a reliable video editor
-
-Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+#### 5\. Export your video
+
+That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
+
+![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+## More Editing Tips for Creating Memorable Videos
+
+To get better results while making your video collage, you can consider following these suggestions.
+
+#### 1\. Get high-quality pictures
+
+When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
+
+#### 2\. Maintain a timeline
+
+When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
+
+#### 3\. Don’t apply too many effects and transitions
+
+While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
+
+#### 4\. Insert suitable music
+
+The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
+
+Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5\. Use a reliable video editor
+
+Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
+
+Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
+
+* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
+* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
+* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
+
+## 4 Smart Ways to Digitize Your Memorable Old Photos
+
+With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
+
+#### 1\. Use your Smartphones or Digital Cameras
+
+This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
+
+Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
+
+#### 2\. Use a Scanner
+
+If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
+
+Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
+
+#### 3\. Use a Photo Scanner App
+
+There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
+
+Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
+
+![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
+
+#### 4\. Get in Touch with a Professional
+
+In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
+
+## How to Convert Old Photos into a Video Effortlessly?
+
+By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
+
+To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
+
+* You can import tons of old photos to Filmora and further arrange their order in its timeline.
+* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
+* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
+* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
+* Filmora is freely available and would let you export your videos to different formats and resolutions.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to come up with an impressive video collage using Filmora, just follow these steps:
+
+#### 1\.  Import your digitized photos
+
+To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
+
+![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 2\. Create a timeline for your photos
+
+Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
+
+![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+#### 3\. Edit the video
+
+Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
+
+![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
+
+#### 4\. Add effects, transitions, audio, and more
+
+As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
+
+![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
+
+![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
+
+Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
+
+![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+#### 5\. Export your video
+
+That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
+
+![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## More Editing Tips for Creating Memorable Videos
+
+To get better results while making your video collage, you can consider following these suggestions.
+
+#### 1\. Get high-quality pictures
+
+When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
+
+#### 2\. Maintain a timeline
+
+When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
+
+#### 3\. Don’t apply too many effects and transitions
+
+While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
+
+#### 4\. Insert suitable music
+
+The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
+
+Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5\. Use a reliable video editor
+
+Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
+
+Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
+
+* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
+* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
+* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
+
+## 4 Smart Ways to Digitize Your Memorable Old Photos
+
+With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
+
+#### 1\. Use your Smartphones or Digital Cameras
+
+This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
+
+Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
+
+#### 2\. Use a Scanner
+
+If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
+
+Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
+
+#### 3\. Use a Photo Scanner App
+
+There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
+
+Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
+
+![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
+
+#### 4\. Get in Touch with a Professional
+
+In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
+
+## How to Convert Old Photos into a Video Effortlessly?
+
+By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
+
+To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
+
+* You can import tons of old photos to Filmora and further arrange their order in its timeline.
+* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
+* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
+* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
+* Filmora is freely available and would let you export your videos to different formats and resolutions.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to come up with an impressive video collage using Filmora, just follow these steps:
+
+#### 1\.  Import your digitized photos
+
+To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
+
+![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
+
+#### 2\. Create a timeline for your photos
+
+Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
+
+![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 3\. Edit the video
+
+Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
+
+![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
+
+#### 4\. Add effects, transitions, audio, and more
+
+As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
+
+![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
+
+![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
+
+Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
+
+![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+#### 5\. Export your video
+
+That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
+
+![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+## More Editing Tips for Creating Memorable Videos
+
+To get better results while making your video collage, you can consider following these suggestions.
+
+#### 1\. Get high-quality pictures
+
+When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
+
+#### 2\. Maintain a timeline
+
+When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
+
+#### 3\. Don’t apply too many effects and transitions
+
+While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
+
+#### 4\. Insert suitable music
+
+The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
+
+Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5\. Use a reliable video editor
+
+Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+We all know that pictures have the magic to make some moments last forever. Though, if a picture has been taken a long time back, then it might lose its quality. A lot of people end up losing their precious photos due to all kinds of incidents.
+
+Therefore, it is highly recommended to digitize photos to make them lasting. In this way, you can make your photos last forever and keep them handy. In this post, I’m going to discuss some smart ways to **digitize photos** without any hassle. In another case, you may want to know [how to restore old photos in old devices.](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![Digitize Old Photos](https://images.wondershare.com/filmora/article-images/digitize-old-photos.jpg)
+
+* [Part 1: How to Digitize Your Memorable Old Photos](#part1)
+* [Part 2: How to Convert Old Photos into a Video with Ease?](#part2)
+* [Part 3: More Editing Tips for Creating Memorable Videos](#part3)
+
+## 4 Smart Ways to Digitize Your Memorable Old Photos
+
+With time, the way we capture moments has also been changed. These days, Polaroid cameras have been replaced by various smartphones and [4K DSLR cameras](https://tools.techidaily.com/wondershare/filmora/download/). Nevertheless, you can digitize your photos in either of the following ways so that you can convert them into softcopy and easily move them around.
+
+#### 1\. Use your Smartphones or Digital Cameras
+
+This is something that you might have thought of doing before as well. We all use smartphones to take pictures, but have you ever thought of using the device’s camera to scan your old photographs. The same can be done by using any digital camera too.
+
+Just make sure that you have proper lighting and all the pictures are organized. Now, just use your smartphone camera to take their pictures. Later, you can connect your phone (or its SD card) to your computer and transfer these scanned copies to any secure location. If you want, you can also upload your photos to the cloud to keep them safe.
+
+#### 2\. Use a Scanner
+
+If you have access to a scanner, then it would make it pretty easy for you to digitize photos. Most of the digital scanners won’t even cost that much. Therefore, if you have a lot of pictures to scan, then you can just buy a scanner. You can also find a scanner available at a nearby digital store that you can use on a per-copy basis.
+
+Once you have scanned your photos, you can transfer them to a pen drive or move them to any other device of your choice.
+
+#### 3\. Use a Photo Scanner App
+
+There are also tons of readily available apps that you can use on your Android or iOS devices to digitize photos. You can just go to the App Store or Play Store on your device to browse the available scanner apps (most of them are free).
+
+Some popular photo scanners that you can consider using are Scanner Pro, PhotoScan, ShoeBox, or PicScanner. Out of them, PhotoScan by Google is one of the most reliable options that I would recommend. It will help you easily scan your photos, edit them accordingly, and minimize their glare. You can also directly load your scanned pictures to your Google Photos account from here.
+
+![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
+
+#### 4\. Get in Touch with a Professional
+
+In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
+
+## How to Convert Old Photos into a Video Effortlessly?
+
+By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
+
+To convert your old photos into stunning videos, you can take the assistance of Filmora. Developed by Wondershare, Filmora features a wide range of editing tools and is extremely easy to use.
+
+* You can import tons of old photos to Filmora and further arrange their order in its timeline.
+* In Filmora, you will find inbuilt features to edit and customize your videos without any technical hassle.
+* There are hundreds of effects, filters, presets, stickers, layers, etc. that you can include in your videos with a few clicks.
+* The application would also let you add an audio track in the background from its library or by importing any audio of your choice.
+* Filmora is freely available and would let you export your videos to different formats and resolutions.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+To learn how to come up with an impressive video collage using Filmora, just follow these steps:
+
+#### 1\.  Import your digitized photos
+
+To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
+
+![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+#### 2\. Create a timeline for your photos
+
+Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
+
+![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
+
+#### 3\. Edit the video
+
+Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
+
+![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
+
+The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
+
+#### 4\. Add effects, transitions, audio, and more
+
+As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
+
+![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
+
+![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
+
+Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
+
+![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+#### 5\. Export your video
+
+That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
+
+![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+## More Editing Tips for Creating Memorable Videos
+
+To get better results while making your video collage, you can consider following these suggestions.
+
+#### 1\. Get high-quality pictures
+
+When you digitize photos, keep their overall quality in mind. That’s why it is recommended to use a digital camera or a dedicated photo scanner app. In this way, you can maintain the high quality of your photos even when they are inserted into a video.
+
+#### 2\. Maintain a timeline
+
+When you add photos, try to come up with a feasible timeline instead of inserting them randomly. It is recommended to have a chronological timeline so that you can create a story for your audience.
+
+#### 3\. Don’t apply too many effects and transitions
+
+While it is good to have some transitions and effects in your video collage, try not to overdo it. If you have too many animations, then they might take away the essence of the video.
+
+#### 4\. Insert suitable music
+
+The background music in your video is as important as your photos, but a lot of people overlook it. You can easily find royalty-free music from several sources or can even insert any other file that you own. Some applications would also let you insert voiceovers to have that personal effect in your video.
+
+Click here to know: [where to get royalty-free music?](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### 5\. Use a reliable video editor
+
+Most importantly, pick a user-friendly and effective video editor like Filmora. The application will let you come up with stunning videos using your photos without much effort.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -685,7 +670,23 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-foundational-approach-to-gradual-volume-adjustment/"><u>[Updated] Foundational Approach to Gradual Volume Adjustment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-virtual-reality-technology-current-state-and-future-challenges/"><u>[Updated] Virtual Reality Technology Current State and Future Challenges</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>2024 Approved Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>2024 Approved The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accurate-age-reflection-in-just-a-minute/"><u>Accurate Age Reflection in Just a Minute</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-costly-repairs-correctly-troubleshoot-and-mend-your-windows-10-touchscreen-here-5-methods/"><u>Avoid Costly Repairs - Correctly Troubleshoot and Mend Your Windows 10 Touchscreen Here (5 Methods)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beat-it-right-mastering-imovie-audio/"><u>Beat It Right Mastering iMovie Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-multiplayer-metaverse-games-to-share-with-pals-for-2024/"><u>Best Multiplayer Metaverse Games to Share With Pals for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chiefs-choice-elite-sky-savers-for-2024/"><u>Chief's Choice Elite Sky Savers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-microphone-functionality-on-your-iphone-easily/"><u>How to Restore Microphone Functionality on Your iPhone Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-105-classic-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia 105 Classic Through Google Earth?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>In 2024, 20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/meilleur-convertisseur-h265-pour-windows-11-and-mac-codec-hevc-enregistrement-video-facile/"><u>Meilleur Convertisseur H.265 Pour Windows 11 & Mac - Codec HEVC Enregistrement Vidéo Facile</u></a></li>
+<li><a href="https://solve-info.techidaily.com/missing-page-alert-retrieved-with-ease-using-wonderfoxs-solutions/"><u>Missing Page Alert! Retrieved with Ease Using WonderFox's Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
 

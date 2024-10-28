@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-10-15T20:49:58.686Z
-updated: 2024-10-22T18:32:51.719Z
+date: 2024-10-23T16:04:38.286Z
+updated: 2024-10-28T17:30:50.384Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -73,24 +73,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
@@ -99,10 +99,10 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,24 +120,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-aplus-game-streaming-tech-reviews/"><u>[New] A+ Game Streaming Tech Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[New] Beyond the Headsets The Essence of Virtual Reality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-celebrating-creativity-otu-samples-freepaid/"><u>[New] Celebrating Creativity OTU Samples (Free/Paid)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-five-fantastic-iphones-for-podcast-fans/"><u>[New] Five Fantastic iPhones for Podcast Fans</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-11-best-online-facebook-cover-photo-makers/"><u>[New] Top 11 Best Online Facebook Cover Photo Makers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>[Updated] A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-android-users-ultimate-selection-top-10-fb-video-extractor-tools/"><u>[Updated] Android Users' Ultimate Selection Top 10 FB Video Extractor Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-demystifying-virtual-reality-headsets-explained/"><u>2024 Approved Demystifying Virtual Reality Headsets Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-hero4-and-hero5-capabilities/"><u>Comparing Hero4 and Hero5 Capabilities</u></a></li>
-<li><a href="https://driver-install.techidaily.com/connect-your-usb-to-wifi-directly-with-ethernet/"><u>Connect Your USB to WiFi Directly with Ethernet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-9-proplus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 9 Pro+ Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/orchestrate-online-albums-photos-pair-with-songs/"><u>Orchestrate Online Albums Photos Pair With Songs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/popular-imagery-origins-decoded/"><u>Popular Imagery Origins Decoded</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quantum-hdr-phenomenon-in-digital-photography/"><u>Quantum HDR Phenomenon in Digital Photography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rise-to-greatness-with-these-10-elevating-films/"><u>Rise to Greatness with These 10 Elevating Films</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-power-of-openness-and-speed-a-comprehensive-review-of-two-trees-sk1-architecture/"><u>The Power of Openness and Speed: A Comprehensive Review of Two Trees SK1 Architecture</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-13-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 13</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-discover-the-best-free-wmv-video-editing-solutions-for-2024/"><u>Updated Discover the Best Free WMV Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/webcasts-on-demand-a-straightforward-recording-technique/"><u>Webcasts On Demand A Straightforward Recording Technique</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boxing-brilliance-versus-broadband-bonanza/"><u>[New] Boxing Brilliance versus Broadband Bonanza</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>[New] Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions/"><u>[New] In 2024, A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meme-magic-iphone-edition/"><u>[New] Meme Magic IPhone Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-skyrocketing-earnings-through-video-affiliates/"><u>[Updated] 2024 Approved Skyrocketing Earnings Through Video Affiliates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-guide-to-crafting-stellar-podcast-sneak-peeks/"><u>[Updated] A Comprehensive Guide to Crafting Stellar Podcast Sneak Peeks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-reimagining-game-logging-with-no-fbx-technology-for-2024/"><u>[Updated] Reimagining Game Logging with No-FBX Technology for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-assisted-cybercrime-understanding-the-five-main-avenues/"><u>AI-Assisted Cybercrime: Understanding the Five Main Avenues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-viral-meme-magician-with-9gag-techniques-for-2024/"><u>Become a Viral Meme Magician with 9GAG Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-clarity-top-10-photo-lens-selections-for-2024/"><u>Capture Clarity Top 10 Photo Lens Selections for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-blue-screen-of-death-resolving-the-stop-0x0000007b-bsod-issue/"><u>Fixing Blue Screen of Death: Resolving the STOP 0X0000007B BSOD Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-find-and-install-the-elusive-ios-amidst-non-appearance-issues-for-iphone-users/"><u>How To Find and Install the Elusive iOS Amidst Non-Appearance Issues for iPhone Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-stop-motion-films-the-ultimate-15-list/"><u>Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/showcase-spaces-perfect-live-stream-flair/"><u>Showcase Spaces Perfect Live Stream Flair</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-like-a-pro-gopro-quik-review-and-best-pc-alternatives-for-video-editing-for-2024/"><u>Updated Edit Like a Pro GoPro Quik Review & Best PC Alternatives for Video Editing for 2024</u></a></li>
 </ul></div>
 

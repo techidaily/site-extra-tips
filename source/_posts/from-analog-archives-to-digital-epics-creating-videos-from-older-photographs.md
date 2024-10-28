@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2024-10-16T22:42:29.236Z
-updated: 2024-10-22T19:22:22.450Z
+date: 2024-10-22T17:22:15.690Z
+updated: 2024-10-28T17:00:23.397Z
 tags: 
   - screen-recording
   - ai video
@@ -64,13 +64,6 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Convert Old Photos into a Video Effortlessly?
 
 By now, you would be able to digitize photos and have a soft copy of your old photographs. Apart from that, a lot of people would also like to make a video collage of their favorite pictures as well. If you have old pictures of a loved one and a special occasion is coming, then a video collage of their photos would be one of the best gifts.
@@ -99,6 +92,13 @@ Once you have imported your photos, you can include them in the timeline. To do 
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Edit the video
 
 Just above the timeline, you can find all kinds of tools to edit your video. For instance, you can crop your photos, split the video, delete pictures, correct their coloring, and so on. To explore more options, you can click on the edit icon here.
@@ -117,16 +117,22 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -134,14 +140,14 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find more fancy ways to make the best photo and video slideshow with Filmora!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -176,10 +182,10 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -197,18 +203,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>[New] Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-guide-through-the-landscape-of-srt/"><u>[Updated] A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-income-average-creator-revenue-from-adverts-on-youtube/"><u>[Updated] Exploring Income Average Creator Revenue From Adverts on YouTube?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-fusionslideshow-crafting-video-plus-image-narratives/"><u>2024 Approved FusionSlideshow Crafting Video + Image Narratives</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/debunking-the-top-5-common-misconceptions-about-android/"><u>Debunking the Top 5 Common Misconceptions About Android</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/explore-the-finest-yt-unboxing-sequences-for-2024/"><u>Explore the Finest YT Unboxing Sequences for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>In 2024, Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-typos-heres-how-to-type-without-the-slip-ups/"><u>Keyboard Typos? Here's How to Type Without the Slip-Ups</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-powerpoints-voice-recognition-feature/"><u>Mastering PowerPoint's Voice Recognition Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-new-horizons-a-tech-upgrade-blueprint/"><u>Navigating New Horizons A Tech Upgrade Blueprint</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/streamline-creativity-with-1-to-5-mac-editors-for-sierra-users-for-2024/"><u>Streamline Creativity with #1 to #5 Mac Editors for Sierra Users for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/timeless-videos-selecting-excellent-slow-motion-cameras/"><u>Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/todays-virtual-realty-hardware-exploration/"><u>Today’s Virtual Realty Hardware Exploration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-melodic-instagram-reels-blending-music-voiceovers-for-2024/"><u>[New] Melodic Instagram Reels Blending Music, Voiceovers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-upgrade-your-channels-visual-appeal/"><u>[New] Upgrade Your Channel's Visual Appeal</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convenient-steps-to-validate-age-in-tiktok-profiles/"><u>[Updated] Convenient Steps to Validate Age in TikTok Profiles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquer-the-skies-and-landscapes-in-a-canon-time-lapse/"><u>In 2024, Conquer the Skies and Landscapes in a Canon Time-Lapse</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-the-top-7-android-apps-to-combat-ads-effectively/"><u>In 2024, In-Depth Analysis The Top 7 Android Apps to Combat Ads Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993954694-master-key-to-unlocking-gameplay-making-steam-and-windows-11-work-together/"><u>Master Key to Unlocking Gameplay: Making Steam and Windows 11 Work Together!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-spotifys-advertising-landscape/"><u>Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/whats-your-take-home-pay-in-podcasting/"><u>What’s Your Take-Home Pay in Podcasting?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 Pro 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
