@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2024-10-25T16:20:42.860Z
-updated: 2024-10-28T16:28:57.884Z
+date: 2024-10-30T02:24:44.909Z
+updated: 2024-11-03T10:24:01.642Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,10 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -91,10 +91,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -114,10 +114,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -129,10 +129,16 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -150,18 +156,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-a-compreranial-expedition-into-high-quality-pictures/"><u>[Updated] A Compreranial Expedition Into High Quality Pictures</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>[Updated] In 2024, ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-reignite-retro-fun-select-best-pc-emulators-for-game-boy-advance-games/"><u>[Updated] In 2024, Reignite Retro Fun Select Best PC Emulators for Game Boy Advance Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-smooth-video-viewing-slow-down-on-snapchat/"><u>2024 Approved Smooth Video Viewing Slow Down on Snapchat</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-top-5-best-lightweight-action-cameras/"><u>2024 Approved Top 5 Best Lightweight Action Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-effects-on-tiktok/"><u>Add Effects On TikTok</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-average-podcaster-salary/"><u>Breaking Down Average Podcaster Salary</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-a-guide-for-crafting-engaging-online-services/"><u>ChatGPT: A Guide for Crafting Engaging Online Services</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortlessdataback-take-for-2024/"><u>EffortlessDataback Take for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-ultimate-selection-top-voice-recorders-for-macos/"><u>The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-video-shine-techniques-for-clearer-visuals/"><u>YouTube Video Shine Techniques for Clearer Visuals</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>[New] In 2024, Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-box-bargains-roundup-discovering-best-online-sites/"><u>[Updated] Box Bargains Roundup Discovering Best Online Sites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>2024 Approved Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-budget-friendly-power-with-microsofts-newest-laptop-go-an-in-depth-analysis-for-travelers-and-students/"><u>Experience Budget-Friendly Power with Microsoft's Newest Laptop Go: An In-Depth Analysis for Travelers and Students</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-invalid-value-for-registry-error-when-opening-photos-on-windows-10/"><u>Fix: Invalid Value for Registry Error When Opening Photos on Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-appreciative-adjacencies-templates-for-any-spend-plan/"><u>In 2024, Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives/"><u>Leveraging FB Platforms for Public Health Initiatives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/lost-the-wi-fi-signal-on-your-iphone-or-ipad-try-these-8-proven-fixes-for-seamless-connections/"><u>Lost the Wi-Fi Signal on Your iPhone or iPad? Try These 8 Proven Fixes for Seamless Connections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speak-the-code-vr-lingo-essentials/"><u>Speak the Code VR Lingo Essentials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-to-stop-age-of-ashes-from-pc-crashing/"><u>Stop the Frustration: Effective Fixes to Stop 'Age of Ashes' From PC Crashing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-list-of-8-real-world-youtube-boosters/"><u>The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/wirecast-analysis-with-equivalents/"><u>WireCast Analysis with Equivalents</u></a></li>
 </ul></div>
 

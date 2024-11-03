@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2024-10-22T17:22:15.690Z
-updated: 2024-10-28T17:00:23.397Z
+date: 2024-10-31T09:46:28.854Z
+updated: 2024-11-02T18:30:40.682Z
 tags: 
   - screen-recording
   - ai video
@@ -78,6 +78,13 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -93,10 +100,10 @@ Once you have imported your photos, you can include them in the timeline. To do 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 3\. Edit the video
@@ -117,21 +124,22 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 5\. Export your video
@@ -141,13 +149,6 @@ That’s it! After making all the changes, you can preview your video on the rig
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -181,13 +182,6 @@ There you go! I’m sure that after reading this guide, you would be able to dig
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -203,14 +197,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-melodic-instagram-reels-blending-music-voiceovers-for-2024/"><u>[New] Melodic Instagram Reels Blending Music, Voiceovers for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-upgrade-your-channels-visual-appeal/"><u>[New] Upgrade Your Channel's Visual Appeal</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convenient-steps-to-validate-age-in-tiktok-profiles/"><u>[Updated] Convenient Steps to Validate Age in TikTok Profiles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conquer-the-skies-and-landscapes-in-a-canon-time-lapse/"><u>In 2024, Conquer the Skies and Landscapes in a Canon Time-Lapse</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-analysis-the-top-7-android-apps-to-combat-ads-effectively/"><u>In 2024, In-Depth Analysis The Top 7 Android Apps to Combat Ads Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993954694-master-key-to-unlocking-gameplay-making-steam-and-windows-11-work-together/"><u>Master Key to Unlocking Gameplay: Making Steam and Windows 11 Work Together!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-spotifys-advertising-landscape/"><u>Navigating the World of Spotify's Advertising Landscape</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/whats-your-take-home-pay-in-podcasting/"><u>What’s Your Take-Home Pay in Podcasting?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-transforming-brands-a-list-of-20-keymarketing-phrases-for-2024/"><u>[New] Transforming Brands A List of 20 Keymarketing Phrases for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-immerse-in-imagery-top-10-sticker-apps-for-appleandroid-users/"><u>[Updated] In 2024, Immerse in Imagery – Top 10 Sticker Apps for Apple/Android Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>[Updated] In 2024, Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-video-construction-lab/"><u>[Updated] In 2024, Video Construction Lab</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-starting-point-for-motion-visual-effects/"><u>[Updated] Starting Point for Motion Visual Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-acquiring-unmarked-visuals-for-your-business/"><u>2024 Approved Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovisual-wizards-ranking-the-finest-photo-and-video-making-pros-with-soundtracks/"><u>Audiovisual Wizards Ranking the Finest Photo & Video Making Pros with Soundtracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-scenes-crafting-a-screenplay/"><u>Behind the Scenes Crafting a Screenplay</u></a></li>
+<li><a href="https://win-news.techidaily.com/complete-step-by-step-tutorial-how-to-transfer-disk-sectors-using-gparted/"><u>Complete Step-by-Step Tutorial: How to Transfer Disk Sectors Using GParted</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-14-pro-how-to-unlock-a-disabled-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 14 Pro How to Unlock a Disabled Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fusion-of-video-files-for-ios-devices/"><u>Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-symphony-for-photos-on-digital-platforms/"><u>In 2024, A Symphony for Photos on Digital Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-art-and-technology-a-comprehensive-guide-to-the-top-10-websites-for-graffiti-fonts/"><u>In 2024, Bridging Art and Technology A Comprehensive Guide to the Top 10 Websites for Graffiti Fonts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lowering-volume-steps-in-logic-pro-audio-editing/"><u>Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/syncopated-soundscapes-logic-pros-fading-artistry/"><u>Syncopated Soundscapes - Logic Pro's Fading Artistry</u></a></li>
 </ul></div>
 

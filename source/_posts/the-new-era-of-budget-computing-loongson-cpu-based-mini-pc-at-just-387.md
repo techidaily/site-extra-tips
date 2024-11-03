@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-10-26T16:41:13.564Z
-updated: 2024-10-28T16:26:58.901Z
+date: 2024-10-30T17:19:26.691Z
+updated: 2024-11-03T09:10:24.281Z
 tags:
   - desktop
 categories:
@@ -58,27 +58,26 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-high-quality-recordings-with-these-5-windows-11-tips/"><u>[New] Achieve High-Quality Recordings with These 5 Windows 11 Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-artful-expression-on-tablets-leading-ios-drawers/"><u>[New] Artful Expression on Tablets Leading iOS Drawers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-10-vr-360-video-players-for-pc-reviews/"><u>[Updated] In 2024, Top 10 VR (360 Video) Players for PC Reviews</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-epic-live-gaming-stations-unlocked/"><u>9 Epic Live Gaming Stations Unlocked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-reversed-color-effects-in-pictures/"><u>Expert Tips Reversed Color Effects in Pictures</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-new-horizons-with-iphone-xs-camera-tech/"><u>Exploring New Horizons with iPhone X's Camera Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-zip-to-sub-transforming-compressed-texts-to-srt-format/"><u>From Zip to Sub Transforming Compressed Texts to SRT Format</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-project-your-computer-display-onto-the-big-screen-with-an-hdmi-cable-clear-diagrams/"><u>How To Project Your Computer Display Onto the Big Screen With an HDMI Cable [Clear Diagrams]</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-follow-easy-steps-below-to-create-your-masterpiece-now/"><u>In 2024, Follow Easy Steps Below to Create Your Masterpiece Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/insightful-evaluation-androids-photography-tool-lightroom/"><u>Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
-<li><a href="https://extra-information.techidaily.com/learn-to-quickly-cut-videos-using-built-in-windows-features/"><u>Learn to Quickly Cut Videos Using Built-In Windows Features</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-artist/"><u>New What Is an AI Artist?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pivotal-video-moments-secrets-to-stellar-text-enhancements/"><u>Pivotal Video Moments Secrets to Stellar Text Enhancements</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ps4-stuck-a-complete-guide-to-unfreeze-your-console-easy-steps/"><u>PS4 Stuck? A Complete Guide to Unfreeze Your Console - Easy Steps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-complete-guide-to-successful-youtube-eluding-these-8-common-slips/"><u>The Complete Guide to Successful YouTube Eluding These 8 Common Slips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-echo-chambers-tech-updates/"><u>[New] 2024 Approved Echo Chambers Tech Updates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-perfecting-inshot-transitions-techniques/"><u>[New] In 2024, Perfecting Inshot Transitions Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-visuals-android-video-guide/"><u>2024 Approved Amplifying Visuals Android Video Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>2024 Approved Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/android-guide-inverting-video-playback/"><u>Android Guide Inverting Video Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-ways-to-keep-your-chromecast-updated-and-running-smoothly/"><u>Easy Ways to Keep Your Chromecast Updated and Running Smoothly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/firefoxs-pip-explained-a-users-handbook/"><u>Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology/"><u>In-Depth Review The Full Story of Theta S Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-prevent-auto-play-on-apple-music-streams/"><u>Steps to Prevent Auto-Play on Apple Music Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-sd-compatibility-with-sony-a7s-ii/"><u>Ultimate SD Compatibility with Sony A7S II</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-ps5-potentials-with-an-assist-controller/"><u>Unlock Your PS5 Potentials with an Assist Controller</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

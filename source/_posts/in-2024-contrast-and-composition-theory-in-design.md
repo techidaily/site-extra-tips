@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Contrast and Composition  Theory in Design\""
-date: 2024-10-21T16:33:21.225Z
-updated: 2024-10-28T17:12:30.540Z
+date: 2024-10-30T09:43:19.879Z
+updated: 2024-11-03T11:07:49.273Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -41,26 +41,13 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -68,13 +55,6 @@ As you can see, we have every color available in this wheel and they are arrange
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -96,7 +76,27 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -132,16 +132,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-peek-into-vegaspros-future/"><u>[New] A Peek Into VegasPro's Future</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-video-partition-prowess-ultimate-recorder-ranking/"><u>[New] In 2024, Video Partition Prowess Ultimate Recorder Ranking</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-10-ways-to-convert-youtube-to-mpeg/"><u>2024 Approved Best 10 Ways to Convert YouTube to MPEG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-the-moment-professional-techniques-in-hdr-portraiture/"><u>2024 Approved Capture the Moment Professional Techniques in HDR Portraiture</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-fresh-take-on-an-old-favorite-the-remastered-ratchet-and-clank-odyssey-explored/"><u>A Fresh Take on an Old Favorite: The Remastered Ratchet & Clank Odyssey Explored</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-visual-detail-in-videoleap-videos/"><u>Enhancing Visual Detail in Videoleap Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-in-depth-look-at-high-quality-minecraft-recordings/"><u>In 2024, In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>In 2024, Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-caller-id-changers-with-magical-features/"><u>Leading Caller ID Changers with Magical Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/masterclass-5-in-best-mac-videography-software-for-2024/"><u>Masterclass 5 in Best Mac Videography Software for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-6-unique-asian-themed-structures-in-minecraft/"><u>[New] 2024 Approved 6 Unique Asian-Themed Structures in Minecraft</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>[New] 2024 Approved Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>2024 Approved Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-streamlined-approach-to-using-azures-transcription-technology-for-2024/"><u>A Streamlined Approach to Using Azure's Transcription Technology for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/creating-a-backup-of-your-dell-system-restore-partition-for-windows-users/"><u>Creating a Backup of Your Dell System Restore Partition for Windows Users</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/groundwork-for-animate-infographic-creation/"><u>Groundwork for Animate Infographic Creation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asus-pa32u-explored-unparalleled-4k-professional-monitoring/"><u>In 2024, Asus PA32U Explored Unparalleled 4K Professional Monitoring</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-inshot-leading-video-editing-an-examination-review/"><u>Is InShot Leading Video Editing? An Examination Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/logic-pro-techniques-for-fading-out-sounds/"><u>Logic Pro Techniques for Fading Out Sounds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/reactivate-and-enhance-photo-viewing-with-ease-win-11-for-2024/"><u>Reactivate and Enhance Photo Viewing with Ease (Win 11) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tailor-topical-laughs/"><u>Tailor Topical Laughs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-archivists-collection-essential-retro-visual-hacks-for-video-editors/"><u>The Archivist's Collection Essential Retro Visual Hacks for Video Editors</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-a70-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel A70.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-m34-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy M34 Location | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-quality-screen-recording-for-windows-10-pro/"><u>Top Quality Screen Recording for Windows 10 Pro</u></a></li>
 </ul></div>
 

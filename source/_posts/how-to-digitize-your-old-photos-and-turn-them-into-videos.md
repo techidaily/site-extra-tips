@@ -1,7 +1,7 @@
 ---
 title: "How to Digitize Your Old Photos and Turn Them Into Videos"
-date: 2024-10-21T16:10:56.026Z
-updated: 2024-10-28T16:45:56.346Z
+date: 2024-10-30T00:50:24.827Z
+updated: 2024-11-03T04:06:49.606Z
 tags: 
   - screen-recording
   - ai video
@@ -86,6 +86,13 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -98,13 +105,6 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -113,26 +113,40 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
@@ -164,23 +178,9 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -197,22 +197,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adjust-netflix-video-pace-pc-and-mobile-edition/"><u>[New] Adjust Netflix Video Pace PC & Mobile Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-boosting-video-quality-in-zoom-with-advanced-effects/"><u>[New] In 2024, Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enjoy-uninterrupted-viewing-top-20-youtube-download-apps/"><u>[Updated] 2024 Approved Enjoy Uninterrupted Viewing Top 20 YouTube Download Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-top-8-gaming-gloves-for-vr/"><u>Discover Top 8 Gaming Gloves for VR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-your-inner-artist-with-these-leading-android-graphics-tools/"><u>Discover Your Inner Artist with These Leading Android Graphics Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tactics-for-powering-through-windows-10/"><u>Expert Tactics for Powering Through Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exquisite-background-melodies-for-edits/"><u>Exquisite Background Melodies for Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-non-responsive-laptop-trackpad-on-windows-11-8-and-7-a-complete-guide/"><u>Fixing Your Non-Responsive Laptop Trackpad on Windows 11, 8 & 7: A Complete Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-modify-system-security-settings-in-windows-11/"><u>How To Modify System Security Settings in WIndows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-x8b-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of X8b?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-7-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock iPhone 7 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-aviation-companions-the-drones-guide-to-following/"><u>In 2024, Aviation Companions The Drone's Guide to Following</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-chronicles-best-free-top-rated-comic-designs/"><u>In 2024, Chuckle Chronicles Best Free, Top-Rated Comic Designs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/understanding-and-repairing-igfxem-unit-failures-successfully-detected/"><u>Understanding and Repairing igfxEM Unit Failures Successfully Detected</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/which-motorsport-cam-is-supreme-hero4-or-ghost-s/"><u>Which Motorsport Cam Is Supreme? Hero4 or Ghost-S</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-embrace-the-digital-book-revolution-with-a-kindle/"><u>Why Embrace the Digital Book Revolution with a Kindle</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-dji-x20-drone-vision-wear-review/"><u>[New] In 2024, The DJI X20 Drone Vision Wear Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/20-essential-free-online-photo-tinkering-apps-for-2024/"><u>20 Essential Free Online Photo Tinkering Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-clarity-the-ultimate-list-of-ois-equipped-phones/"><u>2024 Approved Capture Clarity The Ultimate List of OIS-Equipped Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hydro-durable-cams-of-the-week-7-edition-revealed/"><u>2024 Approved Hydro-Durable Cams of the Week – #7 Edition Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/confronting-ai-titans-advanced-gemini-vs-plush-gpt/"><u>Confronting AI Titans: Advanced Gemini Vs. Plush GPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-resolve-the-frequent-breakdown-of-thunder-tier-one-on-pc-systems/"><u>Effective Ways to Resolve the Frequent Breakdown of Thunder Tier One on PC Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-pagewide-pro-47n-drivers-for-windows-users-download-now-win11108/"><u>HP PageWide Pro 47N Drivers for Windows Users - Download Now (Win11/10/8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-your-own-google-cardboard-for-immersive-vr/"><u>Making Your Own Google Cardboard for Immersive VR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/strengthening-bonds-networking-tips-for-youtube-content-creators/"><u>Strengthening Bonds Networking Tips for YouTube Content Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

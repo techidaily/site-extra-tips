@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capture the Moment  IPhone X's Revolutionary Camera\""
-date: 2024-10-24T16:57:00.069Z
-updated: 2024-10-28T17:07:27.697Z
+date: 2024-10-29T07:07:47.605Z
+updated: 2024-11-03T00:42:37.262Z
 tags: 
   - screen-recording
   - ai video
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/bb1f002a7be8b73cd12562f7aa67a81110093e83a
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -51,16 +44,17 @@ thumbnail: https://thmb.techidaily.com/bb1f002a7be8b73cd12562f7aa67a81110093e83a
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -82,17 +76,10 @@ thumbnail: https://thmb.techidaily.com/bb1f002a7be8b73cd12562f7aa67a81110093e83a
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -111,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/bb1f002a7be8b73cd12562f7aa67a81110093e83a
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -126,20 +120,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/op-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os-for-2024/"><u>[New] Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-visual-comedy-make-and-share-via-kapwing/"><u>[Updated] In 2024, Visual Comedy Make and Share via Kapwing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-top-10-best-photo-watermarking-software-you-should-try/"><u>[Updated] Top 10 Best Photo Watermarking Software You Should Try</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-acquiring-high-quality-copyright-free-images/"><u>2024 Approved Acquiring High-Quality Copyright-Free Images</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-brands-with-language-mastery-techniques/"><u>2024 Approved Transforming Brands with Language Mastery Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boosting-like-counts-tips-for-tiktok-unboxings/"><u>Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/connecting-to-a-vpn-from-an-iphone-can-be-tricky-fix-connection-problems-using-these-7-methods/"><u>Connecting to a VPN From an iPhone Can Be Tricky: Fix Connection Problems Using These 7 Methods</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-7-aspects-to-review-when-selecting-the-perfect-smart-tv-for-your-home/"><u>Essential 7 Aspects to Review When Selecting the Perfect Smart TV for Your Home</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/experts-blueprint-for-avi-to-gif-transformation-using-filmora-windowsmacos/"><u>Expert's Blueprint for AVI to GIF Transformation Using Filmora (Windows/macOS)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-apple-airtags-on-sale-save-24-now-during-walmarts-labor-day-promotion-insights-from-zdnet/"><u>Get Apple AirTags on Sale: Save $24 Now During Walmart’s Labor Day Promotion - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-correctly-resolve-btballoondll-not-found-issues/"><u>How to Correctly Resolve 'btballoon.dll Not Found' Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-tecno-pova-5-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Tecno Pova 5 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-solving-the-kernelbasedll-dilemamo-with-swift-and-straightforward-techniques/"><u>No More Crashes: Solving the kernelbase.dll Dilemamo with Swift & Straightforward Techniques.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-best-vr-game-engines-of-2023/"><u>Unveiling the Best VR Game Engines of 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-in-class-real-time-broadcast-systems/"><u>[New] Best-in-Class Real-Time Broadcast Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparing-the-best-updated-review-of-gopro-and-yi-action-cams/"><u>[New] Comparing the Best Updated Review of GoPro and Yi Action Cams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-discreet-watcher-of-social-media-life/"><u>[New] Discreet Watcher of Social Media Life</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crafting-clear-and-consistent-slug-lines/"><u>[New] In 2024, Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-access-10-free-thumbnail-downloader-apps/"><u>[Updated] 2024 Approved Access 10 Free Thumbnail Downloader Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-budget-oriented-chinas-vr-equipment-selection/"><u>[Updated] Budget-Oriented China's VR Equipment Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/buy-movavi-imagix-photo-editor-now-upgrade-your-editing-skills-instantly/"><u>Buy Movavi Imagix Photo Editor Now – Upgrade Your Editing Skills Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-halo-infinite-freezing-issues-in-pc-with-these-quick-fixes-guide/"><u>End Halo Infinite Freezing Issues in PC with These Quick Fixes [Guide]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-youtube-end-screen-templates-for-content-makers/"><u>Essential YouTube End Screen Templates for Content Makers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expressive-faces-with-motion-blur-in-picsart/"><u>Expressive Faces with Motion Blur in Picsart</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-7-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assemble-photos-for-a-captivating-storyboard-experience/"><u>In 2024, Assemble Photos for a Captivating Storyboard Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-teaching-transformative-learning/"><u>In 2024, Immersive Teaching, Transformative Learning</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-quintessential-quest-for-quality-storytellers-top-8-institutions/"><u>The Quintessential Quest for Quality Storytellers – Top 8 Institutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-secret-to-smooth-video-playback-on-instagram/"><u>The Secret to Smooth Video Playback on Instagram</u></a></li>
 </ul></div>
 

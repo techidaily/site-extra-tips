@@ -1,7 +1,7 @@
 ---
 title: "Quick Windows Surfing Guide Unveiled"
-date: 2024-10-26T16:30:40.320Z
-updated: 2024-10-28T16:45:38.532Z
+date: 2024-10-26T19:02:34.731Z
+updated: 2024-11-03T05:41:53.914Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
@@ -58,10 +58,10 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
@@ -73,10 +73,10 @@ Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://g
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
@@ -106,10 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,20 +146,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-best-microphone-for-youtubers/"><u>[Updated] 2024 Approved Best Microphone for YouTubers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-showcase-excellence-with-these-essential-thumbnail-fonts/"><u>[Updated] 2024 Approved Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breakdown-of-cloud-storage-pricing-expert-analysis-and-top-deals/"><u>2024 Approved Breakdown of Cloud Storage Pricing Expert Analysis & Top Deals</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fostering-an-online-oasis-paving-the-way-for-a-prolific-youtube-presence/"><u>2024 Approved Fostering an Online Oasis Paving the Way for a Prolific Youtube Presence</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-social-media-forecasting-through-data-visualization/"><u>2024 Approved Social Media Forecasting Through Data Visualization</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-pcs-idle-interval/"><u>Configuring PC's Idle Interval</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-cinematic-audio-in-inshot-videos-for-2024/"><u>Crafting Cinematic Audio in InShot Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dialogue-dynamics-connecting-with-your-youtube-crowd/"><u>Dialogue Dynamics Connecting With Your YouTube Crowd</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/edit-your-tracks-instantly-discover-the-magic-of-movavi-audio-trimmer/"><u>Edit Your Tracks Instantly - Discover the Magic of Movavi Audio Trimmer!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-resize-photos-on-an-iphone/"><u>How to Resize Photos on an iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-samsungs-photographic-editing-app/"><u>In 2024, Comprehensive Guide to Samsung's Photographic Editing App</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-inject-photos-with-rotational-blur-effects-in-photosoph/"><u>In 2024, Inject Photos with Rotational Blur Effects in PHOTOSOPH</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-software-convert-and-upload-to-twitter/"><u>In 2024, Superior Software Convert and Upload to Twitter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/music-for-imovie/"><u>Music for iMovie</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stellar-spectrum-10-sites-cutting-edge-of-hd-astronomy/"><u>Stellar Spectrum 10 Sites Cutting-Edge of HD Astronomy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-androids-lightroom-app-decoded-a-complete-analysis/"><u>[New] Android's Lightroom App Decoded A Complete Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-ai-photo-editor/"><u>[New] Best AI Photo Editor</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-enhance-call-to-action-potential-with-gs-approach/"><u>[New] Enhance Call to Action Potential with GS Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-how-mixed-reality-transforms-experience/"><u>[New] Exploring How Mixed Reality Transforms Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-iphone-audiophiles-playlist-tips/"><u>[Updated] Conquer iPhone Audiophile's Playlist Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cutting-costs-without-compromising-on-youtube-intros-quality/"><u>[Updated] In 2024, Cutting Costs without Compromising on YouTube Intros Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-a-huge-impact-youtube-titles-that-sell/"><u>2024 Approved Crafting a Huge Impact YouTube Titles That Sell</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024s-video-show-app-detailed-assessment-and-tips/"><u>2024'S Video Show App - Detailed Assessment & Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-in-class-elite-4k-televisions/"><u>Best in Class Elite 4K Televisions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compreeved-guide-converting-webp-to-quality-jpg-format/"><u>Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-ordinary-text-to-stunning-three-dimensional-designs-photo/"><u>From Ordinary Text to Stunning Three-Dimensional Designs PHOTO</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-download-and-setup-gaomon-s620/"><u>How to Download and Setup Gaomon S620</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-stand-out-on-youtube-with-these-20-top-font-choices/"><u>In 2024, Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-crafting-irresistible-titles/"><u>In 2024, The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/meme-magic-unleashed-top-humorous-creations-for-the-metaverse-world/"><u>Meme Magic Unleashed Top Humorous Creations for the Metaverse World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pixel-vs-apple-a-comprehensive-showdown-of-the-latest-smartwatches-google-pixel-watch-2-vs-apple-watch-series-n/"><u>Pixel Vs. Apple: A Comprehensive Showdown of the Latest Smartwatches - Google Pixel Watch 2 Vs. Apple Watch Series N</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smart-buying-top-value-action-cam-models-for-2024/"><u>Smart Buying Top Value Action Cam Models for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-se-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone SE</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-updated-the-top-10-free-and-paid-2d-animation-software-you-need-to-know-for-2024/"><u>Updated Updated The Top 10 Free and Paid 2D Animation Software You Need to Know for 2024</u></a></li>
 </ul></div>
 

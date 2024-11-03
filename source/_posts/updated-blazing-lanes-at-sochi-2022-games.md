@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2024-10-21T16:19:21.128Z
-updated: 2024-10-28T17:19:33.467Z
+date: 2024-10-31T07:55:06.019Z
+updated: 2024-11-02T20:11:48.430Z
 tags: 
   - screen-recording
   - ai video
@@ -37,15 +37,22 @@ Canada’s Steven Dubois wins the silver medal.
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
@@ -56,10 +63,10 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
@@ -75,10 +82,10 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -94,13 +101,6 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -121,10 +121,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -150,21 +150,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-digital-subtitle-producer/"><u>[New] 2024 Approved Digital Subtitle Producer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-action-cam-aesthetics-top-15-high-impact-gopro-lut-choices/"><u>[New] Action Cam Aesthetics Top 15 High-Impact GOPRO LUT Choices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-clearing-photos-expert-background-takedown-in-photopea-for-2024/"><u>[New] Clearing Photos Expert Background Takedown in Photopea for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-twist-and-turn-the-screen-unleashing-your-inner-dancer-with-tiktok-and-macos-for-2024/"><u>[Updated] Twist & Turn the Screen Unleashing Your Inner Dancer with TikTok and MacOS for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-quick-and-easy-image-transition-techniques-explored/"><u>2024 Approved Quick and Easy Image Transition Techniques Explored</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-simplified-techniques-for-browsing-youtube-comments/"><u>2024 Approved Simplified Techniques for Browsing YouTube Comments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/advanced-tips-and-tricks-for-speech-transcription-with-gdoc-for-2024/"><u>Advanced Tips and Tricks for Speech Transcription with GDoc for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-a-must-have-voice-transform-tool-no-cost-maximum-impact/"><u>Discover a Must-Have Voice Transform Tool - No Cost, Maximum Impact</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dive-deep-into-smooth-aquatic-footage-top-tips-unveiled/"><u>Dive Deep Into Smooth Aquatic Footage Top Tips Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/illuminate-images-swift-methods-to-enhance-your-iphone-videography/"><u>Illuminate Images Swift Methods to Enhance Your iPhone Videography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-blur-free-photography-ranked-10-best-web-editing-tools/"><u>In 2024, Blur-Free Photography Ranked 10 Best Web Editing Tools</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/online-dailymotion-converter-convert-videos-to-any-format-for-free-for-2024/"><u>Online Dailymotion Converter Convert Videos to Any Format for Free for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/progressive-array-of-engaging-queries-for-podcasters/"><u>Progressive Array of Engaging Queries for Podcasters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-gaming-experience-free-nvidia-gtx-980-ti-graphics-drivers-for-enhanced-performance/"><u>Ultimate Gaming Experience: Free Nvidia GTX 980 Ti Graphics Drivers for Enhanced Performance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-explorers-toolkit-select-these-7-must-have-tech/"><u>Virtual Explorers' Toolkit - Select These 7 Must-Have Tech</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728506377900-3/"><u>グーグルフォト内のビデオ閲覧 - 3手法で発見</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-windows-pc-bring-out-the-best-in-your-videos/"><u>[Updated] 2024 Approved Windows PC Bring Out the Best in Your Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-budget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[Updated] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-list-of-top-tier-9-mic-recorder-apps/"><u>[Updated] Essential List of Top-Tier 9 Mic Recorder Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-guide-to-vr-travel-adventures-for-2024/"><u>A Comprehensive Guide to VR Travel Adventures for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-creativity-with-advanced-tiktok-filters/"><u>Captivating Creativity with Advanced TikTok Filters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/core-principles-for-online-storytelling-craftsmanship/"><u>Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-attract-and-retain-more-viewers-on-youtube/"><u>How to Attract and Retain More Viewers on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-a70-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel A70</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-aloneness-in-depth-review-of-3dr-tech/"><u>Navigating Aloneness In-Depth Review of '3DR' Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-setup-with-microsoft-ergonomic-keyboard-4000-driver-download-quick-tips/"><u>Streamline Your Setup with Microsoft Ergonomic Keyboard 4000 Driver Download – Quick Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-comprehensive-manual-for-effective-morphvox-voice-changes/"><u>The Comprehensive Manual for Effective MorphVOX Voice Changes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncompromised-audio-best-concert-earplug-guide/"><u>Uncompromised Audio: Best Concert Earplug Guide</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>Updated The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
 </ul></div>
 
