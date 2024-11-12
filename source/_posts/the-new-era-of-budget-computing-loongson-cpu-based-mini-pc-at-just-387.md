@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-10-30T17:19:26.691Z
-updated: 2024-11-03T09:10:24.281Z
+date: 2024-11-07T03:12:43.074Z
+updated: 2024-11-12T10:22:30.110Z
 tags:
   - desktop
 categories:
@@ -58,26 +58,31 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-echo-chambers-tech-updates/"><u>[New] 2024 Approved Echo Chambers Tech Updates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-perfecting-inshot-transitions-techniques/"><u>[New] In 2024, Perfecting Inshot Transitions Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-amplifying-visuals-android-video-guide/"><u>2024 Approved Amplifying Visuals Android Video Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-with-skype-a-guide-to-seamless-video-calls/"><u>2024 Approved Navigating Zoom with Skype A Guide to Seamless Video Calls</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-guide-inverting-video-playback/"><u>Android Guide Inverting Video Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-ways-to-keep-your-chromecast-updated-and-running-smoothly/"><u>Easy Ways to Keep Your Chromecast Updated and Running Smoothly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/firefoxs-pip-explained-a-users-handbook/"><u>Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology/"><u>In-Depth Review The Full Story of Theta S Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-prevent-auto-play-on-apple-music-streams/"><u>Steps to Prevent Auto-Play on Apple Music Streams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-sd-compatibility-with-sony-a7s-ii/"><u>Ultimate SD Compatibility with Sony A7S II</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-ps5-potentials-with-an-assist-controller/"><u>Unlock Your PS5 Potentials with an Assist Controller</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-deep-dive-comparative-analysis-of-audio-editors-magix-edition/"><u>[New] A Deep Dive Comparative Analysis of Audio Editors - Magix Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-10-vfx-tools-for-final-cut/"><u>[New] Best 10 VFX Tools for Final Cut</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-closer-inspection-pro-tips-for-pixelated-play/"><u>[New] Closer Inspection Pro Tips for Pixelated Play</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes/"><u>[New] In 2024, Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-video-editing-apps-for-youtube-creators/"><u>[New] In 2024, Essential Video Editing Apps for YouTube Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[New] In 2024, GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigate-youtube-post-production-with-adobe-premiere/"><u>[New] Navigate YouTube Post-Production with Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-master-real-time-video-sharing-on-facebook/"><u>[Updated] 2024 Approved How to Master Real-Time Video Sharing on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-captivating-presentations-by-adding-tunes/"><u>[Updated] Crafting Captivating Presentations by Adding Tunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-novice-to-expert-kinemaster-gs-journey/"><u>[Updated] In 2024, From Novice to Expert KineMaster GS Journey</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-infuse-kinetic-smear-into-photos-in-photoshop-for-2024/"><u>[Updated] Infuse Kinetic Smear Into Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discovering-your-pcs-power-locating-the-latest-windows-10-powershell-version/"><u>Discovering Your PC's Power: Locating the Latest Windows 10 PowerShell Version</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-drawings-top-artistic-tools-on-chrome-os/"><u>Elevate Your Drawings Top Artistic Tools on Chrome OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-full-periscope-capabilities/"><u>Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-premier-selection-of-vr-cycling-options/"><u>The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncovering-8-superior-online-srt-translation-tools/"><u>Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://solve-info.techidaily.com/windows-traffic-shooting-hatae-gae-sasatama-panaraparavanae-btha-ha/"><u>Windows Traffic Shooting: हटाए गए सिस्टम पुनर्प्राव₹ण बंद है</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

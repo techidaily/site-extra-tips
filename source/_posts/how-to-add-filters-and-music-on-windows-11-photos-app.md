@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-10-30T09:04:13.132Z
-updated: 2024-11-03T02:26:28.946Z
+date: 2024-11-07T08:52:49.730Z
+updated: 2024-11-12T08:56:20.787Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -65,31 +72,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -99,10 +99,16 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -120,22 +126,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-text-that-moves-two-fascinating-techniques-revealed/"><u>[New] In 2024, Text That Moves Two Fascinating Techniques Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-religious-ringtones-for-daily-devotion-and-driving/"><u>[New] Religious Ringtones for Daily Devotion and Driving</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-presets-unleashed-10-essential-design-principles/"><u>2024 Approved AE Presets Unleashed 10 Essential Design Principles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-collection-for-enlivening-text/"><u>2024 Approved Best Collection for Enlivening Text</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-conversion-apps-enhance-tweets-with-video/"><u>2024 Approved Best Conversion Apps Enhance Tweets with Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-practices-top-5-audio-recording-approaches-on-windows-11-platform/"><u>2024 Approved Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-in-class-pc-vr-headsets/"><u>2024 Approved Explore the Best-In-Class PC VR Headsets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-social-media-marketing-a-10-step-guide-to-success/"><u>2024 Approved Mastering Social Media Marketing A 10-Step Guide to Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bending-words-in-media-landscapes/"><u>Bending Words in Media Landscapes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-chrome-os-tts-tools-top-5-online-speech-converters-for-2024/"><u>Best Chrome OS TTS Tools Top 5 Online Speech Converters for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-studio-secrets-building-professional-time-lapses/"><u>GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphic-device-failure-alerted/"><u>Graphic Device Failure Alerted</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-engaging-podcast-names-tips-and-techniques/"><u>In 2024, Crafting Engaging Podcast Names Tips and Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-video-how-much-does-a-single-streamer-earn-in-2024/"><u>Monetizing Video How Much Does a Single Streamer Earn, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-activating-system-sound-on-unresponsive-devices/"><u>Re-Activating System Sound on Unresponsive Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-iphone-photography-top-10-visual-arrangement-tips-for-2024/"><u>The Art of iPhone Photography Top 10 Visual Arrangement Tips for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chiefs-choice-for-elite-cloud-storage/"><u>[New] Chiefs' Choice for Elite Cloud Storage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-world-of-no-cost-picture-frame-movies/"><u>[New] Unlocking the World of No-Cost Picture Frame Movies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-tips-for-podcast-feeds-and-rss-integration/"><u>2024 Approved Advanced Tips for Podcast Feeds and RSS Integration</u></a></li>
+<li><a href="https://fox-place.techidaily.com/adding-brand-identity-inserting-logos-into-flipbook-projects-on-flipbuildercom/"><u>Adding Brand Identity: Inserting Logos Into FlipBook Projects on FlipBuilder.com</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-asus-ax600-rt-ax88u-wi-fi-6-router-features-and-performance-reviewed/"><u>Comprehensive Guide to the Asus AX6#00 RT-AX88U Wi-Fi 6 Router: Features and Performance Reviewed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-guide-converting-azw3-ebooks-into-versatile-mobi-format/"><u>Effortless Guide: Converting AZW3 Ebooks Into Versatile MOBI Format</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-qualcomm-atheros-the-ultimate-guide-to-repairing-your-windows-10-bluetooth-driver-issues/"><u>Fixing Qualcomm Atheros: The Ultimate Guide to Repairing Your Windows 10 Bluetooth Driver Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-raw-to-stunning-the-role-of-luts-in-premiere-editing/"><u>From Raw to Stunning The Role of LUTs in Premiere Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-experience-the-ultimate-sound-with-best-buys-discounted-top-rated-speaker-system-featured-on-zdnet/"><u>Huge Savings Alert: Experience the Ultimate Sound with Best Buy's Discounted Top-Rated Speaker System - Featured on ZDNet!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-multi-platform-windows-film-editor-clones/"><u>In 2024, Multi-Platform Windows Film Editor Clones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/precision-video-capturing-on-mac-for-snapshares-for-2024/"><u>Precision Video Capturing on Mac for Snapshares for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/toolwiz-photos-app-complete-review/"><u>Toolwiz Photos App – Complete Review</u></a></li>
 </ul></div>
 

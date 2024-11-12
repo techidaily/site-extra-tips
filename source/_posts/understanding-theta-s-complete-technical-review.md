@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2024-10-30T02:24:44.909Z
-updated: 2024-11-03T10:24:01.642Z
+date: 2024-11-05T09:43:30.964Z
+updated: 2024-11-12T00:54:29.545Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,10 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -91,10 +91,16 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -114,10 +120,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -129,16 +135,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -156,19 +156,21 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>[New] In 2024, Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-box-bargains-roundup-discovering-best-online-sites/"><u>[Updated] Box Bargains Roundup Discovering Best Online Sites</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>2024 Approved Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-budget-friendly-power-with-microsofts-newest-laptop-go-an-in-depth-analysis-for-travelers-and-students/"><u>Experience Budget-Friendly Power with Microsoft's Newest Laptop Go: An In-Depth Analysis for Travelers and Students</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-invalid-value-for-registry-error-when-opening-photos-on-windows-10/"><u>Fix: Invalid Value for Registry Error When Opening Photos on Windows 10</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-appreciative-adjacencies-templates-for-any-spend-plan/"><u>In 2024, Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leveraging-fb-platforms-for-public-health-initiatives/"><u>Leveraging FB Platforms for Public Health Initiatives</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-the-wi-fi-signal-on-your-iphone-or-ipad-try-these-8-proven-fixes-for-seamless-connections/"><u>Lost the Wi-Fi Signal on Your iPhone or iPad? Try These 8 Proven Fixes for Seamless Connections</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speak-the-code-vr-lingo-essentials/"><u>Speak the Code VR Lingo Essentials</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-to-stop-age-of-ashes-from-pc-crashing/"><u>Stop the Frustration: Effective Fixes to Stop 'Age of Ashes' From PC Crashing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-list-of-8-real-world-youtube-boosters/"><u>The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wirecast-analysis-with-equivalents/"><u>WireCast Analysis with Equivalents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>[New] BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elevate-your-video-calling-game-with-skype-and-obs-for-2024/"><u>[New] Elevate Your Video Calling Game with Skype & OBS for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-master-the-art-of-downloading-gifs-from-facebook-on-multiple-devices-effortlessly/"><u>[Updated] 2024 Approved Master the Art of Downloading GIFs From Facebook on Multiple Devices Effortlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>[Updated] 2024 Approved Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leverage-youtube-insights-for-sustainable-channel-development/"><u>[Updated] Leverage YouTube Insights for Sustainable Channel Development</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>2024 Approved Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-why-virtual-reality-lack-of-content/"><u>2024 Approved Why Virtual Reality Lack of Content?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aesthetic-excellence-laptop-wallpaper-havens-online/"><u>Aesthetic Excellence Laptop Wallpaper Havens Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-fundamentals-an-overview-of-their-workings/"><u>Drone Fundamentals An Overview of Their Workings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-music-conversion-a-beginners-guide-to-cd-ripping-with-audacity/"><u>Effortless Music Conversion: A Beginner's Guide to CD Ripping with Audacity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-all-about-io-screen-capture-mastery-guidebook/"><u>In 2024, All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insiders-guide-to-efficient-phone-recording/"><u>Insider's Guide to Efficient Phone Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insightful-slomo-video-app-analysis-year-2024-perspective/"><u>Insightful SloMo Video App Analysis - Year 2024 Perspective</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sierras-icloud-full-desktop-and-document-liberation/"><u>Sierra’s iCloud Full Desktop and Document Liberation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-channel-art-make-banners-icons-and-thumbnails/"><u>YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
 </ul></div>
 

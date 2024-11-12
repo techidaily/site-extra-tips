@@ -1,7 +1,7 @@
 ---
 title: "The Magic Behind Immersive World Creation"
-date: 2024-11-01T16:19:09.695Z
-updated: 2024-11-03T07:22:44.759Z
+date: 2024-11-04T21:03:40.893Z
+updated: 2024-11-12T12:12:08.483Z
 tags: 
   - screen-recording
   - ai video
@@ -55,19 +55,19 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ![gear-vr](https://images.wondershare.com/filmora/article-images/gear-vr.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Oculus Rift](https://www.oculus.com/rift/  )
@@ -76,25 +76,18 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
- Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  Since the Cardboard has grown so much in terms of popularity, Google has planned to release a better version known as Daydream. This will be a device like the Gear VR, but it has been designed to work with android phones which are currently being revamped to over better VR experiences. It is still not know when the new device will be available, but the Cardboard is retailing at $16.99 at Amazon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,22 +121,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-color-theory-and-how-to-use-it/"><u>[New] Color Theory And How To Use It</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-expert-guide-to-changing-user-numbers-on-tiktok/"><u>[New] Expert Guide to Changing User Numbers on TikTok</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-instant-freeze-capture-feature-guide/"><u>[New] In 2024, Instant Freeze Capture Feature Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rofit-peaks-techniques-to-maximize-revenue-from-mobile-youtube-content/"><u>[New] Profit Peaks Techniques to Maximize Revenue From Mobile YouTube Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-12-tycoons-where-every-move-counts-toward-victory/"><u>[New] Top 12 Tycoons - Where Every Move Counts Toward Victory</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-creativity-mobile-gadgets-ranking-leaders/"><u>2024 Approved Capturing Creativity Mobile Gadgets Ranking Leaders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-best-photo-editing-app-for-android-phone/"><u>5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/1728467078077-windows-1110/"><u>解決Windows 11/10 即時磁盘問題：修復失效之道</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/embrace-sound-narratives-on-ipadiphone-downloading-apple-podcasts/"><u>Embrace Sound Narratives on iPad/iPhone Downloading Apple Podcasts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-nvme-drivers-and-set-them-up-in-windows-easily/"><u>How to Get the Latest NVMe Drivers and Set Them Up in Windows Easily</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/microsofts-hololens-adventure-a-3d-visionary-experience/"><u>Microsoft’s HoloLens Adventure – A 3D Visionary Experience</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-free-4k-video-conversion-top-10-tools-for-2024/"><u>New The Ultimate Guide to Free 4K Video Conversion Top 10 Tools for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/price-tracker-for-cloud-space-services-a-detailed-review/"><u>Price Tracker for Cloud Space Services A Detailed Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-podcast-with-these-ai-name-makers/"><u>Revolutionize Your Podcast with These AI Name Makers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tp-links-latest-driver-updates-for-optimal-performance-on-windows-platforms-11-8-and-n/"><u>TP-Link's Latest Driver Updates for Optimal Performance on Windows Platforms (11, 8 & N)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-of-the-best-in-gpodc-podcasts/"><u>[New] Best of the Best in GPodC Podcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practice-animation-series/"><u>[New] Best Practice Animation Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-combat-oculus-discomfort-10-methods/"><u>[New] Combat Oculus Discomfort 10 Methods</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elevate-your-storytelling-with-strategic-video-callouts/"><u>[New] Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-make-marine-scenes-fluidly-with-these-7-tricks/"><u>[New] In 2024, Make Marine Scenes Fluidly with These 7 Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-inch-towards-a-million-instagrams-1k-goal-for-you/"><u>[Updated] 2024 Approved Inch Towards a Million Instagram's 1K Goal for You</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unfollower-detection-on-instagram/"><u>[Updated] 2024 Approved Unfollower Detection on Instagram</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-explore-the-power-of-visuals-mastery-over-tiktok-video-backgrounds-for-2024/"><u>[Updated] Explore the Power of Visuals Mastery over TikTok Video Backgrounds for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-tiktok-installation-on-your-macbook/"><u>[Updated] Mastering TikTok Installation on Your MacBook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>2024 Approved Best Picks No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>2024 Approved The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722153469435-anticipating-chatgpt-for-your-local-setup-heres-a-list-of-impressive-free-software-picks/"><u>Anticipating ChatGPT for Your Local Setup? Here's a List of Impressive Free Software Picks!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-funimate-masterclass-quick-video-access/"><u>In 2024, Funimate Masterclass Quick Video Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-aurora-hdr-setting-photography-trends/"><u>Is Aurora HDR Setting Photography Trends?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-picks-experts-choice-of-4k-dslr-rigs/"><u>Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
 </ul></div>
 

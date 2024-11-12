@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Cloud Storage Expenses Made Simple  Comparison Guide\""
-date: 2024-07-27T11:15:47.338Z
-updated: 2024-07-28T11:15:47.338Z
+date: 2024-11-06T05:10:24.478Z
+updated: 2024-11-12T01:12:14.026Z
 tags: 
   - screen-recording
   - ai video
@@ -55,9 +55,6 @@ The following are cloud storage services that give the best **cloud storage pric
 
 _**\# pCloud**_
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pcloud](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-1.JPG)
 
 For secure cloud storage services, especially for more official, commercial, and professional users, pCloud will always be the first option that comes to mind.
@@ -83,17 +80,18 @@ Here are the monthly **cloud storage pricing** packages.
 Creating an account will grant you free access to 10 TB of storage! Already a success for my use.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Best price of unlimited cloud storage service
 
 For the best **cloud storage prices** for unlimited storage, here is a list of a few recommended cloud storage services.
 
 _**\# Sync.com**_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sync.com](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-3.JPG)
 
 The service offers one of the industry's most excellent versioning systems, broad file-sharing functionality, outstanding security, and privacy.
@@ -121,9 +119,6 @@ You can use the following cloud service providers for the cheapest cloud storage
 
 _**\# Sync.com**_
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![sync.com](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-5.JPG)
 
 Sync.com comes out on top of our list of the best cloud storage options because the company emphasizes data protection while maintaining a high functionality level for more skilled users. The fact that it is encrypted from end to end implies that both its upload and download rates are rather sluggish. Because this is a zero-knowledge service, nobody but you will be able to decrypt your data. Even though there are no monthly plans available, the price of the service is relatively reasonable, which is a plus given the high level of protection it provides; yet, this absence may be inconvenient for specific customers.
@@ -132,9 +127,6 @@ Sync.com comes out on top of our list of the best cloud storage options because 
 
 _**\# IceDrive**_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icedrive](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-6.JPG)
 
 IceDrive, a cloud storage newcomer in the United Kingdom, may not yet have the power and polish of the leading competitors. Still, the firm already has more than enough cool features to take a cautious look. Users of Windows may navigate their storage space using Explorer, for instance, and do tasks such as relocating, renaming, opening, and editing files, just as if they were working on a local disk. A specialized application compatible with Windows, Mac OS X, and Linux takes things further by enabling you to explore your file system, preview documents, and stream your media files using an integrated player.
@@ -143,9 +135,6 @@ IceDrive, a cloud storage newcomer in the United Kingdom, may not yet have the p
 
 _**\# Google Drive**_
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![googledrive](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-7.JPG)
 
 There are six different membership levels available for Google One, the most basic of which provides 100GB of storage space for $2 per month. Using the Google One app, you can easily manage your account, switch between plans, free up storage space on your account, and take advantage of other exclusive member perks. If you go to the Google Drive website, you will discover that most of their plans are geared toward businesses and cost between $6 and $18 per month per user. Every business plan comes with a free trial period of fourteen days.
@@ -153,8 +142,12 @@ There are six different membership levels available for Google One, the most bas
 **Pricing**: 15GB for free, 100GB - $7.49; 250GB - $10; and 500GB - $18.95 monthly
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: What to consider other than price when choosing cloud storage services?
 
 **Cloud storage pricing** is a vital factor when choosing a service. However, the requirements and evaluation standards you employ when selecting a cloud provider will be particular to your business. So, any service provider evaluation will often concentrate on a few critical criteria.
@@ -171,6 +164,13 @@ It is reasonable to worry about becoming bound to a specific cloud vendor. As **
 
 Organizations must consider two key aspects of data access to cloud services: speed and affordability. Understanding cloud storage providers' service-level agreements (SLAs) is essential for speed. Generally speaking, the storage business can loosen its guarantees regarding access speed the more affordable the storage is. This is especially true for cloud archive storage, which costs very little, where the SLA for data access is expressed in hours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: FAQs
 
 ### 1\. How can I get 100GB for free?
@@ -181,13 +181,17 @@ Most cloud storage companies give customers free storage, such as 2GB, 5GB, or 1
 
 The most extraordinary cloud service offered by TeraBox also offers 1TB of free storage. TeraBox also guarantees ISO/IEC-certified cloud security and offers "Locked Box" functionality for private cloud storage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Which cloud storage is the cheapest?
 
 The least expensive 1TB of cloud storage is available from Icedrive for $4.17 per month when invoiced annually. Nevertheless, Sync.com 2TB plan, which costs $8 per month, provides a superior bargain. IDrive is the lowest option regarding online backup, offering 5TB for just $59.62 for the first year.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 After comparing our best choices of **GCP storage pricing** for data storage, we hope you have all the details you require to make an informed decision. Although it is good to research before picking any of the above software, we assure you that our list of recommendations and **cloud storage pricing comparison** is the latest. Thus, you should be able to choose the cloud-based storage that best suits your needs with the help of the information provided here.
@@ -206,18 +210,6 @@ If security is your top priority, choose Sync.com, IceDrive, and pCloud. They ar
 
 Here we recommend the cloud storage services with the best prices in three categories.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Best price of lifetime license cloud storage
 
 The following are cloud storage services that give the best **cloud storage prices** for a lifetime license.
@@ -254,9 +246,6 @@ For the best **cloud storage prices** for unlimited storage, here is a list of a
 
 _**\# Sync.com**_
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sync.com](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-3.JPG)
 
 The service offers one of the industry's most excellent versioning systems, broad file-sharing functionality, outstanding security, and privacy.
@@ -269,9 +258,6 @@ Sync.com offers two plans for unlimited cloud storage service:
 
 _**\# Dropbox**_
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dropbox](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-4.JPG)
 
 It established numerous file-sharing and syncing trends currently refined. Dropbox first used the sync-folder model, and this version is among the finest.
@@ -287,10 +273,14 @@ You can use the following cloud service providers for the cheapest cloud storage
 
 _**\# Sync.com**_
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![sync.com](https://images.wondershare.com/filmora/article-images/2022/11/cloud-storage-pricing-5.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sync.com comes out on top of our list of the best cloud storage options because the company emphasizes data protection while maintaining a high functionality level for more skilled users. The fact that it is encrypted from end to end implies that both its upload and download rates are rather sluggish. Because this is a zero-knowledge service, nobody but you will be able to decrypt your data. Even though there are no monthly plans available, the price of the service is relatively reasonable, which is a plus given the high level of protection it provides; yet, this absence may be inconvenient for specific customers.
 
@@ -312,6 +302,13 @@ There are six different membership levels available for Google One, the most bas
 
 **Pricing**: 15GB for free, 100GB - $7.49; 250GB - $10; and 500GB - $18.95 monthly
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: What to consider other than price when choosing cloud storage services?
 
 **Cloud storage pricing** is a vital factor when choosing a service. However, the requirements and evaluation standards you employ when selecting a cloud provider will be particular to your business. So, any service provider evaluation will often concentrate on a few critical criteria.
@@ -328,31 +325,33 @@ It is reasonable to worry about becoming bound to a specific cloud vendor. As **
 
 Organizations must consider two key aspects of data access to cloud services: speed and affordability. Understanding cloud storage providers' service-level agreements (SLAs) is essential for speed. Generally speaking, the storage business can loosen its guarantees regarding access speed the more affordable the storage is. This is especially true for cloud archive storage, which costs very little, where the SLA for data access is expressed in hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. How can I get 100GB for free?
 
 Most cloud storage companies give customers free storage, such as 2GB, 5GB, or 15GB. Very few cloud storage services offer 100GB of free internet storage. As far as I'm aware, Degoo and CBackup are the storage companies that offer 100GB of free cloud storage, followed by Mega's 50GB of free storage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Where can I get 1TB of cloud storage for free?
 
 The most extraordinary cloud service offered by TeraBox also offers 1TB of free storage. TeraBox also guarantees ISO/IEC-certified cloud security and offers "Locked Box" functionality for private cloud storage.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Which cloud storage is the cheapest?
 
 The least expensive 1TB of cloud storage is available from Icedrive for $4.17 per month when invoiced annually. Nevertheless, Sync.com 2TB plan, which costs $8 per month, provides a superior bargain. IDrive is the lowest option regarding online backup, offering 5TB for just $59.62 for the first year.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -384,7 +383,26 @@ After comparing our best choices of **GCP storage pricing** for data storage, we
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-arcade-adventurers-approaches/"><u>[New] 2024 Approved ARCADE ADVENTURERS' APPROACHES</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-systems-for-tracking-human-manoeuvres/"><u>[New] Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo/"><u>[Updated] In 2024, Efficient Techniques for Unwrapping Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tips-for-emptying-your-youtubes-watch-later-queue/"><u>[Updated] Tips for Emptying Your YouTube's Watch Later Queue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beneath-the-oceans-veil-tips-for-recording-top-notch-underwater-gopro-videos/"><u>2024 Approved Beneath the Ocean’s Veil Tips for Recording Top-Notch Underwater GoPro Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-practices-for-high-impact-customer-endorsements/"><u>2024 Approved Best Practices for High-Impact Customer Endorsements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>2024 Approved Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-playback-import-tunes-into-inshot/"><u>2024 Approved Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensively-understanding-wm6-setup-for-2024/"><u>Comprehensively Understanding WM6 Setup for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-list-of-budget-friendly-online-editors/"><u>In 2024, Comprehensive List of Budget-Friendly Online Editors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/new-horizons-in-portable-computing-an-insightful-critique-of-the-refreshed-microsoft-surface-pro-7/"><u>New Horizons in Portable Computing: An Insightful Critique of the Refreshed Microsoft Surface Pro 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-frame-rate-selection-a-guide-to-best-slow-motion-filmmaking-techniques-for-2024/"><u>Perfect Frame Rate Selection A Guide to Best Slow Motion Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/snapshots-of-progress-windows-10s-new-features/"><u>Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successful-solution-to-intel-and-nvidia-graphic-swap/"><u>Successful Solution to Intel & Nvidia Graphic Swap</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-how-to-manual-for-time-stamped-videos-on-youtubes/"><u>The How-To Manual for Time-Stamped Videos on YouTubes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-6-eco-friendly-affordable-4k-home-theaters/"><u>Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-secure-cloud-stores-for-your-android-compiled/"><u>Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-youtubes-new-era-post-vidcon-events-for-2024/"><u>Unveiling Youtube's New Era Post-VidCon Events for 2024</u></a></li>
+</ul></div>
 

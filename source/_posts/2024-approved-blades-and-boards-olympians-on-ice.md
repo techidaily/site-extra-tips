@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Blades & Boards  Olympians on Ice\""
-date: 2024-07-27T11:15:25.341Z
-updated: 2024-07-28T11:15:25.341Z
+date: 2024-11-04T19:09:29.623Z
+updated: 2024-11-12T03:10:09.061Z
 tags: 
   - screen-recording
   - ai video
@@ -32,9 +32,6 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
@@ -47,16 +44,10 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
@@ -66,8 +57,12 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
 In today's world, people prefer checking out highlights of sports events when they cannot watch the whole event due to time constraints and work commitments. They prefer a video package containing the highlights of the sports event, and hence, you can get a lot of traction if you make figure skating highlights 2022 Winter Olympics Beijing. To make a video showing the highlights of figure skating, you need a professional video editing software. This is because you need certain video effects that are commonly used in highlight videos.
@@ -86,9 +81,6 @@ For macOS 10.12 or later
 
 Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -113,11 +105,6 @@ In Olympic competition, skaters need to perform two minutes and 40 seconds short
 
 Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
@@ -126,16 +113,23 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
@@ -148,20 +142,17 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
 In today's world, people prefer checking out highlights of sports events when they cannot watch the whole event due to time constraints and work commitments. They prefer a video package containing the highlights of the sports event, and hence, you can get a lot of traction if you make figure skating highlights 2022 Winter Olympics Beijing. To make a video showing the highlights of figure skating, you need a professional video editing software. This is because you need certain video effects that are commonly used in highlight videos.
@@ -180,18 +171,96 @@ For macOS 10.12 or later
 
 Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
+![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
+
+Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
+
+Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
+
+Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Conclusion
+
+Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
+
+## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
+
+In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
+
+Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
+
+![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
+
+Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
+
+![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
+
+Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
+
+![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
+
+![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
+
+Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
+
+![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
+
+![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
+
+Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
+
+![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+## Part 2\. Create a Video for Showing the Highlights of Figure Skating
+
+In today's world, people prefer checking out highlights of sports events when they cannot watch the whole event due to time constraints and work commitments. They prefer a video package containing the highlights of the sports event, and hence, you can get a lot of traction if you make figure skating highlights 2022 Winter Olympics Beijing. To make a video showing the highlights of figure skating, you need a professional video editing software. This is because you need certain video effects that are commonly used in highlight videos.
+
+For example, you need pan and zoom effects to highlight still footage from the sports event and focus on the main athlete in the still photo slowly. Similarly, if you have a video footage of the sports event, you need to apply slow motion effect to make it more intriguing and engaging. Besides, the transition effects, motion tracking effects, background music, voice over, and text and title effects are necessary for a professional-quality highlight video of a sports event.
+
+We recommend Wondershare Filmora as a complete [video editor](https://tools.techidaily.com/wondershare/filmora/download/) that comes with all the tools and features for making the perfect highlights of any sports event such as figure skating highlights of Winter Olympics 2022\. In fact, there are over 800 effects and options available in Filmora. Here are the steps to how to create a video containing the highlights of figure skating.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Filmora. Launch Filmora and click on New Project.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 2: Go to File > Project Settings and set the parameters as per your requirements.
+
+Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
+
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -204,9 +273,6 @@ Step 6: When everything is done, click on Export to save the video and share any
 
 Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -215,97 +281,12 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
-
-![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
-
-Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
-
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
-
-![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
-
-Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
-
-![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
-
-Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
-
-![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
-
-Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
-
-Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 2\. Create a Video for Showing the Highlights of Figure Skating
-
-In today's world, people prefer checking out highlights of sports events when they cannot watch the whole event due to time constraints and work commitments. They prefer a video package containing the highlights of the sports event, and hence, you can get a lot of traction if you make figure skating highlights 2022 Winter Olympics Beijing. To make a video showing the highlights of figure skating, you need a professional video editing software. This is because you need certain video effects that are commonly used in highlight videos.
-
-For example, you need pan and zoom effects to highlight still footage from the sports event and focus on the main athlete in the still photo slowly. Similarly, if you have a video footage of the sports event, you need to apply slow motion effect to make it more intriguing and engaging. Besides, the transition effects, motion tracking effects, background music, voice over, and text and title effects are necessary for a professional-quality highlight video of a sports event.
-
-We recommend Wondershare Filmora as a complete [video editor](https://tools.techidaily.com/wondershare/filmora/download/) that comes with all the tools and features for making the perfect highlights of any sports event such as figure skating highlights of Winter Olympics 2022\. In fact, there are over 800 effects and options available in Filmora. Here are the steps to how to create a video containing the highlights of figure skating.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Filmora. Launch Filmora and click on New Project.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 2: Go to File > Project Settings and set the parameters as per your requirements.
-
-Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
-
-Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
-
-Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
-
-Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-## Conclusion
-
-Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
-
-## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
-
-In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
-
-Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
@@ -323,6 +304,13 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
@@ -330,6 +318,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -357,9 +358,6 @@ Step 2: Go to File > Project Settings and set the parameters as per your require
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -368,9 +366,6 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
@@ -397,7 +392,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-visualize-success-with-these-three-insta-video-caption-approaches/"><u>[New] 2024 Approved Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-all-about-srt-essential-information-made-easy/"><u>[New] All About SRT Essential Information Made Easy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-compilation-ringtone-renaissance-sites-for-2024/"><u>[New] Ultimate Compilation Ringtone Renaissance Sites for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-changing-video-pace-on-your-instagram-feed/"><u>[Updated] Changing Video Pace on Your Instagram Feed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-seamless-srt-to-sub-a-comprehensive-guide/"><u>[Updated] Seamless SRT to SUB A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-best-lightroom-alternatives-free-and-paid/"><u>10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-buying-smart-key-accessories-for-dynamic-cinematography/"><u>2024 Approved Buying Smart Key Accessories for Dynamic Cinematography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-conversations-writing-engaging-dialogues/"><u>2024 Approved Crafting Conversations Writing Engaging Dialogues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/converting-social-media-audio-to-personalized-mobile-alerts-for-2024/"><u>Converting Social Media Audio to Personalized Mobile Alerts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disconnects-on-zoom-tech-glitches-or-user-errors/"><u>Disconnects on Zoom: Tech Glitches or User Errors?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-disney-disguises-the-goofy-trek/"><u>Dissecting Disney Disguises 'The Goofy Trek'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-guide-best-10-cost-free-transformers-for-jpg-to-gif/"><u>Exclusive Guide Best 10 Cost-Free Transformers for JPG to GIF</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-10-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 10 Pro 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-combining-the-best-of-zoom-and-skype-video-calls/"><u>In 2024, Strategies for Combining the Best of Zoom and Skype Video Calls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/ingenious-approaches-to-facebook-video-ad-crafting/"><u>Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ringtone-renaissance-websites-worth-visiting/"><u>Ringtone Renaissance Websites Worth Visiting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+</ul></div>
 

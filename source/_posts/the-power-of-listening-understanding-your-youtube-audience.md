@@ -1,7 +1,7 @@
 ---
 title: "\"The Power of Listening  Understanding Your YouTube Audience\""
-date: 2024-07-27T11:20:24.138Z
-updated: 2024-07-28T11:20:24.138Z
+date: 2024-11-07T20:31:33.647Z
+updated: 2024-11-12T10:46:05.991Z
 tags: 
   - screen-recording
   - ai video
@@ -22,18 +22,12 @@ All social media has a comment section where in those who watch or follow you ar
 
 If you are a content creator who makes product reviews, the comment section is also one that will help the brand. Most brands want to have a voice on matters that affect them. The most powerful way to do that on YouTube is to make amazing videos on topics dear to your heart. But you don't want people to think of you as merely a broadcaster. Social media requires that you be social and make intelligent comments on your videos and those of others, showing that you are trying, and engaging with your audience.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to view comments on youtube](https://images.wondershare.com/filmora/article-images/2022/11/how-to-view-comments-on-youtube.jpg)
 
 Unfortunately, when it comes to comment, YouTube can be a little clunky and time consuming especially as your channel grows and you have more comments to respond to.
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -42,9 +36,6 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -53,10 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -68,6 +55,13 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -87,12 +81,23 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
 
@@ -112,9 +117,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -132,6 +134,13 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,7 +176,26 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>[New] 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>[New] Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-practices-for-ps3-video-capture-setup/"><u>[New] In 2024, Efficient Practices for PS3 Video Capture Setup</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>[New] The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-notch-grid-crafting-made-simple-our-expertly-selected-10-tools-for-2024/"><u>[New] Top-Notch Grid Crafting Made Simple Our Expertly Selected 10 Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-harnessing-external-light-for-cozy-interior-spaces/"><u>[Updated] 2024 Approved Harnessing External Light for Cozy Interior Spaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-learn-how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>[Updated] Learn How to Blur a Part of a Picture on PC/Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/15-fun-filled-multiplayer-titles-for-friends-for-2024/"><u>15 Fun-Filled Multiplayer Titles for Friends for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-drivers-at-your-fingertips-quick-and-effortless-auto-installation-guide/"><u>AMD Drivers at Your Fingertips - Quick and Effortless Auto-Installation Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-practices-snatching-supreme-photos-for-free-for-2024/"><u>Best Practices Snatching Supreme Photos for Free for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blurry-or-crisp-master-partial-blurring-on-devices/"><u>Blurry or Crisp? Master Partial Blurring on Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choreograph-cheeky-comics-via-giphy-for-2024/"><u>Choreograph Cheeky Comics via Giphy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-imaging-top-8k-cameras-unveiled/"><u>Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-encoder-hardware-for-digital-media/"><u>Essential Encoder Hardware for Digital Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-youtube-video-to-text-converters-online/"><u>In 2024, Best YouTube Video to Text Converters Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-14-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 14 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-see-vr-movies-for-film-enthusiasts/"><u>Must-See VR Movies for Film Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/preventing-virtual-reality-nausea-for-2024/"><u>Preventing Virtual Reality Nausea for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-3-cutting-edge-innovations-in-the-iphone-16-reasons-to-get-pumped-for-an-upgrade-guide/"><u>Top 3 Cutting-Edge Innovations in the iPhone 16: Reasons to Get Pumped for an Upgrade! Guide</u></a></li>
+</ul></div>
 

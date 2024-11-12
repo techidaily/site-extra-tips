@@ -1,7 +1,7 @@
 ---
 title: "Stepwise Reduction Tactics for Audio Levels in FL Studio"
-date: 2024-07-27T11:14:19.975Z
-updated: 2024-07-28T11:14:19.975Z
+date: 2024-11-08T21:36:31.868Z
+updated: 2024-11-11T21:24:08.341Z
 tags: 
   - screen-recording
   - ai video
@@ -36,18 +36,12 @@ Step2 Open your FL Studio window on your pc or mac. Then, choose the right volum
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. FL Studio Alternative to Fade Audio
 
 If you have the latest version of FL i.e., FL Studio 20, then it will allow you for multiple recordings. For this, you just have to build a looped region and then tap on ‘Record’. Now it will create new tracks of its own when it reaches the end region of the loop.
@@ -60,9 +54,6 @@ However, if you are looking forward to the alternative option for FL Studio, [Fi
 
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
@@ -74,24 +65,42 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -111,9 +120,6 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
 ### 1\. How to fade out FL studio mobile?
@@ -125,8 +131,12 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -153,7 +163,22 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-filmora-video-avi-to-image-gif-a-step-by-step-guide-for-2024/"><u>[New] Filmora Video (AVI) to Image (GIF) A Step by Step Guide for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-decoding-the-instagram-story-viewer-experience/"><u>[Updated] Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-fashion-filming-simplified-for-macos-users/"><u>[Updated] In 2024, Fashion Filming Simplified for MacOS Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transfer-tactics-for-youtube-to-dailymotion-success/"><u>[Updated] In 2024, Transfer Tactics for YouTube to Dailymotion Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-iphone-imagery-with-light-tricks/"><u>Boost Your IPhone Imagery With Light Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brighten-and-sharpen-expert-tips-for-v22-video-enhancement-for-2024/"><u>Brighten and Sharpen Expert Tips for V2.2 Video Enhancement for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-heights-with-dji-spark-the-small-drone-selfie-powerhouse/"><u>Capture Heights with DJI Spark The Small Drone Selfie Powerhouse</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-besten-6-kunstlichen-intelligenz-videobeauftragler-zur-verbesserung-der-bildauflosung/"><u>Die Besten 6 Künstlichen Intelligenz-Videobeauftragler Zur Verbesserung Der Bildauflösung</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/handsome-horizons-premium-pc-backgrounds-online/"><u>Handsome Horizons Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-azure-speech-to-text-your-ultimate-development-toolkit/"><u>In 2024, Azure Speech-to-Text Your Ultimate Development Toolkit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-video-speed-on-instagram-desktop-guide/"><u>In 2024, Elevate Your Video Speed on Instagram Desktop Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-correct-printer-drivers-the-ultimate-guide-for-hp-laserjet-pro-m127fn/"><u>Installing the Correct Printer Drivers: The Ultimate Guide for HP LaserJet Pro M127FN</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-commercial-sky-storage-choices/"><u>Prime Commercial Sky-Storage Choices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tale-weavers-hub-hall-of-fame-picks/"><u>Tale Weavers Hub - Hall of Fame Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-effect-enhancing-fcp-plug-ins/"><u>Top 10 Effect-Enhancing FCP Plug-Ins</u></a></li>
+</ul></div>
 
