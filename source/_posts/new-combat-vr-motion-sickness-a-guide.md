@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Combat VR Motion Sickness  A Guide\""
-date: 2024-11-05T23:58:26.842Z
-updated: 2024-11-11T17:13:19.252Z
+date: 2024-11-17T21:21:32.156Z
+updated: 2024-11-21T21:21:06.373Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 ways to reduce VR sickness
 
  People are individuals with individual mindsets, and have different response behaviors to different type of sickness they encounter. Past experiments have shown that the age group from 2-12 suffers from the sickness and it reportedly decreases till the age of 21\. The cycle then starts again in the late 50’s. We are now in a dire need of ways to get rid of the sickness in order to fully experience the VR systems and make them user friendly. According to Popular Science, VR sickness and general VR discomfort are currently among the biggest hurdles to overcome before VR is comfortably adopted by the mass market. Scientists have set their goals upon making the VR system a true hit towards the end of this year. The highlights say that the scientists have found ways to eliminate virtual reality sickness, making 2017 to be ‘the year of Virtual Reality’. Until then we can adopt some careful set of rules to avoid that nauseous feeling during the game.
@@ -47,16 +51,7 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Virtual reality sickness?
@@ -66,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why virtual reality make people sickness
@@ -79,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -100,16 +89,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-elite-desktop-pcs/"><u>[New] Ultimate Choice Elite Desktop PCs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fundamental-equipment-for-channel-foundations-for-2024/"><u>[Updated] Fundamental Equipment for Channel Foundations for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-analyzing-the-latest-in-facetune-a-comprehensive-review/"><u>2024 Approved Analyzing the Latest in Facetune - A Comprehensive Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/calm-and-clear-how-to-smooth-out-a-jittery-gopro-video/"><u>Calm and Clear How to Smooth Out a Jittery GoPro Video</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-razr-40-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Razr 40 Ultra Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-v27-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo V27 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-podcast-writing-tips-and-free-template-samples/"><u>Mastering Podcast Writing Tips & Free Template Samples</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-methods-for-getting-roblox-running-smoothly-again-a-2022-guide/"><u>New Methods for Getting Roblox Running Smoothly Again: A 2022 Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolve-post-update-black-screen-issue-on-windows-10/"><u>Resolve Post-Update Black Screen Issue on Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/saving-big-on-vr-equipment-from-china/"><u>Saving Big on VR Equipment From China</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-12-budget-friendly-high-performing-video-players-pcandroid-devices/"><u>Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>[New] Achieve Peak Performance Prime Methods for Zoom Conversion Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlimited-access-to-creative-mcb-resources/"><u>[New] In 2024, Unlimited Access to Creative MCB Resources</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckle-composer-app/"><u>[Updated] Chuckle Composer App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-between-audio-and-video-which-platform-takes-the-lead/"><u>2024 Approved Between Audio and Video, Which Platform Takes the Lead?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-12-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi 12 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oneplus-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from OnePlus .</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-powerhouse-unveiled-in-depth-echo-dot-gen-3-with-alexa-reviews/"><u>Compact Powerhouse Unveiled: In-Depth Echo Dot (Gen 3) with Alexa Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-microphones-synergy-with-4k-cameras/"><u>Cutting-Edge Microphones Synergy with 4K Cameras</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assessing-gopro-hero5-session-quality/"><u>In 2024, Assessing GoPro Hero5 Session Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>In 2024, Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigate-lifes-challenges-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>Navigate Life's Challenges with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-future-of-the-metaverse-next-steps-explored-by-zdnet/"><u>Navigating the Future of the Metaverse: Next Steps Explored by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-system-innovative-apps-of-2023/"><u>Skyrocket Your System: Innovative Apps of 2023</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-staples-decoded-exploring-facebook-twitter-instagram-and-youtube/"><u>Social Media Staples Decoded: Exploring Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-slomo-videography-app-review-update/"><u>Ultimate Guide to SloMo Videography App Review Update</u></a></li>
 </ul></div>
 

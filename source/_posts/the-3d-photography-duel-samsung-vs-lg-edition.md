@@ -1,7 +1,7 @@
 ---
 title: "\"The 3D Photography Duel  Samsung VS LG Edition\""
-date: 2024-11-06T22:37:47.111Z
-updated: 2024-11-12T05:17:43.685Z
+date: 2024-11-21T03:21:21.790Z
+updated: 2024-11-22T03:13:07.560Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ Samsung has launched its 360 gear with the release of Galaxy S7 and Samsung S7 E
 
 ![samsung gear 360 vs lg 360cam](https://images.wondershare.com/filmora/article-images/samsung-gear-360-vs-lg-360-cam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Basic specs comparison
 
 _Below you can find the difference between both devices at a glance:_
@@ -62,10 +66,7 @@ _Below you can find the difference between both devices at a glance:_
 All these specifications can help users to make decision about best cam as per their requirement and budget but at the same time you must know about real user reviews leading to some pros and cons of these devices. Below are complete details:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons
@@ -87,16 +88,13 @@ All these specifications can help users to make decision about best cam as per t
 | \-                                                           | Not water-resistant                                                                        |                                                                                      |
 | \-                                                           | Doesn’t serve with internal storage space                                                  |                                                                                      |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3 Image quality comparison
 
 When we watch 360 videos on tablet or smartphone then it leads to immersive experience; a facility of VR headset can add more features to your 360 video world. In case of Gear 360 you will be able to enjoy 4K resolution whereas LG 360 serves with 2K resolution only thus [Samsung Gear 360](https://tools.techidaily.com/wondershare/filmora/download/) will be better choice in this case. On the other side if we talk about audio abilities then LG360 has an edge over Samsung Gear 360 because of its ability to record 5.1 level surround sounds that is major requirement of a 360 degree video. The Gear 360 possess stereo record feature that can capture voice only in two directions thus resultant audio in scenes is not that much clear. Moving forward to more technical specifications, the bit rate – well known as quality of image with resolution is 60MB/second in case of Gear 360 whereas LG360 cam limits up to 19MB/second, this makes a big difference in quality. If we count features then Samsung gear 360 definitely have more features as like its waterproof body, highly stabilized video results and F2.0 dual lenses but LG360 lacks behind in these features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4 Editing software comparison comparison
 
@@ -105,10 +103,7 @@ It is possible to stitch videos as well as photographs taken from the 360 degree
 Check this side-by-side video review to know more about this two 360 degree cameras:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5 Conclusion
@@ -118,10 +113,7 @@ Price difference of both devices is well reflected in the comparison table above
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -139,20 +131,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-design-innovators-top-free-afx-templates-collection/"><u>[Updated] Design Innovators Top Free AFX Templates Collection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>[Updated] Numerical Leaderboard Spotlight Eighth in Photo Blender</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-conjoin-video-streams-for-queue-curation/"><u>2024 Approved Conjoin Video Streams for Queue Curation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-fine-tune-youtube-video-pacing-desktopmobile/"><u>2024 Approved Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-srt-modification-strategies-for-pc-and-macos-for-2024/"><u>Advanced SRT Modification Strategies for PC and macOS for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/echoing-scenes-iphone-as-a-tool-for-music-filmmakers/"><u>Echoing Scenes IPhone as a Tool for Music Filmmakers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-for-when-warzone-ignores-your-gpu-on-windows-10-devices-now-solved/"><u>Fix for When Warzone Ignores Your GPU on Windows 10 Devices - Now Solved</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-pass-advantages-the-new-reality-for-xbox-gold-users/"><u>Game Pass Advantages: The New Reality for Xbox Gold Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/immersive-tech-triumph-best-of-the-best-oculus-devices/"><u>Immersive Tech Triumph Best of the Best Oculus Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/live-photography-to-continuous-visual-storytelling/"><u>Live Photography to Continuous Visual Storytelling</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210687281-9781797221311-manifest/"><u>Manifest | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speech-to-text-technology-absolutely-gratuitous/"><u>Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-audio-glitches-solving-crackling-sounds-in-windows-os/"><u>Troubleshooting Audio Glitches: Solving Crackling Sounds in Windows OS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-epic-footage-and-photos-mastering-the-hero5-black-experience/"><u>[New] In 2024, Epic Footage and Photos Mastering the Hero5 Black Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-much-do-you-really-earn-the-podcaster-perspective/"><u>2024 Approved How Much Do You Really Earn? - The Podcaster Perspective</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-iconic-crafter-kapwings-meme-toolkit/"><u>Become an Iconic Crafter Kapwing's Meme Toolkit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/circular-engine-kit-for-2024/"><u>Circular Engine Kit for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-m45n-pro-452dn-device-driver-for-free/"><u>Download the Latest HP M45n Pro 452Dn Device Driver for Free</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infuse-your-instagram-with-funny-flair-a-complete-guide-to-gif-memes/"><u>In 2024, Infuse Your Instagram with Funny Flair – A Complete Guide to GIF Memes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11/"><u>In 2024, The Essential Guide to Apple's iPhone Camera Evolution in iOS 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-gif-a-step-by-step-guide/"><u>Mastering GIF A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-experts-techniques-for-clearing-figma-backdrops/"><u>The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-photographic-archives/"><u>Top Tier Photographic Archives</u></a></li>
 </ul></div>
 

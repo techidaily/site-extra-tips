@@ -1,7 +1,7 @@
 ---
 title: In-Depth Hardware Analysis by Tom's Technology Hub
-date: 2024-11-11T04:16:28.482Z
-updated: 2024-11-12T09:07:34.381Z
+date: 2024-11-16T18:11:50.386Z
+updated: 2024-11-22T02:29:51.358Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,25 +66,22 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-apex-level-clarity-convert-high-res-videos/"><u>[Updated] Apex-Level Clarity Convert High-Res Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/15-top-free-slow-motion-video-recording-apps-for-iphoneandroid-for-2024/"><u>15 Top Free Slow Motion Video Recording Apps for iPhone/Android for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-box-bonanza-top-10-sites-to-snag-mystery-boxes-on-deals/"><u>2024 Approved Box Bonanza Top 10 Sites to Snag Mystery Boxes on Deals</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/beyond-expectations-analyzing-the-coolpix-l340-review/"><u>Beyond Expectations? Analyzing the Coolpix L340 Review</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/deep-dive-into-windows-pc-hdr-capabilities/"><u>Deep Dive Into Windows PC HDR Capabilities</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clearsky-top-notch-photo-background-cleaner/"><u>In 2024, ClearSky Top-Notch Photo Background Cleaner</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-the-open-box-phenomenon/"><u>Innovating the Open-Box Phenomenon</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-networked-video-streaming-with-vlc/"><u>Navigating Networked Video Streaming with VLC</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/problemlos-samsung-datenwanderung-losungen-fur-unerwartete-fehler/"><u>Problemlos Samsung-Datenwanderung - Lösungen Für Unerwartete Fehler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-the-puzzle-overcoming-a-blank-login-window-on-win1011/"><u>Solving the Puzzle: Overcoming a Blank Login Window on Win10/11</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-correcting-the-win32kfullsys-blue-screen-of-death-problem/"><u>Understanding and Correcting the Win32KFull.sys Blue Screen of Death Problem</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-video-broadcast-tools-wirecasts-place/"><u>[New] Assessing Video Broadcast Tools WireCast's Place</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-9gag-for-making-memes-a-step-by-step-guide/"><u>[New] Mastering 9GAG for Making Memes A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-slow-motion-cameras-ranked/"><u>[Updated] Best Slow-Motion Cameras Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-music-sections-advanced-audacity-techniques/"><u>[Updated] Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/advanced-tips-for-podcast-feeds-and-rss-integration/"><u>Advanced Tips for Podcast Feeds and RSS Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ark-survival-ascended-debugging-the-persistent-pc-crash-issues-fix-1-9/"><u>ARK: Survival Ascended - Debugging the Persistent PC Crash Issues (Fix #1-9)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-an-ai-sidekick-on-snapchat-myai-or-chatgpt/"><u>Choosing an AI Sidekick on Snapchat: MyAI or ChatGPT?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clockwise-conundrum-video-undo-for-iphone-users-for-2024/"><u>Clockwise Conundrum Video Undo for iPhone Users for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-tricks-for-mac-users-handling-persistent-cooling-fan-activity-tips/"><u>Essential Tricks for Mac Users: Handling Persistent Cooling Fan Activity, Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-watch-dvd-films-flawlessly-on-your-ps3-effective-methods/"><u>How to Watch DVD Films Flawlessly on Your PS3 - Effective Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blurry-photos-top-tools-reviewed/"><u>In 2024, Blurry Photos Top Tools Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-independent-iphone-media-journeys/"><u>In 2024, Bridging Independent iPhone Media Journeys</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-creating-a-duet-video-on-tiktok/"><u>Mastering the Art of Creating a Duet Video on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quantum-realms-unraveling-new-worlds-with-10-sci-fi-titles/"><u>Quantum Realms Unraveling New Worlds with 10 Sci-Fi Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-your-iphones-potential-with-live-activities-on-ios-16/"><u>Unlock Your iPhone's Potential with Live Activities on iOS 16</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-pros-and-cons-of-samsung-photo-editor/"><u>Unveiling the Pros & Cons of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-10-website-to-download-montage-music/"><u>Updated 2024 Approved Top 10 Website to Download Montage Music</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

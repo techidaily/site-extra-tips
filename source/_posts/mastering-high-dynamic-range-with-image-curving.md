@@ -1,7 +1,7 @@
 ---
 title: "Mastering High Dynamic Range with Image Curving"
-date: 2024-11-10T09:43:20.034Z
-updated: 2024-11-12T07:25:35.475Z
+date: 2024-11-15T21:28:04.790Z
+updated: 2024-11-21T18:51:10.972Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -40,11 +44,19 @@ Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking 
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
@@ -53,6 +65,10 @@ Play around with the settings in the options bar. There are quite a few differen
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
@@ -69,10 +85,7 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -109,18 +122,18 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/0-best-youtube-music-reaction-videos-2023/"><u>[New] 10 Best YouTube Music Reaction Videos 2023</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>[Updated] 2024 Approved Leveraging Eco-Friendly Visual Effects Revolutionizing Online Video Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-adding-unique-typography-fonts-in-ae/"><u>[Updated] Adding Unique Typography Fonts in AE</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cyclone-shaper-setup/"><u>Cyclone Shaper Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-analysis-vita-video-editor-full-insight/"><u>Expert Analysis Vita Video Editor - Full Insight</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Bypass FRP on OnePlus Ace 2 Pro?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-find-the-best-videographer/"><u>How to Find the Best Videographer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-avoiding-pitfalls-securing-your-skype-recordings-in-obs/"><u>In 2024, Avoiding Pitfalls Securing Your Skype Recordings in OBS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-picks-premium-iphone-tune-selectors/"><u>Top Picks Premium iPhone Tune Selectors</u></a></li>
-<li><a href="https://win-top.techidaily.com/topo-dos-melhores-aplicativos-de-captura-para-windows-11-descobertas-da-movavi/"><u>Topo Dos Melhores Aplicativos De Captura Para Windows 11: Descobertas Da Movavi</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ultimate-guide-to-handbrakes-gpu-enhanced-video-conversion/"><u>Ultimate Guide to Handbrake's GPU-Enhanced Video Conversion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premier-packages-select-laptops-for-advanced-video-workflows/"><u>[Updated] 2024 Approved Premier Packages Select Laptops for Advanced Video Workflows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tricks-for-making-fb-ads-pop-up-on-screen/"><u>[Updated] 2024 Approved Tricks for Making FB Ads Pop Up on Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[Updated] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-primer-on-aerial-robots-drone-dynamics-demystified/"><u>2024 Approved A Primer on Aerial Robots Drone Dynamics Demystified</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-screen-recording-software-for-windows-11-8-e-7-come-capturare-o-selezionare-larea-dello-schermo/"><u>Best Screen Recording Software for Windows 11, 8 E 7: Come Capturare O Selezionare L'Area Dello Schermo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-motion-spectacle-with-polaroid-camplus-cube/"><u>Capturing Motion Spectacle with Polaroid Cam+ Cube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exclusive-list-elite-4k-tv-selection-for-2024/"><u>Exclusive List Elite 4K TV Selection for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-av1s-superiority-over-vp9/"><u>Exploring AV1's Superiority Over VP9</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-meeting-visibility-in-microsoft-teams/"><u>Maximizing Meeting Visibility in Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-your-visual-storytelling-inserting-titles-into-photo-videos-on-windows/"><u>Perfect Your Visual Storytelling Inserting Titles Into Photo Videos on Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superfast-windows-images-scaner/"><u>Superfast Windows Images Scaner</u></a></li>
+<li><a href="https://fox-http.techidaily.com/weave-hilarity-into-graphic-format-giphy-for-2024/"><u>Weave Hilarity Into Graphic Format Giphy for 2024</u></a></li>
 </ul></div>
 

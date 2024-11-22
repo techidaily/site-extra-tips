@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-11-06T00:19:47.204Z
-updated: 2024-11-12T05:55:25.622Z
+date: 2024-11-20T05:39:36.498Z
+updated: 2024-11-22T01:14:13.908Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -48,6 +52,10 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -70,23 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-broadcast-capture-made-easy-your-comprehensive-guide/"><u>[New] Broadcast Capture Made Easy Your Comprehensive Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breakthrough-strategies-for-rapid-fb-media-delivery/"><u>2024 Approved Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-still-moments-from-clips-on-windows-11/"><u>2024 Approved Capturing Still Moments From Clips on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-key-methods-to-capture-and-document-live-youtube-broadcasts/"><u>2024 Approved Key Methods to Capture and Document Live Youtube Broadcasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-backdrop-choices-for-streamers/"><u>2024 Approved Ultimate Backdrop Choices for Streamers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/comprehensive-ratchet-and-clank-examination-reborn-for-a-new-generation/"><u>Comprehensive Ratchet & Clank Examination: Reborn for a New Generation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210197149-9781781318133-crystal-fix/"><u>Crystal Fix | Free Book</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-pixel-series-4-wearable-device-revealed-rumors-on-cost-and-specifications-you-need-to-know/"><u>Google Pixel Series 4 Wearable Device Revealed? Rumors on Cost and Specifications You Need to Know</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-lens-distortion-a-practical-guide-for-gopro-editors/"><u>Navigating Lens Distortion A Practical Guide for GoPro Editors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/non-profit-gaming-soundtrack-sources/"><u>Non-Profit Gaming Soundtrack Sources</u></a></li>
-<li><a href="https://driver-install.techidaily.com/wacom-digital-pen-free-secure-software-for-win10-users/"><u>Wacom Digital Pen - Free, Secure Software for Win10 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-new-lens-on-cinema-embracing-vr-tech/"><u>[New] A New Lens on Cinema Embracing VR Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-software-less-method-to-save-youtube-videos-for-2024/"><u>[New] Free Software-Less Method to Save YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-beginners-blueprint-for-zoom-engagements-for-2024/"><u>[Updated] Beginner’s Blueprint for Zoom Engagements for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-cuts-in-streams-nine-windows-methods-for-smooth-video-playback/"><u>Clear Cuts in Streams: Nine Windows Methods for Smooth Video Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-dji-flying-visor-experience/"><u>In 2024, Evaluating DJI Flying Visor Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to Roku? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/most-popular-5-ios-photoshooting-apps-x-7-8/"><u>Most Popular 5 iOS Photoshooting Apps (X, 7, 8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-webcams-8-your-go-to-for-flawless-livestreams/"><u>Pro Webcams 8 Your Go-To for Flawless Livestreams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/top-5-best-websites-to-add-emojis-to-photo-online-for-2024/"><u>Top 5 Best Websites to Add Emojis to Photo Online for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xsplit-exclusive-direct-split-insight/"><u>XSplit Exclusive Direct Split Insight</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

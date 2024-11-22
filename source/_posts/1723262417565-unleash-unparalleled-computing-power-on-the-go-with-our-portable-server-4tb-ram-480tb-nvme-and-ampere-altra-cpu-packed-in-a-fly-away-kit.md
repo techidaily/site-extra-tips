@@ -1,7 +1,7 @@
 ---
 title: "Unleash Unparalleled Computing Power On-The-Go With Our Portable Server: 4TB RAM, 480TB NVMe, and Ampere Altra CPU Packed in a Fly-Away Kit!"
-date: 2024-11-06T20:21:17.823Z
-updated: 2024-11-11T19:25:11.430Z
+date: 2024-11-15T03:54:52.765Z
+updated: 2024-11-22T05:20:33.589Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,10 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
  Both of these units will be great for businesses that utilize[edge computing](https://www.tomshardware.com/pc-components/cpus/intel-crams-meteor-lake-laptop-chips-into-a-socket-for-edge-computing-includes-arc-graphics-and-npu-for-ai-workloads) . Edge computing is a growing computing strategy that allocates some (or most) of a business's computing power on-site rather than from a cloud solution alone. It significantly reduces internet bandwidth requirements, saving resources and time. The computing strategy has become incredibly popular over the past few years, especially for AI workloads. Reports confirm that data consumption is growing substantially more than internet services can handle worldwide, forcing businesses to switch to edge-based methods for computing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -50,26 +54,17 @@ Next Computing has[unveiled two edge computing "fly-away kits"](https://solution
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-visual-impact-with-photoshops-dynamic-motion-blur-methodology/"><u>[New] 2024 Approved Enhance Visual Impact with Photoshop's Dynamic Motion Blur Methodology</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-frameflick-recorder-reflection/"><u>[New] 2024 Approved FrameFlick Recorder Reflection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-wisdom-for-the-virtual-realm-30plus-metaverse-quotes/"><u>[Updated] Crafting Wisdom for the Virtual Realm 30+ Metaverse Quotes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-hdr-sky-scenes-the-top-10-online-archives/"><u>[Updated] In 2024, HDR Sky Scenes The Top 10 Online Archives</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram/"><u>2024 Approved Elevating Your Visual Storytelling Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-detailed-guide-to-advanced-human-interface-systems/"><u>A Detailed Guide to Advanced Human Interface Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-windows-10-speakers-working-again-the-ultimate-fix/"><u>How to Get Your Windows 10 Speakers Working Again – The Ultimate Fix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising/"><u>In 2024, Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-websites-aimed-at-enhancing-text-appearance/"><u>Top Websites Aimed at Enhancing Text Appearance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-hd-video-editors-for-creators-and-professionals/"><u>Updated 2024 Approved Top HD Video Editors for Creators and Professionals</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/virtual-tournament-gear-showcase-series/"><u>Virtual Tournament Gear Showcase Series</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-best-agricultural-games-for-group-fun-for-2024/"><u>[Updated] 10 Best Agricultural Games for Group Fun for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-change-video-background-in-tiktok-3-ways-for-2024/"><u>[Updated] How to Change Video Background in TikTok [3 Ways] for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-6-software-choices-for-effortless-background-erasing/"><u>Cutting-Edge 6 Software Choices for Effortless Background Erasing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/first-steps-in-learning-av1-compression/"><u>First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-worth-the-upgrade-comparative-review-techradar/"><u>IPad Air 4 vs iPad Air 5: Is It Worth the Upgrade? Comparative Review | TechRadar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-new-sounds-a-comprehensive-introduction-to-home-audio-setups-for-novices/"><u>Navigating New Sounds: A Comprehensive Introduction to Home Audio Setups for Novices</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-text-design-in-10-minutes-or-less-ae-style/"><u>Professional Text Design in 10 Minutes or Less (AE Style)</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-insights-for-placement-of-software-shortcuts-on-taskbar/"><u>Quick Insights for Placement of Software Shortcuts on Taskbar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/naries-of-interactive-marvel-worlds/"><u>Visionaries of Interactive Marvel Worlds</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

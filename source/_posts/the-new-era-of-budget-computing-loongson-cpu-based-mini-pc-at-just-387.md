@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-11-07T03:12:43.074Z
-updated: 2024-11-12T10:22:30.110Z
+date: 2024-11-20T20:49:34.672Z
+updated: 2024-11-21T23:02:17.730Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -58,31 +62,19 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-deep-dive-comparative-analysis-of-audio-editors-magix-edition/"><u>[New] A Deep Dive Comparative Analysis of Audio Editors - Magix Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-10-vfx-tools-for-final-cut/"><u>[New] Best 10 VFX Tools for Final Cut</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-closer-inspection-pro-tips-for-pixelated-play/"><u>[New] Closer Inspection Pro Tips for Pixelated Play</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes/"><u>[New] In 2024, Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-video-editing-apps-for-youtube-creators/"><u>[New] In 2024, Essential Video Editing Apps for YouTube Creators</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[New] In 2024, GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/avigate-youtube-post-production-with-adobe-premiere/"><u>[New] Navigate YouTube Post-Production with Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-master-real-time-video-sharing-on-facebook/"><u>[Updated] 2024 Approved How to Master Real-Time Video Sharing on Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-captivating-presentations-by-adding-tunes/"><u>[Updated] Crafting Captivating Presentations by Adding Tunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-from-novice-to-expert-kinemaster-gs-journey/"><u>[Updated] In 2024, From Novice to Expert KineMaster GS Journey</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-infuse-kinetic-smear-into-photos-in-photoshop-for-2024/"><u>[Updated] Infuse Kinetic Smear Into Photos in Photoshop for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/discovering-your-pcs-power-locating-the-latest-windows-10-powershell-version/"><u>Discovering Your PC's Power: Locating the Latest Windows 10 PowerShell Version</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-drawings-top-artistic-tools-on-chrome-os/"><u>Elevate Your Drawings Top Artistic Tools on Chrome OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-full-periscope-capabilities/"><u>Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-premier-selection-of-vr-cycling-options/"><u>The Premier Selection of VR Cycling Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncovering-8-superior-online-srt-translation-tools/"><u>Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
-<li><a href="https://solve-info.techidaily.com/windows-traffic-shooting-hatae-gae-sasatama-panaraparavanae-btha-ha/"><u>Windows Traffic Shooting: हटाए गए सिस्टम पुनर्प्राव₹ण बंद है</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-6-superior-apps-for-effortless-mac-video-grabbing/"><u>[New] 2024 Approved 6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chortle-chamber-free-funny-template-vaults/"><u>[Updated] Chortle Chamber Free Funny Template Vaults</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-daily-dharma-the-best-yoga-channels-for-self-growth-for-2024/"><u>[Updated] Daily Dharma The Best Yoga Channels for Self-Growth for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-the-science-of-color-grading-via-3d-lut-in-ps/"><u>2024 Approved Breaking Down the Science of Color Grading via 3D LUT in PS</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-pdf-a-partir-dun-disque-dur-formate-sur-un-pc-ou-mac/"><u>Comment Pouvez-Vous Récupérer Des Fichiers PDF À Partir D'un Disque Dur Formaté Sur Un PC Ou Mac ?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-compelling-content-weaving-text-into-os-imagery/"><u>Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/demystifying-whatsapp-audio-talks/"><u>Demystifying WhatsApp Audio Talks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013539324-halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-abridged-blueprint-for-starting-virtual-conversations-zoom-edition/"><u>In 2024, Abridged Blueprint for Starting Virtual Conversations Zoom Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-gt-10-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 8 | Stellar</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-testimonial-videos-boost-brand-credibility/"><u>Why Testimonial Videos Boost Brand Credibility</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

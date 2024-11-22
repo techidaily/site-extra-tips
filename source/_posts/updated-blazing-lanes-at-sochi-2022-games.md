@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2024-11-07T12:10:58.974Z
-updated: 2024-11-11T18:57:50.648Z
+date: 2024-11-20T16:52:06.847Z
+updated: 2024-11-21T21:02:41.708Z
 tags: 
   - screen-recording
   - ai video
@@ -24,13 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -43,6 +36,10 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -52,10 +49,7 @@ Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
@@ -66,26 +60,24 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
@@ -101,19 +93,6 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -156,17 +135,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/hanneling-cashflow-a-beginners-guide-to-youtube-earning/"><u>[New] Channeling Cashflow A Beginner’s Guide to YouTube Earning</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-sharing-joy-iphone-memes/"><u>[New] Sharing Joy IPhone Memes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor-for-2024/"><u>[Updated] Smile, Sob and Snicker with These IG Meme Masters of Humor for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ai-powered-image-processing-hub/"><u>2024 Approved AI-Powered Image Processing Hub</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-disoriented-computer-display/"><u>Adjusting Disoriented Computer Display</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blending-techniques-for-seamless-picture-merging/"><u>Blending Techniques for Seamless Picture Merging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-directory-of-premium-tamil-ringtone-downloads-for-2024/"><u>Comprehensive Directory of Premium Tamil Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y28 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-attracting-eyes-with-these-6-video-genres/"><u>In 2024, Attracting Eyes with These 6 Video Genres</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-visual-virtuosos-questions-addressed/"><u>In 2024, Visual Virtuosos Questions Addressed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-power-quartet-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>The Power Quartet of Social Networking: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windowstechissue-my-pc-wont-stop-responding-to-my-built-in-wifibluetooth-commands/"><u>WindowsTechIssue - My PC Won’t Stop Responding to My Built-In WIFI/Bluetooth Commands.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-breakthrough-backdoor-facebook-access-restored/"><u>[New] 2024 Approved Breakthrough Backdoor Facebook Access Restored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-attenuating-audio-gradually-in-fl-projects/"><u>[New] Attenuating Audio Gradually in FL Projects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-zoom-hd-quality-step-by-step-guide/"><u>[New] Boosting Zoom HD Quality Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-affordable-screen-recorders-with-extra-features/"><u>[Updated] Affordable Screen Recorders with Extra Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chinas-low-cost-vr-solutions/"><u>[Updated] China's Low-Cost VR Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-transforming-life-experiences-into-engaging-yt-videos/"><u>[Updated] In 2024, Transforming Life Experiences Into Engaging YT Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-chill-challenge-highlighting-the-speed-and-skill-of-winter-olympics-x-c-skiers/"><u>2024 Approved Chill Challenge Highlighting the Speed and Skill of Winter Olympics X-C Skiers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acclaimed-selections-outstanding-iphone-tone-specialists/"><u>Acclaimed Selections Outstanding iPhone Tone Specialists</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/augmented-reality-excellence-mastering-the-use-of-spark-ar-luts/"><u>Augmented Reality Excellence Mastering the Use of Spark AR LUTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/custom-logo-blueprints-draw-your-identity-from-free-formats/"><u>Custom Logo Blueprints Draw Your Identity From Free Formats</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fix-netwtw04sys-blue-screen-windows-11/"><u>Fix Netwtw04.sys Blue Screen Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-max-vs-hero-11-a-video-quality-showdown/"><u>GoPro Max vs Hero 11 A Video Quality Showdown</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X6 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-f25-pro-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-efficient-video-marketing-for-smalls-for-2024/"><u>Infographic Efficient Video Marketing for Smalls for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-transform-your-media-best-online-photo-and-video-mashup-creators/"><u>New 2024 Approved Transform Your Media Best Online Photo and Video Mashup Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-windows-file-checkout-tutorial-for-2024/"><u>Speedy Windows File Checkout Tutorial for 2024</u></a></li>
 </ul></div>
 

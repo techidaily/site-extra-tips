@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Sequences  A Movie Maker Approach to Animation\""
-date: 2024-11-10T19:51:08.901Z
-updated: 2024-11-12T08:20:45.289Z
+date: 2024-11-19T05:07:15.481Z
+updated: 2024-11-21T23:35:54.213Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
@@ -53,6 +57,10 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5Save the Video
 
@@ -106,19 +114,6 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
@@ -126,10 +121,7 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step4Add Transitions
@@ -139,10 +131,7 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step5Save the Video
@@ -150,6 +139,10 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -176,13 +169,6 @@ Filmora helps you create your text animation using the controller window as seen
 ##### Step4Export the Project
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -222,20 +208,22 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc/"><u>[New] From MPEG-4 to Multifarious Formats A Guide Using VLC</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-getting-unstuck-troubleshooting-absent-fb-vids/"><u>[Updated] 2024 Approved Getting Unstuck Troubleshooting Absent FB Vids</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-gifs-unleashed-transformative-tools-for-tiktok-creators-for-2024/"><u>[Updated] GIFs Unleashed Transformative Tools for TikTok Creators for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] In 2024, Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-windows-update-error-0x8024002e/"><u>Effective Fixes for the Persistent Windows Update Error 0X8024002E</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-6-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 6 Pro Phone Screen?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Xiaomi Redmi Note 13 5G ?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-5-must-have-equipment-and-basic-software-to-start-vlogging/"><u>In 2024, 5 Must-Have Equipment and Basic Software to Start Vlogging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-curiosity-with-these-6-video-categories/"><u>In 2024, Capture Curiosity with These 6 Video Categories</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-step-by-step-guide-to-creating-viral-tiktok-videos-at-home/"><u>In 2024, Step-by-Step Guide to Creating Viral TikTok Videos at Home</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/personalizing-public-vs-private-settings-on-youtube-for-2024/"><u>Personalizing Public vs Private Settings on YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sleep-inducing-screenplays-video-evaluation/"><u>Sleep-Inducing Screenplays Video Evaluation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-crafting-captivating-haul-videos/"><u>Step-by-Step Crafting Captivating Haul Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-top-streamers-platforms/"><u>Your Ultimate Guide to Top Streamers Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-essential-html5-video-platforms-a-comprehensive-list/"><u>[New] Essential HTML5 Video Platforms A Comprehensive List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-phone-ideas-to-online-presence-simple-youtube-channel-creation-tips/"><u>[Updated] 2024 Approved From Phone Ideas to Online Presence Simple YouTube Channel Creation Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-finalcut-pro-for-high-quality-youtube-production/"><u>[Updated] Leveraging FinalCut Pro for High-Quality YouTube Production</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-platforms-effortlessly-add-linktree-to-tiktok-bios/"><u>2024 Approved Bridging Platforms Effortlessly Add Linktree to TikTok Bios</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>2024 Approved Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/align-video-elements-in-your-playback-directory-for-2024/"><u>Align Video Elements in Your Playback Directory for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/expert-tips-on-how-to-restore-lost-data-from-your-systemn-temp-folder/"><u>Expert Tips on How to Restore Lost Data From Your System'n Temp Folder</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c210-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C210 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified/"><u>How to Upgrade Your Mac with macOS Sierra Simplified</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lift-run-dance-select-the-most-motivating-exercise-tracks/"><u>Lift, Run, Dance - Select the Most Motivating Exercise Tracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-backdrop-recommendations/"><u>Premier Backdrop Recommendations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-rate-free-discovering-the-elite-10-luts/"><u>Premium-Rate Free Discovering the Elite 10 LUTs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-open-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Open FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unexpected-vertical-tilt-in-instagram-vids-why/"><u>Unexpected Vertical Tilt in Instagram Vids? Why?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-the-ultimate-web-tools-for-superb-video-subtitles/"><u>Unraveling the Ultimate Web Tools for Superb Video Subtitles</u></a></li>
 </ul></div>
 
