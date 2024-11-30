@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-11-18T18:19:20.419Z
-updated: 2024-11-21T18:36:54.420Z
+date: 2024-11-26T21:57:07.122Z
+updated: 2024-11-30T05:06:24.978Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,24 +81,20 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-8-best-webcam-for-live-streaming/"><u>[New] 8 Best Webcam for Live Streaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[New] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>[Updated] In 2024, Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-the-art-of-crafting-persuasive-video-covers-for-social-media-platforms/"><u>[Updated] The Art of Crafting Persuasive Video Covers for Social Media Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/5-ultimate-recording-devices-for-hunting/"><u>5 Ultimate Recording Devices for Hunting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-analysis-with-toms-equipment-experts/"><u>Advanced Gadget Analysis with Tom's Equipment Experts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/analyzing-the-differences-twitch-vs-youtube-platforms-for-2024/"><u>Analyzing the Differences Twitch vs YouTube Platforms for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-through-with-stunning-hdr-portrait-shots/"><u>Breaking Through with Stunning HDR Portrait Shots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/find-your-custom-box-top-10-online-stores-offering-tailored-packaging/"><u>Find Your Custom Box Top 10 Online Stores Offering Tailored Packaging</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-screens-solutions-for-no-audio-in-valheim-pc-version/"><u>Fixing Silent Screens: Solutions for No Audio in Valheim PC Version</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-painting-and-design-tools-on-windows-no-cost-or-charge/"><u>Ideal Painting & Design Tools on Windows No Cost or Charge</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/illuminating-innovation-the-taotronics-tt-dl16-review-a-blend-of-functionality-and-fashionable-design/"><u>Illuminating Innovation: The TaoTronics TT-DL16 Review - A Blend of Functionality and Fashionable Design</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-and-record-like-a-pro-phones-excelling-in-image-stability-features/"><u>In 2024, Capture & Record Like a Pro Phones Excelling in Image Stability Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snap-a-story-with-an-insightful-audio-clip/"><u>In 2024, Snap a Story with an Insightful Audio Clip</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-balance-of-serene-visuals/"><u>In 2024, The Balance of Serene Visuals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-subtitle-files-like-a-pro-in-macos/"><u>Navigating Subtitle Files Like a Pro in macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/palette-wisdom-essential-color-theory-explained/"><u>Palette Wisdom Essential Color Theory Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/techniques-to-mitigate-vr-disorientation/"><u>Techniques to Mitigate VR Disorientation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-8-digital-collage-crafting-software/"><u>TOP 8 Digital Collage Crafting Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-iphone-photo-mastering-free-picture-smoothing-techniques-for-2024/"><u>[New] IPhone Photo Mastering FREE Picture Smoothing Techniques for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-performance-desktops/"><u>[Updated] High Fidelity Performance Desktops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avi-visionary-player-compatible-with-pcmobile/"><u>2024 Approved Avi Visionary Player Compatible with PC/Mobile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-the-error-in-latest-ipad-debut-expert-insights-and-resolutions-from-zdnet/"><u>Addressing the Error in Latest iPad Debut: Expert Insights and Resolutions From ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovid-synergy-community-online-for-2024/"><u>AudioVid Synergy Community Online for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/blitz-photography-crafting-quick-google-collage-images/"><u>Blitz Photography Crafting Quick Google Collage Images</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-kitchen-novice-to-gourmet-with-chatgpts-help/"><u>From Kitchen Novice to Gourmet with ChatGPT's Help</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>HDR Horizon Unveiled An Elite List of Online Sky Sites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>In 2024, Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-import-in-windows-10-photo-space/"><u>Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-indepth-comparisons-and-reviews-techradar/"><u>Top-Rated Digital Notepads on the Market - InDepth Comparisons & Reviews | TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2024-11-17T23:43:12.023Z
-updated: 2024-11-22T01:30:16.789Z
+date: 2024-11-23T20:40:18.392Z
+updated: 2024-11-30T00:25:41.259Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips on shooting video underwater
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Get closer
 
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Lighting is important
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit your footage
@@ -119,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -137,22 +137,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[New] 2024 Approved Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-become-a-photo-editing-wizard-with-lunapic-expertise/"><u>[Updated] Become a Photo Editing Wizard with LunaPic Expertise</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-complete-guide-to-using-zd-softs-recording-tools-for-2024/"><u>[Updated] Complete Guide to Using ZD Soft's Recording Tools for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-scripting-quantum-leap-cinematography-for-2024/"><u>[Updated] Scripting Quantum Leap Cinematography for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-saving-stratospheric-storage-for-heavy-dumps/"><u>2024 Approved Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/amplify-your-profile-pull-clever-hacks-that-work-on-tinder-for-2024/"><u>Amplify Your Profile Pull Clever Hacks That Work on Tinder for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-8-streamers-pick-high-end-cameras-reviewed-for-2024/"><u>Best 8 Streamer's Pick High-End Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-compelling-pitch-products-sponsoring-youtubers-for-2024/"><u>Crafting a Compelling Pitch Products Sponsoring Youtubers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-choose-video-recording-between-30-vs-60-fps-for-2024/"><u>How To Choose Video Recording Between 30 Vs. 60 FPS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-required-module-not-found-errors-on-windowsmacos/"><u>How to Correctly Handle 'Required Module Not Found' Errors on Windows/MacOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>In 2024, Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-visual-impact-learning-to-edit-videos-using-storyremix-and-windows-photos/"><u>In 2024, Boost Visual Impact Learning to Edit Videos Using StoryRemix and Windows Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-premium-viewership-the-ultimate-youtube-wealth/"><u>In 2024, Premium Viewership The Ultimate YouTube Wealth</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-electronics-at-toms-hardware/"><u>Navigating the World of Electronics at Tom's Hardware</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategic-trailer-planning-for-increased-channels-profitability-for-2024/"><u>Strategic Trailer Planning for Increased Channels' Profitability for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-ultimate-action-hunting-cameras-ranked/"><u>[New] 10 Ultimate Action Hunting Cameras Ranked</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/lawless-footage-with-best-stabilizer-brands/"><u>[New] Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-starting-off-right-must-haves-for-youtube-enthusiasts/"><u>[New] Starting Off Right Must-Haves for YouTube Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-start-streaming-with-ease-instagram-live-tips/"><u>[Updated] 2024 Approved Start Streaming with Ease Instagram Live Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-professional-guide-ensuring-imovie-content-shines-on-vimeo/"><u>[Updated] Professional Guide Ensuring iMovie Content Shines on Vimeo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-tools-for-animating-with-3d-models/"><u>2024 Approved Best Tools for Animating with 3D Models</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/music-box-music-fm/"><u>重生のMUSIC BOX: 新バージョンがもたらすリスクと特徴、設置方法、欠点、および楽曲操作 - Music FM</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/access-all-movies-ioss-no1-freepluspaid-film-apps-guide-for-2024/"><u>Access All Movies IOS's No.1, FREE+Paid Film Apps Guide for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-how-bouncies-connected-gps-tracker-provides-hassle-free-route-monitoring-at-a-wallet-friendly-price-point/"><u>Discover How Bouncie’s Connected GPS Tracker Provides Hassle-Free Route Monitoring at a Wallet-Friendly Price Point</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-pathway-to-photo-mosaic-brilliance/"><u>Discover the Pathway to Photo Mosaic Brilliance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-gear-for-beginner-filmmakers-under-1000/"><u>Essential Gear for Beginner Filmmakers (Under $1,000)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a05-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A05 to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-visuals-zoom-in-on-snapchat-content/"><u>In 2024, Boost Visuals Zoom in on Snapchat Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/launching-your-first-product-critique-network-a-step-by-step-guide/"><u>Launching Your First Product Critique Network A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-perfect-pokemon-on-android-devices/"><u>Pixel-Perfect Pokémon on Android Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-artists-pathway-journeying-from-hobbyist-to-professional/"><u>The Artist's Pathway Journeying From Hobbyist to Professional</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-myths-shattered-understanding-the-facts-behind-the-worlds-leading-ai-chatbots/"><u>Top Myths Shattered: Understanding the Facts Behind the World's Leading AI Chatbots</u></a></li>
 </ul></div>
 

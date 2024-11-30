@@ -1,7 +1,7 @@
 ---
 title: "Effortless Image Bending in Adobe"
-date: 2024-07-27T11:04:49.622Z
-updated: 2024-07-28T11:04:49.622Z
+date: 2024-11-27T04:34:15.679Z
+updated: 2024-11-29T20:15:41.352Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,11 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Simple Steps to Curve an Image in Photoshop
 
@@ -35,24 +36,17 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
@@ -62,23 +56,18 @@ Play around with the settings in the options bar. There are quite a few differen
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
@@ -90,6 +79,14 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -123,7 +120,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-unboxing-content-in-youtube-the-2024-edition/"><u>[New] Best Unboxing Content in YouTube - The 2024 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-stamina-and-strength-curated-list-of-motivational-music/"><u>[New] Boost Stamina and Strength Curated List of Motivational Music</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-gateway-to-youtube-stardom-via-studio-expertise-for-2024/"><u>[New] The Gateway to YouTube Stardom via Studio Expertise for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-android-and-iphone-select-top-tier-mobile-multimedia-tools/"><u>[Updated] In 2024, Android & iPhone Select Top-Tier Mobile Multimedia Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>[Updated] In 2024, The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>[Updated] Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-digital-depositories-customized-alert-sounds/"><u>[Updated] Top Digital Depositories Customized Alert Sounds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-using-ifunnys-memetic-app/"><u>Essential Guide Using iFunny's Memetic App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x9a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X9a to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-image-packs-selecting-the-best-for-macbook-screens/"><u>Ideal Image Packs Selecting the Best for MacBook Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asmr-explained-why-it-might-be-good-for-you/"><u>In 2024, ASMR Explained Why It Might Be Good For You</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/refined-retakes-how-to-crop-and-perfect-iphone-shots/"><u>Refined Retakes How to Crop and Perfect iPhone Shots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-troubleshooting-for-mystery-speakers-on-microsofts-latest-os/"><u>Step-by-Step Troubleshooting for Mystery Speakers on Microsoft's Latest OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-shot-recording-camcorders-for-the-hunt/"><u>Ultimate Shot-Recording Camcorders for the Hunt</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-advanced-vfx-techniques-expert-tips-on-chroma-key-kinemaster/"><u>Unlocking Advanced VFX Techniques Expert Tips on Chroma Key (KineMaster)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Timecodes and Text in SRT with macOS"
-date: 2024-11-18T01:39:59.534Z
-updated: 2024-11-21T17:39:46.627Z
+date: 2024-11-28T09:40:27.928Z
+updated: 2024-11-29T22:49:45.810Z
 tags: 
   - screen-recording
   - ai video
@@ -29,11 +29,19 @@ In this article, we will walk you through some best tools to show you how to adj
 
 * [The Best Way to Edit .SRT Files for Videos on Mac](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Does the SRT file work on a Mac?
 
 The SRT file is typically a plain text-based file with time markers, sequence numbers, and captions. Most third-party media players do showcase the SRT-based format easily. So, you can also use Preview apps or any other software to access and read the basic text documents on Mac.
 
 However, the QuickTime player on Mac does not always support SRT in videos. You have to convert them to a format the QuickTime Player supports or utilize a third-party **SRT editor Mac** allows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Programs can open SRT Files on Mac, and How to do it?
 
@@ -125,7 +133,7 @@ Step4 The video will begin playing. Go to the menu bar and click on the Subtitle
 Step5 Choose the SRT file from your device and then load it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Use a Browser-based Online Tool like HappyScribe on Mac
@@ -159,7 +167,7 @@ Step1 Open HappyScribe through your preferred browser. Press the Upload a File o
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
@@ -169,10 +177,6 @@ Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SR
 Step3 Make changes to the text color, caption, position, and font, as needed.
 
 Step4 Press the “Add Subtitle” button. It will insert into the MP4 within some minutes. The file will then automatically download into your Mac device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Open SRT files on Built-in App Mac QuickTime Player
 
@@ -192,9 +196,17 @@ Step3 Choose the output format for the file. Choose QT available in the fourth s
 
 ![choose the output format](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 After rechecking that you chose the right format, add your email address; you will receive the translated QT formatted file there. Press the Convert button to activate the conversion process.
 
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 On your Mac device, launch the QuickTime Pro software (upgrade the software to Pro beforehand if it is not already available).
 
@@ -203,10 +215,6 @@ Step6 Access the video file and press View > Subtitles. Press the submenu and ch
 Step7 Click on the Windows tab > Properties and make adjustments to the file.
 
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
 
@@ -227,10 +235,6 @@ The software comes with various standard-level and advanced editing functions, i
 Step1 Launch Filmora on Mac and click on New Project. Add the video file and drag it to the timeline for editing.
 
 ![launch filmora on mac](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Click on the Media tab and import the SRT file.
 
@@ -299,10 +303,6 @@ Step2 Open a new file and type 1 in the editor timeline to indicate the caption 
 
 ![type in the editor timeline](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Add the starting and ending time codes with the following command. Press Enter again.
 
 \[hours:minutes:seconds,milliseconds ––> hours:minutes:seconds,milliseconds\]
@@ -316,6 +316,10 @@ Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + C
 ![click the format tab](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-2.jpg)
 
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Open SRT files with VLC Media on Mac
 
@@ -357,11 +361,11 @@ Step4 The video will begin playing. Go to the menu bar and click on the Subtitle
 
 ![choose the add subtitle file button](https://images.wondershare.com/videoconverter/en/subtitles/add-subtitles-in-vlc-mac-5.jpg)
 
-Step5 Choose the SRT file from your device and then load it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step5 Choose the SRT file from your device and then load it.
 
 ### Method 3: Use a Browser-based Online Tool like HappyScribe on Mac
 
@@ -432,7 +436,7 @@ Step7 Click on the Windows tab > Properties and make adjustments to the file.
 ![make adjustments to the file](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: The Best Way to Edit .SRT Files for Videos on Mac
@@ -467,16 +471,12 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 
 ![press ok after you are done](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -515,19 +515,24 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>[New] Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-immediate-insta-friendship-status-check-for-2024/"><u>[New] Immediate Insta Friendship Status Check for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-an-honored-list-top-15-stop-motion-gems-through-ages/"><u>[Updated] An Honored List Top 15 Stop-Motion Gems Through Ages</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-box-opening-marketing-mastery/"><u>2024 Approved Box-Opening Marketing Mastery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-combined-content-on-iphone-smoothly/"><u>Crafting Combined Content on iPhone Smoothly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-melodies-where-to-grab-skype-ringtone-files/"><u>Digital Melodies Where to Grab Skype Ringtone Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dynamic-wallpaper-change-the-editors-companion-list/"><u>Dynamic Wallpaper Change The Editor's Companion List</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-latency-issues-for-a-smoother-experience-in-outriders/"><u>Eliminating Latency Issues for a Smoother Experience in Outriders</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-list-of-best-mp4-players/"><u>Master List of Best MP4 Players</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-azures-transcription-service-for-2024/"><u>Mastering Azure's Transcription Service for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-online-tools-to-generate-artificial-faces-for-free/"><u>New 2024 Approved Top Online Tools to Generate Artificial Faces for Free</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/novice-writers-best-enhancements-for-gopro-for-2024/"><u>Novice’ Writers Best Enhancements for GoPro for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unveiling-the-secrets-of-video-captioning-in-vimeo-for-2024/"><u>Unveiling the Secrets of Video Captioning in Vimeo for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[New] Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailored-fit-videos-the-key-to-great-instagram-posts/"><u>[New] Tailored-Fit Videos The Key to Great Instagram Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-classic-comedy-time-machine-the-goofy-tape-journey/"><u>[Updated] Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-iterative-feedback/"><u>[Updated] Iterative Feedback</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-features-of-the-new-xbox-vr-headset-price-estimates-release-window-and-technical-specs-unveiled/"><u>Anticipated Features of the New Xbox VR Headset: Price Estimates, Release Window, and Technical Specs Unveiled</u></a></li>
+<li><a href="https://win-top.techidaily.com/aomei-backupper-nti-echo/"><u>AOMEI Backupper - NTI Echoクローンソフトウェア優秀な選択肢として</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-viral-meme-magician-with-9gag-techniques/"><u>Become a Viral Meme Magician with 9GAG Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-vistas-backgrounds-boosting-live-quality/"><u>Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/churn-out-custom-internet-echo-jokes-for-2024/"><u>Churn Out Custom Internet Echo Jokes for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-usb-thumb-drives-of-2023-a-comprehensive-selection/"><u>Discover the Premier USB Thumb Drives of 2023: A Comprehensive Selection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gif-basics-crafting-your-first-animated-image/"><u>GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-getting-started-with-snapseed-editing/"><u>Step by Step Getting Started with Snapseed Editing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-walkthrough-how-to-shut-down-facebook-app-on-android/"><u>The Ultimate Walkthrough: How to Shut Down Facebook App on Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-googles-gemini-its-role-in-shaping-future-ai-landscapes/"><u>Unveiling Google's Gemini: Its Role in Shaping Future AI Landscapes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vr-beyond-imagination-top-peripherals-and-tech/"><u>VR Beyond Imagination - Top Peripherals & Tech</u></a></li>
 </ul></div>
 

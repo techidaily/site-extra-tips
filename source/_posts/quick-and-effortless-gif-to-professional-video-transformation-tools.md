@@ -1,7 +1,7 @@
 ---
 title: "Quick and Effortless GIF to Professional Video Transformation Tools"
-date: 2024-07-27T11:05:39.948Z
-updated: 2024-07-28T11:05:39.948Z
+date: 2024-11-23T19:41:32.139Z
+updated: 2024-11-30T07:45:36.117Z
 tags: 
   - screen-recording
   - ai video
@@ -32,17 +32,22 @@ Here, we cover the main options that are available for online use.
 
 * [Pro Tip: Converting GIF to Video with a Desktop Solution](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best 5 GIF to Video Online Converters \[Free Online Software Included\]
 
 We evaluated and tried many available tools to prepare this list to find the best **GIF to video converter online**. Finally, we compiled the top 5 options for you to try and detailed their uses, benefits, and prices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.[Online Converter](https://www.onlineconverter.com/gif-to-webm)
 
 Online Converter is one of the most usable online converter tools for various types of file-to-file conversion. It supports conversion services for various formats, including video and image formats. You can make further customizations using this, like controlling the speed, adding effects, or other images.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-1.jpg)
 
 **Ratings**: 3.6 stars of 5 (TrustPilot)
@@ -73,9 +78,6 @@ Online Converter is one of the most usable online converter tools for various ty
 
 This **GIF to video converter online** tool is one of the best in the market due to its high-quality and diverse functions. While you can only convert files under 50 MB in size, for GIFs, it is relatively suitable. You can freely access the app and get quick conversions daily.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![ezgif](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-2.jpg)
 
 **Ratings**: 100 out of 100 (Scam Detector)
@@ -106,9 +108,6 @@ This **GIF to video converter online** tool is one of the best in the market due
 
 CloudConvert is a high-quality online tool that people can try out for different conversion services. The platform works on different browser types and includes strong security algorithms for a secure user experience. You can easily add the file from your saved files on your device or cloud and handle the process within seconds to minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![cloudconvert](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-3.jpg)
 
 **Ratings**: 4.5 stars of 5 (Capterra)
@@ -135,9 +134,6 @@ CloudConvert is a high-quality online tool that people can try out for different
 
 **Best For**: Users who want to create multiple conversions simultaneously with no laggings can use this online tool.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. [Convertio](https://convertio.co/)
 
 Convertio is a simple **GIF to video online converter** that users can easily try to change multiple GIF files into other files. With this online tool, users can expect an unlimited range of daily conversion minutes and a similar maximum conversion time limit for each file. Additionally, users can expect high-priority customer service here.
@@ -168,14 +164,19 @@ Convertio is a simple **GIF to video online converter** that users can easily tr
 
 **Best For**: Companies, professionals, and regular users needing quick, smooth, and ad-free GIF to video conversions can use this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. [Adobe Express](https://www.adobe.com/express/)
 
 Adobe Express is a top-rated **GIF to video converter online** that people can use for various editing, video creation, and conversion processes. Schools can use this software for the students to access and train with content editing. There are diverse pre-set assets available for this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adobe express](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Ratings**: 4.5 stars of 5 (Capterra)
 
@@ -201,6 +202,10 @@ Adobe Express is a top-rated **GIF to video converter online** that people can u
 
 **Best For**: Professional-level video makers or schools can use this software for editing and file conversion uses/training.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pro Tip: Converting GIF to Video with a Desktop Solution
 
 While the online tools are usable, but, downloading effective software to your desktop or mobile device might be more accessible to you in the long run. For this, you can use a high-quality [**GIF to video desktop converter**](https://tools.techidaily.com/wondershare/filmora/download/) instead, namely [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/). You can adjust various aspects like the speed, aspect ratio, background sound, and title. Also, you can merge multiple GIF files, trim clips, and export the file into different video formats, including MP4, AVI, etc.
@@ -223,6 +228,10 @@ The process for the conversion is the same on both Mac-based and Windows-based F
 
 ![press click here to import media](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **04**of 08Add GIF files that you hope to convert. You can add more than one GIF file.
 
 ![add gif files to convert](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-8.jpg)
@@ -237,14 +246,17 @@ The process for the conversion is the same on both Mac-based and Windows-based F
 
 **07**of 08After making all changes, click the Export button on top. Click on Local > MP4\. Make your file export choices like saving location, name, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **08**of 08Press the Export button to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -255,15 +267,13 @@ Best 5 GIF to Video Online Converters \[Free Online Software Included\]
 We evaluated and tried many available tools to prepare this list to find the best **GIF to video converter online**. Finally, we compiled the top 5 options for you to try and detailed their uses, benefits, and prices.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.[Online Converter](https://www.onlineconverter.com/gif-to-webm)
 
 Online Converter is one of the most usable online converter tools for various types of file-to-file conversion. It supports conversion services for various formats, including video and image formats. You can make further customizations using this, like controlling the speed, adding effects, or other images.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![online converter](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-1.jpg)
 
 **Ratings**: 3.6 stars of 5 (TrustPilot)
@@ -290,9 +300,6 @@ Online Converter is one of the most usable online converter tools for various ty
 
 **Best For**: Users who want a to-the-point, fast, and simple online tool for GIF to video conversion can use this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### 2\. [EzGIF](https://ezgif.com/gif-to-mp4)
 
 This **GIF to video converter online** tool is one of the best in the market due to its high-quality and diverse functions. While you can only convert files under 50 MB in size, for GIFs, it is relatively suitable. You can freely access the app and get quick conversions daily.
@@ -323,9 +330,6 @@ This **GIF to video converter online** tool is one of the best in the market due
 
 **Best For**: Regular users who want a simplistic and lightweight tool for various file conversions, like GIF to MP4, can use this.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [CloudConvert](https://cloudconvert.com/)
 
 CloudConvert is a high-quality online tool that people can try out for different conversion services. The platform works on different browser types and includes strong security algorithms for a secure user experience. You can easily add the file from your saved files on your device or cloud and handle the process within seconds to minutes.
@@ -356,9 +360,6 @@ CloudConvert is a high-quality online tool that people can try out for different
 
 **Best For**: Users who want to create multiple conversions simultaneously with no laggings can use this online tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. [Convertio](https://convertio.co/)
 
 Convertio is a simple **GIF to video online converter** that users can easily try to change multiple GIF files into other files. With this online tool, users can expect an unlimited range of daily conversion minutes and a similar maximum conversion time limit for each file. Additionally, users can expect high-priority customer service here.
@@ -389,16 +390,10 @@ Convertio is a simple **GIF to video online converter** that users can easily tr
 
 **Best For**: Companies, professionals, and regular users needing quick, smooth, and ad-free GIF to video conversions can use this.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. [Adobe Express](https://www.adobe.com/express/)
 
 Adobe Express is a top-rated **GIF to video converter online** that people can use for various editing, video creation, and conversion processes. Schools can use this software for the students to access and train with content editing. There are diverse pre-set assets available for this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adobe express](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-5.jpg)
 
 **Ratings**: 4.5 stars of 5 (Capterra)
@@ -425,9 +420,6 @@ Adobe Express is a top-rated **GIF to video converter online** that people can u
 
 **Best For**: Professional-level video makers or schools can use this software for editing and file conversion uses/training.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro Tip: Converting GIF to Video with a Desktop Solution
 
 While the online tools are usable, but, downloading effective software to your desktop or mobile device might be more accessible to you in the long run. For this, you can use a high-quality [**GIF to video desktop converter**](https://tools.techidaily.com/wondershare/filmora/download/) instead, namely [Filmora 11](https://tools.techidaily.com/wondershare/filmora/download/). You can adjust various aspects like the speed, aspect ratio, background sound, and title. Also, you can merge multiple GIF files, trim clips, and export the file into different video formats, including MP4, AVI, etc.
@@ -448,17 +440,14 @@ The process for the conversion is the same on both Mac-based and Windows-based F
 
 **03**of 08Press the “Click here to import media” area.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![press click here to import media](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **04**of 08Add GIF files that you hope to convert. You can add more than one GIF file.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add gif files to convert](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-8.jpg)
 
 **05**of 08Drag, hold and drop all files to the timeline at the lower section of the software.
@@ -471,11 +460,6 @@ The ultimate burning program for all your needs!</a>
 
 **07**of 08After making all changes, click the Export button on top. Click on Local > MP4\. Make your file export choices like saving location, name, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![click on export button](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-video-11.jpg)
 
 **08**of 08Press the Export button to download.
@@ -506,7 +490,19 @@ Indeed, there are multiple online tools available for GIF to video conversion. O
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-androids-pinnacle-podcast-platforms-your-essential-six-pack/"><u>[New] Android's Pinnacle Podcast Platforms Your Essential Six-Pack</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discovering-the-immersive-world-of-lg-27ud68/"><u>[New] In 2024, Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-walkthrough-for-green-screen-expertise-in-kinemaster/"><u>A Complete Walkthrough for Green Screen Expertise in Kinemaster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/battle-of-the-titans-how-iphone-15-pro-max-stacks-up-against-the-samsung-galaxy-s2-64gb-ultra/"><u>Battle of the Titans: How iPhone 15 Pro Max Stacks Up Against the Samsung Galaxy S2지네타임 64GB Ultra?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/design-mastery-crafting-engaging-audio-visuals/"><u>Design Mastery Crafting Engaging Audio Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/facebook-collage-essentials-quick-and-simple-steps/"><u>Facebook Collage Essentials Quick & Simple Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iconic-trailer-highlight-assortment/"><u>Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolved-examination-of-sony-bdp-s3700/"><u>In 2024, The Evolved Examination of Sony BDP-S3700</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-into-the-future-with-chatgpt-and-android/"><u>Step Into the Future with ChatGPT and Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-best-practices-for-silent-film-making/"><u>The Best Practices for Silent Film Making</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-wmv-video-editors-for-2024/"><u>Top 5 Best Free WMV Video Editors for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact-for-2024/"><u>Unveiling the Secrets of Slow Motion Video Production for Instagram Impact for 2024</u></a></li>
+</ul></div>
 

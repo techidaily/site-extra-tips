@@ -1,7 +1,7 @@
 ---
 title: "The Magic Behind Immersive World Creation"
-date: 2024-11-18T01:34:17.681Z
-updated: 2024-11-21T18:06:32.431Z
+date: 2024-11-23T23:25:24.250Z
+updated: 2024-11-29T22:17:20.409Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top VR headsets overview
 
  The race by tech giants to get their share of the virtual reality market is on and company after company is burning the midnight oil to produce the next best headset.
@@ -48,11 +52,11 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
 
- HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
 
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
@@ -60,17 +64,9 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
  The Samsung Gear VR is essentially Oculus Rift lite, owing to the fact that the two companies worked on the technology together. The Gear VR uses a Samsung Galaxy smartphone for the display and as the processor. The phone slots in front of the lenses and into a Micro USB slot, and uses the super AMOLED display as the screen. With the Gear, all you have to do is to slot in the phone, put on the headset and start enjoying the virtual reality experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Oculus Rift](https://www.oculus.com/rift/  )
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
@@ -79,24 +75,28 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
 ![google-cardboard-vr](https://images.wondershare.com/filmora/article-images/google-cardboard-vr.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Not to be left behind, Google also has a cardboard virtual reality headset. With this headset, it sounds like popping your smartphone in a cardboard container and putting it over your head for a virtual reality experience. Sounds like a joke, but you will be pleasantly surprised to learn that it works like charm and it is also low cost. If anything, the smartphone you have already has all the gyroscopic sensors as well as the positioning devices needed to track your head movements.
 
  Since the Cardboard has grown so much in terms of popularity, Google has planned to release a better version known as Daydream. This will be a device like the Gear VR, but it has been designed to work with android phones which are currently being revamped to over better VR experiences. It is still not know when the new device will be available, but the Cardboard is retailing at $16.99 at Amazon.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,20 +113,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-optimal-choices-foremost-audio-craftsmen-for-iphones/"><u>[New] 2024 Approved Optimal Choices Foremost Audio Craftsmen for iPhones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[New] In 2024, How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-market-precision-strategic-package-interpretations/"><u>[New] Market Precision Strategic Package Interpretations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-get-free-stock-footage-from-these-4-youtube-channels/"><u>[Updated] 2024 Approved Get Free Stock Footage From These 4 YouTube Channels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-banishing-stickers-from-social-media-short-clips/"><u>[Updated] Banishing Stickers From Social Media Short Clips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-behind-the-brand-pewdiepies-financial-figures-unveiled/"><u>[Updated] Behind the Brand PewDiePie’s Financial Figures Unveiled</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inshot-showdown-expert-review-of-best-editing-software/"><u>2024 Approved InShot Showdown Expert Review of Best Editing Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/crop-chronicles-the-ultimate-farm-farewell-fest-for-2024/"><u>Crop Chronicles The Ultimate Farm Farewell Fest for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficient-recapture-techniques-for-twitch-streams/"><u>Efficient Recapture Techniques for Twitch Streams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-azure-transcription-in-your-apps/"><u>Integrating Azure Transcription in Your Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/paving-the-path-for-creativity-turning-gifs-to-stickers-on-all-social-platforms/"><u>Paving the Path for Creativity Turning GIFS to Stickers on All Social Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-ahead-death-strandings-crash-woes-resolved-for-pc-users/"><u>Smooth Gaming Ahead: Death Stranding's Crash Woes Resolved for PC Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tricks-to-simulate-quantum-leap-phenomena/"><u>Tricks to Simulate Quantum Leap Phenomena</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-zoom-broadcasting-potential-for-youtube-success/"><u>Unlock Zoom Broadcasting Potential for YouTube Success</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-maximize-your-fcpx-experience-10-free-plugins-to-try/"><u>Updated 2024 Approved Maximize Your FCPX Experience 10 Free Plugins to Try</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-broadcast-preservation-in-the-age-of-web-radio/"><u>[Updated] Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[Updated] Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pioneering-patterns-screen-cast-with-loom-pro/"><u>2024 Approved Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c02-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C02 Phone When You Forget the Password</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3aacm4a-movavi/"><u>無料MP3/AACからM4Aへのオンライン変換 - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-editor-techniques-from-the-experts-at-canva-for-2024/"><u>Advanced Editor Techniques From the Experts at Canva for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-your-path-to-epic-game-access/"><u>Fast Tracking Your Path to Epic Game Access</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-changing-video-pace-in-social-media/"><u>In 2024, Behind the Scenes Changing Video Pace in Social Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mysteries-solved-decoding-unlisted-content-explained/"><u>In 2024, YouTube Mysteries Solved Decoding 'Unlisted' Content Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionize-your-unboxings-proven-tactics-to-impress-on-instagram/"><u>Revolutionize Your Unboxings Proven Tactics to Impress on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zombie-sketch-specialist/"><u>Zombie Sketch Specialist</u></a></li>
 </ul></div>
 

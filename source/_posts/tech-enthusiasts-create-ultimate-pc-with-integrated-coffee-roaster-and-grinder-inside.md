@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-11-20T05:39:36.498Z
-updated: 2024-11-22T01:14:13.908Z
+date: 2024-11-28T03:06:13.514Z
+updated: 2024-11-29T19:55:59.044Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-new-lens-on-cinema-embracing-vr-tech/"><u>[New] A New Lens on Cinema Embracing VR Tech</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ffortless-audio-transfer-on-iphone-pick-top-6-tools-to-convert-youtube-for-2024/"><u>[New] Effortless Audio Transfer on iPhone Pick Top 6 Tools to Convert YouTube for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-software-less-method-to-save-youtube-videos-for-2024/"><u>[New] Free Software-Less Method to Save YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-beginners-blueprint-for-zoom-engagements-for-2024/"><u>[Updated] Beginner’s Blueprint for Zoom Engagements for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/clear-cuts-in-streams-nine-windows-methods-for-smooth-video-playback/"><u>Clear Cuts in Streams: Nine Windows Methods for Smooth Video Playback</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-evaluating-dji-flying-visor-experience/"><u>In 2024, Evaluating DJI Flying Visor Experience</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to Roku? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/most-popular-5-ios-photoshooting-apps-x-7-8/"><u>Most Popular 5 iOS Photoshooting Apps (X, 7, 8)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-webcams-8-your-go-to-for-flawless-livestreams/"><u>Pro Webcams 8 Your Go-To for Flawless Livestreams</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/top-5-best-websites-to-add-emojis-to-photo-online-for-2024/"><u>Top 5 Best Websites to Add Emojis to Photo Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xsplit-exclusive-direct-split-insight/"><u>XSplit Exclusive Direct Split Insight</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-dramatic-writing-site/"><u>[New] Best Dramatic Writing Site</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-softer-beats-with-ableton/"><u>[New] Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>[Updated] BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-video-magic-classic-80s-vhs-techniques/"><u>Effortless Video Magic Classic 80S VHS Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-remote-work-experience-with-top-tips-for-improved-focus-expert-advice-via-zdnet/"><u>Enhance Your Remote Work Experience with Top Tips for Improved Focus | Expert Advice via ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-10-proplus-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 10 Pro+ 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>In 2024, Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-performance-monitoring-pcs-ram-gpu-and-cpu/"><u>Maximizing Performance: Monitoring PC's RAM, GPU & CPU</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skyline-success-on-iphone-top-landscape-shots-techniques/"><u>Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-for-hit-titles-online/"><u>The Ultimate Checklist for Hit Titles Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1716361790420-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/wallet-friendly-4k-camera-and-camcorder-deals/"><u>Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
 </ul></div>
 

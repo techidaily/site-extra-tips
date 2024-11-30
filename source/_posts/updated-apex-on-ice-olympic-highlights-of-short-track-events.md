@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events\""
-date: 2024-11-20T22:56:10.698Z
-updated: 2024-11-21T17:12:38.327Z
+date: 2024-11-27T03:17:41.810Z
+updated: 2024-11-29T17:36:19.541Z
 tags: 
   - screen-recording
   - ai video
@@ -22,11 +22,11 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -37,32 +37,24 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -79,6 +71,10 @@ The last leg of competition among skaters before reaching the finishing line at 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -122,6 +118,10 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -135,17 +135,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/implify-your-youtube-presence-with-flawless-shorts-thumbnails/"><u>[New] Simplify Your YouTube Presence with Flawless Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-decoding-the-capabilities-of-samsung-photo-studio/"><u>[Updated] 2024 Approved Decoding the Capabilities of Samsung Photo Studio</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clarifying-video-margins-imovie-crop-explanation/"><u>[Updated] Clarifying Video Margins IMovie Crop Explanation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/auroras-role-in-enhancing-image-contrast/"><u>Aurora's Role in Enhancing Image Contrast</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/camera-essentials-for-adventure-videographers-for-2024/"><u>Camera Essentials for Adventure Videographers for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/effortless-email-protection-mastering-automatic-gmail-data-sync-and-backups/"><u>Effortless Email Protection: Mastering Automatic Gmail Data Sync and Backups</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-repairing-the-acpi-system-driver-in-your-window-10-pc/"><u>Guide: Repairing the ACPI System Driver in Your Window 10 PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-google-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Google</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windowss-mysterious-pink-display-issue/"><u>Mastering WINDOWS's Mysterious Pink Display Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-smudges-on-screens-keeping-your-gopro-crisp/"><u>No Smudges on Screens Keeping Your GoPro Crisp</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-xerox-software-updates-failure-error-0x800f020b-in-windows/"><u>Troubleshooting Guide for Fixing Xerox Software Updates Failure (Error 0X800f020b) in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-your-visuals-instagram-video-borders/"><u>[New] Transform Your Visuals Instagram Video Borders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-captivating-creativity-designing-a-distinctive-podcast-image/"><u>[Updated] Captivating Creativity Designing a Distinctive Podcast Image</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cutting-edge-fb-video-toolkit-mp4-edition-available/"><u>2024 Approved Cutting-Edge FB Video Toolkit MP4 Edition Available</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-decades-best-writes-across-film-classifications-for-2024/"><u>A Decade's Best Writes Across Film Classifications for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assortment-of-video-capturing-technology/"><u>Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-composition-ideal-plugins-and-websites-to-frame-your-images/"><u>Capture Composition Ideal Plugins and Websites to Frame Your Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/convert-srt-fastly-a-compreenas-the-minute-blueprint-2023-for-2024/"><u>Convert SRT Fastly A Compreenas-the-Minute Blueprint 2023 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-gpt-4all-work-unraveling-the-process-and-principles/"><u>How Does GPT-4All Work? Unraveling the Process and Principles</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-realme-c53-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Realme C53? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-problems-and-fixes-for-non-functional-hyperx-cloud-alpha-microphones/"><u>Solved: Common Problems & Fixes for Non-Functional HyperX Cloud Alpha Microphones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-strategies-adding-engaging-chapters-to-your-youtube-content/"><u>Step-by-Step Strategies Adding Engaging Chapters to Your YouTube Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
 </ul></div>
 

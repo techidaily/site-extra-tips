@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-11-20T20:49:34.672Z
-updated: 2024-11-21T23:02:17.730Z
+date: 2024-11-27T04:24:48.952Z
+updated: 2024-11-29T22:43:10.244Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,19 +62,22 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-6-superior-apps-for-effortless-mac-video-grabbing/"><u>[New] 2024 Approved 6 Superior Apps for Effortless Mac Video Grabbing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chortle-chamber-free-funny-template-vaults/"><u>[Updated] Chortle Chamber Free Funny Template Vaults</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-daily-dharma-the-best-yoga-channels-for-self-growth-for-2024/"><u>[Updated] Daily Dharma The Best Yoga Channels for Self-Growth for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-the-science-of-color-grading-via-3d-lut-in-ps/"><u>2024 Approved Breaking Down the Science of Color Grading via 3D LUT in PS</u></a></li>
-<li><a href="https://fox-where.techidaily.com/comment-pouvez-vous-recuperer-des-fichiers-pdf-a-partir-dun-disque-dur-formate-sur-un-pc-ou-mac/"><u>Comment Pouvez-Vous Récupérer Des Fichiers PDF À Partir D'un Disque Dur Formaté Sur Un PC Ou Mac ?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-compelling-content-weaving-text-into-os-imagery/"><u>Crafting Compelling Content Weaving Text Into OS Imagery</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/demystifying-whatsapp-audio-talks/"><u>Demystifying WhatsApp Audio Talks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013539324-halo-infinite-blackout-blues-heres-how-you-can-fix-it/"><u>Halo Infinite Blackout Blues? Here's How You Can Fix It</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-abridged-blueprint-for-starting-virtual-conversations-zoom-edition/"><u>In 2024, Abridged Blueprint for Starting Virtual Conversations Zoom Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-gt-10-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix GT 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 8 | Stellar</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/why-testimonial-videos-boost-brand-credibility/"><u>Why Testimonial Videos Boost Brand Credibility</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>[New] A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-android-lightroom-a-complete-and-detailed-review/"><u>[New] Android Lightroom A Complete and Detailed Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-ai-powered-youtube-title-designer-toolkit/"><u>[New] In 2024, AI-Powered YouTube Title Designer Toolkit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-visual-quality-leaks/"><u>2024 Approved Premier Visual Quality Leaks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-professional-results-radial-effects-in-ps/"><u>Achieving Professional Results Radial Effects in PS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-repository-of-metaverse-comedy-artifacts-for-2024/"><u>Building a Repository of Metaverse Comedy Artifacts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comparing-iphone-se-and-iphone-e-7-a-comprehensive-review-of-ios-versions-9-and-10/"><u>Comparing iPhone SE and iPhone E 7: A Comprehensive Review of iOS Versions 9 & 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-the-latest-apple-tv-4k-series-6-enhanced-performance-and-features/"><u>Comprehensive Review of the Latest Apple TV 4K Series 6 - Enhanced Performance and Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-novice-to-expert-the-complete-powerdirector-journey/"><u>From Novice to Expert The Complete PowerDirector Journey</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/generate-laughter-kapwings-meme-creator/"><u>Generate Laughter Kapwing's Meme Creator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-100-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 100 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/incorporating-chatgpt-into-your-writing-routine-successfully/"><u>Incorporating ChatGPT Into Your Writing Routine Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-gradual-audio-reduction-in-digital-studios/"><u>Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-selection-of-moving-typefaces/"><u>Premier Selection of Moving Typefaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tune-treasure-trove-save-and-study-sound-files-for-2024/"><u>Tune Treasure Trove Save & Study Sound Files for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/winx-dvd-ripper-free-guide-tips-and-tricks-for-effortless-dvd-conversion/"><u>WinX DVD Ripper Free Guide: Tips and Tricks for Effortless DVD Conversion</u></a></li>
 </ul></div>
 

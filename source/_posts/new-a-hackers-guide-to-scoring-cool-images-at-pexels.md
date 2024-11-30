@@ -1,7 +1,7 @@
 ---
 title: "[New] A Hacker's Guide to Scoring Cool Images at Pexels"
-date: 2024-07-27T11:00:18.031Z
-updated: 2024-07-28T11:00:18.031Z
+date: 2024-11-24T09:58:11.094Z
+updated: 2024-11-30T06:56:04.725Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ Did you know using a photographer’s stock images without consent can land you 
 
 * [FAQ](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 1: Search for cool photos or wallpapers
 
 Pexels.com is a free online resource for stock content. It contains millions of stock photos and videos from contributors globally. In addition, it works similarly to google search, meaning you can identify specific photos using keywords and tags. Below are the top keywords to get cool photos on Pexels.com.
@@ -52,24 +49,16 @@ Top keywords to get cool photos on Pexels.com
 
 ![vintage](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vintage editing of stock photos is a popular choice for lifestyle websites and blog posts. In addition, you can apply the finish using most video and photo editing software, including Adobe Lightroom and [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Here is an example of a cool stock photo from pexels.com with a vintage finish.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Negative Space
 
 ![negative space](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-2.jpg)
@@ -79,8 +68,9 @@ Another top keyword to get cool background images for websites on pexels.com is 
 Stock photos with negative space are popular because they offer the freedom to input your text messages without adding too much noise to the image.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Cultural diversity
 
 ![cultural diversity](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-3.jpg)
@@ -107,14 +97,8 @@ Most retro stock photographs feature a 70 or 80s look, which best articulates th
 
 Using keywords to find cool background images for websites on pexels.com also gives you access to different collections. The platform uses bubble tabs to present you with related photos to your primary keyword. However, these are not ways to refine your results. Instead, they give you alternatives to other stock photos that you can use to spread your message. Here is more information on collections of cool photos on pexels.com.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### 1\. What is a collection on Pexels.com?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![collection on pexel](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-5.jpg)
 
 A collection on pexels.com is a grouping of photos and videos based on your keyword, photography style, or inspiration. Typically, the platform’s search engine uses your primary keyword to identify other creative assets within its library that may be suitable to your taste. For example, typing vintage on the pexels.com search bar will bring you bubble tabs that can include vintage cars, vintage houses, and vintage videos.
@@ -122,8 +106,9 @@ A collection on pexels.com is a grouping of photos and videos based on your keyw
 In addition, collections are often attributed to a single verified user of pexels.com. Therefore, you need to register an account before accessing the photos. However, you can decide to make your collections private or share them with other users. Keep reading to discover how to search for cool photo collections on pexels.com.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to search for a collection?
 
 Here are the most common ways of searching for a cool photo collection on pexels.com.
@@ -144,6 +129,10 @@ Alternatively, you can create your custom collections using different cool photo
 * Click on the **\+** sign at the bottom right corner of the photo to begin adding it to your collection.
 * Once done, a pop-up box will appear, where you will click the Create Collection option.
 * Finalize the process by adding a title to your collection and selecting whether you want it private or public.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What’re the best cool collections on Pexels?
 
@@ -190,15 +179,13 @@ Genre: Landscapes, skateboarding, cultural diversity, nature, and flat lay photo
 Followers: 723.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Bookmark Cool Photographers
 
 Aside from offering a rich library of cool stock photos, pexels.com also allows you to bookmark cool photographers. Follow these steps to bookmark your favorite contributors. Kindly note you will need to register and verify your account to activate the function.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. How to follow a photographer?
 
 * Enter the pexels.com URL on your device’s web browser and press Enter.
@@ -210,9 +197,6 @@ Aside from offering a rich library of cool stock photos, pexels.com also allows 
 
 Bookmarking cool photographers on pexels gives you exclusive access to their portfolios, including personal collections. In addition, you also receive notifications when they upload new photographs and videos to the platform. As such, you can download unique images before everyone else to use for personal and commercial purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. What are the best photographers that upload cool photos?
 
 So, what are the best photographers that upload cool photos on pexels.com? You can access them through the **Leaderboard** from the top menu or click the **Explore** button to discover the most popular searches. Below are some of the all-time best photographers that upload cool photos.
@@ -277,9 +261,6 @@ Downloads: 5.8 million
 
 Likes: 87.4K
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## FAQ
 
 #### Are all cool photos on pexels.com free?
@@ -302,9 +283,6 @@ Pexels.com is a free online resource for stock content. It contains millions of 
 
 Top keywords to get cool photos on Pexels.com
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Vintage
 
 ![vintage](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-1.jpg)
@@ -316,23 +294,20 @@ Vintage editing of stock photos is a popular choice for lifestyle websites and b
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Negative Space
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![negative space](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-2.jpg)
 
 Another top keyword to get cool background images for websites on pexels.com is negative space. Using the keyword allows you access to various stock images featuring all subjects such as human faces, abstract photos, and nature.
 
 Stock photos with negative space are popular because they offer the freedom to input your text messages without adding too much noise to the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Cultural diversity
 
@@ -344,18 +319,16 @@ Organizations that cater to multiple audiences are the main users of these image
 
 ### 4\. Flat lay
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![flat lay](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Are you familiar with flat lay stock images? These are images where you shoot your subjects from a bird’s eye view. In addition, your subjects need to be in a systematic order to prevent any confusion in your target audience. For example, you can arrange your photography equipment on a table to show the diversity required to shoot photographs.
 
 Typically, cool photos on pexels.com under the flat lay keyword feature inanimate subjects such as food and equipment. Furthermore, flat lay stock photos are the best choice for social media posts on Twitter and Instagram. This is because they do not require much editing if taken correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Retro
 
 Feeling nostalgic, you can also get some cool photos on pexels.com using the retro keyword. Typically, these stock photos feature green and orange as the lead colors, with patterns and hard lighting combined to enhance the imagery further.
@@ -366,20 +339,13 @@ Most retro stock photographs feature a 70 or 80s look, which best articulates th
 
 Using keywords to find cool background images for websites on pexels.com also gives you access to different collections. The platform uses bubble tabs to present you with related photos to your primary keyword. However, these are not ways to refine your results. Instead, they give you alternatives to other stock photos that you can use to spread your message. Here is more information on collections of cool photos on pexels.com.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. What is a collection on Pexels.com?
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![collection on pexel](https://images.wondershare.com/filmora/article-images/2022/09/cool-photos-download-pexels-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 A collection on pexels.com is a grouping of photos and videos based on your keyword, photography style, or inspiration. Typically, the platform’s search engine uses your primary keyword to identify other creative assets within its library that may be suitable to your taste. For example, typing vintage on the pexels.com search bar will bring you bubble tabs that can include vintage cars, vintage houses, and vintage videos.
 
@@ -406,9 +372,6 @@ Alternatively, you can create your custom collections using different cool photo
 * Once done, a pop-up box will appear, where you will click the Create Collection option.
 * Finalize the process by adding a title to your collection and selecting whether you want it private or public.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. What’re the best cool collections on Pexels?
 
 Pexels.com features a leaderboard for photographers with the most views of photos and videos in the last 30 days. In addition, accessing the Leaderboard allows you to download the photographer’s shareable photo collections. Currently, these are the top 5 cool collections on pexels.
@@ -467,6 +430,10 @@ Aside from offering a rich library of cool stock photos, pexels.com also allows 
 * Repeat the process if you want to bookmark more cool photographers on pexels.com.
 
 Bookmarking cool photographers on pexels gives you exclusive access to their portfolios, including personal collections. In addition, you also receive notifications when they upload new photographs and videos to the platform. As such, you can download unique images before everyone else to use for personal and commercial purposes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. What are the best photographers that upload cool photos?
 
@@ -560,7 +527,21 @@ Yes. Stock photos on pexels.com are free to use for personal and commercial use.
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-clear-youtube-watch-later-playlist/"><u>[New] In 2024, How to Clear YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-instagram-connection-posting-video-content/"><u>[New] YouTube-Instagram Connection Posting Video Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-avoiding-pitfalls-in-submitting-to-apple/"><u>[Updated] Avoiding Pitfalls in Submitting to Apple</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-pixelperfect-image-transformations/"><u>[Updated] In 2024, PixelPerfect Image Transformations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prodigious-plotlines-in-audio-playwriting-for-2024/"><u>[Updated] Prodigious Plotlines in Audio Playwriting for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-hdr-standards-luminances-role-for-2024/"><u>Assessing HDR Standards Luminance's Role for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-buys-detailed-analysis-of-top-6-hdmi-monitors-for-2024/"><u>Best Buys Detailed Analysis of Top 6 HDMI Monitors for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-ipad-users-easily-convert-photos-to-pdf-for-2024/"><u>Expert Tips for iPad Users Easily Convert Photos to PDF for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-lenovo-thinkphone-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Lenovo ThinkPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pushing-boundaries-upward-an-incisive-mavic-pro-review/"><u>Pushing Boundaries Upward An Incisive Mavic Pro Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sony-s6700-revised-whats-new/"><u>Sony S6700 Revised - What's New?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-alert-sound-pick-optimal-websites/"><u>Superior Alert Sound Pick Optimal Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-is-in-your-cloud-price-rankings-and-bargains-2024/"><u>The Future Is in Your Cloud Price Rankings & Bargains 2024</u></a></li>
+</ul></div>
 
