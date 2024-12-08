@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-11-27T04:24:48.952Z
-updated: 2024-11-29T22:43:10.244Z
+date: 2024-12-02T17:04:58.157Z
+updated: 2024-12-08T18:56:27.175Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,22 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-a-comprehensive-guide-to-high-quality-laptop-recordings/"><u>[New] A Comprehensive Guide to High-Quality Laptop Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-android-lightroom-a-complete-and-detailed-review/"><u>[New] Android Lightroom A Complete and Detailed Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ai-powered-youtube-title-designer-toolkit/"><u>[New] In 2024, AI-Powered YouTube Title Designer Toolkit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-visual-quality-leaks/"><u>2024 Approved Premier Visual Quality Leaks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-professional-results-radial-effects-in-ps/"><u>Achieving Professional Results Radial Effects in PS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-a-repository-of-metaverse-comedy-artifacts-for-2024/"><u>Building a Repository of Metaverse Comedy Artifacts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comparing-iphone-se-and-iphone-e-7-a-comprehensive-review-of-ios-versions-9-and-10/"><u>Comparing iPhone SE and iPhone E 7: A Comprehensive Review of iOS Versions 9 & 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-the-latest-apple-tv-4k-series-6-enhanced-performance-and-features/"><u>Comprehensive Review of the Latest Apple TV 4K Series 6 - Enhanced Performance and Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-novice-to-expert-the-complete-powerdirector-journey/"><u>From Novice to Expert The Complete PowerDirector Journey</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/generate-laughter-kapwings-meme-creator/"><u>Generate Laughter Kapwing's Meme Creator</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-100-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 100 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/incorporating-chatgpt-into-your-writing-routine-successfully/"><u>Incorporating ChatGPT Into Your Writing Routine Successfully</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-gradual-audio-reduction-in-digital-studios/"><u>Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-selection-of-moving-typefaces/"><u>Premier Selection of Moving Typefaces</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tune-treasure-trove-save-and-study-sound-files-for-2024/"><u>Tune Treasure Trove Save & Study Sound Files for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/winx-dvd-ripper-free-guide-tips-and-tricks-for-effortless-dvd-conversion/"><u>WinX DVD Ripper Free Guide: Tips and Tricks for Effortless DVD Conversion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-the-top-7-nft-creators-for-your-artwork-for-2024/"><u>[New] Unveiling the Top 7 NFT Creators for Your Artwork for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-audio-changing-software-for-virtual-artists-success/"><u>[Updated] Best Audio-Changing Software for Virtual Artists' Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deep-dive-into-the-android-specific-lightroom-app/"><u>Deep Dive Into the Android-Specific Lightroom App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-goliaths-the-heaviest-load-bearers-listed/"><u>Drone Goliaths The Heaviest Load Bearers Listed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-f23-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo F23 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>In 2024, A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-create-unique-endings-anytime-its-free-my-friends/"><u>In 2024, Create Unique Endings Anytime - It's FREE, My Friends</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-restoring-iphone-x-identity-check-reviving-face-recognition/"><u>In 2024, Restoring iPhone X Identity Check Reviving Face Recognition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-apps-for-mastering-dji-footage-quality/"><u>Innovative Apps for Mastering DJi Footage Quality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/silence-the-soundscape-overcoming-zoom-audio-hiccups/"><u>Silence the Soundscape Overcoming Zoom Audio Hiccups</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reviving-your-waterlogged-apple-device/"><u>Step-by-Step Guide: Reviving Your Waterlogged Apple Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/m-smart-10-must-know-rules-for-regular-vlogging/"><u>Stream Smart 10 Must-Know Rules for Regular Vlogging</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-access-how-to-gain-entry-into-the-facebook-marketplace/"><u>Unlocking Access: How to Gain Entry Into the Facebook Marketplace</u></a></li>
 </ul></div>
 

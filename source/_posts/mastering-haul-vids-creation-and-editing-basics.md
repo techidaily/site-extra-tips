@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Haul Vids  Creation & Editing Basics\""
-date: 2024-11-22T17:41:58.653Z
-updated: 2024-11-29T18:53:50.502Z
+date: 2024-12-04T16:05:17.039Z
+updated: 2024-12-08T17:29:37.915Z
 tags: 
   - screen-recording
   - ai video
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f392
 
 Did you know what is a haul video? If not, in this article; I'll guide you around. And in addition, I'll share with you guys how I edit one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a haul?
 
 A haul is usually a large amount of something that has been collected or won. And with refers to my YouTube Channel, the kind of haul that I usually shared with my audiences are something that I bought from different stores and places here in Israel. Kind of interesting, isn't it? Most specially if you're someone residing outside of the Holy Land. There are lots of interesting stuff to purchase here like souvenirs from the Old City of Jerusalem.
 
 People nowadays are searching for something that they want to buy from the wide range of worldly goods out there. And that's where the Youtubers/ vloggers came in. They share their videos on YouTube wherein viewers can get some sort of review with a particular item. Like for example, I bought a t-shirt from the Old City of Jerusalem. I'll show the t-shirt itself; I'll tell what kind of fabric it has. Is it good or not in my own opinion. Where can someone buy it and how much does it cost? So, from there; viewers can decide for themselves if they're going to purchase that particular t-shirt in the future or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Things that you need if you want to make a haul video
 
@@ -37,7 +37,7 @@ That's very simple. If you hoard stuffs for yourself or for your love ones out t
 ![things to make haul video](https://images.wondershare.com/filmora/article-images/2022/07/things-to-make-haul-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Categories of haul videos
@@ -48,10 +48,6 @@ You can categorize your haul video into:
 
 ![random haul video](https://images.wondershare.com/filmora/article-images/2022/07/random-haul-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Clothing Haul** \- Israel has a huge variety of apparels that anyone can desire to wear. From the popular brands like Zara, Stradivarius, MANGO, H&M, Renuar, Castro, Tamnoon, Fox and even more. I love to shop when it's end of the season SALE and I love to share the clothes that I bought to my viewers, for them to gain an idea what to buy for themselves as well.
 
 ![closthes haul video](https://images.wondershare.com/filmora/article-images/2022/07/closthes-haul-video.jpg)
@@ -59,10 +55,6 @@ You can categorize your haul video into:
 **Israel Haul** \- (things that you bought here in Israel of course) often times that's my title and I just highlight the place/s where I bought those stuffs.
 
 ![israel haul video](https://images.wondershare.com/filmora/article-images/2022/07/israel-haul-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Souvenir Haul** \- is one of my favorite hauls because I got the chance to share stunning pieces that I got from the Old City of Jerusalem. My favorite place here in the Holy Land, I have to mention. So, if you're planning to visit Israel anytime soon, please include the Old City of Jerusalem in your bucket lists. You'll be dumbfounded by everything surrounding that religious place. Believe me!
 
@@ -72,10 +64,14 @@ You can categorize your haul video into:
 
 ![christmas haul video](https://images.wondershare.com/filmora/article-images/2022/07/christmas-haul-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And once you're done filming the video itself, now it's time to edit it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to edit a haul video?
@@ -90,29 +86,29 @@ First thing first, like all the videos that I'm editing, we need to drag all our
 
 ![drag video clip haul](https://images.wondershare.com/filmora/article-images/2022/07/drag-video-clip-haul.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 By the way, before we proceed. I'm using Wondershare Filmora as my video editor if you want to know, just for the record.
 
 Cutting all the unnecessary information that I've said during the video, so that we can work as fast as we can afterwards. Just point the timeline scale to the specific part of the video you want to cut and then click the scissor icon.
 
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once we're done with the cutting part, we're now entering the most exciting part of editing for me at least. Adding all those special effects, sound effects, background music, text, lower third green screen and more. And what you can see in the image below is the default add-on I always attach to all of my videos on YouTube, my default social media watermark on the upper-right corner of it. And usually, it's static and I added it until the end of a video, just to remind the viewers all of my social media platforms.
 
 **Tip**: If you want to be a YouTuber/vlogger like us, choose a name that really represents your personal being and make it as simple as it can be, easily to memorize and just one name for all of your social media platforms. In that case, your viewers can easily search your name throughout those said online rostrums.
 
 ![choose name for haul video](https://images.wondershare.com/filmora/article-images/2022/07/choose-name-for-haul-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The image below shows how I started to market the shirt that I bought from Adidas. What kind of fabric it has, is it suitable for the weather in the Philippines because I want to send it way back home and what particular size it is?
 
@@ -127,6 +123,10 @@ Next is I added a text to emphasize the price of the t-shirt and as you can see,
 What I love about haul video, is that I know what to add throughout the video itself because it's the same process actually. I need to describe the item first, then add a pop-up image of the seller or even place where I bought the item, and its price. Everything you need to know basically. So, in the image below; I insert the name of the Facebook Page where I bought that Tribal inspired shirt. When it comes to street wear, there's no better brand than **_Tribal Philippines_**. It is a brand supported by many great artists, especially in music, if you want to know it's origin.
 
 ![insert brand name haul video](https://images.wondershare.com/filmora/article-images/2022/07/insert-brand-name-haul-video_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Another thing that you can see on my haul video is that I love to showcase my co-YouTuber so that viewers on my channel can check his/her channel too.
 
@@ -154,10 +154,6 @@ Cutting all the unnecessary information that I've said during the video, so that
 
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
@@ -168,9 +164,17 @@ Once we're done with the cutting part, we're now entering the most exciting part
 
 ![choose name for haul video](https://images.wondershare.com/filmora/article-images/2022/07/choose-name-for-haul-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The image below shows how I started to market the shirt that I bought from Adidas. What kind of fabric it has, is it suitable for the weather in the Philippines because I want to send it way back home and what particular size it is?
 
 ![market shirt video](https://images.wondershare.com/filmora/article-images/2022/07/market-shirt-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 I add a pop-up image and that image was the name of the online seller wherein I bought the t-shirt. And for your information, here in Israel; online selling is very common most specially within the Filipino community.
 
@@ -185,10 +189,6 @@ What I love about haul video, is that I know what to add throughout the video it
 Another thing that you can see on my haul video is that I love to showcase my co-YouTuber so that viewers on my channel can check his/her channel too.
 
 I'll add my outro afterwards and that's the end of it. We're done editing a haul video. As simple as that. And it's fun, isn't it?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wrap-up
 
@@ -224,21 +224,24 @@ And if you're looking for a simple but powerful video editor for Personal Comput
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-captivating-time-lapse-videos-a-simple-guide-with-gopro-studio/"><u>[New] Crafting Captivating Time-Lapse Videos A Simple Guide with GoPro Studio</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-uniform-iptv-system-utilization-for-2024/"><u>[Updated] Uniform IPTV System Utilization for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-blurry-scenes-zooming-in-on-google-meet/"><u>2024 Approved Avoid Blurry Scenes Zooming In on Google Meet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-overview-the-ultimate-video-editors-review-for-vivocut/"><u>2024 Approved Complete Overview The Ultimate Video Editor's Review for VivoCut</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-creativity-with-free-unique-slideshow-templates-for-inspiration/"><u>Boost Creativity with Free, Unique Slideshow Templates for Inspiration</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-on-an-msi-laptop/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen on an MSI Laptop</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effortless-content-migration-from-android-to-apple-devices/"><u>Effortless Content Migration From Android to Apple Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/encompassing-gyroscopic-vr-tests/"><u>Encompassing Gyroscopic VR Tests</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-google-clears-out-non-functional-apps-from-play-store-catalog/"><u>Enhancing User Experience: Google Clears Out Non-Functional Apps From Play Store Catalog</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-zte-blade-a73-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of ZTE Blade A73 5G Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-the-screen-vrs-creative-applications/"><u>In 2024, Beyond the Screen VR's Creative Applications</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/text-messaging/"><u>Text Messaging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-save-big-on-filmora-4-legit-ways-to-get-discounted-rates-for-2024/"><u>Updated Save Big on Filmora 4 Legit Ways to Get Discounted Rates for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-comprehensive-list-of-8-prime-youtube-to-avi-tools/"><u>[New] 2024 Approved Comprehensive List of 8 Prime YouTube-to-AVI Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming/"><u>[New] Achieving Flawless FB Live via Zoom Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-in-class-slideshow-maker-xi-to-x-series-iphones/"><u>[New] Best-in-Class Slideshow Maker XI to X Series iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>[New] ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hero5-black-or-yi-comparing-top-actions-cameras/"><u>[New] Hero5 Black or YI Comparing Top Actions Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-platform-choice-and-management/"><u>[Updated] Comprehensive Guide to Platform Choice and Management</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-a79-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo A79 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-glimpse-into-tomorrows-tech-how-ordering-apple-vision-pro-early-reveals-bright-prospects-zdnet/"><u>A Glimpse Into Tomorrow's Tech: How Ordering Apple Vision Pro Early Reveals Bright Prospects | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-streaming-zooms-6-cam-selection/"><u>Excellence in Streaming - Zoom’s #6 Cam Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-techniques-for-removing-audio-disturbances/"><u>Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/grids-for-greatness-photographs-next-step-up/"><u>Grids for Greatness Photographs' Next Step Up</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hololens-review-unleashing-virtual-potential-with-microsoft/"><u>HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-tech-savvy-pilots-guide-to-attentive-drones/"><u>In 2024, Tech-Savvy Pilots' Guide to Attentive Drones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-camon-20-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Camon 20 Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-guide-to-modern-mojave-dwellings/"><u>In 2024, Ultimate Guide to Modern Mojave Dwellings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-effortless-and-free-red-eye-removal-for-ios-users/"><u>Quick, Effortless, and FREE Red-Eye Removal for iOS Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-guide-to-hp-envy-27s-4k-features/"><u>The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-checklist-for-effortless-chapter-insertion-on-youtube/"><u>The Essential Checklist for Effortless Chapter Insertion on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-film-previews-collection/"><u>Ultimate Film Previews Collection</u></a></li>
 </ul></div>
 

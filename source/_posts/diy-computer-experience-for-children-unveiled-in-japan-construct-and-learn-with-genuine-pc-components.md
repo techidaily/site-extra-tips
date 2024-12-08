@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-11-26T21:57:07.122Z
-updated: 2024-11-30T05:06:24.978Z
+date: 2024-12-04T16:20:33.218Z
+updated: 2024-12-08T18:49:28.339Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,20 +81,21 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-iphone-photo-mastering-free-picture-smoothing-techniques-for-2024/"><u>[New] IPhone Photo Mastering FREE Picture Smoothing Techniques for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] 2024 Approved From Chat Room to Screen Step-by-Step Google Meet YouTube Streams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-performance-desktops/"><u>[Updated] High Fidelity Performance Desktops</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avi-visionary-player-compatible-with-pcmobile/"><u>2024 Approved Avi Visionary Player Compatible with PC/Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/addressing-the-error-in-latest-ipad-debut-expert-insights-and-resolutions-from-zdnet/"><u>Addressing the Error in Latest iPad Debut: Expert Insights and Resolutions From ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiovid-synergy-community-online-for-2024/"><u>AudioVid Synergy Community Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blitz-photography-crafting-quick-google-collage-images/"><u>Blitz Photography Crafting Quick Google Collage Images</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-novice-to-gourmet-with-chatgpts-help/"><u>From Kitchen Novice to Gourmet with ChatGPT's Help</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/hdr-horizon-unveiled-an-elite-list-of-online-sky-sites/"><u>HDR Horizon Unveiled An Elite List of Online Sky Sites</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>In 2024, Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-import-in-windows-10-photo-space/"><u>Mastering the Art of Import in Windows 10 Photo Space</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-modern-hardware-by-toms-experts/"><u>The Ultimate Guide to Modern Hardware by Tom's Experts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-digital-notepads-on-the-market-indepth-comparisons-and-reviews-techradar/"><u>Top-Rated Digital Notepads on the Market - InDepth Comparisons & Reviews | TechRadar</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>[New] In 2024, A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[Updated] In 2024, Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-leading-resources-for-premium-vector-data-for-2024/"><u>10 Leading Resources for Premium Vector Data for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-journey-to-revamping-your-win11-look/"><u>2024 Approved A Step-by-Step Journey to Revamping Your Win11 Look</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-15-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 15 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic-vs-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic Vs 2 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-secure-your-blink-outdoor-surveillance-system-w-floodlights-for-80-before-labor-day-find-it-on-zdnet/"><u>Exclusive Deal Alert: Secure Your Blink Outdoor Surveillance System W/ Floodlights for $80 Before Labor Day | Find It on ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 14 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home/"><u>In 2024, Aesthetic Ambience Selecting Premium Backgrounds From the Comfort of Home</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-launching-zoom-sessions-smoothly-with-android/"><u>In 2024, Launching Zoom Sessions Smoothly with Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/macs-best-picks-elite-4k-monitor-showdown/"><u>Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-wearables-with-the-upgraded-apple-watch-series-4/"><u>Mastering Wearables with the Upgraded Apple Watch Series 4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-nuances-of-spotify-advertising/"><u>Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-essentials-of-firefox-split-screen-feature/"><u>Understanding the Essentials of Firefox Split Screen Feature</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Magic Behind Immersive World Creation"
-date: 2024-11-23T23:25:24.250Z
-updated: 2024-11-29T22:17:20.409Z
+date: 2024-12-03T19:07:30.287Z
+updated: 2024-12-08T17:56:20.784Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
  A [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/) headset, commonly known as VR headset, refers to a device worn over the eyes like a pair of goggles for the purposes of watching VR content or when playing virtual reality video games. Most of the headsets have the ability to track the user’s head movements so that the wherever the user looks, the character in the virtual reality also looks. If done in the right manner, the headsets give an impression of the user being actually inside the game or the movie, hence the name “virtual reality”.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does Virtual Reality headsets work
 
  The principle goal of the virtual reality headsets is to create life-size, 3D virtual environments with no boundaries like those associated with computer or television screens. In case of the Rift or HTC’s Vive, video is sent from the computer or the console to the headset through a HDMI cable, while for the Google Cardboard or Samsung’s Gear VR, the videos are already on the smartphone mounted on the headsets.
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
  The lenses will focus and reshape the images for each eye before creating a stereoscopic 3D image by positioning the 2D images to portray how each of the two eyes see the world. One way in which the virtual reality headsets increases immersion is by increasing the field of view or simply how wide a picture appears. A 360 degrees display may not be convenient and most of the high end VR headsets usually use 100 or 110 degree field of views, which is usually sufficient enough to give the effects.
 
  And for the final images to be totally convincing, the VR headsets use minimum frame rates of 60fps to do away with shuttering or make the users feel sick.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top VR headsets overview
 
@@ -53,10 +53,14 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ![ghtc-vive-vr](https://images.wondershare.com/filmora/article-images/htc-vive.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  HTC Vive VR headset is made in collaboration with Valve and it plugs directly into PCs and uses Valve’s humongous gaming ecosystem. The headset has over 70 sensors to allow for 360 degrees head tracking and it also boasts of a 90Hz refresh rate responsible for keeping down the latency, which in turn saves the users from suffering motions sickness. This headset is currently available for purchase from $799.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Samsung Gear VR](http://www.samsung.com/global/galaxy/gear-vr/  )
 
@@ -68,21 +72,17 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 
 ![oculus-rift](https://images.wondershare.com/filmora/article-images/oculus-rift.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Oculus Rift headset was responsible for the current hysteria in virtual reality. The Rift plugs into the computer’s USB and DVI ports and tracks the movements of the head to provide 3D displays on its stereo screens. The consumer edition of the Rift comes with a 2160 x 1200 resolution as well as a refresh rate of 90Hz. The Rift matches HTC Vive in terms of the refresh rate, but lags behind Sony’s PlayStation VR, though it is a pretty advanced VR headset in terms of the technology used.
 
 ### [Sony PlayStation VR](https://www.playstation.com/en-us/explore/playstation-vr/  )
 
 ![sony-playstation-vr](https://images.wondershare.com/filmora/article-images/sony-playstation-vr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Sony has finally announced the launch date for the PlayStation VR headset and this is expected to be 13th October 2016\. A new version though, was announced way back in 2015 and it featured a 5-inch LCD display of the original prototype. For the version to be released, it is expected to have a 5.7 inch OLED to allow for low persistence which will in turn translate to less motion blur. The refresh rate for Sony’s PlayStation VR has been ramped up to 120Hz, making it possible to have 120fps gaming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Google Cardboard](https://vr.google.com/cardboard/  )
 
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/2531084f8c85679ae61e8759b52e3fe4836202538
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -113,17 +113,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-broadcast-preservation-in-the-age-of-web-radio/"><u>[Updated] Broadcast Preservation in the Age of Web Radio</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[Updated] Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pioneering-patterns-screen-cast-with-loom-pro/"><u>2024 Approved Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-c02-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia C02 Phone When You Forget the Password</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mp3aacm4a-movavi/"><u>無料MP3/AACからM4Aへのオンライン変換 - Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/advanced-editor-techniques-from-the-experts-at-canva-for-2024/"><u>Advanced Editor Techniques From the Experts at Canva for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-tracking-your-path-to-epic-game-access/"><u>Fast Tracking Your Path to Epic Game Access</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-changing-video-pace-in-social-media/"><u>In 2024, Behind the Scenes Changing Video Pace in Social Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-mysteries-solved-decoding-unlisted-content-explained/"><u>In 2024, YouTube Mysteries Solved Decoding 'Unlisted' Content Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-unboxings-proven-tactics-to-impress-on-instagram/"><u>Revolutionize Your Unboxings Proven Tactics to Impress on Instagram</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zombie-sketch-specialist/"><u>Zombie Sketch Specialist</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-building-a-winning-portfolio-with-windows-11-video-editing-skills/"><u>[New] Building a Winning Portfolio with Windows 11 Video Editing Skills</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-overview-dji-inspire-2/"><u>[Updated] Comprehensive Overview - DJI Inspire 2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-the-metaverse-top-7-devices-that-matter/"><u>[Updated] Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-narrative-flow-expert-tips-on-using-jump-cuts-for-2024/"><u>[Updated] Elevate Narrative Flow Expert Tips on Using Jump Cuts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-pinpointing-the-leading-10-secret-story-supporters/"><u>2024 Approved Pinpointing the Leading 10 Secret Story Supporters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-best-premiere-pro-templates-free-2023/"><u>Discover the Best Premiere Pro Templates (FREE) 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-visual-narratives-integrating-music-via-windows-11-tools/"><u>Enhance Visual Narratives Integrating Music via Windows 11 Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/experimente-la-excelencia-en-el-manejo-de-videos-winx-hd-video-converter-deluxe-herramienta-de-edicion-avanzada-con-capacidad-de-procesamiento-de-graficos-p44/"><u>Experimente La Excelencia en El Manejo De Videos: WinX HD Video Converter Deluxe - Herramienta De Edición Avanzada Con Capacidad De Procesamiento De Gráficos Para Alterar Tamaños Y Contenido</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-graphics-card-software-installing-msi-b350s-tomahawk-drivers-on-windows-pcs/"><u>How to Get the Newest Graphics Card Software: Installing MSI B350's Tomahawk Drivers on Windows PCs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-eliminating-unrequested-podcast-episodes-on-spotify-app/"><u>In 2024, Eliminating Unrequested Podcast Episodes on Spotify App</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-estimating-a-20mb-videoclip-duration/"><u>In 2024, Estimating a 20MB Videoclip Duration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-how-to-build-your-own-4k-video-editing-pc/"><u>In 2024, How To Build Your Own 4K Video Editing PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-tutorial-on-winning-spotify-advertising/"><u>In 2024, The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-choice-10-cameras-with-shake-reduction-feature/"><u>Pro's Choice 10 Cameras with Shake Reduction Feature</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplifying-software-removal-11-methods-for-windows-users-127-chars/"><u>Simplifying Software Removal: 11 Methods for Windows Users (127 Chars)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams/"><u>The Battle of Broadcasting Is XSplit Better Than OBS for Livestreams?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>Top Voice Modification Tools Essential Choices for VTuber Creators</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-magic-6-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic 6 Pro FRP Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience/"><u>Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience</u></a></li>
 </ul></div>
 

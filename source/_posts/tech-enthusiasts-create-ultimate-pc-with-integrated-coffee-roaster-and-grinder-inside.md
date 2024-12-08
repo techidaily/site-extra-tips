@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-11-28T03:06:13.514Z
-updated: 2024-11-29T19:55:59.044Z
+date: 2024-12-03T17:14:14.773Z
+updated: 2024-12-08T18:44:09.800Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,20 +78,21 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-best-dramatic-writing-site/"><u>[New] Best Dramatic Writing Site</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-softer-beats-with-ableton/"><u>[New] Crafting Softer Beats with Ableton</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>[Updated] BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effortless-video-magic-classic-80s-vhs-techniques/"><u>Effortless Video Magic Classic 80S VHS Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-remote-work-experience-with-top-tips-for-improved-focus-expert-advice-via-zdnet/"><u>Enhance Your Remote Work Experience with Top Tips for Improved Focus | Expert Advice via ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-10-proplus-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 10 Pro+ 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-safe-gratis-vlc-media-player-on-macos-systems/"><u>In 2024, Acquiring Safe, Gratis VLC Media Player on macOS Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-epochs-epic-journey-best-free-mmo-games-roundup/"><u>In 2024, Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-performance-monitoring-pcs-ram-gpu-and-cpu/"><u>Maximizing Performance: Monitoring PC's RAM, GPU & CPU</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skyline-success-on-iphone-top-landscape-shots-techniques/"><u>Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-for-hit-titles-online/"><u>The Ultimate Checklist for Hit Titles Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1716361790420-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/wallet-friendly-4k-camera-and-camcorder-deals/"><u>Wallet-Friendly 4K Camera and Camcorder Deals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>2024 Approved Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-precision-photography-the-most-exceptional-phones-for-4k-imaging/"><u>2024 Approved Precision Photography The Most Exceptional Phones for 4K Imaging</u></a></li>
+<li><a href="https://fox-http.techidaily.com/breaking-boundaries-education-through-vr-lenses-for-2024/"><u>Breaking Boundaries Education Through VR Lenses for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-movies-on-windows-11-using-the-free-movie-maker-app-for-2024/"><u>Craft Movies on Windows 11 Using the Free Movie Maker App for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-trailers-through-musical-integration/"><u>Elevating Trailers Through Musical Integration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expand-your-video-editing-toolkit-beyond-inshot/"><u>Expand Your Video Editing Toolkit Beyond Inshot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-best-video-cameras-of-the-future/"><u>Explore the Best Video Cameras of the Future</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 8 to Android? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-chrome-display-failure/"><u>Overcoming Chrome Display Failure</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/overcoming-pc-setup-hurdles-installing-drivers-for-windows-1011-systems/"><u>Overcoming PC Setup Hurdles: Installing Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-on-premium-360cameras-for-professionals/"><u>Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-full-ram-capacity-on-windows-systems/"><u>Unleashing Full RAM Capacity on Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
 </ul></div>
 
