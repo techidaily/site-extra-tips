@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-12-04T16:20:33.218Z
-updated: 2024-12-08T18:49:28.339Z
+date: 2024-12-09T16:55:09.462Z
+updated: 2024-12-14T20:45:27.992Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,21 +81,17 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>[New] In 2024, A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[Updated] In 2024, Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-leading-resources-for-premium-vector-data-for-2024/"><u>10 Leading Resources for Premium Vector Data for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-journey-to-revamping-your-win11-look/"><u>2024 Approved A Step-by-Step Journey to Revamping Your Win11 Look</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-15-pro-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 15 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-magic-vs-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor Magic Vs 2 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deconstructing-digital-dimensions-the-trios-unique-traits-vr-ar-and-mr/"><u>Deconstructing Digital Dimensions The Trio's Unique Traits (VR, AR, & MR)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-deal-alert-secure-your-blink-outdoor-surveillance-system-w-floodlights-for-80-before-labor-day-find-it-on-zdnet/"><u>Exclusive Deal Alert: Secure Your Blink Outdoor Surveillance System W/ Floodlights for $80 Before Labor Day | Find It on ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 14 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home/"><u>In 2024, Aesthetic Ambience Selecting Premium Backgrounds From the Comfort of Home</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-launching-zoom-sessions-smoothly-with-android/"><u>In 2024, Launching Zoom Sessions Smoothly with Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/macs-best-picks-elite-4k-monitor-showdown/"><u>Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-wearables-with-the-upgraded-apple-watch-series-4/"><u>Mastering Wearables with the Upgraded Apple Watch Series 4</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-nuances-of-spotify-advertising/"><u>Navigating the Nuances of Spotify Advertising</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-the-essentials-of-firefox-split-screen-feature/"><u>Understanding the Essentials of Firefox Split Screen Feature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] 2024 Approved Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-budget-friendly-cloud-service-providers/"><u>[Updated] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>2024 Approved Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>2024 Approved Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>2024 Approved VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cadence-crossover-transferring-playlists-with-ease/"><u>Cadence Crossover Transferring Playlists with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-the-moment-iphone-time-lapse-tutorial-for-2024/"><u>Capture the Moment IPhone Time-Lapse Tutorial for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-and-console-care-101-for-playstation-users/"><u>Controller & Console Care 101 for PlayStation Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-2023-full-movement-analysis/"><u>In 2024, 2023 Full Movement Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-6s-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 6s Plus iCloud Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aerial-stability-made-simple-selecting-the-right-drone-gimbals/"><u>In 2024, Aerial Stability Made Simple Selecting the Right Drone Gimbals</u></a></li>
 </ul></div>
 

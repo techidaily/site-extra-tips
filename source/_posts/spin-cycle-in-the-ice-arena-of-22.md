@@ -1,7 +1,7 @@
 ---
 title: "Spin Cycle in the Ice Arena of '22"
-date: 2024-12-06T16:02:15.615Z
-updated: 2024-12-08T18:48:28.726Z
+date: 2024-12-07T17:35:12.254Z
+updated: 2024-12-14T17:24:49.004Z
 tags: 
   - screen-recording
   - ai video
@@ -38,16 +38,12 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
@@ -55,7 +51,7 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
@@ -66,7 +62,15 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -89,7 +93,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -104,10 +108,6 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
@@ -121,20 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>[Updated] An Easy Guide for How to Add Photos on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-church-platforms-for-global-audience/"><u>[Updated] Explore Top Church Platforms for Global Audience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/easy-entry-level-choices-for-gopro-accessories/"><u>Easy Entry-Level Choices for GoPro Accessories</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-depths-of-adobe-cloud-storages-plus-top-non-adobe-choices-for-2024/"><u>Exploring the Depths of Adobe Cloud Storages, Plus Top Non-Adobe Choices for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oneplus-12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on OnePlus 12 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accuracy-audit-a-vll-driven-review/"><u>In 2024, Accuracy Audit A VLL-Driven Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bypass-expenses-relish-films-anywhere-free-player/"><u>In 2024, Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-contrasting-streamers-realms-twitch-vs-youtube/"><u>In 2024, Contrasting Streamers' Realms Twitch Vs YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tips-to-add-music-to-whatsapp-status/"><u>In 2024, Tips to Add Music to WhatsApp Status</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-camera-stability-in-photo-and-video-for-2024/"><u>Mastering Camera Stability in Photo & Video for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-video-editing-on-mac-os-x-mavericks-a-beginners-guide/"><u>New In 2024, Video Editing on Mac OS X Mavericks A Beginners Guide</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/planned-windows-server-backups-configure-regular-snapshots-in-restricted-access-network-drives-permissions-surpassed/"><u>Planned Windows Server Backups: Configure Regular Snapshots in Restricted Access Network Drives - Permissions Surpassed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/state-of-the-vr-industry/"><u>State of the VR Industry</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlining-cd-manipulation-with-wmp/"><u>Streamlining Cd Manipulation with WMP</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A05 ?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieve-balance-in-visuals-through-aspect-choices/"><u>[New] Achieve Balance in Visuals Through Aspect Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-adeptly-attaining-youtube-like-features-download-fb-vids/"><u>[Updated] In 2024, Adeptly Attaining YouTube-Like Features Download Fb Vids</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-1-to-10-superior-4k-screen-selections/"><u>2024 Approved 1 to #10 Superior 4K Screen Selections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>2024 Approved Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-spiritual-audio-for-your-cellphone/"><u>2024 Approved Choosing Spiritual Audio for Your Cellphone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-hot-topic-in-photos-memes-and-their-origin-tales/"><u>2024 Approved Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-entry-points-for-zooids/"><u>2024 Approved Revolutionary Entry Points for Zooids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost-in-2024/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost, In 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-visuals-implementing-filters-on-devices/"><u>In 2024, Boosting Visuals Implementing Filters on Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instantly-immerse-your-phones-route-to-virtual-reality/"><u>Instantly Immerse Your Phone's Route to Virtual Reality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/legendary-lens-showdown-sj6-vs-the-four-k-visionaries-of-xiaomi/"><u>Legendary Lens Showdown SJ6 Vs. The Four-K Visionaries of Xiaomi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-direct-controls-full-guide-to-powerdirector-2024/"><u>Mastering Direct Controls Full Guide to PowerDirector 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-c50-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Poco C50</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetizing-video-content-8-essentials-for-novices-for-2024/"><u>Monetizing Video Content - 8 Essentials for Novices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nostalgia-revue-old-school-review-of-the-goofys/"><u>Nostalgia Revue Old-School Review of The Goofys</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pro-vision-enhancement-top-ranked-4k-displays-for-editing/"><u>Pro Vision Enhancement Top-Ranked 4K Displays for Editing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-recovering-lost-files-from-an-unallocated-disk/"><u>Step-by-Step Guide to Recovering Lost Files From an Unallocated Disk</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-top-10-to-11-screen-capturing-tools-for-every-mac-user-for-2024/"><u>The Top 10 to 11 Screen Capturing Tools for Every Mac User for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-graphics-best-cards-in-4k-space/"><u>Visionary Graphics Best Cards in 4K Space</u></a></li>
 </ul></div>
 

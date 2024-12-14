@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2024-11-27T04:55:04.709Z
-updated: 2024-11-29T19:39:02.584Z
+date: 2024-12-13T18:56:57.130Z
+updated: 2024-12-14T21:06:23.462Z
 tags: 
   - screen-recording
   - ai video
@@ -32,20 +32,20 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -57,7 +57,7 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
@@ -72,10 +72,6 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -89,6 +85,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -108,6 +108,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -117,10 +121,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,24 +135,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bringing-your-vision-to-life-posting-photos-on-youtube/"><u>[New] Bringing Your Vision to Life Posting Photos on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-video-avi-into-graphic-image-gif-filmoras-complete-guide-for-2024/"><u>[New] Mastering Video (AVI) Into Graphic Image (GIF) Filmora's Complete Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-converting-video-content-from-twitter-to-an-audiophile-written-mp3-format/"><u>[Updated] Converting Video Content From Twitter to an Audiophile' Written MP3 Format</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-digital-time-machine-tracking-back-through-facebooks-history-device-based/"><u>[Updated] In 2024, Digital Time Machine Tracking Back Through Facebook's History (Device-Based)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-innovative-color-correction-strategies-using-luts-in-adobe-premiere-pro/"><u>[Updated] Innovative Color Correction Strategies Using LUTs in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-action-camera-gear-reviewed-by-hunters/"><u>2024 Approved Best Action Camera Gear Reviewed by Hunters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>2024 Approved Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/backtrack-fabricator-set-for-2024/"><u>Backtrack Fabricator Set for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/capturing-life-best-cameras-for-excellent-videography-2024-edition/"><u>Capturing Life Best Cameras for Excellent Videography, 2024 Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/freeframe-finder-unearthing-elite-tiktok-background-art/"><u>FreeFrame Finder Unearthing Elite TikTok Background Art</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-tackle-and-resolve-problems-with-antiquated-usb-composite-systems/"><u>How to Tackle and Resolve Problems with Antiquated USB Composite Systems</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-spectacular-screens-7-premium-photo-editing-tools/"><u>In 2024, Spectacular Screens 7 Premium Photo Editing Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>In 2024, Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/next-level-immersion-top-10-innovative-pc-vr-headsets-for-360-views/"><u>Next-Level Immersion Top 10 Innovative PC VR Headsets for 360 Views</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-foremost-selection-of-5-outstanding-slow-motion-cameras/"><u>The Foremost Selection of 5 Outstanding Slow-Motion Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-hidden-potential-essential-edits-for-starters/"><u>Unlock Hidden Potential Essential Edits for Starters</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-3gp-file-trimmer-edit-and-split-your-videos-easily/"><u>Updated In 2024, 3GP File Trimmer Edit and Split Your Videos Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/your-guide-to-the-best-lgbtqplus-tv-shows-on-netflix-july-2eticket/"><u>Your Guide to the Best LGBTQ+ TV Shows on Netflix - July 2E_ticket</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-for-zoom-engagement-on-win10-systems/"><u>[New] Best Practices for Zoom Engagement on Win10 Systems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-directly-delivering-tiktok-videos-to-twitters-feed/"><u>[New] In 2024, Directly Delivering TikTok Videos to Twitter's Feed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>[Updated] 2024 Approved Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-tech-list-top-17-software-for-photo-background-eradication/"><u>[Updated] Premier Tech List Top 17 Software for Photo Background Eradication</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-foe-a-guide-to-the-top-5-editing-rivals/"><u>[Updated] YouTube's Foe? A Guide to the Top 5 Editing Rivals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-video-speed-controller-extensions-a-complete-guide/"><u>2024 Approved Best Video Speed Controller Extensions | A Complete Guide|</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridge-the-gap-instagram-meets-tiktok/"><u>2024 Approved Bridge the Gap Instagram Meets TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-save-and-access-your-shots-seamlessly-with-free-and-paid-cloud-options/"><u>Capture, Save and Access Your Shots Seamlessly with Free & Paid Cloud Options</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-output-5-essential-windows-11-workplace-apps/"><u>Enhance Output: 5 Essential Windows 11 Workplace Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-mastering-the-art-of-using-cc-copyrights-wisely/"><u>In 2024, Mastering the Art of Using CC Copyrights Wisely</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-settings-for-watching-nba-live-streams/"><u>Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-start-utilizing-zoom-in-windows-10-environment/"><u>Quick Start Utilizing Zoom in Windows 10 Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-premier-collection-of-ae-plugins-unveiled/"><u>The Premier Collection of AE Plugins Unveiled</u></a></li>
 </ul></div>
 

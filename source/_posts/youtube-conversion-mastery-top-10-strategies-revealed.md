@@ -1,7 +1,7 @@
 ---
 title: "\"YouTube Conversion Mastery  Top 10 Strategies Revealed\""
-date: 2024-11-23T02:08:17.771Z
-updated: 2024-11-30T08:32:28.840Z
+date: 2024-12-13T17:28:19.669Z
+updated: 2024-12-14T16:50:27.997Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Here is a comparative listing of the different types of MPEG and known factors a
 | **Bandwidth**              | Strong bandwidth strength.                                    | High bandwidth strength with zero data loss. | Mediocre bandwidth power.                                   | Not the best bandwidth power.     |
 | **What is it useful for?** | This format works with online platforms and portable devices. | Initially built for HDTV use.                | This encoding approach is used during DVD-based conversion. | Suitable for standard VCR videos. |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Top 5 YouTube to MPEG4 Converters \[Desktop only\]
 
 Multiple software types are available to help **converts YouTube to MPEG** files, using various advanced editing features. For an easier understanding, here are the main points of concern about each in a table format.
@@ -54,6 +50,10 @@ Multiple software types are available to help **converts YouTube to MPEG** files
 | **Wondershare Uniconverter**  | One software to convert different file formats, DVD burn, screen recording, etc.                       | Quarterly- USD 29.99; Annual- USD 39.99; Perpetual- USD 55.99        | MP4, MKV, MOV, MPEG-1, MPEG-2, AVI, TS, 3GP, GIF, WEBM, M2TS, MP3, WMV, etc. |
 
 Now, onto a detailed explanation of each type of **YouTube to MPEG4 converter** software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Freemake Video Downloader](https://www.freemake.com/free%5Fvideo%5Fconverter2/)
 
@@ -89,10 +89,6 @@ Filmora is one of the top-most tools to **convert YouTube to MPEG** or any other
 
 ![interface of filmora export](https://images.wondershare.com/filmora/article-images/2022/07/interface-of-filmora-export.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Main Features**:
 
 * Choose the specifications and output codec choices for videos.
@@ -119,6 +115,10 @@ Step2Press New Project > Click to insert the media file.
 
 ![interface of filmora](https://images.wondershare.com/filmora/article-images/2022/07/interface-of-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Drag the videos you added for editing to the editor timeline at the lower end of the screen.
 
 Step4Click on the editing icons like Chroma Key, Keyframing, Splitting, Speed Revamp, Motion Tracking, etc., for custom changes.
@@ -139,6 +139,10 @@ With HitPaw, it is simple to **download YouTube MPEG** files after adding the pr
 
 ![hitpaw interface](https://images.wondershare.com/filmora/article-images/2022/07/hitpaw-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Main Features**:
 
 * Utilizes built-in GPU and CPU to ensure faster conversions.
@@ -156,10 +160,6 @@ With HitPaw, it is simple to **download YouTube MPEG** files after adding the pr
 
 * Some video file formats cannot play on it if the driver is not updated.
 * Processing slows down highly for bigger files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Aura Video Converter
 
@@ -193,10 +193,6 @@ With Uniconverter, you can quickly get high-quality converted video files from d
 
 ![uniconverter interface](https://images.wondershare.com/filmora/article-images/2022/07/uniconverter-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Main Features**:
 
 * Strong cloud support for file input and output.
@@ -214,6 +210,10 @@ With Uniconverter, you can quickly get high-quality converted video files from d
 
 * It does not allow direct YouTube URLs for video download.
 * MPEG-4 is not supported for output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Best 5 Tools to Convert YouTube to MPEG4 \[Online\]
 
@@ -236,10 +236,6 @@ Now, go ahead and read about each **YouTube converter MPEG 4** or MPEG 2 version
 You can add the file to convert **YouTube to MPEG 4** and get file output in high resolution. While trying this out, we needed to download the YouTube file separately in MP4 or another format and add it through Dropbox or Google Drive. Then, it would help if you made customization choices like what format to convert in and activate the process.
 
 ![convertio mpeg2 interface](https://images.wondershare.com/filmora/article-images/2022/07/convertio-mpeg2-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Main Features**:
 
@@ -307,15 +303,15 @@ With this online **YouTube MPEG converter**, users find it very simple to add th
 * Many ads would come up, which can get distracting.
 * You cannot customize the output format for file downloads.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Video Converter](https://video-converter.com/)
 
 To convert **YouTube to MPEG online,** use this software to add the file using the URL of the YouTube video. Alternatively, you can add files through Dropbox, Google Drive, or the device library. Then, choose the video and audio formats, codecs, and file size. Next, select if you want audio or not, and then press the Convert button.
 
 ![videoconverter interface](https://images.wondershare.com/filmora/article-images/2022/07/videoconverter-interface.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Main Features**:
 
@@ -336,6 +332,10 @@ To convert **YouTube to MPEG online,** use this software to add the file using t
 * Lack of advanced editing features.
 
 ## Hot FAQs on YouTube to MPEG Converting
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Is MPEG 4 the same as MP4? Which is better?
 
@@ -433,19 +433,11 @@ Step2Press New Project > Click to insert the media file.
 
 ![interface of filmora](https://images.wondershare.com/filmora/article-images/2022/07/interface-of-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Drag the videos you added for editing to the editor timeline at the lower end of the screen.
 
 Step4Click on the editing icons like Chroma Key, Keyframing, Splitting, Speed Revamp, Motion Tracking, etc., for custom changes.
 
 ![inteface of filmora editing icons](https://images.wondershare.com/filmora/article-images/2022/07/inteface-of-filmora-editing-icons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5After completing all edits, click on the Export button at the top of the screen.
 
@@ -460,6 +452,10 @@ Step7Finally, hit Export.
 With HitPaw, it is simple to **download YouTube MPEG** files after adding the preferred file type into the converter. In addition, it supports different types of output formats for the videos. Choose the one you want to convert the YouTube video or playlist into, and begin the processing quickly.
 
 ![hitpaw interface](https://images.wondershare.com/filmora/article-images/2022/07/hitpaw-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Main Features**:
 
@@ -529,10 +525,6 @@ With Uniconverter, you can quickly get high-quality converted video files from d
 * It does not allow direct YouTube URLs for video download.
 * MPEG-4 is not supported for output.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best 5 Tools to Convert YouTube to MPEG4 \[Online\]
 
 Like the software types, you can select and use a **YouTube to MPEG converter online.** These work with no installation necessary and are mainly free to use for this conversion.
@@ -554,6 +546,10 @@ Now, go ahead and read about each **YouTube converter MPEG 4** or MPEG 2 version
 You can add the file to convert **YouTube to MPEG 4** and get file output in high resolution. While trying this out, we needed to download the YouTube file separately in MP4 or another format and add it through Dropbox or Google Drive. Then, it would help if you made customization choices like what format to convert in and activate the process.
 
 ![convertio mpeg2 interface](https://images.wondershare.com/filmora/article-images/2022/07/convertio-mpeg2-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Main Features**:
 
@@ -627,6 +623,10 @@ To convert **YouTube to MPEG online,** use this software to add the file using t
 
 ![videoconverter interface](https://images.wondershare.com/filmora/article-images/2022/07/videoconverter-interface.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Main Features**:
 
 * Batch processing for converting multiple video files at the same time.
@@ -647,6 +647,10 @@ To convert **YouTube to MPEG online,** use this software to add the file using t
 
 ## Hot FAQs on YouTube to MPEG Converting
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Is MPEG 4 the same as MP4? Which is better?
 
 MPEG 4 is a type of overall term developed under the Moving Pictures Experts Group that includes multiple media containers. Therefore, it is suitable for sharing multiple video-based contents across the internet. In comparison, MP4 is one of the media containers under this broad umbrella, which focuses on file compression, e.g., videos/images.
@@ -658,10 +662,6 @@ MPEG4 does not use up bandwidth must and holds high compression, which makes it 
 The preferred video format for YouTube is mainly MPEG-2 type, with Dolby AC-3 video or MPEG Layer 11 video codecs. Alternatively, one can **download YouTube video MPEG** 4 formatted types.
 
 Other formats that the streaming platform mainly supports include FLV, MP4, MOV, WMV, AVI, 3GPP, MPGEGPS, and WebM. However, for best results, **download YouTube videos in MPEG** format only.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -697,16 +697,24 @@ If you require stable software for editing functions in a long run, [Filmora](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-vlog-confidently-like-popular-youtubers/"><u>[Updated] 2024 Approved How to Vlog Confidently Like Popular YouTubers?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-step-by-step-ensuring-accurate-age-on-tiktok/"><u>2024 Approved Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/breaking-down-the-nook-glowlight-4-features-performance-and-value-assessment/"><u>Breaking Down the Nook GlowLight 4: Features, Performance, and Value Assessment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/download-on-the-fly-best-free-tools-for-pinterest-vids-online/"><u>Download on the Fly Best Free Tools for Pinterest Vids Online</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-beginning-vlog-essential-gear-and-initial-editing-tools/"><u>In 2024, Beginning Vlog Essential Gear & Initial Editing Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lens-leaders-battle-sj6-clashes-with-xiaomis-four-k-kickstarter/"><u>Lens Leaders Battle SJ6 Clashes with Xiaomi’s Four-K Kickstarter</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-unbiased-review-sony-vegas-vs-adobe-premiere-pro-which-one-is-right-for-you-for-2024/"><u>New Unbiased Review Sony Vegas vs Adobe Premiere Pro - Which One Is Right for You for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-pathway-to-personalizing-your-virtual-existence/"><u>The Pathway to Personalizing Your Virtual Existence</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-6-apps-for-creating-film-captions-in-various-languages/"><u>Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ultimate-no-cost-countdown-trackers/"><u>[New] 2024 Approved Ultimate No-Cost Countdown Trackers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-become-a-digital-native-in-the-metaverse-now/"><u>[New] Become a Digital Native in the Metaverse Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-selection-showcase-the-premier-15-unboxing-channel-sites-2024-edition/"><u>[New] Ultimate Selection Showcase The Premier 15 Unboxing Channel Sites, 2024 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>2024 Approved Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-virtualbox-efail-error-0x80004005-windows/"><u>Addressing VirtualBox E_FAIL (Error 0X80004005) Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/affordable-and-reliable-discover-the-best-online-passport-photo-apps/"><u>Affordable & Reliable Discover the Best Online Passport Photo Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-compromised-core-files-a-how-to-manual-for-restoring-stability-to-windows-11/"><u>Correcting Compromised Core Files: A How-To Manual for Restoring Stability to Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-disney-delights-a-review-of-the-goofy-saga/"><u>Dissecting Disney Delights A Review of 'The Goofy Saga'</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/efficient-workflow-strategy-how-to-color-categorize-your-multimedia-files-with-dex3/"><u>Efficient Workflow Strategy: How to Color-Categorize Your Multimedia Files with DEX3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-resolving-windows-10s-critical-error-code-0xc1e1-a-step-by-step-approach/"><u>Guide: Resolving Windows 10'S Critical Error Code 0xC1e1 - A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-dive-into-the-best-filmora-edits-for-enthusiasts/"><u>In 2024, A Dive Into the Best Filmora Edits for Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aerial-units-phylogeny/"><u>In 2024, Aerial Units' Phylogeny</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aural-artistry-the-magic-of-sound-fading/"><u>In 2024, Aural Artistry The Magic of Sound Fading</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly-for-2024/"><u>Instant Media Transformation Enhance FB Videos to HD/MP4 on the Fly for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-guide-crafting-perfect-collages/"><u>Master Guide Crafting Perfect Collages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/palette-perfection-a-guide-to-grading-filmmaking/"><u>Palette Perfection A Guide to Grading Filmmaking</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-to-develop-captivating-vlogs-a-scriptwriting-approach/"><u>Tips to Develop Captivating Vlogs A Scriptwriting Approach</u></a></li>
+<li><a href="https://win-studio.techidaily.com/transform-your-images-into-engaging-presentations-page-flipping-flash-slide-show-made-easy-at-flipbuildercom/"><u>Transform Your Images Into Engaging Presentations: Page-Flipping Flash Slide Show Made Easy at FlipBuilder.com</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1728478567175-windows-10/"><u>Windows 10 スタートメニュー・タスクバーの非対応修正法</u></a></li>
 </ul></div>
 

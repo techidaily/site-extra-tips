@@ -1,7 +1,7 @@
 ---
 title: "Turn Your iPhone Images Upside Down with Precision"
-date: 2024-07-27T10:53:48.067Z
-updated: 2024-07-28T10:53:48.067Z
+date: 2024-12-08T16:20:30.458Z
+updated: 2024-12-14T19:52:20.401Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 
 # How to Rotate Your Upside Down and Sideway Photos on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -65,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
 
  One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
 
  Image resource: imore.com
@@ -79,102 +73,8 @@ thumbnail: https://thmb.techidaily.com/0817e17832f9eb6eaafa089134585eb7da7e6eb52
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Stop taking upside down photos
-
- When iOS 5 brought us the ability to take photos on iPhones with the volume buttons, iPhone users rejoiced. At last, there was an easier way to snap images quickly, and without needing a spare finger to tap the screen. However, with this intervention also came a new problem; upside down photos.
-
- If you're in the habit of taking photos using your volume buttons, it feels natural to have these buttons at the top of the phone when shooting in portrait mode. After all, the shutter buttons on our digital cameras are at the top, so it's natural to want to put the volume buttons there too. But when you shoot like this, all your images will display upside down when you upload them to your social media or laptop, if you're a Windows user. If you use a Mac, the PC will recognize the image is upside down and will change it, but if you send that picture to a client or friend on Windows, it will, once again, be the wrong way up.
-
- Here's an easy way to stop taking upside down photos with your iPhone:
-
-#### 1\. Check where the lens is
-
- Take a glance at the lens position on the back of the phone. Whether you're taking a portrait or landscape picture, the lens should always be at the top.
-
-#### 2\. Practice holding it the right way up
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
-
- Image resource: imore.com
-
- Having the volume buttons at the bottom might feel weird at first, but with a little practice, you'll get used to it.
-
-#### 3\. Check you're not covering the lens
-
- Because you're using the volume buttons in their correct position, you might be tempted to splay your fingers across the back of the phone, covering the lens.
-
- If you're a habitual upside-down photo-taker, it may take a little while to break this bad habit. At least now, if you do take a photo upside-down, you know how to rotate photos on iPhone using the Photos app. With a bit of practice, however, it will soon feel natural to hold the camera in its proper orientation.
-
- iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
- There's nothing more annoying than when your iPhone accelerometer decides a photo should be taken the other way around. You've snapped a fabulous picture of your cat/dog/child, but on your screen, it's sideways and impossible to look at. Turning the phone is no use either, as it just keeps spinning the photo to the wrong orientation. If you're wondering how to rotate photos on iPhone, it's simple; here's how.
-
- Check [How to Fix Upside Down Videos? >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## How to rotate photos on iPhone
-
- There are a couple of options available which will successfully reorient your image. You don't even need an additional app, as all the functionality is already built in to your clever little handset. Here's the method step by step:
-
-#### 1\. Start your Photos app
-
- The Photos app comes pre-installed on all iPhones and iPads, so no download needed.
-
-#### 2\. Locate the squiffy photo
-
- Scroll through your images until you find the one that doesn't look quite right.
-
-#### 3\. Tap the 'edit' button
-
- It's the button at the bottom which looks like three lines with circles on them.
-
-#### 4\. Tap the 'crop' button
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos.jpg)
-
- Image resource: imore.com
-
- This button looks like a rectangle with arrows circling it and is found next to 'cancel'.
-
-#### 5\. Tap the 'rotate' button
-
- This is a white square with one arrow, which you'll find just above 'cancel'.
-
-#### 6\. Tap as many times as you need
-
- One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
-
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
-
- Image resource: imore.com
-
-#### 7\. And you're done
-
- Once you're completely happy with the rotation of the picture, tap the yellow 'done' button to save your changes.
-
- It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
 ## Stop taking upside down photos
 
@@ -190,9 +90,6 @@ Follow @Ollie Mattison
 
 #### 2\. Practice holding it the right way up
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
 
  Image resource: imore.com
@@ -207,9 +104,6 @@ Follow @Ollie Mattison
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -268,6 +162,10 @@ Follow @Ollie Mattison
 
  It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stop taking upside down photos
 
  When iOS 5 brought us the ability to take photos on iPhones with the volume buttons, iPhone users rejoiced. At last, there was an easier way to snap images quickly, and without needing a spare finger to tap the screen. However, with this intervention also came a new problem; upside down photos.
@@ -282,9 +180,6 @@ Follow @Ollie Mattison
 
 #### 2\. Practice holding it the right way up
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
 
  Image resource: imore.com
@@ -299,10 +194,113 @@ Follow @Ollie Mattison
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ There's nothing more annoying than when your iPhone accelerometer decides a photo should be taken the other way around. You've snapped a fabulous picture of your cat/dog/child, but on your screen, it's sideways and impossible to look at. Turning the phone is no use either, as it just keeps spinning the photo to the wrong orientation. If you're wondering how to rotate photos on iPhone, it's simple; here's how.
+
+ Check [How to Fix Upside Down Videos? >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## How to rotate photos on iPhone
+
+ There are a couple of options available which will successfully reorient your image. You don't even need an additional app, as all the functionality is already built in to your clever little handset. Here's the method step by step:
+
+#### 1\. Start your Photos app
+
+ The Photos app comes pre-installed on all iPhones and iPads, so no download needed.
+
+#### 2\. Locate the squiffy photo
+
+ Scroll through your images until you find the one that doesn't look quite right.
+
+#### 3\. Tap the 'edit' button
+
+ It's the button at the bottom which looks like three lines with circles on them.
+
+#### 4\. Tap the 'crop' button
+
+![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos.jpg)
+
+ Image resource: imore.com
+
+ This button looks like a rectangle with arrows circling it and is found next to 'cancel'.
+
+#### 5\. Tap the 'rotate' button
+
+ This is a white square with one arrow, which you'll find just above 'cancel'.
+
+#### 6\. Tap as many times as you need
+
+ One tap will rotate your image 90 degrees. One more will rotate it 180, and so on.
+
+![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: imore.com
+
+#### 7\. And you're done
+
+ Once you're completely happy with the rotation of the picture, tap the yellow 'done' button to save your changes.
+
+ It really is as simple as that. Unfortunately, Apple saw fit to hide the rotation function within the button used for cropping pictures, so many users overlook this functionality. But now, you don't have to, as you know how to rotate photos on iPhone so that every image is perfect!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Stop taking upside down photos
+
+ When iOS 5 brought us the ability to take photos on iPhones with the volume buttons, iPhone users rejoiced. At last, there was an easier way to snap images quickly, and without needing a spare finger to tap the screen. However, with this intervention also came a new problem; upside down photos.
+
+ If you're in the habit of taking photos using your volume buttons, it feels natural to have these buttons at the top of the phone when shooting in portrait mode. After all, the shutter buttons on our digital cameras are at the top, so it's natural to want to put the volume buttons there too. But when you shoot like this, all your images will display upside down when you upload them to your social media or laptop, if you're a Windows user. If you use a Mac, the PC will recognize the image is upside down and will change it, but if you send that picture to a client or friend on Windows, it will, once again, be the wrong way up.
+
+ Here's an easy way to stop taking upside down photos with your iPhone:
+
+#### 1\. Check where the lens is
+
+ Take a glance at the lens position on the back of the phone. Whether you're taking a portrait or landscape picture, the lens should always be at the top.
+
+#### 2\. Practice holding it the right way up
+
+![](https://images.wondershare.com/filmora/article-images/rotate-iphone-photos-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Image resource: imore.com
+
+ Having the volume buttons at the bottom might feel weird at first, but with a little practice, you'll get used to it.
+
+#### 3\. Check you're not covering the lens
+
+ Because you're using the volume buttons in their correct position, you might be tempted to splay your fingers across the back of the phone, covering the lens.
+
+ If you're a habitual upside-down photo-taker, it may take a little while to break this bad habit. At least now, if you do take a photo upside-down, you know how to rotate photos on iPhone using the Photos app. With a bit of practice, however, it will soon feel natural to hold the camera in its proper orientation.
+
+ iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -319,14 +317,9 @@ Follow @Ollie Mattison
  Check [How to Fix Upside Down Videos? >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to rotate photos on iPhone
 
  There are a couple of options available which will successfully reorient your image. You don't even need an additional app, as all the functionality is already built in to your clever little handset. Here's the method step by step:
@@ -397,9 +390,6 @@ Follow @Ollie Mattison
 
  iPhones are wonderful devices for budding photographers of all shapes and sizes. No other smartphone can come close to the capabilities of Apple's iPhone in terms of picture quality, functionality and scope. By getting to know some of the hidden tricks and tools to improve your images, you'll be the envy of every Instagrammer on the planet!
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -430,7 +420,17 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-assessing-the-financial-impact-of-music-videos/"><u>[Updated] Assessing the Financial Impact of Music Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-compelling-macos-sierra-coders-for-vids/"><u>[Updated] Compelling MacOS Sierra Coders for Vids</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-your-playlist-on-demand-selecting-6-elite-free-apps-for-downloading-youtube-music/"><u>2024 Approved Your Playlist on Demand - Selecting 6 Elite Free Apps for Downloading YouTube Music</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exciting-journeys-in-samsungs-virtual-reality-games/"><u>Exciting Journeys in Samsung's Virtual Reality Games</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-itel-p55t-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Itel P55T Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mediamerge-creating-slideshows-on-macsierra/"><u>MediaMerge Creating Slideshows on MacSierra</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-creating-gifs/"><u>The Ultimate Guide to Creating GIFs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-nvidia-shield-tv-pro-top-tier-entertainment-for-hardcore-gamers/"><u>Unveiling the Nvidia Shield TV Pro: Top-Tier Entertainment for Hardcore Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/1724312721327-abbyy/"><u>ヘルスケア業界での効果的なプロセスマイニング技術 - ABBYYブログ</u></a></li>
+</ul></div>
 

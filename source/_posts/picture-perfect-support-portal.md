@@ -1,7 +1,7 @@
 ---
 title: "Picture Perfect Support Portal"
-date: 2024-11-26T21:31:52.334Z
-updated: 2024-11-30T06:48:38.255Z
+date: 2024-12-10T20:00:01.787Z
+updated: 2024-12-14T18:15:13.170Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ You Ask, We Answer is a series in which we answer the questions asked in the You
 
 ![can you add animated text for amv filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you do have texts that can be animated. It has more than 5,000+ text presets to spice up your video. You can head to the “Titles” tab, and put “3D text” into the searching section. Many stunning text presets will be shown.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -39,6 +43,10 @@ And you can also customize titles on your own. So, let us go ahead and show you 
 Step1 Launch Wondershare Filmora on your Windows PC or Mac.
 
 ![launch wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Select one text title from the “Titles” tab, and drag-n-drop the text title onto the timeline.
 
@@ -84,17 +92,9 @@ Trim the clip to the duration of your choice. Double-click on your top clip, and
 
 ![choose and select the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-12.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Move the mask around until the string is in the mask box.
 
 ![move the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-13.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then in the mask tab, click on the invert mask option. You can play around with these tabs to clean up the mask to refine the shot.
 
@@ -104,12 +104,16 @@ Now, play around with these tabs to clean up the mask to refine the shot. Finall
 
 ![play your edited clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-15.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Export the clips to your computer.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-16.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Question 3: Audio quality improvement
@@ -124,10 +128,6 @@ Step1 Launch Wonderhsare Filmora and import your clip into it.
 
 ![launch filmora and import clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Double-click the clip you want to denoise. And click the audio at the top.
 
 ![click audio at the top](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-19.png)
@@ -135,6 +135,10 @@ Step2 Double-click the clip you want to denoise. And click the audio at the top.
 Step3 Now select the denoise button and choose between weak, medium, and strong intensity to remove background noises.
 
 ![select denoise button](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-20.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can also use the equalizer to remove background noises and improve your audio manually. The steps you have to follow are given below.
 
@@ -154,6 +158,10 @@ Step4 Start moving dials up and down and find the right balance for your clip.
 Step5 Find the spot where your clip sounds the best and relisten to your clip.
 
 ![find the best spot and relisten](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Export your clip, and you will notice a major difference in the audio quality after editing.
 
@@ -183,6 +191,10 @@ We hope you have found the answer to your question. If you still have any querie
 
 ![titles from wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And you can also customize titles on your own. So, let us go ahead and show you how to do it.
 
 Step1 Launch Wondershare Filmora on your Windows PC or Mac.
@@ -202,6 +214,10 @@ Step4 Here you can choose a bunch of preset animations for your texts.
 ![choose any preset animation](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-6.jpg)
 
 Another fantastic addition to Filmora is 3D plug-ins. You can also use NewBlue FX, which includes titler pro. These allow you to create your own text animation, even in 3D.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Question 2: Video editing skills
 
@@ -229,21 +245,17 @@ Now drag the other clip with the object and string on the second video track.
 
 ![import clip with the object](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-11.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Trim the clip to the duration of your choice. Double-click on your top clip, and then under the video tab, go into the mask and select or draw the mask shape you want.
 
 ![choose and select the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-12.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Move the mask around until the string is in the mask box.
 
 ![move the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-13.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Then in the mask tab, click on the invert mask option. You can play around with these tabs to clean up the mask to refine the shot.
 
@@ -252,10 +264,6 @@ Then in the mask tab, click on the invert mask option. You can play around with 
 Now, play around with these tabs to clean up the mask to refine the shot. Finally, play your edited clip and see if it looks good.
 
 ![play your edited clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-15.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Export the clips to your computer.
 
@@ -267,31 +275,23 @@ Export the clips to your computer.
 
 First of all, you need to purchase a good mic. A good mic can enhance the quality of your audio and make it much more transparent. But sometimes there is too much background noise, and you cannot control it. So I will show you how to reduce background noise step by step using Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps for reducing background noise
 
 Step1 Launch Wonderhsare Filmora and import your clip into it.
 
 ![launch filmora and import clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Double-click the clip you want to denoise. And click the audio at the top.
 
 ![click audio at the top](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 Now select the denoise button and choose between weak, medium, and strong intensity to remove background noises.
 
 ![select denoise button](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-20.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also use the equalizer to remove background noises and improve your audio manually. The steps you have to follow are given below.
 
@@ -360,20 +360,22 @@ We hope you have found the answer to your question. If you still have any querie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-beginners-guide-to-producing-and-polishing-haul-videos/"><u>[New] A Beginner's Guide to Producing & Polishing Haul Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-amd-ryzen-5-2500u-drivers-quickly-and-easily/"><u>[UPDATE] AMD Ryzen 5 2500U Drivers | Quickly & Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convert-talk-to-text-the-costless-alternative/"><u>[Updated] Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-ace-your-iphones-advanced-tactics-for-downloading-podcasts/"><u>2024 Approved Ace Your iPhones Advanced Tactics for Downloading Podcasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-motion-sickness-in-virtual-reality-games/"><u>2024 Approved Avoid Motion Sickness in Virtual Reality Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-x5-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco X5 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/affordable-action-cam-tech-maximizing-your-moneys-worth-for-2024/"><u>Affordable Action Cam Tech - Maximizing Your Money's Worth for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>Battlefield Legends The Ultimate List of Top 7 Total War Victories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/command-line-magic-opening-srt-for-windows-macos/"><u>Command Line Magic Opening SRT for Windows, MacOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-techniques-to-troubleshoot-and-repair-your-i2c-hid-controllers-drivers/"><u>Effortless Techniques to Troubleshoot and Repair Your I2C HID Controller's Drivers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-insights-on-apples-newest-creation-why-iphone-12-reigns-supreme/"><u>Expert Insights on Apple's Newest Creation: Why iPhone 12 Reigns Supreme</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-samsung-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Samsung ?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/imovie-free-alternatives-top-5-online-video-editors/"><u>IMovie Free Alternatives Top 5 Online Video Editors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unresponsive-kbs-windows-issue/"><u>Unresponsive KBs, Windows Issue</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-honor-magic5-ultimate-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Magic5 Ultimate Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[Updated] A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others/"><u>[Updated] Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026523309-mp3/"><u>最新のアヴィMP3変換プログラムを使って楽曲コレクションを効率良く保存する - ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coders-confronted-assessing-chatgpt-and-gemini-to-find-the-ultimate-ai-chatbot-champion/"><u>Coders Confronted: Assessing ChatGPT and Gemini to Find the Ultimate AI Chatbot Champion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-visual-brilliance-mastering-luts-in-ae-for-2024/"><u>Crafting Visual Brilliance Mastering LUTs in AE for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-and-transform-changing-your-audible-image-on-ig/"><u>In 2024, Amplify and Transform Changing Your Audible Image on IG</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-gionee-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Gionee Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-13-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi 13 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimal-remote-edit-and-restore-applications/"><u>Optimal Remote Edit & Restore Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-blueprint-for-professional-edits-in-gopro-studio/"><u>The Complete Blueprint for Professional Edits in GoPro Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-iphone-silhouette-photos-for-2024/"><u>The Ultimate Guide to iPhone Silhouette Photos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-kid-friendly-drone-models-for-first-flights/"><u>Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-fix-call-of-duty-wwiis-black-screen-trouble-in-windows-with-this-easy-solution/"><u>Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-pixel-performance-from-a-start/"><u>Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/what-you-need-to-know-about-macos-big-sur/"><u>What You Need to Know About MacOS Big Sur</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/windows-11-compatible-fast-and-easy-x-total-dvd-ripper-for-converting-discs-to-mp4-video-format/"><u>Windows 11 Compatible Fast & Easy X-Total DVD Ripper for Converting Discs to MP4 Video Format</u></a></li>
 </ul></div>
 
