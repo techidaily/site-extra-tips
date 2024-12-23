@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-12-07T20:20:41.851Z
-updated: 2024-12-14T19:50:01.391Z
+date: 2024-12-21T20:46:10.252Z
+updated: 2024-12-23T17:26:55.619Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,18 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[New] In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quantum-hdrs-role-in-modern-photography-trends/"><u>[New] Quantum HDR's Role in Modern Photography Trends</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-how-to-engage-listeners-through-instagram-and-podcasts/"><u>[Updated] 2024 Approved How To Engage Listeners Through Instagram & Podcasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[Updated] Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>2024 Approved Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-13t-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi 13T Pro Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-audio-revolution-from-srt-to-xmlssattml/"><u>Digital Audio Revolution From SRT to XML/SSA/TTML</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-asmrs-impact-on-stress-reduction/"><u>Explore ASMR’s Impact on Stress Reduction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>In 2024, Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/inside-the-galaxy-far-far-away-an-in-depth-look-at-star-wars-squadrons-combat-experience/"><u>Inside the Galaxy Far, Far Away: An In-Depth Look at Star Wars: Squadrons Combat Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-offline-audio-to-text-applications/"><u>Leading Offline Audio-To-Text Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlimited-premium-slide-decks-for-entrepreneurs/"><u>Unlimited Premium Slide Decks for Entrepreneurs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effective-ways-how-to-block-facebook-video-ads/"><u>[New] 2024 Approved Effective Ways | How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-building-a-brand-through-effective-live-streaming-practices/"><u>[New] Building a Brand Through Effective Live Streaming Practices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-f54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-slide-decks-creating-stellar-presentations-with-chatgpt/"><u>From Ideas to Slide Decks: Creating Stellar Presentations with ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-hero4-vs-drift-ghost-ultimate-performance-showdown/"><u>GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-google-pixel-8-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Google Pixel 8 Through Google Earth?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-challenges-in-single-source-online-streaming/"><u>In 2024, Conquering Challenges in Single-Source Online Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-techniques-for-gameplay-recordings-via-obs/"><u>In 2024, Expert Techniques for Gameplay Recordings via OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-fade-inout-premiere-pro/"><u>In 2024, How to Add Fade In/Out Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inshot-cut-mastery-creating-fluid-movements/"><u>Inshot Cut Mastery Creating Fluid Movements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-components-the-toms-hardware-tour/"><u>Navigating the World of Components - The Tom's Hardware Tour</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-4k-player-picks-best-8-free-cross-platform-compatible/"><u>Optimal 4K Player Picks Best 8 FREE, Cross-Platform Compatible</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211364296-9781528799676-the-psychological-meaning-of-the-single-characteristics-in-handwriting-a-historical-article-on-the-analysis-and-interpretation-of-handwriting/"><u>The Psychological Meaning of the Single Characteristics in Handwriting - A Historical Article on the Analysis and Interpretation of Handwriting | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/timeless-tunes-selecting-high-quality-ringtones-online/"><u>Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/top-strategies-for-efficiently-backing-up-your-asus-notebook-on-windows-11/"><u>Top Strategies for Efficiently Backing Up Your ASUS Notebook on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
 </ul></div>
 

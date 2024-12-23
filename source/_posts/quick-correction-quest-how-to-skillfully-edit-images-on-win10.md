@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Correction Quest  How to Skillfully Edit Images on WIN10\""
-date: 2024-12-07T21:03:29.251Z
-updated: 2024-12-14T20:46:51.297Z
+date: 2024-12-19T17:35:39.348Z
+updated: 2024-12-23T19:57:10.826Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -45,7 +41,7 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
@@ -53,14 +49,14 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -82,7 +78,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -92,10 +88,14 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,22 +112,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-are-opinions-on-goods-compensated-in-videos/"><u>[New] Are Opinions on Goods Compensated in Videos?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/uild-a-thriving-biz-channel-proven-strategies-and-examples-for-2024/"><u>[New] Build a Thriving Biz Channel Proven Strategies and Examples for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hannel-upgrade-smartphone-techniques-for-professional-videos-for-2024/"><u>[New] Channel Upgrade Smartphone Techniques for Professional Videos for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-from-video-to-gif-seamless-process-for-vimeo-content-for-2024/"><u>[Updated] From Video to GIF Seamless Process for Vimeo Content for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-more-with-costless-timer-software/"><u>2024 Approved Achieve More with Costless Timer Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/"><u>2024 Approved An In-Depth Study on FFmpeg's Excellence in Original Audio Extraction</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-streamlining-your-screen-share-experience-with-meet/"><u>2024 Approved Streamlining Your Screen Share Experience with Meet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chortle-chamber-free-funny-template-vaults/"><u>Chortle Chamber Free Funny Template Vaults</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/elegante-solucion-para-la-conversion-de-videos-cambia-tu-contenido-vob-a-avi-en-solo-2-clics-seguro-y-facil-con-movavi-video-converter/"><u>Elegante Solución Para La Conversión De Vídeos: Cambia Tu Contenido VOB a AVI en Solo 2 Clics, Seguro Y Fácil Con Movavi Video Converter</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-cameras-for-face-recording-facing-screen-included/"><u>Elite Cameras for Face Recording Facing Screen Included</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-select-and-download-the-right-audio-for-your-video-for-2024/"><u>How to Select and Download the Right Audio for Your Video for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-dialogue-architect-forum/"><u>Ideal Dialogue Architect Forum</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-professional-editing-without-the-price-tag/"><u>In 2024, Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-budget-friendly-alternatives-to-premium-vr-headsets/"><u>In 2024, Budget-Friendly Alternatives to Premium VR Headsets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-the-potential-of-chatgpt-through-its-advanced-custom-instruction-set/"><u>Leveraging the Potential of ChatGPT Through Its Advanced Custom Instruction Set</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-when-your-desktop-audio-fails-to-function-correctly/"><u>Top Solutions for When Your Desktop Audio Fails to Function Correctly</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/unleash-your-inner-star-with-our-premium-karaoke-subscription-service-elevate-every-celebration-now/"><u>Unleash Your Inner Star with Our Premium Karaoke Subscription Service - Elevate Every Celebration Now!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>[New] Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast/"><u>[Updated] In 2024, Innovative Approaches to Live Broadcasting on Youtube with WireCast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-google-other-ar-sticker-solutions/"><u>2024 Approved Beyond Google Other AR Sticker Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premium-sound-on-a-dime-top-value-asmr-gear-uncovered-here/"><u>2024 Approved Premium Sound on a Dime Top Value ASMR Gear Uncovered Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-reno-10-pro-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo Reno 10 Pro 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-6-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 6</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-razr-40-ultra-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-12-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme 12 Pro+ 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-8-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 8 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-photography-101-simple-strategies/"><u>IPhone Photography 101 Simple Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-aurora-hdr-a-step-forward-in-quality-viewing/"><u>Is Aurora HDR a Step Forward in Quality Viewing?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-in-radio-theatre-craftsm-written/"><u>Mastery in Radio-Theatre Craftsm Written</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-how-to-save-your-favorite-songs-from-youtube-music-for-all-devices/"><u>Step-by-Step: How to Save Your Favorite Songs From YouTube Music for All Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windows-hdplus-guide-to-streaming-and-manipulating-hdr-videos/"><u>Windows HD+ Guide to Streaming and Manipulating HDR Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-thumbnail-101-phones-edition/"><u>YouTube Thumbnail 101 Phones Edition</u></a></li>
 </ul></div>
 

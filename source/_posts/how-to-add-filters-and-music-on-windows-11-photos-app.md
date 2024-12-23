@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-12-11T21:07:07.933Z
-updated: 2024-12-14T17:01:34.585Z
+date: 2024-12-21T18:50:13.115Z
+updated: 2024-12-23T20:59:02.814Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to add filters on Windows 10 Photos App
@@ -49,15 +49,15 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
@@ -74,7 +74,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -82,20 +82,20 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,20 +112,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-10-must-know-tips-for-nba-stream-quality/"><u>[Updated] 10 Must-Know Tips for NBA Stream Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-acquiring-unmarked-visuals-for-your-business/"><u>[Updated] Acquiring Unmarked Visuals for Your Business</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-finding-prominent-comment-spotlights/"><u>[Updated] In 2024, Finding Prominent Comment Spotlights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-arctic-accolades-top-athletes-and-events/"><u>2024 Approved Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-dji-phantom-4-analysis-and-review/"><u>2024 Approved Complete DJI Phantom 4 Analysis and Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/burst-life-into-slow-motion-with-top-android-apps/"><u>Burst Life Into Slow Motion with Top Android Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-av-systems-distinguishing-home-theater-from-stereo-receiver-options/"><u>Comparing A/V Systems: Distinguishing Home Theater From Stereo Receiver Options</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-vivo-y27s-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Vivo Y27s</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-distrust-spotting-impostor-chatgpt-sites-for-security/"><u>Digital Distrust: Spotting Impostor ChatGPT Sites for Security!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-updating-battery-driver-software-for-windows-users/"><u>Effortless Guide: Updating Battery Driver Software for Windows Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/elevate-your-viewing-experience-advanced-techniques-for-sharper-uninterrupted-video-quality/"><u>Elevate Your Viewing Experience: Advanced Techniques for Sharper, Uninterrupted Video Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevated-experience-premium-seating-for-the-taller-set/"><u>Elevated Experience: Premium Seating for the Taller Set</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-converting-classics-digitizing-and-archiving-past-photos/"><u>In 2024, Converting Classics Digitizing and Archiving Past Photos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-shining-spotlight-on-luminous-hdr-techniques/"><u>In 2024, Shining Spotlight on Luminous HDR Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-power-of-panoramic-videography-with-premieres-tools/"><u>Unlocking the Power of Panoramic Videography with Premiere's Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audiovisual-wizards-ranking-the-finest-photo-and-video-making-pros-with-soundtracks/"><u>[New] Audiovisual Wizards Ranking the Finest Photo & Video Making Pros with Soundtracks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-max-power-reimagined-selecting-mac-and-wins-best-srt-converters-for-2024/"><u>[New] Max Power Reimagined Selecting Mac & Win's Best SRT Converters for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-essential-samsung-vr-games-for-beginners/"><u>[Updated] 2024 Approved Essential Samsung VR Games for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-guide-to-using-luts-for-professional-image-editors/"><u>2024 Approved Advanced Guide to Using LUTs for Professional Image Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-the-top-7-studio-programs-for-animators/"><u>2024 Approved Behind the Scenes The Top 7 Studio Programs for Animators</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-search-tool-in-windows-11-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 11 & 11 Not Displaying Results</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/kinemasters-comprehensive-insight-into-green-screen-technology-mastery-for-2024/"><u>Kinemaster's Comprehensive Insight Into Green Screen Technology Mastery for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-picks-a-list-of-must-play-google-cardboard-vr-games/"><u>Premium Picks A List of Must-Play Google Cardboard VR Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/racing-rivals-clash-black-gopro-vs-ghost-s-drift-edition/"><u>Racing Rivals Clash Black GoPro Vs. Ghost-S Drift Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-video-snapshots-on-smartphones-with-optical-stabilization/"><u>Seamless Video Snapshots on Smartphones with Optical Stabilization</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-stability-secured-instantly-tackle-frequent-crashes/"><u>Steam Stability Secured - Instantly Tackle Frequent Crashes!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-utilizing-gpt-3-shared-links-effectively/"><u>Understanding and Utilizing GPT-3 Shared Links Effectively</u></a></li>
 </ul></div>
 

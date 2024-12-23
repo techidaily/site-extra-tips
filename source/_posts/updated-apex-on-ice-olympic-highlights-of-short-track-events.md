@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events\""
-date: 2024-12-07T21:07:44.994Z
-updated: 2024-12-14T18:53:20.339Z
+date: 2024-12-20T17:16:44.664Z
+updated: 2024-12-23T20:03:40.259Z
 tags: 
   - screen-recording
   - ai video
@@ -24,10 +24,6 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
 Here are the main highlights of 1500 meter short track speed skating held at the Capital Indoor Stadium in Beijing on Wednesday.
@@ -40,6 +36,10 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
@@ -47,6 +47,10 @@ Russia’s Semen Elistratov wins the bronze medal.
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -56,21 +60,21 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -85,10 +89,6 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -108,6 +108,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -117,10 +121,6 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,22 +135,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ompiling-chords-and-crafting-a-unique-youtube-playlist/"><u>[New] Compiling Chords and Crafting a Unique YouTube Playlist</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-guide-to-top-uhd-video-players-free-download/"><u>[New] Comprehensive Guide to Top UHD Video Players, Free Download</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>[New] Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-quality-screencasting/"><u>[New] Essential Tips for Quality Screencasting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-promote-youtube-videos-without-paying/"><u>[New] In 2024, How to Promote YouTube Videos (Without Paying)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-afternoons-examination-alternative-perspectives/"><u>2024 Approved Afternoon's Examination Alternative Perspectives</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-missing-or-not-found-d3dx925dll-files-expert-tips-and-tricks/"><u>Dealing with Missing or Not Found d3dx9_25.dll Files: Expert Tips and Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/download-and-play-with-ifunnys-meme-magic/"><u>Download and Play with iFunny's Meme Magic</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/editing-excess-strategies-to-clean-up-oversized-tiktok-drafts/"><u>Editing Excess Strategies to Clean Up Oversized TikTok Drafts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effortless-privacy-mastering-smart-filters-ps/"><u>Effortless Privacy Mastering Smart Filters PS</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-xbox-treasures-code-strategies-explained/"><u>Exclusive Xbox Treasures: Code Strategies Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fast-track-your-favorites-on-netflix-with-playback-speeds/"><u>Fast-Track Your Favorites on Netflix with Playback Speeds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-review-of-the-latest-powerdirector-app-24/"><u>Full Review of the Latest PowerDirector App - '24</u></a></li>
-<li><a href="https://win-docs.techidaily.com/schritt-fur-schritt-anleitung-zur-reparatur-der-partitionstabelle-in-windows/"><u>Schritt-Für-Schritt-Anleitung Zur Reparatur Der Partitionstabelle in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategies-for-sustainable-brand-collaboration-with-youtubers/"><u>Strategies for Sustainable Brand Collaboration with YouTubers</u></a></li>
-<li><a href="https://facebook.techidaily.com/twitters-idea-takes-root-on-facebook-with-new-prompt-feature/"><u>Twitter's Idea Takes Root on Facebook with New Prompt Feature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unmatched-choice-our-top-8-no-cost-high-quality-video-software/"><u>Unmatched Choice Our Top 8 No-Cost, High-Quality Video Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-top-zero-charge-web-tools-to-craft-videos/"><u>[New] 10 Top Zero-Charge Web Tools to Craft Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-camera-mastery-expert-tips-for-selecting-best-iphone-views/"><u>[New] Camera Mastery Expert Tips for Selecting Best iPhone Views</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-windows-11-a-practical-reference/"><u>[Updated] Navigating Windows 11 A Practical Reference</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-snapchat-gif-steps-for-every-user-for-2024/"><u>[Updated] The Ultimate Snapchat GIF Steps for Every User for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-the-nuances-of-spotify-advertising/"><u>2024 Approved Navigating the Nuances of Spotify Advertising</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/complete-guide-uninstalling-webdiscover-browser-due-to-security-concerns-expert-tips/"><u>Complete Guide: Uninstalling WebDiscover Browser Due to Security Concerns – Expert Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/direct-gif-to-video-upgrade-no-download-just-click-and-convert/"><u>Direct GIF-to-Video Upgrade No Download, Just Click & Convert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-migration-of-qbittorrent-filesystems-between-pcs/"><u>Efficient Migration of qBittorrent Filesystems Between PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>In 2024, Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-meme-design-collection/"><u>The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-call-of-duty-modern-warfare-3-fixing-the-persistent-memory-error-12707/"><u>Troubleshoot Your Call of Duty: Modern Warfare 3 - Fixing the Persistent Memory Error 12707</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-selections-top-rated-webcam-platforms/"><u>Ultimate Selections Top-Rated Webcam Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-visual-treasures-without-cost/"><u>Unlocking Visual Treasures Without Cost</u></a></li>
+<li><a href="https://win-dash.techidaily.com/up-to-date-nvidia-graphics-drivers-rtx-2nkd-supers-boost-your-pcs-running-win10-or-11/"><u>Up-to-Date Nvidia Graphics Drivers: RTX 2Nkd, Supers, Boost Your PCs Running Win10 or 11</u></a></li>
 </ul></div>
 

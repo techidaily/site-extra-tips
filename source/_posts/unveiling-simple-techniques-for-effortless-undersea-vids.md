@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2024-12-10T20:23:01.495Z
-updated: 2024-12-14T18:35:08.640Z
+date: 2024-12-20T21:06:10.894Z
+updated: 2024-12-23T16:07:15.946Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
  There are many tips you can learn from to get the results that you require, so read on to find out more about what you can do to shoot underwater video with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips on shooting video underwater
 
 #### 1\. Frame your shots
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Stay steady
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\. Be careful of other divers
@@ -86,11 +86,19 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
 
@@ -99,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit your footage
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  If you’re planning on making a DVD of your work, consider adding extras to the product such as highlights or photos. Filmora is a popular editing software solution that will help you add an extra dash of magic to your work.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
@@ -137,24 +137,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-15-ways-to-make-most-of-your-podcast-time/"><u>[New] 15 Ways to Make Most of Your Podcast Time</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-chronos-shifts-using-phantoms-time-reversed-footage/"><u>[New] 2024 Approved Mastering Chronos Shifts Using Phantom's Time-Reversed Footage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-gaming-hub-vs-content-creators-haven-twitch-and-youtube-compared/"><u>[New] The Gaming Hub vs Content Creator's Haven Twitch & YouTube Compared</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-virtual-realms-the-finest-vr-accessories-unveiled-for-2024/"><u>[New] Virtual Realms The Finest VR Accessories Unveiled for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-activate-windows-xp-movie-creation-toolkit/"><u>[Updated] Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-aerial-excellence-with-mi-drone-a-high-quality-look/"><u>[Updated] Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-breaking-boundaries-with-mini-drones-an-in-depth-analysis-of-dji-spark/"><u>[Updated] Breaking Boundaries with Mini Drones An In-Depth Analysis of DJI Spark</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits-for-2024/"><u>[Updated] From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-asmrs-health-perks-a-guide/"><u>2024 Approved Unlocking ASMR's Health Perks A Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ace-tools-review-6-superior-options-for-photo-backdrop-cleanup-for-2024/"><u>Ace Tools Review - 6 Superior Options for Photo Backdrop Cleanup for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/adaptive-smart-automation-demonstration-in-accounts-payable/"><u>Adaptive Smart Automation Demonstration in Accounts Payable</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-evolving-landscape-in-virtual-reality360-viewing/"><u>Android's Evolving Landscape in Virtual Reality/360 Viewing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-moto-g23-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Moto G23</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-card-support-issue-settled/"><u>Graphics Card Support: Issue Settled</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-accessible-quality-sunglasses-to-enhance-vr-experience/"><u>In 2024, Accessible, Quality Sunglasses to Enhance VR Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-maze-of-public-television-download/"><u>Navigating the Maze of Public Television Download</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-oppo-f23-5g-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Oppo F23 5G.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seeking-peak-playback-performance-vlc-or-mx-showdown/"><u>Seeking Peak Playback Performance VLC or MX Showdown</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-elite-circle-of-online-av-masters/"><u>The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/lord-of-the-rings-trilogy-the-perfect-order-to-experience-middle-earth/"><u>'Lord of the Rings' Trilogy: The Perfect Order to Experience Middle Earth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-dynamic-musical-journeys-with-crossfading/"><u>[New] Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-7-best-online-voice-recorders-2023/"><u>[Updated] In 2024, 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/historical-stop-motion-masterpieces-15-essential-viewing/"><u>Historical Stop-Motion Masterpieces #15 Essential Viewing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-ace-2v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Ace 2V Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-exploring-youtube-channels-for-easier-access-to-fb-videos-on-apple-tv/"><u>In 2024, Exploring YouTube Channels for Easier Access to FB Videos on Apple TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-the-right-flight-stabilizer-drones-edition/"><u>Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-streamlined-ocean-video-capture/"><u>The Ultimate Guide to Streamlined Ocean Video Capture</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-ultimate-guide-to-computer-components/"><u>Tom's Hardware: Ultimate Guide to Computer Components</u></a></li>
 </ul></div>
 

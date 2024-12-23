@@ -1,7 +1,7 @@
 ---
 title: "[New] Complete Insight Into Ricoh Theta S Camera"
-date: 2024-12-08T20:46:27.091Z
-updated: 2024-12-14T16:51:51.402Z
+date: 2024-12-22T18:11:00.933Z
+updated: 2024-12-23T21:16:27.561Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Large numbers of people are talking about Ricoh these days so it becomes essenti
 * [Part 3: Basic specs of Ricoh Theta S](#part3)
 * [Part 4: Should I buy](#part4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Complete Review of Ricoh Theta S
 
 **Brief Introduction about Ricoh Theta S**
@@ -45,6 +49,10 @@ Ricoh has recently launched its most awaited spherical camera unit in form of Th
 **Design and Built**
 
 ![Ricoh Theta S - Details](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-design.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Theta S is going to serve like a push button to the growing world of spherical imaging where one can grab the whole 360 degree scene from any location and later it is possible to use zoom and pan features over these photos. All captured photographs can be easily viewed upon Mac, PC, Android as well as iOS devices by simply installing Theta apps developed by Ricoh itself. You will be glad to know that Ricoh theta comes with 4GB memory support that is enough to collect unlimited memories everyday. In order to transfer your photos to other devices you can use Wi-Fi connectivity directly. If we talk about the size of this spherical imaging device then it is measured to be 1.65 x 5.08 x 9 inches with a total weight of 20 pounds; no doubt to say that this tinny device can be held on tours easily.
 
@@ -57,10 +65,6 @@ This Theta S camera unit can be easily used by beginners as well as professional
 **Where to use**
 
 ![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
 
@@ -75,7 +79,7 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -92,7 +96,7 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Remote control (via App)                                                               |                                                                       |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
@@ -112,7 +116,7 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -122,10 +126,6 @@ Theta S is one of the most useful products for photography lovers whether they a
 **Check this video to get detailed information about Ricoh Theta S**
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -142,22 +142,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-secrets-unveiled-creating-professional-srt-files-for-2024/"><u>[New] Secrets Unveiled Creating Professional SRT Files for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-favorites-to-featured-the-journey-to-a-unique-youtube-list/"><u>[Updated] 2024 Approved From Favorites to Featured The Journey to a Unique YouTube List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-transform-your-webcam-footage-edit-and-export-tips/"><u>[Updated] 2024 Approved Transform Your WebCam Footage Edit & Export Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>[Updated] In 2024, Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-curated-selection-of-top-6-nft-maker-applications-for-2024/"><u>A Curated Selection of Top 6 NFT Maker Applications for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/auditory-aesthetics-guide-media-sound-choices/"><u>Auditory Aesthetics Guide Media Sound Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/authoritative-guide-to-premium-auto-camera-tech-for-2024/"><u>Authoritative Guide to Premium Auto Camera Tech for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/creating-an-impactful-film-short-summary/"><u>Creating an Impactful Film Short Summary</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/forbedret-vaebnelse-tydelige-betingelser-ved-movavi-rabatskud-for-brugere/"><u>Forbedret Væbnelse - Tydelige Betingelser Ved Movavi Rabatskud for Brugere</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>From Parts to Proficiency Assembling a Powerhouse 4K Video Editor PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-how-to-do-color-correction-in-gopro-studio/"><u>In 2024, How to Do Color Correction in GoPro Studio</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kooteks-all-purpose-laptop-chiller-an-in-depth-product-evaluation-and-insightful-recommendation/"><u>Kootek's All-Purpose Laptop Chiller: An In-Depth Product Evaluation and Insightful Recommendation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-scripts-reflecting-diverse-genre-themes/"><u>Pioneering Scripts Reflecting Diverse Genre Themes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-start-guide-zooming-into-fb-live-on-the-web-for-2024/"><u>Quick Start Guide Zooming Into FB Live on the Web for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/types-of-drones-explore-different-types-of-drones/"><u>Types of Drones Explore Different Types of Drones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-tutorial-for-3d-lut-creators/"><u>Ultimate Tutorial for 3D LUT Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-detailed-review-of-the-top-10-gopro-protectors/"><u>[New] A Detailed Review of the Top 10 GoPro Protectors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-ways-to-take-amazing-time-lapse-videos-with-android-phone-2024/"><u>[New] Best Ways to Take Amazing Time-Lapse Videos with Android Phone 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-championing-the-leading-gif-apps-on-iphones/"><u>[New] Championing the Leading GIF Apps on iPhones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cinematic-continuity-a-kinemaster-led-guide/"><u>[New] Cinematic Continuity A Kinemaster-Led Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-8-proven-techniques-to-amplify-content/"><u>[New] Top 8 Proven Techniques to Amplify Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revolutionary-video-editor-top-tier-clarity/"><u>[Updated] 2024 Approved Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-achieving-stunning-iphone-hdr-results/"><u>[Updated] Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>[Updated] In 2024, The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/consistent-nourishment-with-the-petsafe-six-meal-auto-feeder/"><u>Consistent Nourishment with the PetSafe Six-Meal Auto Feeder</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gearing-up-against-competitors-amds-latest-release-of-the-800-series-chipsets-designed-to-harness-ryzen-9000-processor-potential-and-outpace-intel/"><u>Gearing Up Against Competitors: AMD's Latest Release of the 800 Series Chipsets Designed to Harness Ryzen 9000 Processor Potential and Outpace Intel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-text-pop-in-instagram-stories-with-simple-animations/"><u>Making Text Pop in Instagram Stories with Simple Animations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-counting-on-mobile-a-guide-to-using-your-iphoneandroid-device/"><u>Step Counting on Mobile: A Guide to Using Your iPhone/Android Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-15-smartest-ways-to-watch-nba-live-in-action-for-2024/"><u>The 15 Smartest Ways to Watch NBA Live in Action for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-ranking-airtag-gadgets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking AirTag Gadgets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools/"><u>Transforming Digital Art with Free, Versatile LUT Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unbeatable-wingspan-top-10-durable-aerial-vehicles/"><u>Unbeatable Wingspan Top 10 Durable Aerial Vehicles</u></a></li>
 </ul></div>
 

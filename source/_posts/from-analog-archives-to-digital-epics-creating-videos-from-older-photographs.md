@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2024-12-11T19:10:18.110Z
-updated: 2024-12-14T20:16:34.498Z
+date: 2024-12-22T17:45:14.849Z
+updated: 2024-12-23T16:28:29.204Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,13 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 ![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\. Get in Touch with a Professional
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Convert Old Photos into a Video Effortlessly?
 
@@ -90,15 +90,15 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 3\. Edit the video
 
@@ -107,7 +107,7 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
@@ -122,13 +122,13 @@ To add text to your videos, just go to the “Titles” option here. This will l
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Export your video
 
@@ -136,11 +136,11 @@ That’s it! After making all the changes, you can preview your video on the rig
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
-Find more fancy ways to make the best photo and video slideshow with Filmora!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 ## More Editing Tips for Creating Memorable Videos
 
@@ -189,19 +189,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-cutting-edge-tools-for-igtv-content-creation-and-editing/"><u>[New] In 2024, Cutting-Edge Tools for IGTV Content Creation and Editing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nstant-tutorial-green-screen-techniques-unveiled/"><u>[New] Instant Tutorial Green Screen Techniques Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-accelerating-your-creative-process-with-mac-dvd-authoring/"><u>[Updated] Accelerating Your Creative Process with Mac DVD Authoring</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-green-screen-shooting-made-simple/"><u>[Updated] In 2024, Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-updated-user-manual-for-navigating-facebook/"><u>[Updated] In 2024, The Updated User Manual for Navigating Facebook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-acquiring-fcp-for-zip-legal-strategies-explained/"><u>2024 Approved Acquiring FCP for Zip Legal Strategies Explained</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ue-cinematography-in-the-digital-realm-for-2024/"><u>Antique Cinematography in the Digital Realm for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-how-to-get-the-new-driver-for-your-epson-perfection-v500-printer/"><u>Complete Guide: How To Get The New Driver For Your Epson Perfection V500 Printer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-slomo-recording-app-analysis-consumers/"><u>Complete SloMo Recording App Analysis Consumers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/master-iphone-images-with-pro-level-tech/"><u>Master iPhone Images with Pro-Level Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-w11-tuning-lessen-resource-usage-for-users/"><u>Tailored W11 Tuning: Lessen Resource Usage for Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-shortcuts-you-should-know-for-2024/"><u>YouTube Shortcuts You Should Know for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-mac-mastering-screen-recording-via-shortcuts/"><u>[New] In 2024, Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-prodigy-vs-creative-hub-beta-edition-for-2024/"><u>[New] YouTube Prodigy Vs. Creative Hub Beta Edition for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-restoring-sound-linkage-in-obs-broadcasts/"><u>[Updated] 2024 Approved Restoring Sound Linkage in OBS Broadcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-battle-royale-in-vr-choosing-between-oculus-htc-vive-and-ps-vr/"><u>[Updated] Battle Royale in VR Choosing Between Oculus, HTC Vive & PS VR</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominate-search-results-essential-tips-for-optimizing-youtube-videos-for-2024/"><u>[Updated] Dominate Search Results Essential Tips for Optimizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-your-canon-mg3620-drivers-safe-and-simple-steps/"><u>Download Your Canon MG3620 Drivers - Safe & Simple Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-add-filters-and-music-on-windows-11-photos-app/"><u>How to Add Filters and Music on Windows 11 Photos App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iconic-14-examples-of-animate-texts/"><u>Iconic 14 Examples of Animate Texts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revelations-on-identifying-outstanding-film-making-talents/"><u>Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>Shopping Smart with Drones What You Need to Think About First</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-off-sound-improvements-on-your-pc-a-guide-to-deactivating-windows-10s-audio-boost/"><u>Turn Off Sound Improvements on Your PC: A Guide to Deactivating Windows 10'S Audio Boost</u></a></li>
 </ul></div>
 

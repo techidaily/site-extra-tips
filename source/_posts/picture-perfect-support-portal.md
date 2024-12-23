@@ -1,7 +1,7 @@
 ---
 title: "Picture Perfect Support Portal"
-date: 2024-12-10T20:00:01.787Z
-updated: 2024-12-14T18:15:13.170Z
+date: 2024-12-16T18:02:46.771Z
+updated: 2024-12-23T19:56:54.023Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ You Ask, We Answer is a series in which we answer the questions asked in the You
 
 ![can you add animated text for amv filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), you do have texts that can be animated. It has more than 5,000+ text presets to spice up your video. You can head to the “Titles” tab, and put “3D text” into the searching section. Many stunning text presets will be shown.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -44,13 +40,13 @@ Step1 Launch Wondershare Filmora on your Windows PC or Mac.
 
 ![launch wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Select one text title from the “Titles” tab, and drag-n-drop the text title onto the timeline.
 
 ![drag text to timeline](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Double-click it. In the text editor and then click animation.
 
@@ -96,6 +92,10 @@ Move the mask around until the string is in the mask box.
 
 ![move the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-13.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then in the mask tab, click on the invert mask option. You can play around with these tabs to clean up the mask to refine the shot.
 
 ![clean up the mask](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-14.gif)
@@ -104,17 +104,9 @@ Now, play around with these tabs to clean up the mask to refine the shot. Finall
 
 ![play your edited clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-15.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Export the clips to your computer.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-16.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Question 3: Audio quality improvement
 
@@ -128,17 +120,21 @@ Step1 Launch Wonderhsare Filmora and import your clip into it.
 
 ![launch filmora and import clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Double-click the clip you want to denoise. And click the audio at the top.
 
 ![click audio at the top](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now select the denoise button and choose between weak, medium, and strong intensity to remove background noises.
 
 ![select denoise button](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-20.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can also use the equalizer to remove background noises and improve your audio manually. The steps you have to follow are given below.
 
@@ -159,10 +155,6 @@ Step5 Find the spot where your clip sounds the best and relisten to your clip.
 
 ![find the best spot and relisten](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-24.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Export your clip, and you will notice a major difference in the audio quality after editing.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-25.png)
@@ -170,6 +162,10 @@ Step6 Export your clip, and you will notice a major difference in the audio qual
 ## Question 4: About Filmora settings
 
 ![questions from audience](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-26.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It is a great question. You might have noticed a crown icon next to some features in Filmora. It is for specific editing features accessible to users only with a Filmora license.
 
@@ -191,10 +187,6 @@ We hope you have found the answer to your question. If you still have any querie
 
 ![titles from wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 And you can also customize titles on your own. So, let us go ahead and show you how to do it.
 
 Step1 Launch Wondershare Filmora on your Windows PC or Mac.
@@ -215,13 +207,13 @@ Step4 Here you can choose a bunch of preset animations for your texts.
 
 Another fantastic addition to Filmora is 3D plug-ins. You can also use NewBlue FX, which includes titler pro. These allow you to create your own text animation, even in 3D.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Question 2: Video editing skills
 
 ![questions from audience](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The best way to make a string disappear in your video is masking. Here is how you can use this feature to remove something from your clip. Follow the steps explained below.
 
@@ -241,13 +233,13 @@ Now, launch the video editing software Wondershare Filmora. Drag and drop your e
 
 ![import clip with empty background](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-10.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now drag the other clip with the object and string on the second video track.
 
 ![import clip with the object](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-11.gif)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Trim the clip to the duration of your choice. Double-click on your top clip, and then under the video tab, go into the mask and select or draw the mask shape you want.
 
@@ -269,6 +261,10 @@ Export the clips to your computer.
 
 ![export clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Question 3: Audio quality improvement
 
 ![questions from the audience](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-17.jpg)
@@ -280,10 +276,6 @@ First of all, you need to purchase a good mic. A good mic can enhance the qualit
 Step1 Launch Wonderhsare Filmora and import your clip into it.
 
 ![launch filmora and import clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-18.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Double-click the clip you want to denoise. And click the audio at the top.
 
@@ -300,6 +292,10 @@ You can also use the equalizer to remove background noises and improve your audi
 
 ![choose the customise option](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The first three dials of the equalizer usually control the bass, and these dials are mainly used to remove any background noise. The dials in the middle control the mid-tones. Finally, the last dials control the high pitch sounds.
 
 ![first three dials](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-22.png)
@@ -307,6 +303,10 @@ The first three dials of the equalizer usually control the bass, and these dials
 Step4 Start moving dials up and down and find the right balance for your clip.
 
 ![find the right balance for your clip](https://images.wondershare.com/filmora/article-images/2022/12/filmroa-questions-and-answers-23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Find the spot where your clip sounds the best and relisten to your clip.
 
@@ -360,22 +360,24 @@ We hope you have found the answer to your question. If you still have any querie
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[Updated] A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others/"><u>[Updated] Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others</u></a></li>
-<li><a href="https://win11.techidaily.com/1726026523309-mp3/"><u>最新のアヴィMP3変換プログラムを使って楽曲コレクションを効率良く保存する - ステップバイステップガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/coders-confronted-assessing-chatgpt-and-gemini-to-find-the-ultimate-ai-chatbot-champion/"><u>Coders Confronted: Assessing ChatGPT and Gemini to Find the Ultimate AI Chatbot Champion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-visual-brilliance-mastering-luts-in-ae-for-2024/"><u>Crafting Visual Brilliance Mastering LUTs in AE for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-amplify-and-transform-changing-your-audible-image-on-ig/"><u>In 2024, Amplify and Transform Changing Your Audible Image on IG</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-gionee-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Gionee Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-13-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi 13 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/natures-canvas-a-variety-of-downloads-to-enhance-cinematic-work/"><u>Nature’s Canvas A Variety of Downloads to Enhance Cinematic Work</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/optimal-remote-edit-and-restore-applications/"><u>Optimal Remote Edit & Restore Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-blueprint-for-professional-edits-in-gopro-studio/"><u>The Complete Blueprint for Professional Edits in GoPro Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-iphone-silhouette-photos-for-2024/"><u>The Ultimate Guide to iPhone Silhouette Photos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-kid-friendly-drone-models-for-first-flights/"><u>Top Kid-Friendly Drone Models for First Flights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-fix-call-of-duty-wwiis-black-screen-trouble-in-windows-with-this-easy-solution/"><u>Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/understanding-pixel-performance-from-a-start/"><u>Understanding Pixel Performance From a Start</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-you-need-to-know-about-macos-big-sur/"><u>What You Need to Know About MacOS Big Sur</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-11-compatible-fast-and-easy-x-total-dvd-ripper-for-converting-discs-to-mp4-video-format/"><u>Windows 11 Compatible Fast & Easy X-Total DVD Ripper for Converting Discs to MP4 Video Format</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-foundation-for-success-equipping-new-channels/"><u>[New] The Foundation for Success Equipping New Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-chuckle-cache-the-best-humor-tweets-on-twitch/"><u>[Updated] 2024 Approved Chuckle Cache The Best Humor Tweets on Twitch</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enlarged-pictures-maintaining-high-quality-standards/"><u>[Updated] Enlarged Pictures Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-pinnacle-studio-25-review/"><u>[Updated] Pinnacle Studio 25 Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-audiovisual-excellence-with-srt-and-mp4-the-ultimate-guide-for-2024/"><u>Achieving Audiovisual Excellence with SRT and MP4 - The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/decoding-upgrades-to-macos-11-big-surs-core-features/"><u>Decoding Upgrades to macOS 11 Big Sur's Core Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-verification-how-to-get-the-blue-verified-badge-easily/"><u>Facebook Verification How to Get the Blue Verified Badge (Easily)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hasty-and-hassle-free-images-on-windows-11/"><u>Hasty & Hassle-Free Images on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-11x-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme 11X 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-accelerated-mp4-to-facebook-video-conversion/"><u>In 2024, Accelerated MP4-to-Facebook Video Conversion</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oneplus-11r-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change OnePlus 11R Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-luts-simplified-your-guide-to-better-photos/"><u>In 2024, LUTs Simplified Your Guide to Better Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reinstate-crystal-clear-zoom-sound/"><u>Reinstate Crystal-Clear Zoom Sound</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-list-for-top-10-affordable-recording-software/"><u>The Ultimate List for Top 10 Affordable Recording Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-8-beginners-choices-easy-film-cameras-35mm-to-pands/"><u>Top 8 Beginner's Choices Easy Film Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-sound-capture-on-windows-10/"><u>Unlocking Sound Capture on Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-stability-enhancements-for-windows-11-and-10-users/"><u>Zoom Stability Enhancements for Windows 11 & 10 Users</u></a></li>
 </ul></div>
 

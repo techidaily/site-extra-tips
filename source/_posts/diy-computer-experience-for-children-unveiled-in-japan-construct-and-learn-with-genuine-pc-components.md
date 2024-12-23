@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-12-09T16:55:09.462Z
-updated: 2024-12-14T20:45:27.992Z
+date: 2024-12-16T18:02:09.191Z
+updated: 2024-12-23T18:51:36.186Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,17 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] 2024 Approved Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-10-budget-friendly-cloud-service-providers/"><u>[Updated] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>2024 Approved Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-lens-wisdom-the-best-cinemagraph-tips/"><u>2024 Approved Behind-the-Lens Wisdom The Best Cinemagraph Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vsdc-insight-an-in-depth-look-at-its-features-and-rivals/"><u>2024 Approved VSDC Insight An In-Depth Look at Its Features and Rivals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cadence-crossover-transferring-playlists-with-ease/"><u>Cadence Crossover Transferring Playlists with Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-the-moment-iphone-time-lapse-tutorial-for-2024/"><u>Capture the Moment IPhone Time-Lapse Tutorial for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-and-console-care-101-for-playstation-users/"><u>Controller & Console Care 101 for PlayStation Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-2023-full-movement-analysis/"><u>In 2024, 2023 Full Movement Analysis</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-6s-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 6s Plus iCloud Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-aerial-stability-made-simple-selecting-the-right-drone-gimbals/"><u>In 2024, Aerial Stability Made Simple Selecting the Right Drone Gimbals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-nine-powerful-microphone-capture-options-decoded/"><u>[New] 2024 Approved Nine Powerful Microphone Capture Options Decoded</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] In 2024, Noise Reduction for Better Video Experiences on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-copyright-on-youtube-and-cc/"><u>[New] Navigating Copyright on YouTube & CC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-5-windows-11-gaming-capture-techniques-for-2024/"><u>[New] Top 5 Windows 11 Gaming Capture Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-journey-into-professional-gopro-editing/"><u>[Updated] A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[Updated] Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturequality-assessor-network/"><u>2024 Approved CaptureQuality Assessor Network</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chime-connoisseurs-curated-list-of-download-websites/"><u>In 2024, Chime Connoisseurs Curated List of Download Websites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/powerpoint-presentation-soundtracking-secrets-for-2024/"><u>PowerPoint Presentation Soundtracking Secrets for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spin-cycle-in-the-ice-arena-of-22/"><u>Spin Cycle in the Ice Arena of '22</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/what-you-should-expect-to-make-as-a-podcaster/"><u>What You Should Expect to Make as a Podcaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-ai-outperforms-chatgpt-the-4-improvement-highlights/"><u>Why Claude AI Outperforms ChatGPT - The 4 Improvement Highlights</u></a></li>
 </ul></div>
 

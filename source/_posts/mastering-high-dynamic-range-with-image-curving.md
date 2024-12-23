@@ -1,7 +1,7 @@
 ---
 title: "Mastering High Dynamic Range with Image Curving"
-date: 2024-12-07T21:26:25.521Z
-updated: 2024-12-14T20:18:15.797Z
+date: 2024-12-17T18:13:11.202Z
+updated: 2024-12-23T18:26:21.866Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking 
 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
@@ -47,32 +51,32 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
@@ -81,11 +85,7 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -122,18 +122,16 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/1716389384230-new-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[New] 360 Degree Cameras Vs 3D Cameras What Are the Differences?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices-for-2024/"><u>[New] 5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-vectors-for-novices-uncover-essentials-types-and-applications/"><u>[New] Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-techniques-for-pip-integration-in-edge-browser/"><u>[Updated] Advanced Techniques for PIP Integration in Edge Browser</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/"><u>[Updated] Capturing Brilliance Essential Angles in iPhone Photography</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>[Updated] Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-gaps-building-relationships-with-your-audience/"><u>2024 Approved Bridging Gaps Building Relationships with Your Audience</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>2024 Approved Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-the-heavens-phone-panorama-basics/"><u>Capturing the Heavens Phone Panorama Basics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gopro-innovations-a-side-by-side-exploration/"><u>GoPro Innovations A Side-by-Side Exploration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-activatingdeactivating-picture-in-picture-youtube-viewing-on-iphone/"><u>In 2024, Activating/Deactivating Picture In Picture YouTube Viewing on iPhone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-integrating-alternative-antiviruses-with-ms-defender/"><u>Tips for Integrating Alternative Antiviruses with MS Defender</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-your-lenovo-screens-drivers-with-this-simple-download-tool/"><u>Update Your Lenovo Screen's Drivers with This Simple Download Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-selection-of-moving-typefaces/"><u>[New] Premier Selection of Moving Typefaces</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-convert-slideshow-elements-to-visual-medium/"><u>[Updated] In 2024, Convert Slideshow Elements to Visual Medium</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-10-quick-diy-moviemaking-secrets-unveiled/"><u>2024 Approved 10 Quick DIY Moviemaking Secrets Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-gaming-tips-and-tricks-to-get-payday-2-running-smoothly-on-pc/"><u>Effortless Gaming: Tips & Tricks to Get Payday 2 Running Smoothly on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-l2540dw-printer-software-for-windows-systems/"><u>Get the Latest Brother L2540DW Printer Software for Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b/"><u>LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/locate-your-perfect-tech-companion-top-6-places-to-buy-a-new-laptop/"><u>Locate Your Perfect Tech Companion: Top 6 Places to Buy a New Laptop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-your-pics-ideal-apps-list-for-iphonesandroids/"><u>Perfect Your Pics Ideal Apps List for iPhones/Androids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/premiere-promp4/"><u>Premiere Proによる高品質MP4動画書き出しガイド</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-converters-handbook-from-srt-to-multiple-formats-for-2024/"><u>Ultimate Converter's Handbook From SRT to Multiple Formats for 2024</u></a></li>
 </ul></div>
 
