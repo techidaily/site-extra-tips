@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-12-16T18:29:08.853Z
-updated: 2024-12-23T18:42:30.424Z
+date: 2024-12-21T18:28:26.491Z
+updated: 2024-12-29T12:27:34.229Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,20 +62,21 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/uick-youtube-snippets-explained-simply-for-2024/"><u>[New] Quick YouTube Snippets Explained Simply for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-sequences-a-movie-maker-approach-to-animation/"><u>[Updated] Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>[Updated] Direct-to-Streamer Duel OBS Vs. ShadowToolkit for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-finding-your-next-big-idea-in-iconography-at-these-6-places/"><u>[Updated] In 2024, Finding Your Next Big Idea in Iconography at These 6 Places</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-bar-based-cocktail-skills/"><u>Assessing ChatGPT's Bar-Based Cocktail Skills</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/future-cloud-costs-top-2024-storages-and-lowest-rates/"><u>Future Cloud Costs Top 2024 Storages & Lowest Rates</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-v29e-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo V29e Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-ace-2-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Ace 2 Phone Now with These Tips</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-motorola-mg7nreview-consistent-velocity/"><u>In-Depth Analysis of the Motorola MG7nReview - Consistent Velocity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/irreversible-integration-of-tiktok-profile-linking-technique/"><u>Irreversible Integration of TikTok Profile Linking Technique</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-hardware-knowledge-with-expert-insights-from-toms-hardware/"><u>Mastering Hardware Knowledge with Expert Insights From Tom's Hardware</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-audio-visual-synchronization-in-premiere-pro/"><u>Seamless Audio-Visual Synchronization in Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speech-to-text-solutions-for-engaging-ppts/"><u>Speech-to-Text Solutions for Engaging PPTs</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-your-creative-potential-video-editing-tips-for-home-movies-for-2024/"><u>Updated Unlock Your Creative Potential Video Editing Tips for Home Movies for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visionary-editing-top-free-enhancement-pages/"><u>Visionary Editing Top Free Enhancement Pages</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[New] In 2024, Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remier-microphone-picks-for-blogging-pros/"><u>[New] Premier Microphone Picks for Blogging Pros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streaming-wars-the-digital-platform-showdown/"><u>[New] Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-scope-to-screen-partnerships-for-mcns-for-2024/"><u>[Updated] Scope-to-Screen Partnerships for MCNs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/add-background-scores-via-premiere-pro/"><u>Add Background Scores via Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/begin-your-journey-into-xps-video-editing-world/"><u>Begin Your Journey Into Xp's Video Editing World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensible-guide-to-shifting-photosvideos-in-ios-world/"><u>Comprehensible Guide to Shifting Photos/Videos in iOS World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cosmetics-creativity-guides/"><u>Cosmetics Creativity Guides</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-perfection-transforming-your-vhs-graphics-online-for-2024/"><u>Craft Perfection Transforming Your VHS Graphics Online for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ethical-relaxation-soundscapes/"><u>Ethical Relaxation Soundscapes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-nvidia-quadro-graphics-driver-update-for-windows-10-systems/"><u>Get the Latest NVIDIA Quadro Graphics Driver Update for Windows 10 Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>In 2024, The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-netgear-nighthawk-x6-wi-fi-expansion-unit-a-full-feature-breakdown/"><u>Ultimate Guide to Netgear Nighthawk X6 Wi-Fi Expansion Unit - A Full Feature Breakdown</u></a></li>
 </ul></div>
 

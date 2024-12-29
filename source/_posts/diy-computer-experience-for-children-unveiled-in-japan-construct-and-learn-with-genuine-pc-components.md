@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-12-16T18:02:09.191Z
-updated: 2024-12-23T18:51:36.186Z
+date: 2024-12-26T11:05:36.090Z
+updated: 2024-12-29T04:11:19.825Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,20 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-nine-powerful-microphone-capture-options-decoded/"><u>[New] 2024 Approved Nine Powerful Microphone Capture Options Decoded</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-assessing-dji-phantom-3-professionals-performance/"><u>[New] Assessing DJI Phantom 3 Professional's Performance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-noise-reduction-for-better-video-experiences-on-youtube/"><u>[New] In 2024, Noise Reduction for Better Video Experiences on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-copyright-on-youtube-and-cc/"><u>[New] Navigating Copyright on YouTube & CC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-windows-11-gaming-capture-techniques-for-2024/"><u>[New] Top 5 Windows 11 Gaming Capture Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-journey-into-professional-gopro-editing/"><u>[Updated] A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>[Updated] Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturequality-assessor-network/"><u>2024 Approved CaptureQuality Assessor Network</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a14-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A14 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chime-connoisseurs-curated-list-of-download-websites/"><u>In 2024, Chime Connoisseurs Curated List of Download Websites</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/powerpoint-presentation-soundtracking-secrets-for-2024/"><u>PowerPoint Presentation Soundtracking Secrets for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spin-cycle-in-the-ice-arena-of-22/"><u>Spin Cycle in the Ice Arena of '22</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-streaming-platform-faceoff-twitch-versus-youtube-analysis/"><u>The Streaming Platform Faceoff Twitch Versus YouTube Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-you-should-expect-to-make-as-a-podcaster/"><u>What You Should Expect to Make as a Podcaster</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-claude-ai-outperforms-chatgpt-the-4-improvement-highlights/"><u>Why Claude AI Outperforms ChatGPT - The 4 Improvement Highlights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-the-clouds-advanced-drone-video-techniques/"><u>[New] Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chime-connoisseurs-curated-list-of-download-websites/"><u>[Updated] Chime Connoisseurs Curated List of Download Websites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-the-best-editing-tools-for-your-youtube-channel-for-2024/"><u>[Updated] Discover the Best Editing Tools for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-picks-premium-iphone-tune-selectors-for-2024/"><u>[Updated] Top Picks Premium iPhone Tune Selectors for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-best-mobile-tools-to-pull-videos-from-youtube-for-2024/"><u>[Updated] Unveiling the Best Mobile Tools to Pull Videos From YouTube for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>2024 Approved Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-techniques-capturing-teams-screen-content/"><u>Advanced Techniques Capturing Teams' Screen Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/biometric-battleground-face-id-vs-samsungs-facial-identification-for-2024/"><u>Biometric Battleground Face ID Vs. Samsung's Facial Identification for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chromes-fullscreen-mode-a-complete-guide-to-pip-usage-for-2024/"><u>Chrome's Fullscreen Mode A Complete Guide to PIP Usage for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oneplus-11r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus 11R Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/personalizing-your-social-media-interface-to-dodge-disliked-promotions/"><u>Personalizing Your Social Media Interface to Dodge Disliked Promotions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site-for-2024/"><u>The Entrepreneurial Roadmap for Starting an Online Product Critique Site for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-rise-of-immersive-consumer-spaces/"><u>The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tiktok-unboxers-guide-to-enhanced-video-engagement-and-likes/"><u>TikTok Unboxers Guide to Enhanced Video Engagement and Likes</u></a></li>
 </ul></div>
 

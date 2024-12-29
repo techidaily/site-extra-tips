@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2024-12-21T20:46:10.252Z
-updated: 2024-12-23T17:26:55.619Z
+date: 2024-12-26T10:41:18.613Z
+updated: 2024-12-29T01:44:58.923Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,20 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effective-ways-how-to-block-facebook-video-ads/"><u>[New] 2024 Approved Effective Ways | How to Block Facebook Video Ads?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-building-a-brand-through-effective-live-streaming-practices/"><u>[New] Building a Brand Through Effective Live Streaming Practices</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-f54-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-ideas-to-slide-decks-creating-stellar-presentations-with-chatgpt/"><u>From Ideas to Slide Decks: Creating Stellar Presentations with ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gopro-hero4-vs-drift-ghost-ultimate-performance-showdown/"><u>GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-google-pixel-8-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Google Pixel 8 Through Google Earth?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-conquering-challenges-in-single-source-online-streaming/"><u>In 2024, Conquering Challenges in Single-Source Online Streaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-techniques-for-gameplay-recordings-via-obs/"><u>In 2024, Expert Techniques for Gameplay Recordings via OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-fade-inout-premiere-pro/"><u>In 2024, How to Add Fade In/Out Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inshot-cut-mastery-creating-fluid-movements/"><u>Inshot Cut Mastery Creating Fluid Movements</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-world-of-components-the-toms-hardware-tour/"><u>Navigating the World of Components - The Tom's Hardware Tour</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-4k-player-picks-best-8-free-cross-platform-compatible/"><u>Optimal 4K Player Picks Best 8 FREE, Cross-Platform Compatible</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pinterest-video-extraction-the-ultimate-guide-to-the-best-tools/"><u>Pinterest Video Extraction The Ultimate Guide to the Best Tools</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211364296-9781528799676-the-psychological-meaning-of-the-single-characteristics-in-handwriting-a-historical-article-on-the-analysis-and-interpretation-of-handwriting/"><u>The Psychological Meaning of the Single Characteristics in Handwriting - A Historical Article on the Analysis and Interpretation of Handwriting | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/timeless-tunes-selecting-high-quality-ringtones-online/"><u>Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-strategies-for-efficiently-backing-up-your-asus-notebook-on-windows-11/"><u>Top Strategies for Efficiently Backing Up Your ASUS Notebook on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-potential-tips-for-screenplay-dialogue-and-narration/"><u>Unlocking Potential Tips for Screenplay Dialogue and Narration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-tips-for-effective-chroma-keying-in-kinemaster/"><u>[New] Advanced Tips for Effective Chroma Keying in KineMaster</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-optimal-video-saver-best-chromebook-recorder/"><u>[New] Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-tvs-for-ps5-and-xbox-series-x-gamers-dreams/"><u>[New] Premium TVs for PS5 & Xbox Series X Gamers' Dreams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-constructing-unique-instagram-post-images/"><u>[Updated] In 2024, Constructing Unique Instagram Post Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-snapping-and-recording-screen-on-macos-for-2024/"><u>[Updated] Snapping and Recording Screen on macOS for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/abletons-pathway-to-harmonious-declines-for-2024/"><u>Ableton's Pathway to Harmonious Declines for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-visual-clarity-entering-aurora-hdr-territory/"><u>Assessing Visual Clarity Entering Aurora HDR Territory</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/engaging-environments-scenery-that-sells-streaming/"><u>Engaging Environments Scenery That Sells Streaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-12-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme 12 5G Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chromatic-excellence-program/"><u>In 2024, Chromatic Excellence Program</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obsudios-analysis-selecting-the-ideal-recording-software/"><u>In 2024, Obsudio's Analysis Selecting the Ideal Recording Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-with-the-ultimate-guide-to-still-active-tablet-offers-for-prime-day-2024-find-them-here/"><u>Save Big with the Ultimate Guide to Still-Active Tablet Offers for Prime Day 2024 – Find Them Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-reality-behind-earbud-audio-quality-debunking-lossless-expectations-analysis/"><u>The Reality Behind Earbud Audio Quality: Debunking Lossless Expectations Analysis</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-image-sharing-blueprint-for-youtube-enthusiasts/"><u>The Ultimate Image Sharing Blueprint for YouTube Enthusiasts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-strategies-for-youtube-musicians-make-the-perfect-reaction-video/"><u>Top 10 Strategies for YouTube Musicians Make the Perfect Reaction Video</u></a></li>
 </ul></div>
 
