@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2024-12-22T11:39:15.308Z
-updated: 2024-12-29T01:31:40.269Z
+date: 2025-01-06T23:15:58.790Z
+updated: 2025-01-08T06:42:50.322Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 2\. Get closer
 
  You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  This will also make your images clearer and more colourful.
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. Lighting is important
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Stay steady
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit your footage
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -137,20 +137,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[New] Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-androids-premier-3d-visualization-app/"><u>[Updated] Android's Premier 3D Visualization App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-degree-of-view-analysis/"><u>[Updated] Comprehensive Degree of View Analysis</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-matches-ultimate-websites-for-acquiring-snapchat-ringtones/"><u>2024 Approved Best Matches Ultimate Websites for Acquiring Snapchat Ringtones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-prime-desktop-systems-for-quality-use/"><u>2024 Approved Prime Desktop Systems for Quality Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-engaging-storytelling-podcasts-with-applee-devices/"><u>Crafting Engaging Storytelling Podcasts with Apple'e Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/harmonizing-services-uniting-your-musical-lists/"><u>Harmonizing Services Uniting Your Musical Lists</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-are-there-alternatives-to-googles-ar-gems/"><u>In 2024, Are There Alternatives to Google's AR Gems?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/samsungs-photo-manipulation-software-a-review-for-2024/"><u>Samsung's Photo Manipulation Software A Review for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-the-new-world-connection-error/"><u>Troubleshooting Steps for Resolving the 'New World Connection Error'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/virtual-horizons-redefining-the-movie-experience/"><u>Virtual Horizons Redefining the Movie Experience</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win11-and-nvidia-tackling-gl-error-3-head-on/"><u>Win11 & NVIDIA: Tackling GL Error 3 Head-On</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1728496128861-windows-1011usb/"><u>Windows 10/11用のUSBリカバリディスク作り手順</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-2024-guide-to-enable-monetization-on-youtube-videos/"><u>[New] The Ultimate 2024 Guide to Enable Monetization on YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asmrs-role-in-better-nights-expert-vocal-guides/"><u>[Updated] ASMR's Role in Better Nights Expert Vocal Guides</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-full-screen-preview-in-premiere/"><u>2024 Approved Step-by-Step Full Screen Preview in Premiere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ace-the-sky-best-drones-and-their-precision-editing-companions-for-2024/"><u>Ace the Sky Best Drones & Their Precision Editing Companions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-impact-on-the-landscape-of-creative-industries/"><u>AI's Impact on the Landscape of Creative Industries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/auto-enhancing-shots-with-innovative-exposure-algorithms/"><u>Auto-Enhancing Shots with Innovative Exposure Algorithms</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/due-metodi-facili-per-masterizzare-e-conservare-i-dvd-su-pc-con-windows-o-macos/"><u>Due Metodi Facili per Masterizzare E Conservare I DVD Su PC Con Windows O MacOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-chatgpt-when-it-doesnt-save-your-conversations/"><u>How to Fix ChatGPT When It Doesn’t Save Your Conversations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-make-brands-see-you-as-a-valuable-youtube-sponsorship-candidate/"><u>How to Make Brands See You as a Valuable Youtube Sponsorship Candidate</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/scrutinizing-hero5s-performance-throughout-day/"><u>Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-ranked-rca-video-doorbell-camera-an-effective-surveillnace-gadget-for-your-home/"><u>Top-Ranked RCA Video Doorbell Camera: An Effective Surveillnace Gadget for Your Home</u></a></li>
 </ul></div>
 

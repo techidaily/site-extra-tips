@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2024-12-26T11:05:36.090Z
-updated: 2024-12-29T04:11:19.825Z
+date: 2025-01-01T21:51:47.970Z
+updated: 2025-01-08T00:03:58.813Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,20 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-capturing-the-clouds-advanced-drone-video-techniques/"><u>[New] Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chime-connoisseurs-curated-list-of-download-websites/"><u>[Updated] Chime Connoisseurs Curated List of Download Websites</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-discover-the-best-editing-tools-for-your-youtube-channel-for-2024/"><u>[Updated] Discover the Best Editing Tools for Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-picks-premium-iphone-tune-selectors-for-2024/"><u>[Updated] Top Picks Premium iPhone Tune Selectors for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-best-mobile-tools-to-pull-videos-from-youtube-for-2024/"><u>[Updated] Unveiling the Best Mobile Tools to Pull Videos From YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfect-date-trackers-for-your-wedding-ios-and-android-edition/"><u>2024 Approved Perfect Date Trackers for Your Wedding, iOS and Android Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/advanced-techniques-capturing-teams-screen-content/"><u>Advanced Techniques Capturing Teams' Screen Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/biometric-battleground-face-id-vs-samsungs-facial-identification-for-2024/"><u>Biometric Battleground Face ID Vs. Samsung's Facial Identification for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chromes-fullscreen-mode-a-complete-guide-to-pip-usage-for-2024/"><u>Chrome's Fullscreen Mode A Complete Guide to PIP Usage for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oneplus-11r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus 11R Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/personalizing-your-social-media-interface-to-dodge-disliked-promotions/"><u>Personalizing Your Social Media Interface to Dodge Disliked Promotions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site-for-2024/"><u>The Entrepreneurial Roadmap for Starting an Online Product Critique Site for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-rise-of-immersive-consumer-spaces/"><u>The Rise of Immersive Consumer Spaces</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tiktok-unboxers-guide-to-enhanced-video-engagement-and-likes/"><u>TikTok Unboxers Guide to Enhanced Video Engagement and Likes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elite-5-screen-grab-for-fb-movies-for-2024/"><u>[New] Elite 5 Screen Grab for FB Movies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-pinnacle-studio-25-review/"><u>[New] Pinnacle Studio 25 Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-4-ways-to-set-up-your-talking-head-shots-for-youtube/"><u>[Updated] 4 Ways To Set Up Your Talking-Head Shots For YouTube</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>[Updated] PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-3-ae-plugin-reviews-for-optimal-editing/"><u>2024 Approved Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acknowledging-talent-free-to-own-outro-templates/"><u>Acknowledging Talent Free-to-Own Outro Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/charting-creative-trajectories-the-six-leading-nft-artists/"><u>Charting Creative Trajectories The Six Leading NFT Artists</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-high-end-computer-choices/"><u>Exclusive High-End Computer Choices</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-10-ways-to-convert-youtube-to-mpeg/"><u>In 2024, Best 10 Ways to Convert YouTube to MPEG</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insightful-analysis-of-magix-media-plug-ins/"><u>In 2024, Insightful Analysis of MAGIX Media Plug-Ins</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-slow-motion-capture-with-phantom-lens/"><u>Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reviving-retro-gaming-and-pc-building-insights/"><u>Reviving Retro Gaming & PC Building Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tech-tailored-using-apple-watch-for-macopening/"><u>Tech Tailored Using Apple Watch for MacOpening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-list-of-premium-free-srt-translators/"><u>The Essential List of Premium FREE SRT Translators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pros-finest-10-iconic-movies-for-2024/"><u>Updated Final Cut Pros Finest 10 Iconic Movies for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Add Filters and Music on Windows 11 Photos App"
-date: 2024-12-27T20:27:35.675Z
-updated: 2024-12-28T16:34:28.660Z
+date: 2025-01-02T01:27:54.900Z
+updated: 2025-01-08T01:08:13.940Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,6 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
@@ -56,13 +52,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -78,24 +74,28 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
-**Step 5**: Hit the ‘Done’ button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 5**: Hit the ‘Done’ button.
 
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -112,20 +112,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-ultimate-action-hunting-cameras-ranked/"><u>[New] 10 Ultimate Action Hunting Cameras Ranked</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams-for-2024/"><u>[New] Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-the-course-to-digital-stardom-launch-your-chanel-today-for-2024/"><u>[Updated] Charting the Course to Digital Stardom Launch Your Chanel Today for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-video-platforms-clash-a-youtube-vs-dailymention-comparison/"><u>[Updated] Video Platforms Clash A YouTube Vs. DailyMention Comparison</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/17-transformative-metaverse-trials-explained-for-2024/"><u>17 Transformative Metaverse Trials Explained for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-compelling-book-trail-creations/"><u>2024 Approved Compelling Book Trail Creations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-haptic-interface-an-in-depth-guide/"><u>2024 Approved Pioneering Haptic Interface An In-Depth Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/easy-tips-to-create-a-funny-meme-for-2024/"><u>Easy Tips to Create a Funny Meme for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-gear-for-beginner-filmmakers-under-1000/"><u>Essential Gear for Beginner Filmmakers (Under $1,000)</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-f25-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo F25 Pro 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-media-matrix-the-battle-of-podcasts-vs-youtube/"><u>In 2024, Media Matrix The Battle of Podcasts Vs. YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-windows-media-player-for-cd-extraction-and-recordings/"><u>Mastering Windows Media Player for CD Extraction and Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"><u>Optimal Technique Integrating GoPro Videos Into Compreited Cinematic Universe</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile/"><u>Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xperts-choice-aspertronics-for-phones-for-2024/"><u>[New] Expert's Choice Aspertronics For Phones for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-10-exceptional-zero-cost-passport-portrait-clients/"><u>[Updated] 10 Exceptional, Zero-Cost Passport Portrait Clients</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-professional-results-access-to-10-basic-free-and-paid-luts-for-canon-cams/"><u>2024 Approved Achieve Professional Results Access to 10 Basic Free and Paid LUTs for Canon Cams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compilation-of-ultimate-gratuitous-lut-downloads/"><u>2024 Approved Compilation of Ultimate, Gratuitous LUT Downloads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-make-a-mark-with-your-first-cool-mac-video-post-on-youtube/"><u>2024 Approved Make a Mark with Your First Cool Mac Video Post on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>2024 Approved Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerated-windows-review-strategies-for-2024/"><u>Accelerated Windows Review Strategies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-adventures-a-close-look-at-panasonics-hx-a1-for-2024/"><u>Capturing Adventures A Close Look at Panasonic's HX-A1 for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-recommendations-fastest-nvme-storage-options-tailored-for-the-steam-deck-enthusiasts/"><u>Expert Recommendations: Fastest NVMe Storage Options Tailored for the Steam Deck Enthusiasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amp-up-your-humor-arsenal-kapwings-meme-creator/"><u>In 2024, Amp Up Your Humor Arsenal – Kapwing's Meme Creator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-for-apples-vision-pro-success-essential-enhancements-required/"><u>Key Strategies for Apple's Vision Pro Success: Essential Enhancements Required</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mobile-vr-experience-best-10-headsets-list-for-2024/"><u>Mobile VR Experience Best 10 Headsets List for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-reality-engineering-in-business-applications/"><u>Virtual Reality Engineering in Business Applications</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Google Pixel 7a? | Dr.fone</u></a></li>
 </ul></div>
 

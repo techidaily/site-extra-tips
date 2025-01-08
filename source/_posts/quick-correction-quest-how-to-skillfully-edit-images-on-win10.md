@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Correction Quest  How to Skillfully Edit Images on WIN10\""
-date: 2024-12-22T07:07:40.056Z
-updated: 2024-12-29T04:13:52.189Z
+date: 2025-01-06T01:57:16.044Z
+updated: 2025-01-08T04:43:12.862Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -49,13 +45,17 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
@@ -69,20 +69,20 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -92,7 +92,7 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -112,20 +112,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-beijings-glacial-gala-the-olympics-of-winter-2022-for-2024/"><u>[New] Beijing's Glacial Gala The Olympics of Winter, 2022 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-chart-topping-stock-photos-and-their-narratives/"><u>[New] Chart-Topping Stock Photos and Their Narratives</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elite-8-films-on-facebook/"><u>[New] In 2024, Elite 8 Films on Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-no-cost-high-quality-digital-recorder-apps-for-2024/"><u>[New] Top 10 No-Cost, High-Quality Digital Recorder Apps for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/1-ultimate-guide-to-fixing-windows-memory-issues-insights-from-yl-computing/"><u>1. Ultimate Guide to Fixing Windows Memory Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-frame-rate-for-slow-motion-videos/"><u>2024 Approved Best Frame Rate for Slow Motion Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-stunning-imagesfilms-using-easy-shifts/"><u>Capture Stunning Images/Films Using Easy Shifts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparing-core-titles-oculus-htc-vive-and-ps-vr-in-gaming/"><u>Comparing Core Titles Oculus, HTC Vive & PS VR in Gaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/detailed-process-of-integrating-subtitles-into-mp4-videos/"><u>Detailed Process of Integrating Subtitles Into MP4 Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-psd-fill-and-stroke-effects/"><u>Elite PSD Fill & Stroke Effects</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975776937-essential-guide-to-downloading-and-installing-the-latest-nvidia-rtx-3060-ti-graphics-card-drivers-on-windows/"><u>Essential Guide to Downloading and Installing the Latest Nvidia RTX 3060 Ti Graphics Card Drivers on Windows!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-xs-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone XS Max?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-huawei-p30-pro-analysis-a-loyal-users-perspective/"><u>In-Depth Huawei P30 Pro Analysis: A Loyal User's Perspective</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-30-webcams-elevating-audio-quality/"><u>Top 30 Webcams Elevating Audio Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-chuckles-await-tips-and-tricks-to-metaverse-meme-magic/"><u>Virtual Chuckles Await Tips & Tricks to Metaverse Meme Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-and-structure-knowledge-via-mematic/"><u>[New] Capture and Structure Knowledge via Mematic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-gradual-glide-out-technique-for-audio-in-adobe-premiere-pro/"><u>[New] The Gradual Glide Out Technique for Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-artisanaiphotostudio-seamless-image-magic/"><u>[Updated] ArtisanAiPhotoStudio Seamless Image Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audacity-insider-perfecting-your-audio-crossfades/"><u>[Updated] Audacity Insider Perfecting Your Audio Crossfades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-choosing-your-first-camera-the-2024-bestseller-list/"><u>[Updated] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-converting-stored-content-into-real-time-livestreams-on-social-media-for-2024/"><u>[Updated] Converting Stored Content Into Real-Time Livestreams on Social Media for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-exploring-alternatives-to-game-bar-for-video-recording/"><u>[Updated] In 2024, Exploring Alternatives to Game Bar for Video Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-prime-free-images-hosts-ensure-picture-longevity-for-2024/"><u>10 Prime Free Images Hosts, Ensure Picture Longevity for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>2024 Approved Craftsmanship in Photos & Videos The Ultimate 8 Mobile Enhancement Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-economic-escalade-of-ajey-and-carryminati-on-youtube/"><u>2024 Approved The Economic Escalade of Ajey and CarryMinati on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conceal-visages-with-confidence-using-these-select-apps/"><u>Conceal Visages with Confidence Using These Select Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963068719-how-to-fix-and-install-broadcom-gigabit-ethernet-drivers-on-your-windows-10-machine-successfully/"><u>How to Fix and Install Broadcom Gigabit Ethernet Drivers on Your Windows 10 Machine Successfully!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-a-periscope-expert-with-our-full-guide/"><u>In 2024, Become a Periscope Expert with Our Full Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/minute-drama-framework-plan/"><u>Minute Drama Framework Plan</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-unsecured-internet-connections-and-safety-warnings/"><u>Troubleshooting Unsecured Internet Connections & Safety Warnings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/th-unique-youtube-chats/"><u>Unearth Unique YouTube Chats</u></a></li>
 </ul></div>
 

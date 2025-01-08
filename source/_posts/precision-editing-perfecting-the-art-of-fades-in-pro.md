@@ -1,7 +1,7 @@
 ---
 title: "\"Precision Editing  Perfecting the Art of Fades in Pro\""
-date: 2024-10-28T06:05:02.477Z
-updated: 2024-11-02T19:23:50.727Z
+date: 2025-01-07T02:29:54.912Z
+updated: 2025-01-08T03:21:47.325Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ A fade-in refers to the technique that allows video/image to emerge from the bla
 
 03 [Add Video fade in Premiere Pro](#Part 3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1 Fade Video Transition Premiere Pro
 
 Premiere Pro to add fade transition can be between clips to link and move from one shot to another shot smoothly. Premiere Pro offers many transition effects to edit the videos: Audio, Video, and VR.
@@ -69,6 +73,10 @@ Are you in doubt about how to fade background music in Premiere Pro? A crossfade
 Let’s learn how to add crossfade in Premiere. There are three types of crossfade available in the Premiere: constant gain, constant power, and exponential power to fade music. Lets us discuss how to add music fade in Premiere Pro.
 
 ![types of crossfade](https://images.wondershare.com/filmora/article-images/2022/03/types-of-crossfade.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can find these options in Effects > Audio Transitions > Crossfade available in the project panel. This is how to add a crossfade in Premiere with just three simple steps. There are three types of crossfade available in Premiere Pro, and below is a brief description of them.
 
@@ -176,20 +184,6 @@ Start At Cut: Adjust the start of the transition at the beginning of the first c
 
 ![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2 Fade In/Out sound on Premiere Pro
 
 Are you in doubt about how to fade background music in Premiere Pro? A crossfade is an essential tool for smooth video effects where viewers cannot notice any cuts between the videos, which can be valuable for both video and audio. There are two types of crossfading, either by using keyframes manually or using transitions pre-built in Premiere Pro.
@@ -213,6 +207,10 @@ But this constant gain generally seems to be noise and not smooth compared to co
 Constant Power crossfade creates a smooth, gradual transition effect analogous to dissolve to the following clip compared to constant gain. Constant power fades in the audio effect initially and then fades out at the end of the clip. In the image, you can notice the keyframes have gradually decreased in the first clip and steadily increased at the end of the second clip.
 
 ![constant power](https://images.wondershare.com/filmora/article-images/2022/03/constant-power.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Compared to all other crossfades, constant power is the best audio crossfade. This will be giving a more smoothing effect and gradual shift in gain between the clips, nothing more apparent changes during the transition. This is how to fade in sound on Premiere Pro using constant power crossfade.
 
@@ -243,10 +241,7 @@ In Adobe Premiere, add Fade in or out, click and hold on Film Dissolve effect. D
 ![applying film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/applying-film-dissolve.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3 Change length of the Fade in and out effects
@@ -312,23 +307,7 @@ Start At Cut: Adjust the start of the transition at the beginning of the first c
 ![start and end](https://images.wondershare.com/filmora/article-images/2022/03/start-and-end.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Fade In/Out sound on Premiere Pro
@@ -346,13 +325,6 @@ You can find these options in Effects > Audio Transitions > Crossfade available 
 The constant gain crossfades are employed to vary the audio at a constant rate as it fades in and fades out at the transition between the clips. But sometimes, it is often abrupt. These are usually done manually using keyframes.
 
 ![constant gain](https://images.wondershare.com/filmora/article-images/2022/03/constant-gain.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 But this constant gain generally seems to be noise and not smooth compared to continuous power. Let us discuss this next.
 
@@ -391,10 +363,7 @@ In Adobe Premiere, add Fade in or out, click and hold on Film Dissolve effect. D
 ![applying film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/applying-film-dissolve.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step 3 Change length of the Fade in and out effects
@@ -475,7 +444,15 @@ The constant gain crossfades are employed to vary the audio at a constant rate a
 
 ![constant gain](https://images.wondershare.com/filmora/article-images/2022/03/constant-gain.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 But this constant gain generally seems to be noise and not smooth compared to continuous power. Let us discuss this next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Constant Power
 
@@ -484,6 +461,10 @@ Constant Power crossfade creates a smooth, gradual transition effect analogous t
 ![constant power](https://images.wondershare.com/filmora/article-images/2022/03/constant-power.jpg)
 
 Compared to all other crossfades, constant power is the best audio crossfade. This will be giving a more smoothing effect and gradual shift in gain between the clips, nothing more apparent changes during the transition. This is how to fade in sound on Premiere Pro using constant power crossfade.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Exponential Fade
 
@@ -503,13 +484,6 @@ To add fade in Premiere Pro, navigate Effects > Video Transitions > Dissolve > F
 
 ![film dissolve](https://images.wondershare.com/filmora/article-images/2022/03/film-dissolve.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Fade in and out can be done using Film Dissolve found in the Video transitions folder.
 
 ##### Step 2 Appling Fade in/out
@@ -525,6 +499,10 @@ It is possible to change the length of the Fade in and out effects after the fil
 ![change length](https://images.wondershare.com/filmora/article-images/2022/03/change-length.jpg)
 
 Short video transitions are the best between the clips for most transitions. No one would like to wait between two scenes, but there are situations you might want to extend. This is how to add fade in the premiere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip: Fade In/Out Effects with Filmora
 
@@ -568,20 +546,19 @@ Thus, in this guide, you learned how to add fade-in Premiere and proper edits to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-adding-pizzazz-to-your-footage-with-moving-text/"><u>[New] Adding Pizzazz to Your Footage with Moving Text</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-affordable-cameras-for-effective-vloggers/"><u>[Updated] In 2024, Affordable Cameras for Effective Vloggers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-itel-p55t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieving-perfect-fisheye-sphere-shots/"><u>Achieving Perfect Fisheye Sphere Shots</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211246363-9798869214607-codigo-rojo/"><u>Codigo Rojo | Free Book</u></a></li>
-<li><a href="https://techidaily.com/comment-optimiser-vos-processus-grace-aux-donnees-ameliorer-lefficacite-de-la-chaine-dapprovisionnement/"><u>Comment Optimiser Vos Processus Grâce Aux Données : Améliorer L'efficacité De La Chaîne D'approvisionnement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-writes-gaming-history-air-versus-spark-in-the-spotlight/"><u>DJI’ Writes Gaming History Air Versus Spark in the Spotlight</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-chromes-full-screen-multitasking-capabilities/"><u>Explore Chrome's Full-Screen Multitasking Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-chatgpt-is-at-capacity-right-now-error-on-windows/"><u>How to Fix the ChatGPT Is at Capacity Right Now Error on Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-screenplays-from-8-genre/"><u>In 2024, Best Screenplays From 8 Genre</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-virtual-meeting-room-key-strategies-for-a-winning-skype-interview-2024-edition/"><u>Mastering the Virtual Meeting Room: Key Strategies for a Winning Skype Interview, 2024 Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-c67-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme C67 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sculpt-visual-jokes-adobe-memes-guide/"><u>Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-clicker-article-titles-maker/"><u>Top Clicker Article Titles Maker</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-error-resolving-pfn-list-corruption-issues/"><u>Windows 10 Blue Screen Error: Resolving PFN List Corruption Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-watermarking-on-facebook/"><u>[Updated] 2024 Approved Mastering the Art of Watermarking on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-awaken-the-warrior-within-with-these-10-films/"><u>[Updated] Awaken the Warrior Within with These 10 Films</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-clipmaster-software/"><u>[Updated] ClipMaster Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/freedom-in-sound-extracting-audio-magic-with-pazera/"><u>Freedom in Sound Extracting Audio Magic with Pazera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-continuous-boot-up-problems-in-apex-legends/"><u>How to Overcome Continuous Boot-Up Problems in Apex Legends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hue-adjustments-making-your-gopro-footage-pop/"><u>Hue Adjustments Making Your GoPro Footage Pop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-video-velocity-top-android-helpers/"><u>In 2024, Boost Video Velocity - Top Android Helpers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clearskiesedit-premium-software-to-remove-backgrounds/"><u>In 2024, ClearSkiesEdit Premium Software to Remove Backgrounds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>In 2024, Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-htc-u23-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your HTC U23 Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-video-success-a-list-of-20-pro-shortcuts-for-2024/"><u>Mastering Video Success A List of 20 Pro Shortcuts for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-rendering-latest-vega-3-firmware-release/"><u>Optimize Rendering: Latest Vega 3 Firmware Release</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-customized-text-editing-techniques-for-2024/"><u>The Ultimate Guide to Customized Text Editing Techniques for 2024</u></a></li>
 </ul></div>
 

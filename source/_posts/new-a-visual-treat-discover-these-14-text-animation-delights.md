@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Visual Treat  Discover These 14 Text Animation Delights\""
-date: 2024-12-23T06:49:55.519Z
-updated: 2024-12-28T23:26:02.883Z
+date: 2025-01-02T02:08:48.764Z
+updated: 2025-01-08T05:53:21.945Z
 tags: 
   - screen-recording
   - ai video
@@ -92,17 +92,29 @@ The stomp effect is quite eye-catching due to its dynamic nature. In this animat
 
 ![the stomp animation](https://images.wondershare.com/filmora/article-images/2022/09/the-stomp-animation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. The Curtain Animation
 
 In this animation, the moving boxes will slide in and slide out and in the process, they will reveal the text hidden behind them. It looks similar to parting the curtain and getting a view. Thereafter, the boxes will slide back in and cover up the text. The sequence will continue to reveal new texts as required.
 
 ![the curtain animation](https://images.wondershare.com/filmora/article-images/2022/09/the-curtain-animation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Animated Text Outline Effect
 
 This is one of the stunning After Effects text animation examples whereby the outline of the text is made to animate with different colors so that the text becomes eye-catching. The text fill color should stay the same as the background so that only the outline is visible and the outline will be moving around one another.
 
 ![animated outline effect](https://images.wondershare.com/filmora/article-images/2022/09/animated-outline-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Animated Text Fill Effect
 
@@ -115,6 +127,14 @@ This is one of the most popular GSAP text animation examples whereby you display
 There are different variations of neon light animation that cool super cool. You can go for the simple neon light animation where the text says still and the neon lights fade in and out. You can change the color of the lights if you plan to keep the text for some time. If you are using a large text, you can go for the modified neon light animation where you can shine in and out for individual characters and the lights could be flickering.
 
 ![neon light animation](https://images.wondershare.com/filmora/article-images/2022/09/neon-light-animation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. In and Out of Focus Text Effect
 
@@ -134,10 +154,6 @@ Step1 Download and install Wondershare Filmora on your computer. Click on New Pr
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 if you do not have any background video, you can select from stock background by going to Stock Media> Pixabay> Video and drag and drop by animated background onto the timeline.
 
 ![drop animation background timeline filmora](https://images.wondershare.com/filmora/article-images/2022/09/drop-animation-background-timeline-filmora.jpg)
@@ -145,6 +161,10 @@ Step2 if you do not have any background video, you can select from stock backgro
 Step3 Go to Titles and you will get to see all the different categories of text animation templates from the left panel. Search for “animation” and you will get all the stunning text animation templates. Drag and drop any of them onto the timeline above the background layer.
 
 ![search animation title filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-animation-title-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Reposition the text layer as per your preference and you can also reposition the text objects from Viewer. Double-click on the text layer to type in your desired text.
 
@@ -169,7 +189,7 @@ We have discussed all the common type of text animations that are used to create
 Here is the list of the common types of text animations that you usually see on social media videos as well as video streaming platforms. Using these common text animation types, various interesting and innovative text animations are created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Parallax scrolling
@@ -200,19 +220,15 @@ Last but not least, the vertical scrolling text effect is extremely common for o
 
 You should always keep the basic and the common types of text animations in mind and come up with interesting and creative text animations. We are listing down some popular text animation examples that you can use on your video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Morphing Text Animation
 
 When there are multiple words to display one by one, instead of fade in and fade out effect, you can opt for morphing text animation. In this animation, the words seem to get morphed into one another. So, the first word will morph into the second word for the second word to appear on the screen and the sequence continues. The animation can be done fast to showcase multiple words in a short time period.
 
 ![morphing text animation](https://images.wondershare.com/filmora/article-images/2022/09/morphing-text-animation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Combined Slide Out Animation
 
@@ -226,14 +242,6 @@ The stomp effect is quite eye-catching due to its dynamic nature. In this animat
 
 ![the stomp animation](https://images.wondershare.com/filmora/article-images/2022/09/the-stomp-animation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. The Curtain Animation
 
 In this animation, the moving boxes will slide in and slide out and in the process, they will reveal the text hidden behind them. It looks similar to parting the curtain and getting a view. Thereafter, the boxes will slide back in and cover up the text. The sequence will continue to reveal new texts as required.
@@ -241,7 +249,7 @@ In this animation, the moving boxes will slide in and slide out and in the proce
 ![the curtain animation](https://images.wondershare.com/filmora/article-images/2022/09/the-curtain-animation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Animated Text Outline Effect
@@ -256,25 +264,21 @@ This is one of the most popular GSAP text animation examples whereby you display
 
 ![animated text fill effect](https://images.wondershare.com/filmora/article-images/2022/09/animated-text-fill-effect.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Neon Light Animation
 
 There are different variations of neon light animation that cool super cool. You can go for the simple neon light animation where the text says still and the neon lights fade in and out. You can change the color of the lights if you plan to keep the text for some time. If you are using a large text, you can go for the modified neon light animation where you can shine in and out for individual characters and the lights could be flickering.
 
 ![neon light animation](https://images.wondershare.com/filmora/article-images/2022/09/neon-light-animation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. In and Out of Focus Text Effect
 
 Instead of bringing the entire sentence into focus, you can use a square box to run over the sentence and bring the focus on the words depending on the position of the square box. The animation is highly effective in getting the viewers to read the sentence and get the message.
 
 ![in and out focus text effect](https://images.wondershare.com/filmora/article-images/2022/09/in-and-out-focus-text-effect.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Make a Text Animation Video
 
@@ -295,10 +299,6 @@ Step2 if you do not have any background video, you can select from stock backgro
 Step3 Go to Titles and you will get to see all the different categories of text animation templates from the left panel. Search for “animation” and you will get all the stunning text animation templates. Drag and drop any of them onto the timeline above the background layer.
 
 ![search animation title filmora](https://images.wondershare.com/filmora/article-images/2022/09/search-animation-title-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Reposition the text layer as per your preference and you can also reposition the text objects from Viewer. Double-click on the text layer to type in your desired text.
 
@@ -332,24 +332,15 @@ We have discussed all the common type of text animations that are used to create
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-complete-dji-inspire-1-review-insights/"><u>[Updated] Complete DJI Inspire 1 Review Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-your-virtual-identity-the-metaverse-simplified/"><u>[Updated] Crafting Your Virtual Identity - The Metaverse Simplified</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-curator-of-tweets-premium-compilation-toolkit/"><u>[Updated] Curator of Tweets - Premium Compilation Toolkit</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2023-how-to-share-a-tiktok-video-on-twitter-in-2024/"><u>2023 | How to Share A Tiktok Video on Twitter, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-hdr-portraits-for-the-art-enthusiast/"><u>2024 Approved Captivating HDR Portraits for the Art Enthusiast</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/bypassing-the-blue-screen-resolving-windows-dxgkrnlsys-issues/"><u>Bypassing the Blue Screen: Resolving Windows 'dxgkrnl.sys' Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/delving-into-magix-studio-max-2024-a-detailed-assessment/"><u>Delving Into Magix Studio Max 2024 A Detailed Assessment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-content-techniques-for-combining-sound-and-sight-in-instareels/"><u>Elevate Your Content Techniques for Combining Sound and Sight in InstaReels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/essential-software-installing-official-hp-laserjet-eby-1018-driver/"><u>Essential Software: Installing Official HP LaserJet Eby 1018 Driver</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/excellence-in-broadcasted-theatrical-skits/"><u>Excellence in Broadcasted Theatrical Skits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/number-1-in-the-8th-digital-image-blend-platform/"><u>Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-problems-overcome-them-how-to-ensure-smooth-gameplay-of-dragons-dogma-2/"><u>PC Problems? Overcome Them! How to Ensure Smooth Gameplay of 'Dragon's Dogma 2'</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-steadicam-options-for-high-quality-dslr-shoots/"><u>Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/secure-and-simple-photovideo-sharing-with-ios/"><u>Secure and Simple Photo/Video Sharing with IOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/superior-lineup-elite-webcam-mounts/"><u>Superior Lineup Elite Webcam Mounts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995147181-tf2-wont-start-here-are-the-solutions/"><u>TF2 Won't Start? Here Are the Solutions!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-c67-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C67 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-if-you-want-to-download-some-free-pc-and-android-games-here-is-a-list-of-10-best-free-websites-to-providing-free-games-available-for-download-for-20/"><u>Updated If You Want to Download some Free PC and Android Games, Here Is a List of 10 Best Free Websites to Providing Free Games Available for Download for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-storytelling-with-style-making-instagram-text-dance/"><u>[New] Storytelling with Style Making Instagram Text Dance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online-for-2024/"><u>[Updated] Detailed Instructions for Embedding and Displaying YouTube Playlists Online for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-recording-steps-in-gh-for-2024/"><u>[Updated] Essential Recording Steps in GH for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-podcast-production-perfection-from-draft-to-audio-bliss/"><u>[Updated] In 2024, Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chime-into-chats-whatsapp-status-soundtracks/"><u>Chime Into Chats WhatsApp Status Soundtracks</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719228177134-functions-not-working-on-win10-heres-what-to-do/"><u>Functions Not Working on Win10? Here's What to Do!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-photo-manipulation-twisting-images/"><u>In 2024, Advanced Photo Manipulation Twisting Images</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/no-cost-enjoyable-9-festive-feasts-in-one-wholesome-film-series/"><u>No Cost, Enjoyable 9 Festive Feasts in One Wholesome Film Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-vr-screens-producers/"><u>Premier VR Screens Producers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
 </ul></div>
 

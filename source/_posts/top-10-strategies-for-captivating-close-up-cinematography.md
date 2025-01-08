@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Strategies for Captivating Close-Up Cinematography\""
-date: 2024-11-09T05:04:06.196Z
-updated: 2024-11-12T00:01:05.760Z
+date: 2025-01-04T19:16:52.650Z
+updated: 2025-01-08T06:11:17.748Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,10 @@ The background of your macro video always remains blurred as you shoot it closel
 
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. DSLR Cameras
 
 For capturing the macro video, you can consider digital SLR camera. The macro lens of the digital SLR camera is a great option for capturing.
@@ -79,6 +83,10 @@ If you are a Canon user, you may opt for the 180 mm macro, 100 mm macro or the 6
 You may also add an extension tube which basically splits the focal distance in two equal halves and make the image size bigger but it decreases the depth of the field.
 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Depth of Field
 
@@ -90,6 +98,10 @@ But, you must remember that when the opening of the lens is small, the light req
 
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Composition
 
 When you have low lights, ensuring a correct perspective on the subject with maximum focus area is quite difficult. You must have the right composition for your macro video.
@@ -99,10 +111,7 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -112,10 +121,7 @@ Once you can master the above tips for making the macro video, you can easily sh
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -133,18 +139,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>[New] Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eras-endwatchers-top-youtube-viewership-for-2024/"><u>[Updated] Era's Endwatchers Top YouTube Viewership for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-choice-vr-game-engines-update-march-2023/"><u>[Updated] In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-leading-10-tiktok-video-maker-apps-on-pc-for-2024/"><u>[Updated] Leading 10 TikTok Video Maker Apps on PC for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-transform-your-snapshots-into-shares-heres-how/"><u>2024 Approved Transform Your Snapshots Into Shares – Here's How</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023-for-2024/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/entering-metaverse-ranked-best-virtual-reality-gear/"><u>Entering Metaverse Ranked Best Virtual Reality Gear</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-advice-for-maximizing-your-iphones-photographic-features/"><u>Expert Advice for Maximizing Your iPhone's Photographic Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-sites-convert-your-favorite-youtube-moments-into-ringtones/"><u>Ideal Sites Convert Your Favorite YouTube Moments Into Ringtones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-achieving-seamless-gaming-with-switch-pro-and-steam/"><u>In 2024, Achieving Seamless Gaming with Switch Pro & Steam</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximum-memory-accessory-for-sony-a7s-ii/"><u>Maximum Memory Accessory for Sony A7S II</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-guide-to-syncing-your-playlist-with-final-cut-pro-for-2024/"><u>New The Ultimate Guide to Syncing Your Playlist with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-windows-10-photoviewing-suite/"><u>Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>[Updated] 2024 Approved The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinema-coloring-mastery-through-central-luts-application/"><u>[Updated] Cinema Coloring Mastery Through Central Luts Application</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-audience-centric-strategies-for-top-facebook-listings/"><u>2024 Approved Audience-Centric Strategies for Top Facebook Listings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-myths-about-language-learning-you-should-definitely-learn-about/"><u>5 Myths About Language Learning You Should Definitely Learn About</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209040-9780007348534-an-angel-held-my-hand/"><u>An Angel Held My Hand | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aws-amplifies-market-presence-with-new-initiatives-unveiled-at-reinvent-2021-insights-from-zdnet/"><u>AWS Amplifies Market Presence with New Initiatives Unveiled at Re:Invent 2021 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-asus-webcam-black-screen-windows-11-issue/"><u>Fix ASUS Webcam Black Screen Windows 11 Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/glide-and-glory-short-track-highlights-from-22/"><u>Glide and Glory Short Track Highlights From '22</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-gionee-f3-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Gionee F3 Pro Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Cold Climates, Hot Wins  Beijing Highlights\""
-date: 2024-12-23T02:28:02.426Z
-updated: 2024-12-28T21:36:30.111Z
+date: 2025-01-01T19:53:44.079Z
+updated: 2025-01-07T16:22:43.022Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Olympics Games are organized by International Olympic Committee after every four
 
 The grand opening ceremony was held on 4th February and the grand closing will be held on 20th February 2022 at Beijing National Stadium, China. There have already been some extraordinary and memorable moments in the various sports events and competitions in the Winter Olympics 2022\. Here are all the winter Olympics 2022 highlights you should not miss out. You can also check out Olympics video highlights 2022 whose link we have shared at the end of the article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## 1\. Lindsey Jacobellis Gives US Its First Beijing Olympics Gold
@@ -31,7 +35,7 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
@@ -43,7 +47,7 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
@@ -54,14 +58,10 @@ Injuries are part of sports events but some injuries are gruesome and are result
 
 ![nina obrien](https://images.wondershare.com/filmora/article-images/nina-obrien-suffered-a-terrifying-crash.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 She lost her balance before she could cross the finishing line and she slid across the finish. She was screaming in pain as she left the event on a stretcher. The good news is that she is alert and responding. She has returned home to Colorado and she has received a warm welcome back home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. US-Born Eileen Gu Wins Gold for China
@@ -70,6 +70,10 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 
 ![eileen gu wins gold](https://images.wondershare.com/filmora/article-images/us-born-eileen-gu-wins-gold-for-china.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 ## 5\. Van der Poel Breaks the World Record
@@ -77,10 +81,6 @@ Eileen Gu's father is American while her mother is Chinese and she belongs to Sa
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
@@ -92,21 +92,17 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
 
 21-year-old Chloe Kim became back-to-back Olympic champion by dominating in the halfpipe. The American confirmed a gold medal on the first run itself. Her runs had 1080, a switch 900, and a switch backside of 540\. It further added another 1080\. She dominated the Snowboarding Women's Halfpipe Final with 94 points. Spain's Queralkt Castellet won silver and the bronze went to Sena Tomita of Japan.
 
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
-With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
@@ -123,6 +119,10 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 ![american favorite out of the tournament](https://images.wondershare.com/filmora/article-images/american-favorite-out-of-the-tournament.jpg)
 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
@@ -141,18 +141,16 @@ However, due to some miscommunication, she was allowed to be a participant in th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-revolutionary-techniques-for-exceptional-android-time-lapses-2024/"><u>[New] Revolutionary Techniques for Exceptional Android Time-Lapses 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unlocking-the-full-screen-potential-of-premiere-pro-for-2024/"><u>[Updated] Unlocking the Full Screen Potential of Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cheerful-footage-extractor-analysis/"><u>2024 Approved Cheerful Footage Extractor Analysis</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhanced-perceptions-the-ultimate-list-of-pcs-best-vr-playback-devices/"><u>Enhanced Perceptions The Ultimate List of PC's Best VR Playback Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/re-tune-your-ps5ps4-voice-settings-easily/"><u>Re-Tune Your PS5/PS4 Voice Settings Easily</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95687991-9781440507212-the-7-secrets-of-synchronicity/"><u>The 7 Secrets of Synchronicity | Free Book</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-monetary-worth-of-podcasting/"><u>The Monetary Worth of Podcasting</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-10-educational-youtube-channels/"><u>Top 10 Educational YouTube Channels</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unraveling-humor-in-the-funnies-of-goofy/"><u>Unraveling Humor in 'The Funnies of Goofy'</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-transcoding-mastery-essential-three-step-approach/"><u>Zoom Transcoding Mastery Essential Three-Step Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-canva-guide-swiftly-erasing-image-borders/"><u>[Updated] Canva Guide Swiftly Erasing Image Borders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-engagement-top-12-tactics-for-youtube-success-for-2024/"><u>[Updated] Enhance Engagement Top 12 Tactics for YouTube Success for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-narrative-power-in-marketing-20-must-use-phrases/"><u>[Updated] Narrative Power in Marketing 20 Must-Use Phrases</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-maximum-comfort-in-vr-landscape/"><u>2024 Approved Achieving Maximum Comfort in VR Landscape</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-instavid-secrets-plotting-a-successful-marketing-scheme/"><u>2024 Approved Unveiling InstaVid Secrets Plotting a Successful Marketing Scheme</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-solutions-i-migliori-programmi-di-riproduzione-dvd-and-videofili/"><u>Digiarty Solutions: I Migliori Programmi Di Riproduzione DVD & Videofili</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/launch-alert-new-apple-releases-including-macbook-air-and-ipads-may-arrive-by-spring-season/"><u>Launch Alert: New Apple Releases Including MacBook Air & iPads May Arrive by Spring Season</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterful-motion-graphics-for-texts/"><u>Masterful Motion Graphics for Texts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-download-hp-stream-device-drivers/"><u>Quick and Simple: Download HP Stream Device Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-science-of-quadcopters-understanding-their-flight-patterns/"><u>The Science of Quadcopters Understanding Their Flight Patterns</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-mixed-reality-a-comprehensive-insight-for-2024/"><u>Unveiling Mixed Reality A Comprehensive Insight for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Contrast and Composition  Theory in Design\""
-date: 2024-11-11T04:12:51.494Z
-updated: 2024-11-12T07:58:29.965Z
+date: 2025-01-03T17:09:34.232Z
+updated: 2025-01-08T03:02:33.376Z
 tags: 
   - screen-recording
   - ai video
@@ -28,26 +28,31 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -58,10 +63,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -77,20 +79,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -126,20 +118,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-reaction-videos-a-comprehensive-overview/"><u>[Updated] 2024 Approved Twitter Reaction Videos A Comprehensive Overview</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-complete-analysis-of-theta-ss-advanced-tech/"><u>[Updated] Complete Analysis of Theta S's Advanced Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-art-of-looking-back-unveiling-reversed-images-on-social-media-for-2024/"><u>[Updated] The Art of Looking Back Unveiling Reversed Images on Social Media for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chromebook-zoom-excellence-must-know-strategies/"><u>2024 Approved Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-your-go-to-guide-to-exceptional-4k-mirrorless-cameras/"><u>2024 Approved Your Go-To Guide to Exceptional 4K Mirrorless Cameras</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-motorola-g54-5g-frp-bypass-by-drfone-android/"><u>About Motorola G54 5G FRP Bypass</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/captivating-chronicles-youtube-stories-to-follow-for-2024/"><u>Captivating Chronicles YouTube Stories to Follow for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-soundscape-windows-10-audio-tips/"><u>Elevate Your Soundscape Windows 10 Audio Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-strategies-to-attain-facebooks-prestige-blue-icon/"><u>In 2024, Strategies to Attain Facebook’s Prestige Blue Icon</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-voice-storage-test-report/"><u>In 2024, Voice Storage Test Report</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pros-in-mac-streaming-the-top-5-applications/"><u>Pros in Mac Streaming The Top 5 Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/securing-top-quality-pixel-ringtones-where-to-go/"><u>Securing Top Quality Pixel Ringtones Where to Go?</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-mystery-foddians-beginnings/"><u>Unraveling the Mystery: Foddian's Beginnings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-this-years-premier-trivia-broadcasting-titles/"><u>Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725284771209-dvdiphone/"><u>すぐに始められる、パソコン無しDVDiPhone移行ガイド スマホ動画見せます！</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-yts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>[New] 2024 Approved YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[New] In 2024, How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-2024s-premium-videography-tools-leading-brands-unveiled/"><u>[Updated] 2024’S Premium Videography Tools – Leading Brands Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-detail-with-videoleaps-in-camera-zooming/"><u>[Updated] Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-character-choreography-compendiums/"><u>2024 Approved Character Choreography Compendiums</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-devices-at-toms-hardware-hub/"><u>Exploring Cutting-Edge Devices at Tom's Hardware Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-selection-8-must-have-image-packs-for-laptops/"><u>Ideal Selection 8 Must-Have Image Packs for Laptops</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-mic-functionality-on-a-windows-10-device/"><u>Restoring Mic Functionality on a Windows 10 Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722971973375-seamlessly-update-your-lenovo-thinkpad-t420-with-the-newest-windows-driver-software-expert-instructions-here/"><u>Seamlessly Update Your Lenovo ThinkPad T420 with the Newest Windows Driver Software - Expert Instructions Here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-novices-route-to-revenue-in-the-youtube-realm-for-2024/"><u>The Novice's Route to Revenue in the YouTube Realm for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
 </ul></div>
 

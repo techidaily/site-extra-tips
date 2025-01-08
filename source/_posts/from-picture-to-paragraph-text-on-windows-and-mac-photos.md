@@ -1,7 +1,7 @@
 ---
 title: "\"From Picture to Paragraph  Text on Windows & Mac Photos\""
-date: 2024-12-26T16:31:46.081Z
-updated: 2024-12-29T05:52:10.878Z
+date: 2025-01-03T04:56:12.825Z
+updated: 2025-01-07T17:38:56.467Z
 tags: 
   - screen-recording
   - ai video
@@ -34,17 +34,9 @@ Step2Click the edit button there at the top.
 
 ![click edit button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Now click the More icon, which is at the top right portion of it (it usually looks like an ellipsis), and then in the dropdown menu, click on the Markup option.
 
 ![click more icon](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4Now click on the text button at the top left corner of the screen to add a text box to the image.
 
@@ -53,10 +45,6 @@ Step4Now click on the text button at the top left corner of the screen to add a 
 Step5You can drag this text box and place it wherever you want it in your image. Also, to choose the font style, size, and color, you can click on the Text Style icon and save your changes.
 
 ![place text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1.2 Add writing to photos on Windows 10/11
 
@@ -68,6 +56,10 @@ Step2Now click the Edit & Create button at the top right corner and click on the
 
 ![click edit-create button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3Now click on the text button at the top.
 
 ![click on text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-6.jpg)
@@ -75,6 +67,10 @@ Step3Now click on the text button at the top.
 Step4To make the text box of your choice, you have to click and drag it.
 
 ![click and drag text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5Now you can write whatever you want to on your photo.
 
@@ -89,10 +85,6 @@ Step7To save your edited image, click on the Menu button at the top left corner 
 Step8Click any Save or Save as button to save the edited image.
 
 ![click save button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Methods to add text on photos online
 
@@ -117,7 +109,7 @@ Step2Now click on the **Text Button**, which will appear on your sidebar at the 
 ![click on text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Now you must select your text style by clicking on **heading**, **sub-heading**, and **body text**, depending on which one you want. You can also choose your text style from the designs already available.
@@ -165,6 +157,10 @@ Kapwing is another photo editing website where you can professionally edit your 
 
 ![kapwing](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 * You can easily add text to photos and edit them even if you are a newbie because it is elementary to use.
@@ -218,10 +214,6 @@ Cons
 * The result of the edited photo is not good enough as in Photoshop and other editors.
 * There are some bugs causing errors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [Fotor](https://www.fotor.com/features/text.html)
 
 **Introduction:**
@@ -242,10 +234,6 @@ Cons
 * There is not any update on its features till now.
 * You must subscribe to one of their premium plans to access more features.
 * Have some bugs that cause errors in it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best 5 Programs for adding text on photos
 
@@ -314,10 +302,6 @@ Cons
 * The interface of GIMP is not too user-friendly. As a beginner, you must use it for at least two to three weeks to understand its interface.
 * It does not support the Digital Negative Files (DNG) natively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. [Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
 
 **Introduction:**
@@ -325,6 +309,10 @@ Cons
 You can use Inkscape for this purpose as it is also fully open source and free software for graphics editing. It is used for editing and creating vector graphics, but you can still use it to add text to your photos. It also has a large number of users.
 
 ![inkscape](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros
 
@@ -345,10 +333,6 @@ Cons
 Phoxo is another alternative to all the above software. It is also photo editing software with powerful editing features. You can call it mini Photoshop also, but people primarily call it the advanced version of MS Paint. You can add text to your photos easily using it also.
 
 ![phoxo](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Pros
 
@@ -380,6 +364,10 @@ Pros
 Cons
 
 * You need to have a premium account to use the more advanced features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. [Kapwing](https://www.kapwing.com/tools/add-text-to-image)
 
@@ -422,6 +410,10 @@ Cons
 * You must purchase their premium plans to access more professional features.
 * There are some errors in previewing when you are using certain functions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. [Pixlr](https://pixlr.com/x/)
 
 **Introduction:**
@@ -517,6 +509,10 @@ If you still do not find any software to add text to your photos, you should als
 
 ![gimp](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 * It has advanced editing tools and features to edit and manipulate images professionally.
@@ -529,6 +525,10 @@ Cons
 * You can find some difficulty cropping photos in this software, which is a big drawback.
 * The interface of GIMP is not too user-friendly. As a beginner, you must use it for at least two to three weeks to understand its interface.
 * It does not support the Digital Negative Files (DNG) natively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. [Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
 
@@ -569,7 +569,7 @@ Cons
 * It is not compatible with any other operating system except Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -604,20 +604,24 @@ The last words for today's topic here is that there are numerous solutions avail
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-asmr-channels-for-auditory-delight/"><u>[New] 2024 Approved Prime ASMR Channels for Auditory Delight</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>[New] Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-crafting-an-exceptional-experience-in-stardew-valley-top-7-mods-for-2024/"><u>[New] Crafting an Exceptional Experience in Stardew Valley (Top 7 Mods) for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ocate-lively-video-community-spots/"><u>[New] Locate Lively Video Community Spots</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-smartphone-shots-best-camera-accessories-for-filmmakers-for-2024/"><u>[Updated] Elevate Your Smartphone Shots Best Camera Accessories for Filmmakers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-virtual-reality-bike-adventures-listed-here/"><u>2024 Approved Best Virtual Reality Bike Adventures Listed Here</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-the-fundamentals-of-mixed-reality-for-2024/"><u>Breaking Down the Fundamentals of Mixed Reality for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciphering-ai-titans-the-gpt-bert-comparison-breakdown/"><u>Deciphering AI Titans: The GPT-BERT Comparison Breakdown</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-initial-guide-to-zoom-room-segregation/"><u>In 2024, Initial Guide to Zoom Room Segregation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-multi-stream-video-in-edge/"><u>Navigating Multi-Stream Video in Edge</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/speedy-fb-uploads-how-to-get-there-fastest/"><u>Speedy FB Uploads How to Get There Fastest</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-c33-2023-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme C33 2023 Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/uncharted-territory-latest-windows-10-apps-and-games/"><u>Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/vintage-video-delight-reviewing-goofys-tape-masterpiece/"><u>Vintage Video Delight Reviewing Goofy's Tape Masterpiece</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breathtaking-cinematography-with-5-best-slow-motion-cameras/"><u>[New] Breathtaking Cinematography with 5 Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>[New] In 2024, Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-algorithm-advantage-tips-for-achieving-instagram-video-fame/"><u>[Updated] 2024 Approved The Algorithm Advantage Tips for Achieving Instagram Video Fame</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-polishing-your-production-perfect-for-instagram-viewers-for-2024/"><u>[Updated] Polishing Your Production Perfect for Instagram Viewers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>2024 Approved Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breakthrough-tactic-unleash-mac-with-apple-watch/"><u>2024 Approved Breakthrough Tactic Unleash Mac with Apple Watch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-beginners-guide-choosing-your-first-film-camera/"><u>A Beginner's Guide Choosing Your First Film Camera</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/combating-crashing-fixes-for-steams-widescreen-issue/"><u>Combating Crashing: Fixes for Steam's Widescreen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-live-stream-glitches-on-discord/"><u>Diagnosing and Repairing Live Stream Glitches on Discord</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-influencers-riches-exceed-ages-kaji-ryan-story-for-2024/"><u>Digital Influencer's Riches Exceed Ages Kaji Ryan Story for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-p55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel P55 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-computer-hardware-by-toms-experts/"><u>In-Depth Analysis of Computer Hardware by Tom’s Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-photography-with-insights-into-lut-use/"><u>Innovative Photography with Insights Into LUT Use</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterclass-generating-professional-srt-documents/"><u>Masterclass Generating Professional SRT Documents</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-using-videos-in-education-for-2024/"><u>The Art of Using Videos in Education for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-hidden-features-funimate-guide/"><u>Unleashing Hidden Features - Funimate Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/why-does-my-photo-booth-videos-keep-freezing/"><u>Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
 </ul></div>
 

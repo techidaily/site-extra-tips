@@ -1,7 +1,7 @@
 ---
 title: "Spin Cycle in the Ice Arena of '22"
-date: 2024-12-25T19:13:13.774Z
-updated: 2024-12-29T12:21:07.386Z
+date: 2025-01-07T04:34:53.933Z
+updated: 2025-01-08T01:28:42.328Z
 tags: 
   - screen-recording
   - ai video
@@ -34,28 +34,28 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
@@ -66,11 +66,11 @@ Russian Olympic Committee athletes won the gold medal at team event by a margin 
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -92,15 +92,15 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
@@ -121,16 +121,17 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-elevating-images-pro-techniques-for-photography-perfection/"><u>[Updated] In 2024, Elevating Images Pro Techniques for Photography Perfection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>[Updated] In 2024, Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-premium-steadicams-tailored-for-uav-filmmaking-scenarios/"><u>[Updated] Premium Steadicams Tailored for UAV Filmmaking Scenarios</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>Dare to Be Noteworthy Top 30 Innovative TikTok Usernames</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhancing-your-gaming-groundwork-perfecting-video-chats-on-xbox-one/"><u>Enhancing Your Gaming Groundwork - Perfecting Video Chats on Xbox One</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/figure-skating-highlights-2022-winter-olympics/"><u>Figure Skating Highlights 2022 Winter Olympics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-7-best-sbt-to-srtr-conversion-software-for-desktop-use/"><u>In 2024, 7 Best SBT to SRTR Conversion Software for Desktop Use</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-youtube-title-generator/"><u>In 2024, Best YouTube Title Generator</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-high-performance-low-price-excellent-asmr-mics/"><u>In 2024, High Performance, Low Price Excellent ASMR Mics</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoremediasuite-efficiently-heal-vids/"><u>RestoreMediaSuite: Efficiently Heal Vids</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshoot-and-triumph-a-comprehensive-guide-to-resolving-among-us-game-crashes/"><u>Troubleshoot and Triumph: A Comprehensive Guide to Resolving Among Us Game Crashes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-brief-bliss-in-photo-collage-crafting-the-google-way-for-2024/"><u>[New] Brief Bliss in Photo Collage Crafting - The Google Way for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-revealing-the-celestial-spectacle-top-hdr-sky-sites-ranking/"><u>[New] In 2024, Revealing the Celestial Spectacle - Top HDR Sky Sites Ranking</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2023s-leading-applications-for-downloading-facebook-lite-videos/"><u>[Updated] 2023'S Leading Applications for Downloading Facebook Lite Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-guide-webp-to-jpg-conversion-secrets/"><u>[Updated] Comprehensive Guide WebP to JPG Conversion Secrets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-accuracy-and-artistry-in-altered-image-tones/"><u>Achieving Accuracy and Artistry in Altered Image Tones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/combat-profiles-hitbox-vs-streamer-supremacy-for-2024/"><u>Combat Profiles Hitbox vs Streamer Supremacy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-iphone-pics-in-minutes/"><u>Enhance Your iPhone Pics in Minutes</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-find-n3-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-c67-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme C67 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-16-vs-iphone-15-comparison-essential-considerations-when-choosing-apples-newest-base-model-zdnet-insights/"><u>IPhone 16 Vs. IPhone 15 Comparison: Essential Considerations When Choosing Apple's Newest Base Model | ZDNET Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-websites-to-discover-glossy-gold-letter-effects/"><u>Leading Websites to Discover Glossy Gold Letter Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

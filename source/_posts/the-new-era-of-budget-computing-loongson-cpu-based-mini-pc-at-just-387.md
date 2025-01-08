@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2024-12-21T18:28:26.491Z
-updated: 2024-12-29T12:27:34.229Z
+date: 2025-01-04T01:34:24.026Z
+updated: 2025-01-07T23:20:02.166Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,21 +62,18 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[New] In 2024, Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/remier-microphone-picks-for-blogging-pros/"><u>[New] Premier Microphone Picks for Blogging Pros</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streaming-wars-the-digital-platform-showdown/"><u>[New] Streaming Wars The Digital Platform Showdown</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-scope-to-screen-partnerships-for-mcns-for-2024/"><u>[Updated] Scope-to-Screen Partnerships for MCNs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-background-scores-via-premiere-pro/"><u>Add Background Scores via Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/begin-your-journey-into-xps-video-editing-world/"><u>Begin Your Journey Into Xp's Video Editing World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensible-guide-to-shifting-photosvideos-in-ios-world/"><u>Comprehensible Guide to Shifting Photos/Videos in iOS World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cosmetics-creativity-guides/"><u>Cosmetics Creativity Guides</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-perfection-transforming-your-vhs-graphics-online-for-2024/"><u>Craft Perfection Transforming Your VHS Graphics Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ethical-relaxation-soundscapes/"><u>Ethical Relaxation Soundscapes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-nvidia-quadro-graphics-driver-update-for-windows-10-systems/"><u>Get the Latest NVIDIA Quadro Graphics Driver Update for Windows 10 Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-7-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 7 Plus and iPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-auto-hdr-and-its-role-in-todays-photography/"><u>In 2024, The Evolution of Auto HDR and Its Role in Today's Photography</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-netgear-nighthawk-x6-wi-fi-expansion-unit-a-full-feature-breakdown/"><u>Ultimate Guide to Netgear Nighthawk X6 Wi-Fi Expansion Unit - A Full Feature Breakdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-making-photographs-larger-without-losing-quality/"><u>[New] Making Photographs Larger Without Losing Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-2023s-ultimate-toolwiz-photo-suite-analysis/"><u>[Updated] 2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-save-verbatim-audio-review-notes/"><u>[Updated] Save Verbatim Audio, Review Notes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>2024 Approved Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>2024 Approved Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/discover-the-ultimate-guide-to-choosing-a-dvd-ripper-software-find-your-perfect-match-today/"><u>Discover the Ultimate Guide to Choosing a DVD Ripper Software - Find Your Perfect Match Today!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity/"><u>Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shape-and-size-matter-video-aspect-ratios-explained/"><u>Shape & Size Matter Video Aspect Ratios Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-for-android-users-on-vr-content/"><u>The Ultimate Guide for Android Users on VR Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-podcast-experience-on-googles-platform/"><u>Ultimate Podcast Experience on Google's Platform</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-most-effective-zoom-recording-tools-for-2024/"><u>Unveiling the Most Effective Zoom Recording Tools for 2024</u></a></li>
 </ul></div>
 

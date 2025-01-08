@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2024-11-07T09:34:32.782Z
-updated: 2024-11-12T03:04:33.635Z
+date: 2025-01-02T20:40:15.609Z
+updated: 2025-01-07T22:41:59.562Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -56,27 +60,16 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-basic-techniques-for-effective-color-grading-in-ps/"><u>[New] Basic Techniques for Effective Color Grading in PS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-visionaries-of-interactive-marvel-worlds/"><u>[New] Visionaries of Interactive Marvel Worlds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-your-go-to-fb-video-tool-for-desktops-and-phones/"><u>[Updated] 2024 Approved Your Go-To FB Video Tool for Desktops and Phones</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/browsing-on-a-budget-the-ultimate-review-of-the-lenovo-tab-m1hd-tablet-2020/"><u>Browsing on a Budget: The Ultimate Review of the Lenovo Tab M1^_HD Tablet (2020)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-fps-problems-in-dying-light-expert-tips-and-tricks/"><u>Fixing FPS Problems in Dying Light - Expert Tips & Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/gaming-videography-101-the-ultimate-guide-to-recording-for-2024/"><u>Gaming Videography 101 The Ultimate Guide to Recording for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-6-high-definition-21-hdmi-models-analyzed/"><u>In 2024, 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>In 2024, Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-through-video-editing-landscape-with-movies-maker-on-windows-8/"><u>Navigating Through Video Editing Landscape with Movies Maker on Windows 8</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-energy-solutions-official-and-third-party-hero5-batteries/"><u>Optimal Energy Solutions - Official & Third-Party Hero5 Batteries</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-navigating-ipados-upgrades-and-evolution/"><u>Step-by-Step Guide to Navigating iPadOS Upgrades and Evolution</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-guide-best-apps-turning-pics-into-videos/"><u>Ultimate Guide Best Apps Turning Pics Into Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-smartphone-mounts-with-advanced-gyroscope-tech/"><u>Ultimate Smartphone Mounts with Advanced Gyroscope Tech</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-caused-the-guilty-gear-strive-postponement-insights-and-speculations/"><u>What Caused the Guilty Gear Strive Postponement? Insights & Speculations</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-new-lens-on-sonys-s6500-bdp-features/"><u>[New] The New Lens on Sony’s S6500 BDP Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>[Updated] Cinematic Close-Ups Elevating Your Work with Kinemaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-how-you-can-profit-from-youtube-content/"><u>[Updated] Unveiling How You Can Profit From YouTube Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-8-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 8 without Password</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-resolve-haldll-error-issues-on-windows-11108vista/"><u>Effective Solutions to Resolve hal.dll Error Issues on Windows 11/10/8/Vista</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-take-long-exposure-shots-with-iphone-in-ios-11-or-previous/"><u>How to Take Long Exposure Shots with iPhone in iOS 11 or Previous</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nsiders-list-top-rated-downloading-apps-for-video-buffs-for-2024/"><u>IOS Insider's List Top-Rated Downloading Apps for Video Buffs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/novices-selection-guide-to-ideal-filming-cameras/"><u>Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-solutions-effortless-updating-of-dell-g7-device-drivers/"><u>Speedy Solutions: Effortless Updating of Dell G7 Device Drivers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/total-data-for-uninterrupted-viewer-experience/"><u>Total Data for Uninterrupted Viewer Experience</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
