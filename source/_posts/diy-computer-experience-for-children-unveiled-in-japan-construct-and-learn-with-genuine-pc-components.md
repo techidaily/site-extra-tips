@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2025-01-01T21:51:47.970Z
-updated: 2025-01-08T00:03:58.813Z
+date: 2025-01-12T16:03:40.011Z
+updated: 2025-01-14T16:08:03.391Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,22 +81,24 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-elite-5-screen-grab-for-fb-movies-for-2024/"><u>[New] Elite 5 Screen Grab for FB Movies for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-pinnacle-studio-25-review/"><u>[New] Pinnacle Studio 25 Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-4-ways-to-set-up-your-talking-head-shots-for-youtube/"><u>[Updated] 4 Ways To Set Up Your Talking-Head Shots For YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>[Updated] PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-3-ae-plugin-reviews-for-optimal-editing/"><u>2024 Approved Top 3 AE Plugin Reviews for Optimal Editing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/acknowledging-talent-free-to-own-outro-templates/"><u>Acknowledging Talent Free-to-Own Outro Templates</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/charting-creative-trajectories-the-six-leading-nft-artists/"><u>Charting Creative Trajectories The Six Leading NFT Artists</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-high-end-computer-choices/"><u>Exclusive High-End Computer Choices</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-zte-nubia-flip-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on ZTE Nubia Flip 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-creating-stunning-time-lapse-videos-with-your-iphone/"><u>Guide: Creating Stunning Time-Lapse Videos with Your iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-10-ways-to-convert-youtube-to-mpeg/"><u>In 2024, Best 10 Ways to Convert YouTube to MPEG</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-insightful-analysis-of-magix-media-plug-ins/"><u>In 2024, Insightful Analysis of MAGIX Media Plug-Ins</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfecting-slow-motion-capture-with-phantom-lens/"><u>Perfecting Slow-Motion Capture with Phantom Lens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reviving-retro-gaming-and-pc-building-insights/"><u>Reviving Retro Gaming & PC Building Insights</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tech-tailored-using-apple-watch-for-macopening/"><u>Tech Tailored Using Apple Watch for MacOpening</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-list-of-premium-free-srt-translators/"><u>The Essential List of Premium FREE SRT Translators</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-final-cut-pros-finest-10-iconic-movies-for-2024/"><u>Updated Final Cut Pros Finest 10 Iconic Movies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-free-photo-collage-apps-for-iphone/"><u>[New] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-secrets-to-free-hd-video-grabs-from-facebook/"><u>[New] 2024 Approved Secrets to Free HD Video Grabs From Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-tune-tracker-next-gen-audio/"><u>[New] 2024 Approved Tune Tracker Next-Gen Audio</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-frame-rates-for-best-slow-motion-effects/"><u>[New] Mastering Frame Rates for Best Slow Motion Effects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-youtubes-earning-potential-with-strategic-short-videos/"><u>[New] Unleash YouTube's Earning Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asus-mg28uq-4k-monitor-review/"><u>[Updated] ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[Updated] Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-free-webm-players/"><u>[Updated] Best Free WebM Players</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quick-guide-the-most-effective-ways-to-save-fb-story-videos-for-2024/"><u>[Updated] Quick Guide The Most Effective Ways to Save FB Story Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-stable-images-in-action-cams-unsteady-world/"><u>2024 Approved Achieving Stable Images in Action Cam's Unsteady World</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-zoo-matic-guide-to-improved-snapchat-media/"><u>2024 Approved The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-picks-17-superior-apps-for-quick-image-sharpening/"><u>Expert Picks 17 Superior Apps for Quick Image Sharpening</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-inspection-gopro-silver-hero4-detailed-review/"><u>Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-mini-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 mini to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>In 2024, Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/speedy-instagram-content-mobile-and-online-solutions/"><u>Speedy Instagram Content Mobile & Online Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-isnt-helldivers-2-launching-on-steam-discover-how-to-resolve-this-problem/"><u>Why Isn't Helldivers 2 Launching on Steam? Discover How to Resolve This Problem</u></a></li>
 </ul></div>
 

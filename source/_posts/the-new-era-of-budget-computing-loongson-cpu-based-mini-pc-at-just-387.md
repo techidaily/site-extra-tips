@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-01-04T01:34:24.026Z
-updated: 2025-01-07T23:20:02.166Z
+date: 2025-01-08T16:05:42.430Z
+updated: 2025-01-14T16:08:49.722Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,18 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-making-photographs-larger-without-losing-quality/"><u>[New] Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-2023s-ultimate-toolwiz-photo-suite-analysis/"><u>[Updated] 2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-save-verbatim-audio-review-notes/"><u>[Updated] Save Verbatim Audio, Review Notes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>2024 Approved Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>2024 Approved Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-the-ultimate-guide-to-choosing-a-dvd-ripper-software-find-your-perfect-match-today/"><u>Discover the Ultimate Guide to Choosing a DVD Ripper Software - Find Your Perfect Match Today!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
-<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity/"><u>Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shape-and-size-matter-video-aspect-ratios-explained/"><u>Shape & Size Matter Video Aspect Ratios Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-for-android-users-on-vr-content/"><u>The Ultimate Guide for Android Users on VR Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-podcast-experience-on-googles-platform/"><u>Ultimate Podcast Experience on Google's Platform</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unveiling-the-most-effective-zoom-recording-tools-for-2024/"><u>Unveiling the Most Effective Zoom Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>[New] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-essential-guide-to-manipulating-time-with-phantom-for-2024/"><u>[New] Essential Guide to Manipulating Time with Phantom for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-gotomeeting-sessions/"><u>[Updated] 2024 Approved Easy Ways to Record GoToMeeting Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-choice-in-motion-typography-designs/"><u>[Updated] Best Choice in Motion Typography Designs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>[Updated] Efficiently Explore Every Entry Facebook Profile Hunt 101</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-top-5-affordable-drones-under-500/"><u>[Updated] Top 5 Affordable Drones Under $500</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-12-action-recording-devices-with-built-in-gps-systems/"><u>2024 Approved Elite 12 Action Recording Devices with Built-In GPS Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-fledged-vsco-editing-encyclopedia/"><u>Full Fledged VSCO Editing Encyclopedia</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 11/10/7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728482770538-windows-11/"><u>Windows 11 連線差異同步進行中 - 快速解決方案列表</u></a></li>
 </ul></div>
 

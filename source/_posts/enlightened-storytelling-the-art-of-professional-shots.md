@@ -1,7 +1,7 @@
 ---
 title: "\"Enlightened Storytelling  The Art of Professional Shots\""
-date: 2024-07-27T10:24:43.076Z
-updated: 2024-07-28T10:24:43.076Z
+date: 2025-01-10T16:24:03.329Z
+updated: 2025-01-14T16:30:26.677Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -58,13 +54,14 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -73,9 +70,6 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -86,21 +80,27 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
@@ -109,9 +109,9 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -144,7 +144,24 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-learning-the-ropes-of-lunapics-user-interface/"><u>[New] 2024 Approved Learning the Ropes of LunaPic's User Interface</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-full-story-on-panasonic-hx-a1-action-recorder/"><u>[New] 2024 Approved The Full Story on Panasonic HX-A1 Action Recorder</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-turning-creativity-into-comprehensive-captivating-tiktok-masterpieces/"><u>[New] 2024 Approved Turning Creativity Into Comprehensive, Captivating TikTok Masterpieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tips-for-enabling-grid-on-google-meet/"><u>[Updated] Tips for Enabling Grid on Google Meet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>2024 Approved Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-filmmakers-handbook-mastering-close-up-videography/"><u>A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ranked-4k-uhd-media-viewers-available-at-no-cost/"><u>Best-Ranked 4K UHD Media Viewers Available at No Cost</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-picked-webcams-for-crystal-clear-zoom-meetings/"><u>Expert-Picked Webcams for Crystal Clear Zoom Meetings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-basic-snaps-to-expertly-crafted-images-on-snapchat/"><u>From Basic Snaps to Expertly Crafted Images on Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-improve-gopro-battery-life/"><u>How to Improve GoPro Battery Life</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-anonymize-in-seconds-top-video-editors-for-face-blurring/"><u>In 2024, Anonymize in Seconds Top Video Editors for Face Blurring</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-celebrity-inspired-glamour-videos/"><u>In 2024, Celebrity-Inspired Glamour Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-updated-amd-radeon-hd-drivers-to-enhance-your-windows-display/"><u>Install Updated AMD Radeon HD Drivers to Enhance Your Windows Display</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/making-spherical-videos-the-iphone-way/"><u>Making Spherical Videos The iPhone Way</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-complete-guide-finding-and-installing-the-latest-logitech-mk70-mouse-drivers/"><u>The Complete Guide: Finding & Installing the Latest Logitech MK70 Mouse Drivers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y200e-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y200e 5G FRP</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events\""
-date: 2025-01-02T02:04:37.998Z
-updated: 2025-01-07T16:08:53.986Z
+date: 2025-01-13T16:01:29.675Z
+updated: 2025-01-14T16:14:51.459Z
 tags: 
   - screen-recording
   - ai video
@@ -25,7 +25,7 @@ Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with contr
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -40,16 +40,12 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
@@ -60,10 +56,6 @@ Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian na
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
@@ -71,6 +63,10 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
@@ -89,6 +85,10 @@ To create such a highlight video on any sports event, there are certain videos e
 **Motion Tracking** – Using motion tracking, you can track the movement of a particular object or athlete in a video. This helps to attach certain elements such as clipart, text, icon to that particular athlete throughout the video for easy identification by the viewers.
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -109,7 +109,7 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
@@ -135,22 +135,16 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/solved-auto-unloading-issue/"><u>[Solved] Auto Unloading Issue</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-simplified-methods-for-recording-successful-online-classes-and-meets/"><u>[Updated] In 2024, Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-youtube-on-facebook-feeds/"><u>[Updated] Unlocking YouTube on Facebook Feeds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-free-image-editor-apps/"><u>2024 Approved The Ultimate Guide to Free Image Editor Apps</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-12-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus 12 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/browse-and-compare-leading-affordable-quality-webm-streamers/"><u>Browse and Compare Leading Affordable, Quality WebM Streamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/budget-no-more-top-5-free-visual-effect-sites-for-2024/"><u>Budget No More! Top 5 FREE Visual Effect Sites for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-stunning-designs-learn-to-cleanse-images-background-in-canva/"><u>Craft Stunning Designs Learn to Cleanse Images' Background in Canva</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/daring-dashes-olympic-short-track-highlights-2022/"><u>Daring Dashes Olympic Short Track Highlights, 2022</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-se-2022-how-to-unlock-a-disabled-iphone-se-2022-drfone-by-drfone-ios/"><u>Disabled iPhone SE (2022) How to Unlock a Disabled iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-age-old-artwork-free-from-modern-constraints/"><u>In 2024, Age-Old Artwork Free From Modern Constraints</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-your-media-with-vlcs-secret-features/"><u>Mastering Your Media with VLC's Secret Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-audio-distortions-caused-by-movement-in-airpods-disable-dynamic-head-orientation/"><u>Resolve Audio Distortions Caused by Movement in AirPods: Disable Dynamic Head Orientation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/step-by-step-guide-to-record-online-video-calls-for-2024/"><u>Step-by-Step Guide to Record Online Video Calls for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-efficiently-recording-your-websites-content-into-video/"><u>Step-by-Step Tutorial on Efficiently Recording Your Website's Content Into Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tapping-into-creative-potential-with-luts-in-premiere-pro/"><u>Tapping Into Creative Potential with LUTs in Premiere Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/why-is-my-photobooth-video-caught-in-a-loop/"><u>Why Is My Photobooth Video Caught in a Loop?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-boosting-visibility-key-steps-in-submitting-on-reddit/"><u>[New] Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>[New] Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-simplifying-post-production-using-luts-in-after-effects-for-2024/"><u>[Updated] Simplifying Post Production Using LUTs in After Effects for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-why-virtual-reality-lack-of-content/"><u>2024 Approved Why Virtual Reality Lack of Content?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aesthetic-excellence-laptop-wallpaper-havens-online/"><u>Aesthetic Excellence Laptop Wallpaper Havens Online</u></a></li>
+<li><a href="https://win-superb.techidaily.com/come-ripristinare-i-propri-dati-iphone-metodi-di-recupero-con-e-senza-backup/"><u>Come Ripristinare I Propri Dati iPhone: Metodi Di Recupero Con E Senza Backup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insiders-guide-to-efficient-phone-recording/"><u>Insider's Guide to Efficient Phone Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insightful-slomo-video-app-analysis-year-2024-perspective/"><u>Insightful SloMo Video App Analysis - Year 2024 Perspective</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-advanced-siri-shortcuts-for-an-enhanced-iphone-experience-as-revealed/"><u>Mastering Advanced Siri Shortcuts for an Enhanced iPhone Experience as Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-24-unbeatable-christmas-bargains-on-computers-from-deloitte-deals-at-retail-giants-like-best-buy-and-amazon/"><u>Top 24 Unbeatable Christmas Bargains on Computers From Deloitte Deals at Retail Giants Like Best Buy & Amazon</u></a></li>
 </ul></div>
 

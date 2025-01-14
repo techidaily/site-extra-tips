@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2025-01-03T01:04:52.972Z
-updated: 2025-01-07T23:04:53.063Z
+date: 2025-01-09T16:07:03.539Z
+updated: 2025-01-14T16:37:38.691Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-10-best-facebook-meme-pages-you-never-know-before/"><u>[New] 2024 Approved 10 Best Facebook Meme Pages You Never Know Before</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-beyond-boundaries-a-comprehensive-hubsan-h501x4-study/"><u>[New] Beyond Boundaries A Comprehensive Hubsan H501X4 Study</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-tips-for-quality-screencasting-for-2024/"><u>[New] Essential Tips for Quality Screencasting for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-perfecting-your-youtube-video-blueprint/"><u>[New] In 2024, Perfecting Your YouTube Video Blueprint</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-seamless-nba-viewing-discover-the-best-15-streaming-options/"><u>[New] Seamless NBA Viewing Discover the Best 15 Streaming Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-recommendation-best-websites-to-download-classical-ringtones/"><u>[Updated] Recommendation Best Websites to Download Classical Ringtones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2023s-leading-platforms-for-picture-frame-adjustment-techniques/"><u>2023'S Leading Platforms for Picture Frame Adjustment Techniques</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-making-dollars-from-skincare-videos/"><u>2024 Approved Making Dollars From Skincare Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance-in-2024/"><u>Analyzing Android's Best Editor Is PickUp at the Peak of Performance, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-soft-endings-on-soundscapes-with-audacity-for-2024/"><u>Crafting Soft Endings on Soundscapes with Audacity for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-ps5-and-xbox-experience-with-top-tvs/"><u>Elevate Your PS5 and Xbox Experience with Top TVs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-list-of-premium-3d-blu-ray-players-reviewed/"><u>Exclusive List of Premium 3D Blu-Ray Players Reviewed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exclusive-overlooked-the-creme-de-la-creme-mac-transcribers/"><u>Exclusive, Overlooked The Crème De La Crème Mac Transcribers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-audio-customization-on-sony-playstation-devices/"><u>Explore Audio Customization on Sony PlayStation Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gazegraphic-reviews-synopsis/"><u>GazeGraphic Reviews Synopsis</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-edit-uploaded-published-youtube-videos-for-2024/"><u>How to Edit Uploaded/ Published YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-10t-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme 10T 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-save-or-record-periscope-videos-complete-guide/"><u>How to Save or Record Periscope Videos Complete Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/logic-pros-approach-to-subtle-audio-dimming/"><u>Logic Pro's Approach to Subtle Audio Dimming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-fast-favorites-todays-highest-youtube-tracks/"><u>[New] 2024 Approved Fast Favorites Today's Highest Youtube Tracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-captivating-viewers-with-animated-text-on-instagram-stories/"><u>[New] Captivating Viewers with Animated Text on Instagram Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-circle-designers-toolkit/"><u>[New] Circle Designer's Toolkit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-stop-ipadiphone-from-freezing-during-fb-playback/"><u>[Updated] 2024 Approved Stop iPad/iPhone From Freezing During FB Playback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>[Updated] 2024 Approved Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-crafting-impactful-reactions-the-ultimate-guidebook/"><u>[Updated] Crafting Impactful Reactions The Ultimate Guidebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-big-sur-unveiled-your-guide-to-a-flawless-mac-os-shift/"><u>2024 Approved Big Sur Unveiled Your Guide to a Flawless Mac OS Shift</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/birdie-ballet-bounce/"><u>Birdie Ballet Bounce</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhance-viewing-experience-on-insta-by-modifying-frame-rate-for-2024/"><u>Enhance Viewing Experience on Insta by Modifying Frame Rate for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-buttons-in-windows-a-step-by-step-guide/"><u>Fixing Sticky Keyboard Buttons in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-restore-information-on-your-iphone-methods-with-and-without-previous-backups/"><u>How to Restore Information on Your iPhone: Methods with and without Previous Backups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audio-capture-made-easy-in-windows-10/"><u>In 2024, Audio Capture Made Easy in Windows 10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sierra-maximizing-your-icloud-drive-experience/"><u>In 2024, Sierra Maximizing Your iCloud Drive Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-srt-output-from-adobe-premiere-for-2024/"><u>Mastering SRT Output From Adobe Premiere for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-financial-floor-and-ceiling-in-podcasting-world/"><u>The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tips-on-finding-unparalleled-videographers/"><u>Tips on Finding Unparalleled Videographers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unboxing-titans-of-youtube-the-most-popular/"><u>Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-speed-instant-signature-background-cleanup/"><u>Unlocking Speed Instant Signature Background Cleanup</u></a></li>
 </ul></div>
 

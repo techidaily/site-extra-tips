@@ -1,7 +1,7 @@
 ---
 title: "Quick Windows Surfing Guide Unveiled"
-date: 2025-01-05T16:29:59.713Z
-updated: 2025-01-07T19:04:49.934Z
+date: 2025-01-11T16:05:21.451Z
+updated: 2025-01-14T16:37:44.899Z
 tags: 
   - screen-recording
   - ai video
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ## Quick Windows Surfing Guide Unveiled
 
 Windows operating system comes with an inbuilt file preview feature embedded in Explorer. This feature lets you preview documents and images before uploading them on apps like Skype, Facebook, and more. But what happens if you want to preview videos, audio, spreadsheets, ZIP, and more? In that case, install **QuickLook for Windows**. So, what exactly is **QuickLook for Windows 10,** and where can you get this app? For answers and more, read to the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Download Quick Look App on Microsoft Store
 
@@ -42,11 +38,11 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
-Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
 ## Part 2: Get the App on GitHub
 
@@ -58,28 +54,28 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
@@ -103,6 +99,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,21 +138,22 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>[New] In 2024, Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-small-scale-startups-guide-to-trustworthy-video-tools/"><u>[New] In 2024, Small-Scale Startups' Guide to Trustworthy Video Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-melodic-melding-understanding-sound-transition/"><u>[New] Melodic Melding Understanding Sound Transition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-crafting-compelling-storylines-with-top-20-anime-influences-on-tiktok/"><u>[Updated] 2024 Approved Crafting Compelling Storylines with Top 20 Anime Influences on TikTok</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-to-upgraded-windows-photos-visuals-and-tunes/"><u>[Updated] A Step-by-Step to Upgraded Windows Photos Visuals & Tunes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-3dlut-for-dynamic-video-and-image-adjustments/"><u>2024 Approved 3DLUT for Dynamic Video & Image Adjustments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-titles-google-cardboards-most-immersive-vr-games/"><u>2024 Approved Best Titles Google Cardboard's Most Immersive VR Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-insights-into-polarrs-photo-tools/"><u>Comprehensive Insights Into Polarr's Photo Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diy-tv-remote-sterilization-techniques-to-prevent-bacteria-spread/"><u>DIY TV Remote Sterilization Techniques to Prevent Bacteria Spread</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-roblox-crashing-issues-on-pc-instantly-6-proven-methods-latest-update/"><u>Fix Roblox Crashing Issues on PC Instantly: 6 Proven Methods - Latest Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-closer-look-techniques-for-minecraft-exploration/"><u>In 2024, Closer Look Techniques for Minecraft Exploration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-note-30-vip-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix Note 30 VIP to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigated-advanced-graphics-options/"><u>Navigated: Advanced Graphics Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-money-no-problem-heres-your-list-of-vfx-pages/"><u>No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-complete-catalog-of-livestreaming-cameras-review/"><u>The Complete Catalog of Livestreaming Cameras Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/windows-11-tips-seamlessly-incorporate-music-into-your-video-projects/"><u>Windows 11 Tips Seamlessly Incorporate Music Into Your Video Projects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breaking-boundaries-in-video-content-creation-within-limit/"><u>[New] Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-tech-whizs-guide-to-recording-games-on-win10/"><u>[New] In 2024, The Tech Whiz's Guide to Recording Games on Win10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-streamline-your-watching-with-edge-free-youtube-content/"><u>[New] Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-practices-for-converting-youtube-hosted-tweets-into-mp3s/"><u>[Updated] Best Practices for Converting YouTube-Hosted Tweets Into MP3s</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-moment-advanced-tips-for-iphone-silhouettes/"><u>2024 Approved Capturing the Moment Advanced Tips for iPhone Silhouettes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-os-xwindows-supercharged-discover-the-ultimate-10-srt-upgrades/"><u>2024 Approved OS X/Windows Supercharged Discover the Ultimate 10 SRT Upgrades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-5-gopro-filters-for-underwater-video-shooting/"><u>Best 5 GoPro Filters for Underwater Video Shooting</u></a></li>
+<li><a href="https://discover-great.techidaily.com/detect-and-troubleshoot-defective-computer-parts-with-guidance-from-yl-tech-experts/"><u>Detect and Troubleshoot Defective Computer Parts with Guidance From YL Tech Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-streaming-quality-exclusive-guide-to-9-high-end-filters/"><u>Elevate Streaming Quality Exclusive Guide to 9 High-End Filters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-health-journey-with-these-8-powerful-chatgpt-plugins/"><u>Elevate Your Health Journey with These 8 Powerful ChatGPT Plugins</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>In 2024, Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oppo-a56s-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A56s 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-calculating-costs-in-youtube-advertising-campaigns/"><u>In 2024, Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-8-windows-podcast-solutions/"><u>Optimal 8-Windows Podcast Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-selfie-stick-breakdown-unpacking-the-features-of-fugeteks-ft-568/"><u>Top Rated Selfie Stick Breakdown: Unpacking the Features of Fugetek's FT-568</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winerror-woes-installing-oculus-app-without-fails-on-ws11wc10/"><u>WinError Woes: Installing Oculus App Without Fails on WS11/WC10</u></a></li>
 </ul></div>
 
