@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-01-08T16:05:42.430Z
-updated: 2025-01-14T16:08:49.722Z
+date: 2025-01-15T17:17:23.344Z
+updated: 2025-01-20T18:01:53.397Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,20 +62,24 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit/"><u>[New] Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-essential-guide-to-manipulating-time-with-phantom-for-2024/"><u>[New] Essential Guide to Manipulating Time with Phantom for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-gotomeeting-sessions/"><u>[Updated] 2024 Approved Easy Ways to Record GoToMeeting Sessions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] 2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-choice-in-motion-typography-designs/"><u>[Updated] Best Choice in Motion Typography Designs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>[Updated] Efficiently Explore Every Entry Facebook Profile Hunt 101</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-top-5-affordable-drones-under-500/"><u>[Updated] Top 5 Affordable Drones Under $500</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-12-action-recording-devices-with-built-in-gps-systems/"><u>2024 Approved Elite 12 Action Recording Devices with Built-In GPS Systems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/balanced-photography-top-phones-and-cameras-tripod-for-2024/"><u>Balanced Photography Top Phones & Cameras Tripod for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/full-fledged-vsco-editing-encyclopedia/"><u>Full Fledged VSCO Editing Encyclopedia</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-in-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Driver in Windows 11/10/7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/powerdirectors-latest-revolution-compre-point-by-point-review-and-tutorial/"><u>PowerDirector's Latest Revolution Compre Point-by-Point Review & Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728482770538-windows-11/"><u>Windows 11 連線差異同步進行中 - 快速解決方案列表</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>[New] A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-power-to-replay-film-slices/"><u>2024 Approved Android's Power to Replay Film Slices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-camcorders-for-deer-stalking-success/"><u>2024 Approved Best Camcorders for Deer Stalking Success</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-top-10-best-4k-monitors/"><u>2024 Approved Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/3-straightforward-methods-to-fine-tune-shades/"><u>3 Straightforward Methods to Fine-Tune Shades</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-speed-control-for-instagram-stories-tempo/"><u>Boost Speed Control for Instagram Stories Tempo</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boundless-playlist-public-domain-music-for-games/"><u>Boundless Playlist Public Domain Music for Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deep-dive-into-srt-the-basics-for-beginners/"><u>Deep Dive Into SRT The Basics for Beginners</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dimmed-beginning-display/"><u>Dimmed Beginning Display</u></a></li>
+<li><a href="https://discover-great.techidaily.com/guida-essenziale-i-metodi-piu-efficienti-per-recuperare-i-dati-da-un-ssd-samsung/"><u>Guida Essenziale: I Metodi Più Efficienti per Recuperare I Dati Da Un SSD Samsung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-vivo-y77t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Vivo Y77t</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30i to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-can-you-store-high-quality-videos-in-128gb/"><u>In 2024, Can You Store High-Quality Videos in 128Gb?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/resolving-maplestory-performance-problems-for-windows-11-users/"><u>Resolving MapleStory Performance Problems for Windows 11 Users</u></a></li>
+<li><a href="https://win-top.techidaily.com/sicherung-ihrer-iphone-daten-entweder-durch-einen-usb-stick-oder-ein-externes-flash-laufwerk/"><u>Sicherung Ihrer iPhone Daten - Entweder Durch Einen USB Stick Oder Ein Externes Flash-Laufwerk</u></a></li>
+<li><a href="https://media-tips.techidaily.com/spotifys-television-app-overhaul-say-goodbye-to-clutter-and-chaos/"><u>Spotify's Television App Overhaul: Say Goodbye to Clutter and Chaos!</u></a></li>
+<li><a href="https://win-special.techidaily.com/stop-unwanted-pop-ups-effective-techniques-from-yl-computing-expert-advice/"><u>Stop Unwanted Pop-Ups: Effective Techniques From YL Computing - Expert Advice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
 </ul></div>
 

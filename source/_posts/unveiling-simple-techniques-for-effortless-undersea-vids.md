@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2025-01-11T16:29:27.656Z
-updated: 2025-01-14T16:30:10.451Z
+date: 2025-01-16T16:44:09.524Z
+updated: 2025-01-20T18:20:17.398Z
 tags: 
   - screen-recording
   - ai video
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Get closer
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 4\. Stay steady
 
  Many amateurs think they won’t have a problem with wobbly movements when filming underwater, but even the smallest amount of jerkiness can be detrimental to your content.
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 6\. Wide angle
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 7\. Shoot the best colour
 
  You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
@@ -107,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edit your footage
 
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -137,14 +137,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[New] Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebooks-best-eight-free-link-collector-tools-for-2024/"><u>Facebook's Best Eight FREE Link Collector Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-slash-the-size-of-oversized-drafts-with-easy-edit-tactics/"><u>In 2024, Slash the Size of Oversized Drafts with Easy Edit Tactics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/jumpstart-your-journey-with-chatgpt-extensions/"><u>Jumpstart Your Journey with ChatGPT Extensions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-automotive-traffic-cam-exploration/"><u>Premium Automotive Traffic Cam Exploration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sonic-cinematography-directing-video-narratives-with-music/"><u>Sonic Cinematography Directing Video Narratives with Music</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11/"><u>Step-by-Step Instructions for Activating High Dynamic Range in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-pixel-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Pixel 8.</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-balancing-acts-understanding-the-importance-of-drone-stabilizers/"><u>[New] Balancing Acts Understanding the Importance of Drone Stabilizers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dive-into-color-management-with-ae-luts/"><u>[New] Dive Into Color Management with AE LUTs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era-for-2024/"><u>[Updated] Pro Video Capture Solutions on Mac Beyond the Bandicamp Era for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertly-selected-ultimate-screenshields-for-new-iphone-16-and-pro-models-the-definitive-guide/"><u>Expertly Selected Ultimate Screenshields for New iPhone 16 & Pro Models: The Definitive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-adventurers-guide-navigating-between-podcasts-and-youtube/"><u>In 2024, Audio Adventurer’s Guide Navigating Between Podcasts & YouTube</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-driver-interrupts-reconciled/"><u>Keyboard Driver Interrupts Reconciled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-slow-download-woes-in-ubisoft-services-with-these-tips/"><u>Overcome Slow Download Woes in Ubisoft Services With These Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prestige-pcs-and-laptops-technologys-elite/"><u>Prestige PCs & Laptops - Technology's Elite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-locations-for-obtaining-got-mobile-melodies/"><u>Prime Locations for Obtaining GoT Mobile Melodies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/slow-motion-symphony-a-comprehensive-app-analysis-2024/"><u>Slow Motion Symphony A Comprehensive App Analysis, 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-secure-file-deletion-techniques-on-ssds-with-windows-11/"><u>Step-by-Step Guide: Secure File Deletion Techniques on SSDs with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-most-shared-stock-photos-and-backstories-for-2024/"><u>Unveiling the Most Shared Stock Photos & Backstories for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-aiartisan-image-crafting-tools/"><u>Visionary AiArtisan Image Crafting Tools</u></a></li>
 </ul></div>
 

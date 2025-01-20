@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Boosting Detail with VideoLeap's In-Camera Zooming\""
-date: 2025-01-09T16:24:19.599Z
-updated: 2025-01-14T16:14:13.977Z
+date: 2025-01-19T16:41:39.467Z
+updated: 2025-01-20T16:45:43.058Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Videoleap is famous for providing the best video editing features to its users a
 ![video timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/video-timeline-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Click on the part of the timeline that you want to edit and then select the tool that says "Transform". This tool is usually present at the bottom of your screen.
@@ -44,7 +44,7 @@ Videoleap is famous for providing the best video editing features to its users a
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
@@ -63,20 +63,20 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
@@ -113,7 +113,7 @@ Videoleap is one of the leading video editing platforms available out there. The
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
@@ -153,18 +153,20 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>[Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-capturing-stories-the-best-cinematographic-techniques/"><u>[New] Capturing Stories The Best Cinematographic Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensible-list-best-games-music-found-online/"><u>[New] Comprehensible List Best Games’ Music Found Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-fundamentals-an-overview-of-their-workings/"><u>Drone Fundamentals An Overview of Their Workings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/farewell-to-itunes-apple-introduces-new-media-player-apps-on-windows-platform-detailed-coverage-from-zdnet/"><u>Farewell to iTunes: Apple Introduces New Media Player Apps on Windows Platform - Detailed Coverage From ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-facil-y-completa-convierta-archivos-mkv-en-mp4-de-forma-rapida-sin-comprometer-la-calidad/"><u>Guía Fácil Y Completa: Convierta Archivos MKV en MP4 De Forma Rápida Sin Comprometer La Calidad</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-11f-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 11F 5G Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-visibility-key-steps-in-submitting-on-reddit/"><u>In 2024, Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-edge-40-neo-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Edge 40 Neo online without jailbreak</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mp4twitconversion-quick-conversion/"><u>In 2024, MP4TwitConversion Quick Conversion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-secrets-to-10-music-video-fame-on-facebook/"><u>In 2024, The Secrets to #10 Music Video Fame on Facebook</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a78-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A78 FRP Bypass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>[New] 2024 Approved The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-artful-iphone-snaps-master-these-top-10-design-tactics/"><u>[New] Crafting Artful iPhone Snaps - Master These Top 10 Design Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamlessly-mix-melodies-in-social-media-posts/"><u>[New] In 2024, Seamlessly Mix Melodies in Social Media Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-recommended-free-online-photo-editor/"><u>[Updated] 10 Recommended Free Online Photo Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-desktoponline-passport-photo-crafting-secure-your-documents-with-free-images-for-2024/"><u>[Updated] Desktop/Online Passport Photo Crafting - Secure Your Documents with Free Images for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-do-screen-recording-on-iphone-easily/"><u>[Updated] In 2024, How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-10-best-youtube-keyword-tools-to-get-more-views-filmora/"><u>In 2024, 10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-5-premier-drone-engines-to-supercharge-your-qxp/"><u>In 2024, 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-gpu-choices-4k-editing-and-rendering/"><u>Optimal GPU Choices 4K Editing & Rendering</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-missing-windows-quick-fixes-for-windows-1011/"><u>Reviving Missing Windows: Quick Fixes for Windows 10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplified-ways-for-altering-clowns-windows-voice/"><u>Simplified Ways for Altering Clowns' Windows Voice</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streaming-showdown-best-channels-for-your-audience/"><u>Streaming Showdown Best Channels for Your Audience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlining-image-processes-with-polarrs-compreeved-tools/"><u>Streamlining Image Processes with Polarr's Compreeved Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

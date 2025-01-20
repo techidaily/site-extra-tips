@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Techniques for Proximity Viewing in Roblox"
-date: 2025-01-10T16:06:06.092Z
-updated: 2025-01-14T16:16:35.108Z
+date: 2025-01-13T16:15:40.233Z
+updated: 2025-01-20T16:30:11.630Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ Step1To start playing, you must first sign into Roblox using your browser. Go to
 
 ![login to roblox site](https://images.wondershare.com/filmora/article-images/2022/07/login-to-roblox-site.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2Now, all you have to do to zoom in is hit the 'I' key on your keyboard, which is located between the 'U' and 'O' keys.
 
 Step3If you press or hold this, you'll probably enter first-person perspective, where you can't zoom in any more. If you're already somewhat out of focus, however, you'll first zoom in toward your character before entering first-person view.
@@ -54,16 +50,24 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
 Step4In order to play at your selected zoom level, scroll backwards and forth. Because your character will be presented in such tiny type, it will be challenging to play comfortably and see it clearly. Therefore, maintaining balance is crucial in order to have the zoom adjusted to your preferred playing style.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. Use Xbox Controller Thumbsticks to Zoom
@@ -81,7 +85,7 @@ Step2Zoom in by pressing forward on the right thumbstick that has been clicked d
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
@@ -96,23 +100,19 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
 Step4The camera angle and/or your character will only move if one of your fingers, preferably the index, remains steady on the screen. This will prevent the zoom level from changing.
 
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -150,18 +150,22 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nhancing-youtube-watching-with-list-rearrangement/"><u>[New] Enhancing YouTube Watching with List Rearrangement</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv/"><u>[New] In 2024, Efficient Broadcast Techniques Incorporating YouTube Loops on TV</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-harness-iphones-potential-for-breathtaking-hdr-images/"><u>2024 Approved Harness iPhone's Potential for Breathtaking HDR Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/6-best-free-apps-to-compress-videos-on-android/"><u>6 Best Free Apps to Compress Videos on Android</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/do-reviewers-receive-payments-online/"><u>Do Reviewers Receive Payments Online?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-iospc-video-changers-the-ultimate-list/"><u>Essential iOS/PC Video Changers The Ultimate List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-tips-on-how-to-maintain-optimal-performance-by-updating-audio-technica-drivers/"><u>Expert Tips on How to Maintain Optimal Performance by Updating Audio Technica Drivers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-the-2013-creative-sound-blaster-zxr-flagship-gaming-audio-experience/"><u>Exploring the Features of the 2013 Creative Sound Blaster ZXR: Flagship Gaming Audio Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-nord-ce-3-lite-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Nord CE 3 Lite 5G Face Lock?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unleashing-full-potential-nikon-1j5-in-4k-videography/"><u>In 2024, Unleashing Full Potential Nikon 1J5 in 4K Videography</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-podcast-utilities-for-windows-top-8-picks/"><u>Premium Podcast Utilities for Windows (Top 8 Picks)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/starting-a-podcast-financial-planning-essentials/"><u>Starting a Podcast Financial Planning Essentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-covert-guide-to-livestreaming-on-instagram-unseen/"><u>The Covert Guide to Livestreaming on Instagram Unseen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-tips-for-3d-text-manipulation-in-photosoft/"><u>[New] 2024 Approved Essential Tips for 3D Text Manipulation in PhotoSoft</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-innovating-your-ultimate-tiktok-seal/"><u>[New] In 2024, Innovating Your Ultimate TikTok Seal</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-reinstatement-protocols-for-snaps/"><u>[Updated] 2024 Approved Quick Reinstatement Protocols for Snaps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/19-critical-examples-of-the-metaverse-unveiled-for-2024/"><u>19 Critical Examples of the Metaverse Unveiled for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-strategies-for-removing-background-in-figma/"><u>2024 Approved Advanced Strategies for Removing Background in Figma</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/7-winter-wonderland-adjustments-in-windows-11/"><u>7 Winter Wonderland Adjustments in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects-for-2024/"><u>Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-guide-steady-sound-volume-rise-in-editing/"><u>Beginner's Guide Steady Sound Volume Rise in Editing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-cadence-leading-cameras-for-extended-shutter-times/"><u>Capturing Cadence Leading Cameras for Extended Shutter Times</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques/"><u>Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-motion-survey-2023-for-2024/"><u>Complete Motion Survey 2023 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-handbook-for-proficient-periscope-use-for-2024/"><u>Comprehensive Handbook for Proficient Periscope Use for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005137618-deathloop-stuck-on-loading-screen-heres-what-you-can-do/"><u>Deathloop Stuck on Loading Screen? Here’s What You Can Do!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-premium-edits-software-roundup-leading-windows-edition/"><u>In 2024, Premium Edits Software Roundup Leading Windows Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-through-youtubes-top-favorite-shorters-for-2024/"><u>Navigating Through YouTube’s Top Favorite Shorters for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-creative-potential-garageband-editing-guide-for-2024/"><u>Unlocking Creative Potential GarageBand Editing Guide for 2024</u></a></li>
 </ul></div>
 

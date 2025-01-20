@@ -1,7 +1,7 @@
 ---
 title: "\"From Analog Archives to Digital Epics  Creating Videos From Older Photographs\""
-date: 2025-01-10T16:03:38.384Z
-updated: 2025-01-14T16:31:15.341Z
+date: 2025-01-14T18:23:45.262Z
+updated: 2025-01-20T16:09:58.194Z
 tags: 
   - screen-recording
   - ai video
@@ -61,7 +61,7 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 ![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 4\. Get in Touch with a Professional
@@ -90,6 +90,10 @@ To start with, you can just launch Filmora on your system and import your photos
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Create a timeline for your photos
 
 Once you have imported your photos, you can include them in the timeline. To do this, you can click on the “+” button that is located on the top of the photo’s thumbnail. You can also just drag any photo and drop it on the preferred location in the timeline.
@@ -97,7 +101,7 @@ Once you have imported your photos, you can include them in the timeline. To do 
 ![create timeline for photos ](https://images.wondershare.com/filmora/article-images/create-timeline-for-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Edit the video
@@ -107,7 +111,7 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
@@ -117,6 +121,10 @@ The edit option will present tons of additional features that you can implement 
 As stated above, you can find a wide range of video editing options to explore in Fimora. On top of the interface, you can switch between audio, transition, effects, titles, and other options. You can just go to any feature here (like effects) to apply it to the video.
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
@@ -131,10 +139,6 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
@@ -166,10 +170,6 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
@@ -189,21 +189,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-360-worlds-top-picks-between-samsung-and-lg/"><u>[New] Crafting 360 Worlds Top Picks Between Samsung & LG</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-easy-step-guide-to-iphone-video-inversion/"><u>[New] Easy Step Guide to iPhone Video Inversion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-fine-tuning-soundtracks-with-garageband-expertise/"><u>[New] In 2024, Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-definitive-xbox-gameplay-capture-strategy-for-2024/"><u>[Updated] The Definitive Xbox Gameplay Capture Strategy for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>2024 Approved Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-trend-analysis-through-infographics/"><u>2024 Approved Trend Analysis Through Infographics</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audioextractorproxs-new-era-insights-from-the-2024-update/"><u>AudioExtractorProX's New Era Insights From the 2024 Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/breaking-down-chromes-multi-tasking-the-pip-experience-for-2024/"><u>Breaking Down Chrome's Multi-Tasking The PIP Experience for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/delving-into-vllo-user-testimonies/"><u>Delving Into VLLO User Testimonies</u></a></li>
-<li><a href="https://discover-best.techidaily.com/elevating-website-visibility-essential-strategies-for-effective-page-titles-and-descriptions/"><u>Elevating Website Visibility: Essential Strategies for Effective Page Titles and Descriptions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/engage-audiences-with-impactful-podcast-descriptions/"><u>Engage Audiences with Impactful Podcast Descriptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-windows-11s-functionality-top-strategies-for-widget-upgrades/"><u>Enhancing Windows 11'S Functionality: Top Strategies for Widget Upgrades</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerated-conversion-guide-from-complex-srt-to-txt-2023/"><u>In 2024, Accelerated Conversion Guide From Complex SRT to TXT 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-seeing-beyond-the-ordinary-with-ar/"><u>In 2024, Seeing Beyond the Ordinary with AR</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transformative-techniques-podcast-covers-reimagined/"><u>Transformative Techniques Podcast Covers Reimagined</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>[New] ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-engaging-podcast-names-tips-and-techniques/"><u>[New] Crafting Engaging Podcast Names Tips and Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-10-pc-vr-headsets/"><u>[New] Top 10 PC VR Headsets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-guide-to-youtubes-latest-income-strategies/"><u>[Updated] 2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-spark-paves-way-but-will-mavic-air-top-the-gaming-scene/"><u>2024 Approved Spark Paves Way, But Will Mavic Air Top the Gaming Scene?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-an-engaging-online-presence-with-fb/"><u>Crafting an Engaging Online Presence with FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-creating-a-domino-effect-with-memes/"><u>In 2024, Creating a Domino Effect with Memes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6 Plus Passcode not Working?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-parrot-ar-drone-elite-edition-expert-evaluation/"><u>In 2024, Parrot AR Drone Elite Edition – Expert Evaluation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-1011dvdmp46/"><u>Windows 10/11用DVDからMP4への上質な変換手順：6つの方法</u></a></li>
 </ul></div>
 

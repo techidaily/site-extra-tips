@@ -1,7 +1,7 @@
 ---
 title: "[New] Achieving Gentle Volume Alteration Using FL Studio"
-date: 2025-01-07T16:31:14.961Z
-updated: 2025-01-14T16:19:53.672Z
+date: 2025-01-13T17:26:13.092Z
+updated: 2025-01-20T18:42:06.453Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
@@ -60,10 +60,6 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -73,14 +69,10 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related FAQs of FL Studio Audio Editing
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
@@ -91,7 +83,7 @@ If you want to fade out your audio in FL on your mobile phone, tap on the wavefo
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
@@ -112,19 +104,27 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related FAQs of FL Studio Audio Editing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -154,18 +154,24 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-az-video-logger-full-application-breakdown-for-2024/"><u>[Updated] AZ Video Logger Full Application Breakdown for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-productions-audit-studio-25-breakdown-2023/"><u>2024 Approved Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-real-time-broadcasting-softwares-edge-over-gear/"><u>2024 Approved Real-Time Broadcasting Software's Edge Over Gear?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-red-magic-8s-proplus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Red Magic 8S Pro+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-personal-touch-to-videos-with-text-labels-using-photos-app-windows-11-for-2024/"><u>Add Personal Touch to Videos with Text Labels Using Photos App (Windows 11) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-avi-player-for-pc-and-mobile/"><u>Best AVI Player for PC and Mobile</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1392429-9781448171224-day-by-day/"><u>Day By Day | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficient-methods-to-extract-and-save-video-audio-as-mp3/"><u>Efficient Methods to Extract and Save Video Audio as MP3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multi-device-synchronization-using-a-single-phone-number-across-all-your-gadgets/"><u>Mastering Multi-Device Synchronization: Using a Single Phone Number Across All Your Gadgets</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/skys-the-limit-with-dji-spark-an-in-depth-miniature-drone-study/"><u>Sky's the Limit with DJI Spark An In-Depth Miniature Drone Study</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-elevate-your-video-production-cinematic-techniques-in-fcpx/"><u>Updated Elevate Your Video Production Cinematic Techniques in FCPX</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-13c-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi 13C Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-social-media-impact-mastering-snapchats-boomerang-art-for-2024/"><u>[New] Elevate Social Media Impact Mastering Snapchat's Boomerang Art for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-essentials-for-flawless-instagram-unboxing-content/"><u>10 Essentials for Flawless Instagram Unboxing Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-comprehensive-tutorial-for-using-movie-maker-on-windows-8-os/"><u>2024 Approved A Comprehensive Tutorial for Using Movie Maker on Windows 8 OS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-examination-of-androids-photo-editing-tool-lightroom/"><u>2024 Approved A Deep Examination of Android's Photo Editing Tool, Lightroom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-risk-management-and-mitigation-strategies-in-market-research/"><u>2024 Approved A Guide to Risk Management and Mitigation Strategies in Market Research</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-cutting-edge-the-ultimate-drone-editing-comparison/"><u>2024 Approved Aerial Cutting Edge The Ultimate Drone Editing Comparison</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-window-11s-best-kept-secrets-for-maximum-productivity/"><u>2024 Approved Unlocking WINDOW 11'S Best-Kept Secrets for Maximum Productivity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aligning-podcast-drop-dates-with-listener-patterns/"><u>Aligning Podcast Drop Dates with Listener Patterns</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cartooncanvas-comprehensive-review-and-guidebook-24/"><u>CartoonCanvas Comprehensive Review & Guidebook '24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comedic-content-coder-for-2024/"><u>Comedic Content Coder for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cut-through-background-distraction-for-pro-images/"><u>Cut Through Background Distraction for Pro Images</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-m14-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy M14 4G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-c33-2023-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme C33 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>In 2024, From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175665967-innovate-and-upgrade-with-tom-the-ultimate-guide-to-high-performance-hardware/"><u>Innovate & Upgrade with Tom - The Ultimate Guide to High-Performance Hardware!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/laugh-out-loud-meme-making-techniques/"><u>Laugh Out Loud Meme-Making Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/451661-9781101136249-the-game-of-life-and-how-to-play-it/"><u>The Game of Life and How to Play It | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-hash-tags-skyrocketing-to-6-figure-views-on-youtube-for-2024/"><u>Top Hash Tags Skyrocketing to 6-Figure Views on YouTube for 2024</u></a></li>
 </ul></div>
 
