@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2025-01-14T18:17:56.729Z
-updated: 2025-01-20T18:03:02.781Z
+date: 2025-01-19T17:31:49.643Z
+updated: 2025-01-26T18:08:22.964Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,24 +78,24 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-fortnite-thumbnail-in-30-seconds/"><u>[New] 2024 Approved How to Make Fortnite Thumbnail in 30 Seconds</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-into-youtubes-digital-video-workshop/"><u>[New] In 2024, Delving Into YouTube's Digital Video Workshop</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-what-is-the-youtube-highlighted-comment/"><u>[Updated] In 2024, What Is the YouTube Highlighted Comment?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-malware-downloading-safe-and-gratis-vlc-on-apple-devices/"><u>2024 Approved Avoiding Malware Downloading Safe and Gratis VLC on Apple Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brand-storytelling-through-the-eyes-of-customer-voices/"><u>2024 Approved Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-captivating-content-for-the-first-moments-in-audios/"><u>Crafting Captivating Content for the First Moments in Audios</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-20-unprotected-open-access-pubg-montages/"><u>Elite 20 Unprotected, Open-Access PUBG Montages</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/filmora-tutorial-converting-avi-to-gif-seamlessly/"><u>Filmora Tutorial Converting AVI to GIF Seamlessly</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-z-fold-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy Z Fold 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-s24plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy S24+ to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-microphone-recorders-for-mac-users-our-five-superstar-picks/"><u>In 2024, Advanced Microphone Recorders for Mac Users Our Five Superstar Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-virtual-laughter-the-metaverse-meme-journey/"><u>In 2024, Crafting Virtual Laughter The Metaverse Meme Journey</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/smartphone-streaming-success-without-a-massive-subscriber-base/"><u>Smartphone Streaming Success Without a Massive Subscriber Base</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723262424809-the-hidden-power-within-an-everyday-aerosol-spray-achieving-mach-velocity/"><u>The Hidden Power Within an Everyday Aerosol Spray: Achieving Mach Velocity!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-20-unlimited-cloud-storage-solutions-up-to-1tb/"><u>Top 20 Unlimited Cloud Storage Solutions, Up To 1TB</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/xiaomi-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-compreayers-guide-to-growth-updating-youtube-metadata/"><u>[New] A Compreayer's Guide to Growth Updating YouTube Metadata</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-visual-journey-discover-filmoras-favorite-features/"><u>[New] A Visual Journey Discover Filmora's Favorite Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-luminary-pixels-masterful-lighting-secrets-unveiled/"><u>[New] Luminary Pixels Masterful Lighting Secrets Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-essentials-to-initiate-in-google-meet-for-2024/"><u>[New] The Essentials to Initiate in Google Meet for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-expertly-ranked-12-camcorders-featuring-location-navigation/"><u>[Updated] 2024 Approved Expertly Ranked 12 Camcorders Featuring Location Navigation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-virtual-spaces-for-3d-graffiti-fonts/"><u>2024 Approved Top 8 Virtual Spaces for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unlock-efficiency-screen-recording-on-mac-via-keyboard-shortcuts/"><u>2024 Approved Unlock Efficiency Screen Recording on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-s23-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy S23</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortlessly-increase-youtube-video-dimensions/"><u>Effortlessly Increase YouTube Video Dimensions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023-how-to-share-twitter-videos-on-whatsapp/"><u>In 2024, 2023 | How to Share Twitter Videos on WhatsApp?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>In 2024, Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-ways-to-infuse-voiceovers-into-your-media/"><u>Innovative Ways to Infuse Voiceovers Into Your Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-edge-slow-motion-capture-software-phones-iosandroid/"><u>Leading Edge Slow Motion Capture Software, Phones iOS/Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-manual-for-srt-conversion-techniques/"><u>The Essential Manual for SRT Conversion Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-iphone-13-review-pros-and-cons-user-impressions/"><u>The Ultimate Guide to iPhone 13 – Review, Pros & Cons, User Impressions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-meme-design-props/"><u>The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-6-premium-background-erasers-for-photo-professionals/"><u>Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-greenprints-a-treasure-trove-of-free-templates-for-cinematic-professionals/"><u>Visual Greenprints A Treasure Trove of Free Templates for Cinematic Professionals</u></a></li>
 </ul></div>
 

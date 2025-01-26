@@ -1,7 +1,7 @@
 ---
 title: "\"Love and Light  Nine Essential Filmora Elements\""
-date: 2025-01-18T16:20:35.026Z
-updated: 2025-01-20T16:10:52.086Z
+date: 2025-01-23T18:19:39.687Z
+updated: 2025-01-26T17:06:01.819Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ The first feature that we're going to look at is the drag and drop feature. This
 Video Reference: 01 – Drag and Drop Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Trim and Split Tools
@@ -37,7 +37,7 @@ The next feature that we're going to look at is the trim and split editing tools
 Video Reference: 02 – Trim and Split Tools
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Free Stock Media
@@ -65,7 +65,7 @@ Wondershare Filmora Video Editor also comes with built-in titles and text effect
 Video Reference: 06 – Titles and Text Effects
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Easy-to-Use Transition Effects
@@ -81,7 +81,7 @@ Wondershare Filmora Video Editor comes with over 3000 amazing elements that you 
 Video Reference: 08 – Over 3000 Amazing Elements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Wide Selection of Aspect Ratio
@@ -97,7 +97,7 @@ When you're done editing your video, you can easily export it to your computer. 
 Video Reference: 10 – Wide Selection of Aspect Ratio
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,22 +119,17 @@ Video Reference: 01 – Drag and Drop Features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-masterful-tools-for-youtube-text-extraction-online-for-2024/"><u>[Updated] Masterful Tools for YouTube Text Extraction Online for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-achieve-flawless-audio-googles-uploading-system/"><u>2024 Approved Achieve Flawless Audio Google's Uploading System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-battle-of-the-titans-gopro-hero5-black-vs-session/"><u>2024 Approved Battle of the Titans GoPro Hero5 Black VS Session</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-srt-translators-online-an-elite-list-of-8/"><u>2024 Approved Best FREE SRT Translators Online An Elite List of 8</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-compress-iphone-videos-how-to-shorten-without-quality-loss/"><u>2024 Approved Compress iPhone Videos How to Shorten Without Quality Loss</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-build-youtube-backlinks-for-your-channel/"><u>2024 Approved How to Build YouTube Backlinks for Your Channel</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/add-and-record-audio-to-powerpoint-for-2024/"><u>Add & Record Audio to PowerPoint for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-image-size-retain-resolution-for-2024/"><u>Boost Image Size, Retain Resolution for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/burst-life-into-slow-motion-with-top-android-apps-for-2024/"><u>Burst Life Into Slow Motion with Top Android Apps for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/converting-sdr-video-to-hdr-a-comprehensive-tutorial-for-2024/"><u>Converting SDR Video to HDR - A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dance-of-the-feathers-analyzing-parrots-flight-in-bebop-2/"><u>Dance of the Feathers Analyzing Parrot's Flight in Bebop 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-easy-instructions-to-keep-your-logitech-m510-running-smoothly-with-driver-updates/"><u>Find Easy Instructions to Keep Your Logitech M510 Running Smoothly with Driver Updates</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Poco M6 Pro 4G</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/premium-picks-the-ultimate-gopro-upgrades-for-2024/"><u>Premium Picks The Ultimate Gopro Upgrades for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/shape-business-visions-no-money-just-templates/"><u>Shape Business Visions - No Money, Just Templates</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-addingremoving-applications-via-windows-control-panel-tips-from-yl-software-experts/"><u>Step-by-Step Guide: Adding/Removing Applications via Windows Control Panel - Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-5-web-based-titling-aces-identified/"><u>[New] Best 5 Web-Based Titling Aces Identified</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-swift-and-efficient-turning-youtube-vids-into-mp4-high-definition-via-online-service-for-2024/"><u>[New] Swift & Efficient Turning YouTube Vids Into MP4, High-Definition via Online Service for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-life-in-high-res-chromatic-shades-with-4k/"><u>[Updated] Capturing Life in High-Res Chromatic Shades with 4K</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-video-on-google-hangouts-for-2024/"><u>[Updated] How to Record Video on Google Hangouts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bridging-artificial-intelligence-and-commerce-the-role-of-renaissance-tech-innovators-zdnet/"><u>Bridging Artificial Intelligence & Commerce: The Role of Renaissance Tech Innovators | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drive-traffic-generate-leads-mastering-telegram-marketing/"><u>Drive Traffic, Generate Leads Mastering Telegram Marketing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comparing-gopros-max-and-hero-11-for-the-best-video-quality/"><u>In 2024, Comparing GoPro's Max and Hero 11 for the Best Video Quality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a56s-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A56s 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-healthier-meal-prep-with-assistance-from-chatgpt/"><u>Mastering Healthier Meal Prep with Assistance From ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-non-launching-finals-tips-and-solutions-for-215/"><u>The Definitive Fix for Non-Launching Finals - Tips and Solutions for 2^15</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uniting-fans-anime-opening-songs-showcase/"><u>Uniting Fans Anime Opening Songs Showcase</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Techniques for Proximity Viewing in Roblox"
-date: 2025-01-13T16:15:40.233Z
-updated: 2025-01-20T16:30:11.630Z
+date: 2025-01-24T18:30:42.928Z
+updated: 2025-01-26T16:47:46.691Z
 tags: 
   - screen-recording
   - ai video
@@ -51,24 +51,16 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
 
 ![zoom in with cursoe scroll](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-with-cursoe-scroll.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3When the game's map is in your field of vision and you reach the maximum zoom level, just scroll backward with your mouse to zoom out. It will be essential to do the opposite operation, namely scroll the other direction, to zoom out on your character, in order to zoom in.
 
 Step4In order to play at your selected zoom level, scroll backwards and forth. Because your character will be presented in such tiny type, it will be challenging to play comfortably and see it clearly. Therefore, maintaining balance is crucial in order to have the zoom adjusted to your preferred playing style.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 3\. Use Xbox Controller Thumbsticks to Zoom
 
@@ -84,11 +76,11 @@ Step2Zoom in by pressing forward on the right thumbstick that has been clicked d
 
 ![press forward right thumbstick](https://images.wondershare.com/filmora/article-images/2022/07/press-forward-right-thumbstick.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 4\. Zoom in/out in Roblox on Tablet
 
@@ -104,6 +96,10 @@ Step2To zoom, just use two fingers and slide them apart (for zooming in) or toge
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
 Step4The camera angle and/or your character will only move if one of your fingers, preferably the index, remains steady on the screen. This will prevent the zoom level from changing.
@@ -111,7 +107,11 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,22 +150,20 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-essential-tips-for-3d-text-manipulation-in-photosoft/"><u>[New] 2024 Approved Essential Tips for 3D Text Manipulation in PhotoSoft</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-innovating-your-ultimate-tiktok-seal/"><u>[New] In 2024, Innovating Your Ultimate TikTok Seal</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-reinstatement-protocols-for-snaps/"><u>[Updated] 2024 Approved Quick Reinstatement Protocols for Snaps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/19-critical-examples-of-the-metaverse-unveiled-for-2024/"><u>19 Critical Examples of the Metaverse Unveiled for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-strategies-for-removing-background-in-figma/"><u>2024 Approved Advanced Strategies for Removing Background in Figma</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/7-winter-wonderland-adjustments-in-windows-11/"><u>7 Winter Wonderland Adjustments in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects-for-2024/"><u>Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beginners-guide-steady-sound-volume-rise-in-editing/"><u>Beginner's Guide Steady Sound Volume Rise in Editing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-cadence-leading-cameras-for-extended-shutter-times/"><u>Capturing Cadence Leading Cameras for Extended Shutter Times</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques/"><u>Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-motion-survey-2023-for-2024/"><u>Complete Motion Survey 2023 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-handbook-for-proficient-periscope-use-for-2024/"><u>Comprehensive Handbook for Proficient Periscope Use for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723005137618-deathloop-stuck-on-loading-screen-heres-what-you-can-do/"><u>Deathloop Stuck on Loading Screen? Here’s What You Can Do!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-premium-edits-software-roundup-leading-windows-edition/"><u>In 2024, Premium Edits Software Roundup Leading Windows Edition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-through-youtubes-top-favorite-shorters-for-2024/"><u>Navigating Through YouTube’s Top Favorite Shorters for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-creative-potential-garageband-editing-guide-for-2024/"><u>Unlocking Creative Potential GarageBand Editing Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[New] 2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-complete-price-proposition-the-first-step-in-podcasting/"><u>[New] Complete Price Proposition The First Step in Podcasting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-reversal-unlock-the-power-of-video-rotation/"><u>[New] Insta-Reversal Unlock the Power of Video Rotation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-engaging-lessons-video-editing-skills-for-teachers/"><u>2024 Approved Engaging Lessons Video Editing Skills for Teachers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-world-of-textual-wonder-traverse-these-top-10-sites-featuring-modern-font-designs-for-2024/"><u>A World of Textual Wonder Traverse These Top 10 Sites Featuring Modern Font Designs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/av1-unveiled-for-the-curious-novice/"><u>AV1 Unveiled For the Curious Novice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-stamina-and-strength-curated-list-of-motivational-music/"><u>Boost Stamina and Strength Curated List of Motivational Music</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/create-logos-via-free-logo-template-customize-and-download-for-free/"><u>Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-zero-to-hero-in-advertising-top-strategies-unveiled-by-experts/"><u>From Zero to Hero in Advertising Top Strategies Unveiled by Experts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-ordinary-to-extraordinary-on-tiktok/"><u>Transforming Ordinary to Extraordinary on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-the-ultimate-11-strategies-for-impeccable-color-balancing/"><u>Unveiling the Ultimate 11 Strategies for Impeccable Color Balancing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-a-step-by-step-solution-for-the-coprocessor-driver-not-detected-glitch/"><u>Windows 11: A Step-by-Step Solution for the Coprocessor Driver Not Detected Glitch</u></a></li>
 </ul></div>
 

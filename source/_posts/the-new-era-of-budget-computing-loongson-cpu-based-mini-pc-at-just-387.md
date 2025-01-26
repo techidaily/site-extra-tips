@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-01-15T17:17:23.344Z
-updated: 2025-01-20T18:01:53.397Z
+date: 2025-01-23T19:51:28.779Z
+updated: 2025-01-26T17:45:38.094Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,24 +62,17 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-closer-look-at-youtubes-unlisted-content-category-for-2024/"><u>[New] A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-power-to-replay-film-slices/"><u>2024 Approved Android's Power to Replay Film Slices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-camcorders-for-deer-stalking-success/"><u>2024 Approved Best Camcorders for Deer Stalking Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-top-10-best-4k-monitors/"><u>2024 Approved Top 10 Best 4K Monitors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/3-straightforward-methods-to-fine-tune-shades/"><u>3 Straightforward Methods to Fine-Tune Shades</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-speed-control-for-instagram-stories-tempo/"><u>Boost Speed Control for Instagram Stories Tempo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boundless-playlist-public-domain-music-for-games/"><u>Boundless Playlist Public Domain Music for Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deep-dive-into-srt-the-basics-for-beginners/"><u>Deep Dive Into SRT The Basics for Beginners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dimmed-beginning-display/"><u>Dimmed Beginning Display</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guida-essenziale-i-metodi-piu-efficienti-per-recuperare-i-dati-da-un-ssd-samsung/"><u>Guida Essenziale: I Metodi Più Efficienti per Recuperare I Dati Da Un SSD Samsung</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-vivo-y77t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Vivo Y77t</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-hot-30i-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Hot 30i to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-can-you-store-high-quality-videos-in-128gb/"><u>In 2024, Can You Store High-Quality Videos in 128Gb?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/resolving-maplestory-performance-problems-for-windows-11-users/"><u>Resolving MapleStory Performance Problems for Windows 11 Users</u></a></li>
-<li><a href="https://win-top.techidaily.com/sicherung-ihrer-iphone-daten-entweder-durch-einen-usb-stick-oder-ein-externes-flash-laufwerk/"><u>Sicherung Ihrer iPhone Daten - Entweder Durch Einen USB Stick Oder Ein Externes Flash-Laufwerk</u></a></li>
-<li><a href="https://media-tips.techidaily.com/spotifys-television-app-overhaul-say-goodbye-to-clutter-and-chaos/"><u>Spotify's Television App Overhaul: Say Goodbye to Clutter and Chaos!</u></a></li>
-<li><a href="https://win-special.techidaily.com/stop-unwanted-pop-ups-effective-techniques-from-yl-computing-expert-advice/"><u>Stop Unwanted Pop-Ups: Effective Techniques From YL Computing - Expert Advice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebook-video-wonders-your-must-see-list/"><u>[New] Facebook Video Wonders - Your Must-See List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-next-level-of-immersion-top-10-vr-gear/"><u>[Updated] 2024 Approved The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cutting-edge-tools-to-make-your-fb-cover-photo-stand-out/"><u>[Updated] In 2024, Cutting-Edge Tools to Make Your FB Cover Photo Stand Out</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>2024 Approved Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>2024 Approved Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-exe-vs-msi-installation-methods/"><u>Dissecting Distinctions: EXE vs MSI Installation Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-edge-40-neo-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/picart-strategies-for-stunning-image-purification/"><u>PicArt Strategies for Stunning Image Purification</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-websites-promoting-youtube-media/"><u>Superior Websites Promoting YouTube Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/what-videos-can-i-upload-to-google-drive-understanding-format-compatibility/"><u>What Videos Can I Upload to Google Drive? Understanding Format Compatibility</u></a></li>
 </ul></div>
 

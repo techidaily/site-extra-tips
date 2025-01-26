@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Comparing AV1 & VP9  Which Is More Advanced?\""
-date: 2025-01-14T16:34:03.207Z
-updated: 2025-01-20T16:14:03.646Z
+date: 2025-01-20T16:19:27.504Z
+updated: 2025-01-26T18:48:16.263Z
 tags: 
   - screen-recording
   - ai video
@@ -20,19 +20,11 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 The advancement in video technology means there are many video codecs to use. Today, you can use  VP9, AV1 and other codecs on platforms like YouTube, Netflix, Facebook, Vimeo, and more. However, video codecs differ regarding file size, licensing, quality, and more. Now this brings us to the exciting **AV1 vs VP9** comparison. These two are currently some of the most widely used video codecs, especially on YouTube. So, which one should you use? Should you stick to the trusted VP9 or the brand-new AV1? This article helps you make the critical choice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What is VP9?
 
 Released in 2013 by Google, VP9 is a free, open-source video codec that replaced VP8\. This compression algorithm was released to compete with  a licensed video codec. VP9 enjoys broad support among modern HTML5 web browsers. In fact, VP9 has been compatible with Android since version 4.4 KitKat. This codec is also compatible with iOS/iPadOS 14 or newer.
 
 In the meantime, a 2014 comparison between VP9 and /AVC discovered that VP9 offers a 45% bitrate advantage over. Netflix also concluded in 2016 that VP9  could have the same efficiency after tweaking the parameters. So overall, VP9 supports lossless encoding of raw bitstreams, making it perfect for streaming videos in MP4 and WebM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. What is AV1?
 
@@ -41,7 +33,7 @@ AV1 is a relatively new video codec by Alliance for Open Media, a consortium of 
 The first AV1 version was released in 2016 but was held back due to unresolved critical bugs. Then in March 2018, the Alliance announced another release alongside software encoder/decoder. Although the codec is primarily designed to compete with licensed codecs like  AVC, there are concerns that it may threaten the existence of other royalty-free codecs. But as a consumer, freebies are always a welcome addition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Detailed Comparison Between VP9 and AV1
@@ -64,10 +56,14 @@ Another 2018 Facebook Engineering (now Meta) test showed that AV1 achieved 34% h
 
 ![facebook av1 vs vp9 comparison](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Most importantly, Facebook suggested that AV1's performance significantly increases with increased video resolution. This means viewers will enjoy a higher quality 8K and UHD/4K content when using AV1 than VP9 and other codecs. And yes, higher compressions by AV1 mean a smaller file size at the same bitrates as the VP9 codec.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Into the Future - AV1 is the Trend
@@ -82,15 +78,7 @@ Soon in the September, NVIDIA unveiled the GeForce RTX® 40 Series of GPUs, whic
 
 ![cut export times](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Let alone AV2 is upcoming in 3-5 years. There is no doubt that AV1 is the future trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Which Editor Can Export an AV1 MP4 Video?
 
@@ -116,21 +104,33 @@ As you may already know, thousands of videos are uploaded daily on YouTube. Ther
 
 ![av1 vs vp9 choose av1 mp4](https://images.wondershare.com/filmora/article-images/2022/11/av1-vs-vp9-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Are you satisfied with the edited video? Click **Play** to preview it and apply further edits if needed. Then, tap **Export** and choose **MP4 AV1** as the target format. Lastly, name your video and export it to your local drive. You can also click the **YouTube** tab to directly upload the video on the platform. And that's it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5\. FAQs About AV1 and VP9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is the best video codec?
 
 There's nothing like the "best video codec" because it depends on user preference.  Although it offers universal compatibility, its performance is far behind codecs like AV1, and VP9. Also, it's a licensed video codec, one reason why YouTube stopped streaming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How can I check the video codec on YouTube?
 
 Checking the type of codec used to stream a YouTube video is relatively straightforward. Open the video and right-click the video screen. Then, click "Stats for nerds" to view the video codec, color, network connection speed, frames, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can I disable/disable AV1 playback on Firefox?
 
@@ -178,22 +178,22 @@ We hope this AV1 vs VP9 comparison article has dispelled all your fears about us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-recording-tech-evaluation-blueprint/"><u>[Updated] 2024 Approved Recording Tech Evaluation Blueprint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-drawing-apps-for-iphones/"><u>[Updated] Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-coalescing-iphone-media-with-ease/"><u>[Updated] Coalescing iPhone Media with Ease</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-livechat-recorder-pro-hd/"><u>[Updated] In 2024, LiveChat Recorder Pro HD</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-10-ultimate-simulators-for-androids-gb-games/"><u>2024 Approved 10 Ultimate Simulators for Android's GB Games</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/assessing-streaming-quality-vlc-versus-mx/"><u>Assessing Streaming Quality VLC versus MX</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/deepening-ties-techniques-for-meaningful-youtube-dialogue/"><u>Deepening Ties Techniques for Meaningful YouTube Dialogue</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-download-free-picture-frame-videos-for-2024/"><u>How to Download Free Picture Frame Videos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capture-the-airwaves-a-beginners-internet-radio-guide/"><u>In 2024, Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-se-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone SE Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 11 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-audio-transformation-tips-for-enhanced-competitive-play-in-free-fire/"><u>Step-by-Step Audio Transformation Tips for Enhanced Competitive Play in Free Fire</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva/"><u>The Art of Photo Refreshment How to Tidy Up Images on Canva</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/troubleshoot-and-restore-your-windows-server-2019s-uefi-boot-essential-solutions-inside/"><u>Troubleshoot and Restore Your Windows Server 2019'S UEFI Boot - Essential Solutions Inside!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/web-based-gag-generator/"><u>Web-Based Gag Generator</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seeking-clearance-can-you-upload-media-on-fb-for-2024/"><u>[New] Seeking Clearance Can You Upload Media on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-editors-playbook-advanced-pc-methods-for-youtube-mastery/"><u>[New] The Editor's Playbook Advanced PC Methods for YouTube Mastery</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-graphic-card-for-4k-gaming/"><u>[Updated] Best Graphic Card for 4K Gaming</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simplified-steps-for-saving-gotomeeting-sessions-for-2024/"><u>[Updated] Simplified Steps for Saving GoToMeeting Sessions for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-aurora-hdr-superior-or-subpar-imaging/"><u>2024 Approved Aurora HDR Superior or Subpar Imaging?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budget-friendly-syma-s111g-remote-control-helicopter-in-depth-assessment-and-user-experience/"><u>Budget-Friendly Syma S111G Remote Control Helicopter - In-Depth Assessment and User Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chroma-mastering-toolkit-for-2024/"><u>Chroma Mastering Toolkit for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evolving-narratives-in-the-age-of-vr-movies-for-2024/"><u>Evolving Narratives in the Age of VR Movies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beginners-pathway-to-grasping-hd-content-standards/"><u>In 2024, Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-detecting-changes-in-your-instagram-network/"><u>In 2024, Detecting Changes in Your Instagram Network</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-nokia-g22-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Nokia G22 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/redefining-the-silver-screen-virtual-reality-cinema/"><u>Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-wlanapidll-missing-file-a-comprehensive-guide/"><u>Resolving wlanapi.dll Missing File: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smooth-screenshots-selecting-the-ultimate-handheld-stabilizer/"><u>Smooth Screenshots Selecting the Ultimate Handheld Stabilizer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pace-factor-in-ai-evolution-investigating-why-chatgpt-4-lags-behind-chatgpt-35/"><u>The Pace Factor in AI Evolution: Investigating Why ChatGPT-4 Lags Behind ChatGPT-3.5</u></a></li>
 </ul></div>
 

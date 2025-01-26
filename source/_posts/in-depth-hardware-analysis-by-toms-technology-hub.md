@@ -1,7 +1,7 @@
 ---
 title: In-Depth Hardware Analysis by Tom's Technology Hub
-date: 2025-01-13T16:54:43.067Z
-updated: 2025-01-20T16:10:56.554Z
+date: 2025-01-19T17:18:18.448Z
+updated: 2025-01-26T17:14:44.299Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -66,14 +66,18 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-best-no-cost-video-calls-for-remote-collaboration/"><u>[New] 2024 Approved 10 Best No-Cost Video Calls for Remote Collaboration</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-soaring-stories-crafting-engaging-drone-video-narratives-for-2024/"><u>[New] Soaring Stories Crafting Engaging Drone Video Narratives for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-comprehensive-introduction-to-color-grading-with-luts/"><u>[Updated] A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiovisual-mastery-imovie-sound-guide/"><u>Audiovisual Mastery IMovie Sound Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6s-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6s</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sculpting-soundtracks-for-animation-using-movie-maker-tools/"><u>Sculpting Soundtracks for Animation Using Movie Maker Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-free-to-pro-the-top-10-fcpx-plugins-to-take-your-videos-to-the-next-level/"><u>Updated In 2024, From Free to Pro The Top 10 FCPX Plugins to Take Your Videos to the Next Level</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[New] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-using-snapchat-for-past-photos-from-memory/"><u>[Updated] In 2024, Using Snapchat for Past Photos From Memory</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-12-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 12</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-a2-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo A2 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-performance-handhocal-systems-mobile-and-dslr-videos-stabilized/"><u>High-Performance Handhocal Systems Mobile & DSLR Videos Stabilized</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androidiphones-ultimate-arvr-game-list/"><u>In 2024, Android/iPhone's Ultimate AR/VR Game List</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c33-2023-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-audacity-for-top-notch-audio-recording/"><u>Navigating Audacity for Top-Notch Audio Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sculpting-visual-clarity-overcoming-gopro-lens-distortion/"><u>Sculpting Visual Clarity Overcoming GoPro Lens Distortion</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-troubleshooting-for-graphic-issues-on-your-windows-11-machine-tips-from-yl-computing/"><u>Step-by-Step Troubleshooting for Graphic Issues on Your Windows 11 Machine - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-smooth-authentication-on-iphone-x-mending-face-id/"><u>Unlocking Smooth Authentication on iPhone X Mending Face ID</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-support-correcting-the-device-not-migrated-challenge-during-installation/"><u>Windows 11 Support: Correcting the ‘Device Not Migrated’ Challenge During Installation</u></a></li>
 </ul></div>
 

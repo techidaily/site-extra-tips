@@ -1,7 +1,7 @@
 ---
 title: DIY Computer Experience for Children Unveiled in Japan – Construct and Learn with Genuine PC Components
-date: 2025-01-18T17:44:07.684Z
-updated: 2025-01-20T19:09:01.986Z
+date: 2025-01-23T17:01:49.149Z
+updated: 2025-01-26T16:24:20.424Z
 tags:
   - desktop
 categories:
@@ -55,7 +55,7 @@ __Ayaneo Retro Mini PC AM01 Specification__
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -81,18 +81,18 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[New] Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-the-essentials-in-zooming-for-youtube-broadcasts/"><u>[New] From Novice to Pro The Essentials in Zooming for YouTube Broadcasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-tutorial-on-designing-dynamic-facebook-slides/"><u>[New] In 2024, The Ultimate Tutorial on Designing Dynamic Facebook Slides</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-changes-in-sony-bdp-s670/"><u>[New] Unveiling Changes in Sony BDP-S670</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-deleting-facebook-stories-laptop-and-mobile-guide/"><u>[Updated] In 2024, Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-zoom-utilization-for-team-conferencing-on-msteams/"><u>2024 Approved Advanced Zoom Utilization for Team Conferencing on MSTEAMS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-apply-stunning-radial-blur-to-enhance-digital-images/"><u>2024 Approved Apply Stunning Radial Blur to Enhance Digital Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-top-5-cinematiccamera-tips/"><u>2024 Approved Top 5 Cinematic/Camera Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/all-in-one-safety-solution-unveiling-the-arlo-video-doorbell-experience/"><u>All-in-One Safety Solution: Unveiling the Arlo Video Doorbell Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/channel-charisma-standing-out-with-strategic-telegram-promotion-for-2024/"><u>Channel Charisma Standing Out with Strategic Telegram Promotion for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/create-memes-with-kapwing-magic-tool/"><u>Create Memes with Kapwing Magic Tool</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/duel-of-the-decade-gopro-hero5-black-takes-on-hero4-silver/"><u>Duel of the Decade GoPro Hero5 Black Takes on Hero4 Silver</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/edu-stream-100-cutting-edge-learning-yt-for-2024/"><u>Edu-Stream 100 Cutting-Edge Learning YT for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-techniques-in-xbox-gaming-recording-setup/"><u>[New] 2024 Approved Advanced Techniques in Xbox Gaming Recording Setup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-crafting-a-successful-vimeo-earning-model-a-comprehensive-guide/"><u>[New] 2024 Approved Crafting a Successful Vimeo Earning Model – A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>[New] Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-to-maximizing-your-youtube-brands-impact/"><u>[New] In 2024, Step-by-Step Guide to Maximizing Your YouTube Brand's Impact</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-charge-forward-the-best-inspiration-movies/"><u>2024 Approved Charge Forward The Best Inspiration Movies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-skype-chats-an-obs-guide-for-2024/"><u>Capturing Skype Chats An OBS Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-your-digital-dialogue-the-leading-web-based-text-to-speech-apps/"><u>Enhance Your Digital Dialogue The Leading Web-Based Text-to-Speech Apps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/fix-and-improve-performance-steps-to-take-if-your-graphics-unit-stops-functioning-expert-advice-from-yl-computing/"><u>Fix and Improve Performance: Steps to Take If Your Graphics Unit Stops Functioning – Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-fine-details-focused-discussions-zoom-tips-for-teams/"><u>In 2024, Fine Details, Focused Discussions Zoom Tips for Teams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-note-13-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi Note 13 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-video-editing-on-vita-in-depth-analysis-2024/"><u>Mastering the Art of Video Editing on Vita In-Depth Analysis, 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/spielen-sie-wii-und-wii-u-konsolen-von-kann-man-dvds-ab-die-aktuellen-methoden-fur-2023-erklart/"><u>Spielen Sie Wii Und Wii-U Konsolen Von Kann Man DVDs Ab - Die Aktuellen Methoden Für 2023 Erklärt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-sql-learning-programs-expert-review-of-leading-e-learning-platforms-zdnet/"><u>Top-Ranked SQL Learning Programs: Expert Review of Leading E-Learning Platforms - ZDNet</u></a></li>
 </ul></div>
 
