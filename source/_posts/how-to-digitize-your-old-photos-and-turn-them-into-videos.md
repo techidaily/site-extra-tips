@@ -1,7 +1,7 @@
 ---
 title: "How to Digitize Your Old Photos and Turn Them Into Videos"
-date: 2025-01-20T16:46:40.039Z
-updated: 2025-01-26T18:13:36.124Z
+date: 2025-02-07T05:38:38.183Z
+updated: 2025-02-08T09:02:12.137Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,10 @@ Some popular photo scanners that you can consider using are Scanner Pro, PhotoSc
 
 ![Photo Scanner App](https://images.wondershare.com/filmora/article-images/photo-scanner-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\. Get in Touch with a Professional
 
 In case you have a lot of pictures that you wish to scan and little time, then you can also get in touch with some professionals. There are tons of photo digitization services that you can explore in almost every major city to get dedicated assistance.
@@ -78,6 +82,10 @@ To convert your old photos into stunning videos, you can take the assistance of 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To learn how to come up with an impressive video collage using Filmora, just follow these steps:
 
 #### 1\.  Import your digitized photos
@@ -85,10 +93,6 @@ To learn how to come up with an impressive video collage using Filmora, just fol
 To start with, you can just launch Filmora on your system and import your photos to the application. Simply click on the “Import” button from the toolbar to insert selective pictures or an entire folder. This will open a browser window, letting you locate and load the photos of your choice.
 
 ![import Digitized Photos](https://images.wondershare.com/filmora/article-images/import-digitized-photos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. Create a timeline for your photos
 
@@ -102,6 +106,10 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -110,16 +118,12 @@ As stated above, you can find a wide range of video editing options to explore i
 
 ![Add Effects to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-effects-to-old-photo-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To add text to your videos, just go to the “Titles” option here. This will let you select a text effect, letting you add the content of your choice.
 
 ![Add Title to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-title-old-photo-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Besides that, you can also add a track to the video by visiting the “Audio” feature. Here, you will get access to tons to royalty-free audio tracks. Furthermore, you can also import any other audio track or click on the microphone icon (at the bottom of the preview panel) to record a voiceover for the video.
@@ -131,10 +135,6 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
@@ -166,13 +166,13 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -189,22 +189,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-understanding-du-recorder-through-this-guide/"><u>[New] Understanding Du Recorder Through This Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-co-marketing-brands-and-youtubes-dynamic-duo/"><u>[Updated] Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-aerial-capture-face-off-dji-mavic-2-vs-hero6-black/"><u>2024 Approved Aerial Capture Face-Off DJi Mavic 2 vs Hero6 Black</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide-for-2024/"><u>Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/collecting-classics-copyrights-released/"><u>Collecting Classics Copyrights Released</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/como-generar-una-copia-de-seguridad-de-tu-pc-usando-la-funcion-de-imagen-del-sistema-en-windows-similar-problem-for-the-united-states-audience/"><u>Cómo Generar Una Copia De Seguridad De Tu PC Usando La Función De Imagen Del Sistema en Windows # Similar Problem for the United States Audience:</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/copyright-free-audio-treasury-for-gamers-online-for-2024/"><u>Copyright-Free Audio Treasury for Gamers Online for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-ways-to-repair-a-broken-sennheiser-game-one-gaming-headset-microphone/"><u>Effective Ways to Repair a Broken Sennheiser Game One Gaming Headset Microphone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/from-snap-to-stunning-photo-editing-secrets/"><u>From Snap to Stunning Photo Editing Secrets</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-13-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 13 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/master-the-art-of-visuals-on-tiktok-with-smart-background-choices-for-2024/"><u>Master the Art of Visuals on TikTok with Smart Background Choices for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/meditative-harmony-the-top-10-legally-accessible-chants-and-tracks-for-2024/"><u>Meditative Harmony – The Top 10 Legally Accessible Chants & Tracks for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mosaicmind-pro-unleashing-creative-potential/"><u>MosaicMind Pro Unleashing Creative Potential</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/nostalgic-shots-iphone-x-retro-photo-session/"><u>Nostalgic Shots IPhone X Retro Photo Session</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-xr-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone XR Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-display-settings-in-windows-operations/"><u>Troubleshooting Display Settings in Windows Operations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yuneec-typhoon-h-examined-a-drone-review-perspective/"><u>Yuneec Typhoon H Examined A Drone Review Perspective</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-quick-and-simple-thumbs-up-for-your-youtube-shorts/"><u>[New] In 2024, Quick & Simple Thumbs Up for Your YouTube Shorts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comedy-gold-examining-the-goofy-vhs-experience/"><u>[Updated] 'Comedy Gold' Examining the Goofy VHS Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-10-best-alternatives-to-vimeo-cameo-video-editor-for-2024/"><u>[Updated] 10 Best Alternatives to Vimeo Cameo Video Editor for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-comparative-review-sns-hdr-pro-and-other-editors/"><u>[Updated] A Comparative Review SNS HDR Pro and Other Editors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-illuminating-images-techniques-in-color-science/"><u>[Updated] Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-assessment-of-kooteks-multipurpose-computer-cooler/"><u>Comprehensive Assessment of Kootek's Multipurpose Computer Cooler</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-down-the-wait-quick-time-lapse-on-iphone/"><u>Cutting Down the Wait Quick Time-Lapse on iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-iphone-photography-leading-tools-for-object-cutting/"><u>Enhancing iPhone Photography Leading Tools for Object Cutting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cloud-storage-for-your-clippings-free-tiers-and-paid-plans-explored/"><u>In 2024, Cloud Storage for Your Clippings Free Tiers & Paid Plans Explored</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi K70</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/master-audio-recording-the-micless-methodology/"><u>Master Audio Recording The Micless Methodology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterpiece-on-your-screen-iphones-free-photoshop-alternatives/"><u>Masterpiece on Your Screen – iPhone’s Free Photoshop Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/on-the-move-picture-and-video-tuning-tips-for-2024/"><u>On-The-Move Picture & Video Tuning Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixels-of-peaceful-tales-video-critique/"><u>Pixels of Peaceful Tales Video Critique</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-sets-ipads-apart-in-the-wide-world-of-tablets/"><u>What Sets iPads Apart in the Wide World of Tablets?</u></a></li>
 </ul></div>
 

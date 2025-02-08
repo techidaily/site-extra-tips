@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Strategies for Captivating Close-Up Cinematography\""
-date: 2025-01-04T19:16:52.650Z
-updated: 2025-01-08T06:11:17.748Z
+date: 2025-02-02T19:45:47.410Z
+updated: 2025-02-08T05:53:18.433Z
 tags: 
   - screen-recording
   - ai video
@@ -64,15 +64,15 @@ Try to get great visual perspectives or angles by bracing the camera on the tree
 
 ![Tripod](https://images.wondershare.com/filmora/article-images/oconnor-ultimate-1030d-fluid-head-30l-cf-tripod.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Background
 
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
 
@@ -85,7 +85,7 @@ You may also add an extension tube which basically splits the focal distance in 
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 5\. Depth of Field
@@ -99,7 +99,7 @@ But, you must remember that when the opening of the lens is small, the light req
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 6\. Composition
@@ -111,7 +111,11 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -119,10 +123,6 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -139,16 +139,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>[Updated] 2024 Approved The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinema-coloring-mastery-through-central-luts-application/"><u>[Updated] Cinema Coloring Mastery Through Central Luts Application</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-audience-centric-strategies-for-top-facebook-listings/"><u>2024 Approved Audience-Centric Strategies for Top Facebook Listings</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/5-myths-about-language-learning-you-should-definitely-learn-about/"><u>5 Myths About Language Learning You Should Definitely Learn About</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2209040-9780007348534-an-angel-held-my-hand/"><u>An Angel Held My Hand | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/aws-amplifies-market-presence-with-new-initiatives-unveiled-at-reinvent-2021-insights-from-zdnet/"><u>AWS Amplifies Market Presence with New Initiatives Unveiled at Re:Invent 2021 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-asus-webcam-black-screen-windows-11-issue/"><u>Fix ASUS Webcam Black Screen Windows 11 Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/glide-and-glory-short-track-highlights-from-22/"><u>Glide and Glory Short Track Highlights From '22</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-gionee-f3-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Gionee F3 Pro Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-android-lightroom-a-complete-and-detailed-review/"><u>[New] Android Lightroom A Complete and Detailed Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensible-appraisal-gopro-slr4-silver-feature-report/"><u>[Updated] Comprehensible Appraisal GoPro SLR4 Silver Feature Report</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ceptional-game-starting-tutorials-from-youtube-pros-freepremium/"><u>12 Exceptional Game-Starting Tutorials From YouTube Pros (Free/Premium)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>2024 Approved 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elite-anonymity-in-story-consumption-top-5-apps/"><u>2024 Approved Elite Anonymity in Story Consumption, Top 5 Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-notch-resources-for-downloading-desired-youtube-tones/"><u>2024 Approved Top-Notch Resources for Downloading Desired Youtube Tones</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-4-not-initializing-step-by-step-pc-optimization-techniques/"><u>Battlefield 4 Not Initializing: Step-by-Step PC Optimization Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-editing-advanced-strategies-for-using-the-background-erase-feature/"><u>Cutting Edge Editing Advanced Strategies for Using the Background Erase Feature</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/generate-laughter-kapwings-meme-creator/"><u>Generate Laughter Kapwing's Meme Creator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>In 2024, 20 Mindfulness Tracks Legal and Copyright-Free Downloads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>In 2024, Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-mac-audio-quality-in-mixer-streaming/"><u>Maximizing Mac Audio Quality in Mixer Streaming</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nubia-z50s-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nubia Z50S Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-next-gen-cinema-through-vr/"><u>Unveiling the Next Gen Cinema Through VR</u></a></li>
 </ul></div>
 

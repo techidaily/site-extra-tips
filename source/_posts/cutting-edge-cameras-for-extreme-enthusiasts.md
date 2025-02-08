@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Cameras for Extreme Enthusiasts\""
-date: 2024-07-27T10:10:13.273Z
-updated: 2024-07-28T10:10:13.273Z
+date: 2025-02-06T08:26:04.684Z
+updated: 2025-02-08T14:20:41.444Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f66305bee95e2c8cfda71737bc488d60f6c275330
 
 If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to look for while buying a wearable action camera
 
 Now you must be well aware of the fact that a wearable camera can help you enjoy your lifestyle in unique way and it can record everything for you on the go. But if you are new to camera world and are confused while making decision after watching so many competitive brands then it is good to make a list about what you must look for while buying an action camera. Below are few important features that your camera must have:
@@ -39,9 +43,6 @@ Now you must be well aware of the fact that a wearable camera can help you enjoy
 
 [Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Top 10 Best Wearable Action Cameras 2017
 
 Most of adventure lovers prefer to carry a camera with them so that everything can be recorded during outdoor activities. If you are also searching for a wearable camera then there are lots of options available in market out of which you can pick anyone as per your budget and need.
@@ -79,167 +80,20 @@ With 3 axis type optical stabilization, built in GPS, waterproof casing and live
 
 ![Elmo QBIC MS-1](https://images.wondershare.com/filmora/article-images/elmo-qbic-ms-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here is a water resistant type wide angle camera unit that can be easily paired up with smart phones using Wi-Fi interface. It is a light weight device that offers 1080p video recording along with 5MP picture clarity and you can store huge data with its 64GB microSD card support. This camera offers wide angle view of 185 degrees and you can easily upload your footage to internet via live SD streaming feature.
 
 #### 4\. Drift Compass - $129.99
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
 
 With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
 
 #### 5\. Sony FDR-1000V - $399.99
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Sony FDR-1000V](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
-
-Sony offers a versatile, rugged and splash resistant camcorder for action lovers so that they can capture all moments while trekking or diving. It comes with Wi-Fi connectivity and your phone can serve like live remote for this device. This camera provides 33’ underwater casing and high quality adhesive mounts so that users can easily wear it on vehicle, bike, helmet, boat or even on your pet.
-
-#### 6\. Qlippie Q1 - $199
-
-![Qlippie Q1](https://images.wondershare.com/filmora/article-images/qlippie-q1.jpg)
-
-This slim and compact camera is capable enough to serve users with 60fps at 1080p and for stills it can go up to 8MP. The internal flash memory of Qlippie is 32GB and with its aluminium clip it can be easily attached to bag, purse or cloths for live recording. In order to reflect your personal style, this camera comes with 14 colourful stickers whereas WiFi connectivity allows easy interfacing with smart phone for remote control and wireless monitoring.
-
-#### 7\. Polaroid Cube+ - $99.99
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Polaroid Cube+](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
-
-Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic body allows users to attach this device anywhere on metallic surface. As size of original Cube and Cube+ is almost equal so you can use same mounting accessories with both of these. Its rubberized body is impact resistant, splashproof and the 64GB capacity of microSD card allows huge storage for your long trips.
-
-#### 8\. Panasonic HX-A1 - $199
-
-![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
-
-Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
-
-#### 9\. Narrative Clip - $199
-
-![Narrative Clip](https://images.wondershare.com/filmora/article-images/Narrative-Clip-2.jpg)
-
-The Clip 2 is one of the ultra compact and portable camera units with very light weight and attractive design. This digital camera cannot shoot videos for you but in order to capture stills it makes awesome focus adjustments. The built in accelerometer of this camera helps action lovers to capture flipping photos with awesome clarity.
-
-#### 10\. HTC RE Camera - $129
-
-![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
-
-It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## What to look for while buying a wearable action camera
-
-Now you must be well aware of the fact that a wearable camera can help you enjoy your lifestyle in unique way and it can record everything for you on the go. But if you are new to camera world and are confused while making decision after watching so many competitive brands then it is good to make a list about what you must look for while buying an action camera. Below are few important features that your camera must have:
-
-1. **Photo and Video Quality:** First of all you must compare the photo as well as video quality of your camera so that it can create high resolution end results and your videos can be YouTube ready right after recording.
-2. **Camera weight, size and shape:** Bullet shaped cameras are considered to be best if you want something to mount on your helmet whereas for chest mounting needs you must go ahead with box shaped cameras. A heavy camera unit will not fulfil your recording needs while biking or surfing so prefer to buy lightweight one with a small size.
-3. **Streaming and Connectivity:** It must be equipped with Wi-Fi and Bluetooth connectivity options so that you can easily share, stream and view your collections on other devices. It also helps to operate your camera from remote locations via phone. Prefer to buy a camera that allows direct synchronization with websites for live streaming.
-4. **Storage Capacity:** Of course it must be higher, usually wearable action cameras can have microSD card capacity somewhere between 4GB to 120GB so you can make decision accordingly. Prefer to carry additional cards on your long tours.
-
-[Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
-
-## Top 10 Best Wearable Action Cameras 2017
-
-Most of adventure lovers prefer to carry a camera with them so that everything can be recorded during outdoor activities. If you are also searching for a wearable camera then there are lots of options available in market out of which you can pick anyone as per your budget and need.
-
-| Product                              | Price   | Nation | Weight | Battery | Waterproof           | Shockproof and Freezeproof | Image        | Video  | WIFI and App |   |   |
-| ------------------------------------ | ------- | ------ | ------ | ------- | -------------------- | -------------------------- | ------------ | ------ | ------------ | - | - |
-| [Hero5 Session](#hero5session)       | $299    | US     | 73g    | 1000mAh | 10m without housing  | na                         | na           | 10MP   | 4k/30fps     | Y | Y |
-| [Garmin Virb Ultra 30](#virbultra30) | $399.99 | US     | 84g    | 1250mAh | 40m with housing     | na                         | na           | 12MP   | 4k/30fps     | Y | N |
-| [Elmo QBIC MS-1](#elmo)              | $259.99 | JP     | 96g    | 1000mAh | Y                    | N                          | 0 - 40°C     | 5MP    | 1080p/60fps  | Y | Y |
-| [Drift Compass](#driftcompass)       | $129.99 | UK     | 34g    | 750mAh  | N                    | N                          | N            | 8MP    | 1080p/30fps  | Y | Y |
-| [Sony FDR-X1000V](#sonyfdrx1000)     | $399.99 | JP     | 114g   | 1240mAh | 10m with housing     | Y                          | \-10 to 85°C | 12MP   | 4K/30fps     | Y | Y |
-| [Qlippie Q1](#qlippie)              | $199    | CN     | 40g    | 1000mAh | 15m without housing  | N                          | 0 to 40°C    | 8MP    | 1080p/60fps  | Y | Y |
-| [Polaroid Cube+](#polaroidcube)      | $99.99  | US     | 60g    | 600mAh  | 10m with housing     | Y                          | N            | 8MP    | 1440p/30fps  | Y | Y |
-| [Panasonic HX-A1](#panasonic)        | $199    | JP     | 45g    | 480mAh  | 1.5m without housing | 1.5m                       | \-10°C       | 2.66MP | 1080p/30fps  | Y | Y |
-| [Narrative Clip 2](#narrative)       | $199    | SE     | 19g    | 315mAh  | N                    | na                         | na           | 8MP    | N            | Y | Y |
-| [HTC RE Camera](#htcre)              | $129    | CN     | 66.5g  | 820mAh  | 1m without housing   | N                          | N            | 16MP   | 1080p/30fps  | Y | Y |
-
-#### 1\. GoPro Hero5 Session - $299
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![GoPro Hero5 Session](https://images.wondershare.com/filmora/article-images/gopro-hero-5-session.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01LZTLCFX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZTLCFX&linkId=ea1830f57bf7ee4f930b77258f8b3654)
-
-This small attractive camera unit can capture amazing videos and photos for you. It is portable, waterproof, rugged and can assist you even in toughest situations. The best part is that you can easily mount it on any existing GoPro mount without spending on a new set of accessories. It can record videos with 4K resolution at 30fps but do not have GPS facility. The photo quality goes up to 10MP and the price range is also reasonable.
-
-#### 2\. Garmin Virb Ultra 30 - $399.99
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
-![Garmin Virb Ultra 30](https://images.wondershare.com/filmora/article-images/garmin-virb-ultra-30-design.jpg)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8)
-
-With 3 axis type optical stabilization, built in GPS, waterproof casing and live streaming capabilities, this camera is rated to be one of the favourite stuff for athletes. You can control its most of functions via voice control commands and it provides 4K resolution for video recording. In case of 1080p resolution at 30fps you will be able to get a battery backup of 2 hours 15 minutes. Professionals say that it is a pretty robust camera for capturing high octane scenes.
-
-#### 3\. Elmo QBIC MS-1 - $259.99
-
-![Elmo QBIC MS-1](https://images.wondershare.com/filmora/article-images/elmo-qbic-ms-1.jpg)
-
-Here is a water resistant type wide angle camera unit that can be easily paired up with smart phones using Wi-Fi interface. It is a light weight device that offers 1080p video recording along with 5MP picture clarity and you can store huge data with its 64GB microSD card support. This camera offers wide angle view of 185 degrees and you can easily upload your footage to internet via live SD streaming feature.
-
-#### 4\. Drift Compass - $129.99
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
-
-With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
-
-#### 5\. Sony FDR-1000V - $399.99
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sony FDR-1000V](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
@@ -274,10 +128,11 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 
 #### 10\. HTC RE Camera - $129
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
@@ -295,18 +150,6 @@ Follow @Max Wales
 
 If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to look for while buying a wearable action camera
 
 Now you must be well aware of the fact that a wearable camera can help you enjoy your lifestyle in unique way and it can record everything for you on the go. But if you are new to camera world and are confused while making decision after watching so many competitive brands then it is good to make a list about what you must look for while buying an action camera. Below are few important features that your camera must have:
@@ -317,6 +160,10 @@ Now you must be well aware of the fact that a wearable camera can help you enjoy
 4. **Storage Capacity:** Of course it must be higher, usually wearable action cameras can have microSD card capacity somewhere between 4GB to 120GB so you can make decision accordingly. Prefer to carry additional cards on your long tours.
 
 [Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 10 Best Wearable Action Cameras 2017
 
@@ -337,9 +184,6 @@ Most of adventure lovers prefer to carry a camera with them so that everything c
 
 #### 1\. GoPro Hero5 Session - $299
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![GoPro Hero5 Session](https://images.wondershare.com/filmora/article-images/gopro-hero-5-session.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LZTLCFX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZTLCFX&linkId=ea1830f57bf7ee4f930b77258f8b3654)
@@ -362,9 +206,6 @@ Here is a water resistant type wide angle camera unit that can be easily paired 
 
 #### 4\. Drift Compass - $129.99
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
 
 With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
@@ -385,9 +226,6 @@ This slim and compact camera is capable enough to serve users with 60fps at 1080
 
 #### 7\. Polaroid Cube+ - $99.99
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Polaroid Cube+](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
@@ -396,9 +234,6 @@ Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic bod
 
 #### 8\. Panasonic HX-A1 - $199
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
 
 Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
@@ -416,6 +251,10 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -459,9 +298,6 @@ Most of adventure lovers prefer to carry a camera with them so that everything c
 
 #### 1\. GoPro Hero5 Session - $299
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![GoPro Hero5 Session](https://images.wondershare.com/filmora/article-images/gopro-hero-5-session.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LZTLCFX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZTLCFX&linkId=ea1830f57bf7ee4f930b77258f8b3654)
@@ -470,9 +306,6 @@ This small attractive camera unit can capture amazing videos and photos for you.
 
 #### 2\. Garmin Virb Ultra 30 - $399.99
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Garmin Virb Ultra 30](https://images.wondershare.com/filmora/article-images/garmin-virb-ultra-30-design.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8)
@@ -487,18 +320,12 @@ Here is a water resistant type wide angle camera unit that can be easily paired 
 
 #### 4\. Drift Compass - $129.99
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
 
 With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
 
 #### 5\. Sony FDR-1000V - $399.99
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Sony FDR-1000V](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
@@ -507,18 +334,12 @@ Sony offers a versatile, rugged and splash resistant camcorder for action lovers
 
 #### 6\. Qlippie Q1 - $199
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Qlippie Q1](https://images.wondershare.com/filmora/article-images/qlippie-q1.jpg)
 
 This slim and compact camera is capable enough to serve users with 60fps at 1080p and for stills it can go up to 8MP. The internal flash memory of Qlippie is 32GB and with its aluminium clip it can be easily attached to bag, purse or cloths for live recording. In order to reflect your personal style, this camera comes with 14 colourful stickers whereas WiFi connectivity allows easy interfacing with smart phone for remote control and wireless monitoring.
 
 #### 7\. Polaroid Cube+ - $99.99
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Polaroid Cube+](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
@@ -527,9 +348,136 @@ Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic bod
 
 #### 8\. Panasonic HX-A1 - $199
 
+![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
+
+Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
+
+#### 9\. Narrative Clip - $199
+
+![Narrative Clip](https://images.wondershare.com/filmora/article-images/Narrative-Clip-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The Clip 2 is one of the ultra compact and portable camera units with very light weight and attractive design. This digital camera cannot shoot videos for you but in order to capture stills it makes awesome focus adjustments. The built in accelerometer of this camera helps action lovers to capture flipping photos with awesome clarity.
+
+#### 10\. HTC RE Camera - $129
+
+![HTC RE Camera](https://images.wondershare.com/filmora/article-images/htc-re.jpg)
+
+It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+If you are crazy enough to capture all exciting moments of your life but without using your hands for this task then you definitely need to buy a wearable action camera. It allows users to record everything in while keeping their hands free and the best part is that most of these are designed with outstanding qualities like water resistant, shockproof, freeze resistant and many more. Some of these can also be controlled via voice commands or remote applications hence they serve like best tool for athletes, professionals and beginner photographers. The wearable cameras can be clipped to almost all kind of surfaces; you can attach them to helmet, hat, harness, belt, T-shirt and even on your pets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## What to look for while buying a wearable action camera
+
+Now you must be well aware of the fact that a wearable camera can help you enjoy your lifestyle in unique way and it can record everything for you on the go. But if you are new to camera world and are confused while making decision after watching so many competitive brands then it is good to make a list about what you must look for while buying an action camera. Below are few important features that your camera must have:
+
+1. **Photo and Video Quality:** First of all you must compare the photo as well as video quality of your camera so that it can create high resolution end results and your videos can be YouTube ready right after recording.
+2. **Camera weight, size and shape:** Bullet shaped cameras are considered to be best if you want something to mount on your helmet whereas for chest mounting needs you must go ahead with box shaped cameras. A heavy camera unit will not fulfil your recording needs while biking or surfing so prefer to buy lightweight one with a small size.
+3. **Streaming and Connectivity:** It must be equipped with Wi-Fi and Bluetooth connectivity options so that you can easily share, stream and view your collections on other devices. It also helps to operate your camera from remote locations via phone. Prefer to buy a camera that allows direct synchronization with websites for live streaming.
+4. **Storage Capacity:** Of course it must be higher, usually wearable action cameras can have microSD card capacity somewhere between 4GB to 120GB so you can make decision accordingly. Prefer to carry additional cards on your long tours.
+
+[Filmstock Stock Media Library](https://images.wondershare.com/filmora/article-images/filmora-and-filmstock.jpg)](https://filmstock.wondershare.com/creative-theme-sports?spm=rs.filmora%5Fweb&source%5Fchannel=seo%5Farticle)
+
+## Top 10 Best Wearable Action Cameras 2017
+
+Most of adventure lovers prefer to carry a camera with them so that everything can be recorded during outdoor activities. If you are also searching for a wearable camera then there are lots of options available in market out of which you can pick anyone as per your budget and need.
+
+| Product                              | Price   | Nation | Weight | Battery | Waterproof           | Shockproof and Freezeproof | Image        | Video  | WIFI and App |   |   |
+| ------------------------------------ | ------- | ------ | ------ | ------- | -------------------- | -------------------------- | ------------ | ------ | ------------ | - | - |
+| [Hero5 Session](#hero5session)       | $299    | US     | 73g    | 1000mAh | 10m without housing  | na                         | na           | 10MP   | 4k/30fps     | Y | Y |
+| [Garmin Virb Ultra 30](#virbultra30) | $399.99 | US     | 84g    | 1250mAh | 40m with housing     | na                         | na           | 12MP   | 4k/30fps     | Y | N |
+| [Elmo QBIC MS-1](#elmo)              | $259.99 | JP     | 96g    | 1000mAh | Y                    | N                          | 0 - 40°C     | 5MP    | 1080p/60fps  | Y | Y |
+| [Drift Compass](#driftcompass)       | $129.99 | UK     | 34g    | 750mAh  | N                    | N                          | N            | 8MP    | 1080p/30fps  | Y | Y |
+| [Sony FDR-X1000V](#sonyfdrx1000)     | $399.99 | JP     | 114g   | 1240mAh | 10m with housing     | Y                          | \-10 to 85°C | 12MP   | 4K/30fps     | Y | Y |
+| [Qlippie Q1](#qlippie)              | $199    | CN     | 40g    | 1000mAh | 15m without housing  | N                          | 0 to 40°C    | 8MP    | 1080p/60fps  | Y | Y |
+| [Polaroid Cube+](#polaroidcube)      | $99.99  | US     | 60g    | 600mAh  | 10m with housing     | Y                          | N            | 8MP    | 1440p/30fps  | Y | Y |
+| [Panasonic HX-A1](#panasonic)        | $199    | JP     | 45g    | 480mAh  | 1.5m without housing | 1.5m                       | \-10°C       | 2.66MP | 1080p/30fps  | Y | Y |
+| [Narrative Clip 2](#narrative)       | $199    | SE     | 19g    | 315mAh  | N                    | na                         | na           | 8MP    | N            | Y | Y |
+| [HTC RE Camera](#htcre)              | $129    | CN     | 66.5g  | 820mAh  | 1m without housing   | N                          | N            | 16MP   | 1080p/30fps  | Y | Y |
+
+#### 1\. GoPro Hero5 Session - $299
+
+![GoPro Hero5 Session](https://images.wondershare.com/filmora/article-images/gopro-hero-5-session.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01LZTLCFX/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LZTLCFX&linkId=ea1830f57bf7ee4f930b77258f8b3654)
+
+This small attractive camera unit can capture amazing videos and photos for you. It is portable, waterproof, rugged and can assist you even in toughest situations. The best part is that you can easily mount it on any existing GoPro mount without spending on a new set of accessories. It can record videos with 4K resolution at 30fps but do not have GPS facility. The photo quality goes up to 10MP and the price range is also reasonable.
+
+#### 2\. Garmin Virb Ultra 30 - $399.99
+
+![Garmin Virb Ultra 30](https://images.wondershare.com/filmora/article-images/garmin-virb-ultra-30-design.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01HP4PMG0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01HP4PMG0&linkId=2d8e1fcac7b9bbfc3231133dd50646c8)
+
+With 3 axis type optical stabilization, built in GPS, waterproof casing and live streaming capabilities, this camera is rated to be one of the favourite stuff for athletes. You can control its most of functions via voice control commands and it provides 4K resolution for video recording. In case of 1080p resolution at 30fps you will be able to get a battery backup of 2 hours 15 minutes. Professionals say that it is a pretty robust camera for capturing high octane scenes.
+
+#### 3\. Elmo QBIC MS-1 - $259.99
+
+![Elmo QBIC MS-1](https://images.wondershare.com/filmora/article-images/elmo-qbic-ms-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Here is a water resistant type wide angle camera unit that can be easily paired up with smart phones using Wi-Fi interface. It is a light weight device that offers 1080p video recording along with 5MP picture clarity and you can store huge data with its 64GB microSD card support. This camera offers wide angle view of 185 degrees and you can easily upload your footage to internet via live SD streaming feature.
+
+#### 4\. Drift Compass - $129.99
+
+![Drift Compass](https://images.wondershare.com/filmora/article-images/Drift-Compass.jpg)
+
+With this camera you can captures stills at 8MP clarity and videos can be recorded with 1080p at 30fps whereas for 720p you can go ahead with 60fps. You can control complete functioning of camera via mobile device with the help of drift app. It battery can serve you for approximately two hours and it offers huge variety of mounting accessories.
+
+#### 5\. Sony FDR-1000V - $399.99
+
+![Sony FDR-1000V](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00R1COCT0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00R1COCT0&linkId=eb0771cffd16191ae77ad0a5c6df67b1)
+
+Sony offers a versatile, rugged and splash resistant camcorder for action lovers so that they can capture all moments while trekking or diving. It comes with Wi-Fi connectivity and your phone can serve like live remote for this device. This camera provides 33’ underwater casing and high quality adhesive mounts so that users can easily wear it on vehicle, bike, helmet, boat or even on your pet.
+
+#### 6\. Qlippie Q1 - $199
+
+![Qlippie Q1](https://images.wondershare.com/filmora/article-images/qlippie-q1.jpg)
+
+This slim and compact camera is capable enough to serve users with 60fps at 1080p and for stills it can go up to 8MP. The internal flash memory of Qlippie is 32GB and with its aluminium clip it can be easily attached to bag, purse or cloths for live recording. In order to reflect your personal style, this camera comes with 14 colourful stickers whereas WiFi connectivity allows easy interfacing with smart phone for remote control and wireless monitoring.
+
+#### 7\. Polaroid Cube+ - $99.99
+
+![Polaroid Cube+](https://images.wondershare.com/filmora/article-images/polaroid-cube-plus.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e)
+
+Cube+ offers wide angle focus with 124 degree coverage lens and the magnetic body allows users to attach this device anywhere on metallic surface. As size of original Cube and Cube+ is almost equal so you can use same mounting accessories with both of these. Its rubberized body is impact resistant, splashproof and the 64GB capacity of microSD card allows huge storage for your long trips.
+
+#### 8\. Panasonic HX-A1 - $199
+
 ![Panasonic HX-A1](https://images.wondershare.com/filmora/article-images/bullet-shape-action-camera.jpg)
 
 Its maximum weight is only about 1.6 ounce and size goes up to 3.3”. This versatile camera unit can capture videos at 1080p whereas waterproof and quad proof design allows divers to take this camera up to 5’ under water without any additional casing. You can easily mount Panasonic HX-A1 on board, bike and helmet while capturing everything in hands-free motion on the way.
@@ -546,9 +494,6 @@ The Clip 2 is one of the ultra compact and portable camera units with very light
 
 It offers 16MP capabilities for stills along with 1080p at 30fps for videos. You can mount this camera on tripod and its creative shot capturing abilities allows users to go beyond imagination. This device is waterproof with 3.3’ rating and for more advanced controls you can operate it from Bluetooth, WI-Fi connectivity on android and iOS. The mounting accessories are offered by HTC separately as per need of user, you can easily buy them when it is time to be more adventurous with your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -579,7 +524,20 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-elevating-your-contents-presence-perfecting-youtube-thumbnails-size/"><u>[New] In 2024, Elevating Your Content's Presence Perfecting YouTube Thumbnails Size</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-pioneering-apps-for-synching-pictures-and-beats/"><u>[New] In 2024, Pioneering Apps For Synching Pictures & Beats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quick-and-quiet-recording-of-games/"><u>[Updated] 2024 Approved Quick and Quiet Recording of Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-airpods-apart-heres-the-mend/"><u>[Updated] Airpods Apart? Here's the Mend</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/download-c-spans-treasure-trove-of-news/"><u>Download C-Span's Treasure Trove of News</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-troubleshoot-and-solve-bsod-caused-by-machine-check-exceptions-in-win10/"><u>How to Troubleshoot and Solve BSOD Caused by Machine Check Exceptions in Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-protection-myths-debunked-the-absolute-need-for-a-reliable-case-even-without-prior-usage-zdnet-insights/"><u>IPhone # Protection Myths Debunked: The Absolute Need for a Reliable Case Even Without Prior Usage | ZDNET Insights</u></a></li>
+<li><a href="https://win-net.techidaily.com/mastering-pdfs-the-ultimate-tutorial-for-opening-pdf-documents-from-tech-expertise-at-yl-computing/"><u>Mastering PDFs: The Ultimate Tutorial for Opening PDF Documents From Tech Expertise at YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/nows-vr-device-showcase-and-analysis/"><u>Now’s VR Device Showcase & Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028699885-ogg/"><u>OGG形式から別の音楽ファイルへの変換・元の状態復元手法</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/preserve-your-legacy-transforming-older-images-into-modern-videos/"><u>Preserve Your Legacy Transforming Older Images Into Modern Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-warping-images-effectively/"><u>The Art of Warping Images Effectively</u></a></li>
+</ul></div>
 

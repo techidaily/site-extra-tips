@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2025-01-02T20:40:15.609Z
-updated: 2025-01-07T22:41:59.562Z
+date: 2025-02-03T13:32:11.523Z
+updated: 2025-02-08T13:21:52.075Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,16 +60,21 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-new-lens-on-sonys-s6500-bdp-features/"><u>[New] The New Lens on Sony’s S6500 BDP Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-cinematic-close-ups-elevating-your-work-with-kinemaster/"><u>[Updated] Cinematic Close-Ups Elevating Your Work with Kinemaster</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-how-you-can-profit-from-youtube-content/"><u>[Updated] Unveiling How You Can Profit From YouTube Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-8-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 8 without Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-to-resolve-haldll-error-issues-on-windows-11108vista/"><u>Effective Solutions to Resolve hal.dll Error Issues on Windows 11/10/8/Vista</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-take-long-exposure-shots-with-iphone-in-ios-11-or-previous/"><u>How to Take Long Exposure Shots with iPhone in iOS 11 or Previous</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nsiders-list-top-rated-downloading-apps-for-video-buffs-for-2024/"><u>IOS Insider's List Top-Rated Downloading Apps for Video Buffs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/novices-selection-guide-to-ideal-filming-cameras/"><u>Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speedy-solutions-effortless-updating-of-dell-g7-device-drivers/"><u>Speedy Solutions: Effortless Updating of Dell G7 Device Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-data-for-uninterrupted-viewer-experience/"><u>Total Data for Uninterrupted Viewer Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-master-looped-videos-for-maximum-instagram-impact/"><u>[New] Master Looped Videos for Maximum Instagram Impact</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skyrocket-your-periscope-live-transmission-time/"><u>[New] Skyrocket Your Periscope Live Transmission Time</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-aim-for-excellence-prime-iphone-angles-for-professional-shots/"><u>[Updated] Aim for Excellence Prime iPhone Angles for Professional Shots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-immersive-metaverse-adventures-for-group-play-for-2024/"><u>10 Immersive Metaverse Adventures for Group Play for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-2022s-top-figure-skating-performances/"><u>2024 Approved 2022'S Top Figure Skating Performances</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-avoiding-unwanted-shaking-in-dynamic-gopro-footage/"><u>2024 Approved Avoiding Unwanted Shaking in Dynamic GoPro Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-hilarious-side-of-iphones/"><u>2024 Approved The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-your-step-by-step-path-to-a-top-facebook-music-video/"><u>2024 Approved Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/find-the-finest-websites-with-free-game-of-thrones-audio/"><u>Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g34-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G34 5G Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assessment-of-dji-phantom-3-aerial-tech/"><u>In 2024, Assessment of DJI Phantom 3 Aerial Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-movie-capture-pc-mac-and-mobile-techniques/"><u>In 2024, Mastering Movie Capture PC, Mac & Mobile Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-av-creators-digital-edition-list/"><u>Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid-for-2024/"><u>Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/soundtrack-your-storytelling-youtube-music-for-video-content/"><u>Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
 </ul></div>
 

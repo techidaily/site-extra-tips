@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Techniques for Proximity Viewing in Roblox"
-date: 2025-01-24T18:30:42.928Z
-updated: 2025-01-26T16:47:46.691Z
+date: 2025-02-02T05:56:05.944Z
+updated: 2025-02-08T01:49:34.686Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Step1To start playing, you must first sign into Roblox using your browser. Go to
 
 ![login to roblox site](https://images.wondershare.com/filmora/article-images/2022/07/login-to-roblox-site.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2Now, all you have to do to zoom in is hit the 'I' key on your keyboard, which is located between the 'U' and 'O' keys.
 
 Step3If you press or hold this, you'll probably enter first-person perspective, where you can't zoom in any more. If you're already somewhat out of focus, however, you'll first zoom in toward your character before entering first-person view.
@@ -51,7 +55,7 @@ Step1Go to the Roblox website in your favourite web browser by opening it. Start
 ![start testing game session roblox](https://images.wondershare.com/filmora/article-images/2022/07/start-testing-game-session-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2Once your gaming session has begun, you may zoom by using the wheel while moving ahead. Once again, if you scroll all the way down, this action will put you in first person perspective. Now all you have to do is use your cursor to scroll ahead to zoom in.
@@ -79,7 +83,7 @@ Step2Zoom in by pressing forward on the right thumbstick that has been clicked d
 Step3Pull rearward on the clicked-down right thumbstick to zoom out. The same joystick (right) must constantly be pulled rearward to zoom out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 4\. Zoom in/out in Roblox on Tablet
@@ -92,13 +96,13 @@ Step1Open the Roblox app, sign in, and then start a test gaming session. The fir
 
 ![zoom in roblox teblet](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-roblox-teblet.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2To zoom, just use two fingers and slide them apart (for zooming in) or together (for zooming out) like you would to do so on a smartphone (zoom out).
 
 ![zoom roblox with fingers](https://images.wondershare.com/filmora/article-images/2022/07/zoom-roblox-with-fingers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3You will be given the best method using the touchpad: while holding down the right side, move the screen to view your character from the front and from behind!
 
@@ -107,11 +111,7 @@ Step4The camera angle and/or your character will only move if one of your finger
 ![zoom character on roblox](https://images.wondershare.com/filmora/article-images/2022/07/zoom-character-on-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -150,20 +150,20 @@ You may wish to change your viewpoint when playing games on Roblox, the most cut
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-introducing-the-ultimate-intro-edits-app-of-2023/"><u>[New] 2024 Approved Introducing the Ultimate Intro Edits App of 2023</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-complete-price-proposition-the-first-step-in-podcasting/"><u>[New] Complete Price Proposition The First Step in Podcasting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-insta-reversal-unlock-the-power-of-video-rotation/"><u>[New] Insta-Reversal Unlock the Power of Video Rotation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-engaging-lessons-video-editing-skills-for-teachers/"><u>2024 Approved Engaging Lessons Video Editing Skills for Teachers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mastery-over-supplementary-film-sequences-b-roll/"><u>2024 Approved Mastery Over Supplementary Film Sequences (B-Roll)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-world-of-textual-wonder-traverse-these-top-10-sites-featuring-modern-font-designs-for-2024/"><u>A World of Textual Wonder Traverse These Top 10 Sites Featuring Modern Font Designs for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/av1-unveiled-for-the-curious-novice/"><u>AV1 Unveiled For the Curious Novice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-stamina-and-strength-curated-list-of-motivational-music/"><u>Boost Stamina and Strength Curated List of Motivational Music</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/create-logos-via-free-logo-template-customize-and-download-for-free/"><u>Create Logos via Free Logo Template Customize and Download for Free</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-zero-to-hero-in-advertising-top-strategies-unveiled-by-experts/"><u>From Zero to Hero in Advertising Top Strategies Unveiled by Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-ordinary-to-extraordinary-on-tiktok/"><u>Transforming Ordinary to Extraordinary on TikTok</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-ultimate-11-strategies-for-impeccable-color-balancing/"><u>Unveiling the Ultimate 11 Strategies for Impeccable Color Balancing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-a-step-by-step-solution-for-the-coprocessor-driver-not-detected-glitch/"><u>Windows 11: A Step-by-Step Solution for the Coprocessor Driver Not Detected Glitch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-speedy-transformation-from-pixels-to-polished-youtube-thumbnails/"><u>[New] 2024 Approved Speedy Transformation From Pixels to Polished YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-primer-on-selecting-superior-free-srt-translator-platforms/"><u>[Updated] A Primer on Selecting Superior Free SRT Translator Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-closer-than-ever-mastering-video-focus-on-videoleap/"><u>[Updated] Closer Than Ever Mastering Video Focus on Videoleap</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-find-elite-instagram-tones-and-craft-unique-alarm-sounds/"><u>[Updated] How to Find Elite Instagram Tones and Craft Unique Alarm Sounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capturing-the-action-a-twitch-broadcasters-handbook/"><u>[Updated] In 2024, Capturing the Action A Twitch Broadcaster's Handbook</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-tecno-spark-20-proplus-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Tecno Spark 20 Pro+ Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-characters-breathe-life-the-dynamics-of-screenplay-conversations/"><u>2024 Approved Characters Breathe Life The Dynamics of Screenplay Conversations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-frontiers-how-vr-transforms-leisure/"><u>Digital Frontiers How VR Transforms Leisure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-chrome-plugin-failure-to-load-errors-on-windows-10-an-expert-walkthrough/"><u>How To Fix 'Chrome Plugin Failure to Load' Errors On Windows 10: An Expert Walkthrough</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-10-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 10 5G Face Lock?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-stutter-and-collapse-fixing-ready-or-not-pc-issues/"><u>Overcoming Stutter and Collapse: Fixing 'Ready or Not' PC Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premiere-changes-for-images-pictureshift-genius/"><u>Premiere Changes for Images PictureShift Genius</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/srt-simplified-core-concepts-made-clear/"><u>SRT Simplified Core Concepts Made Clear</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content/"><u>The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-creative-potential-with-our-customized-outro-scenes-free-for-2024/"><u>Unlock Creative Potential with Our Customized Outro Scenes (Free!) For 2024</u></a></li>
 </ul></div>
 

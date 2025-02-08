@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Theta S  Complete Technical Review\""
-date: 2025-01-25T17:29:26.396Z
-updated: 2025-01-26T16:30:46.300Z
+date: 2025-02-06T03:59:16.724Z
+updated: 2025-02-07T19:31:23.330Z
 tags: 
   - screen-recording
   - ai video
@@ -37,7 +37,7 @@ Large numbers of people are talking about Ricoh these days so it becomes essenti
 * [Part 4: Should I buy](#part4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1 Complete Review of Ricoh Theta S
@@ -63,7 +63,7 @@ This Theta S camera unit can be easily used by beginners as well as professional
 ![Ricoh Theta S for Party](https://images.wondershare.com/filmora/article-images/ricoh-theta-s-for-party.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This device is ideal to use for gatherings, functions such as weddings, birthday parties and dinner halls as it can capture the colorful events with finest details. You can also attach this camera unit to a drone and let it fly in the air so that everything can be captured in an outstanding way; it will result quality images in all situations.
@@ -79,7 +79,7 @@ The picture quality is simply outstanding and is rated to be much better than al
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2 Pros and Cons at a glance
@@ -94,10 +94,6 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -115,6 +111,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image Resolution**     | 5376 x 2688 (14.5 MP, Other), 2048 x 1024 (2.1 MP, Other) | **Video resolution**  | 1920x1080 (30p) 1280x720 (15p)                                                                                                                                        |
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4 Should I buy Ricoh Theta S
 
 Theta S is one of the most useful products for photography lovers whether they are beginners or professionals. This device allows users to capture stunning shots with 360 degree focus and you can even zoom each and every part of these captured images. With all such amazing facilities, it definitely becomes a must buy product and you can order it online as soon as possible at an affordable price range.
@@ -124,7 +124,7 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -142,16 +142,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-backswing-crafting-bundle/"><u>[New] Backswing Crafting Bundle</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-maximizing-fun-in-the-stardew-ginger-region/"><u>[New] In 2024, Maximizing Fun in the Stardew Ginger Region</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-15-action-cam-footage-editors-for-2024/"><u>[Updated] Best 15 Action Cam Footage Editors for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-30-second-color-fixes-for-aspiring-photo-pros/"><u>2024 Approved 30-Second Color Fixes for Aspiring Photo Pros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-configure-streamlabs-on-your-mac-using-obs/"><u>2024 Approved Configure Streamlabs on Your Mac Using OBS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-completo-sobre-a-extensao-do-arquivo-ogg-tipos-e-solucoes-de-playback/"><u>Guia Completo Sobre a Extensão Do Arquivo Ogg - Tipos E Soluções De Playback</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-nord-3-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus Nord 3 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-perfect-pairing-with-yi-accessory-guide-for-pros/"><u>In 2024, Perfect Pairing with YI Accessory Guide for Pros</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pioneering-portable-vrs-google-cardboard-versus-samsungs-tech/"><u>Pioneering Portable VRs Google Cardboard Versus Samsung's Tech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-your-audio-experience-with-updated-hyperx-device-drivers/"><u>Revamp Your Audio Experience with Updated HyperX Device Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-foremost-17-tools-for-erasing-imagery-borders/"><u>The Foremost 17 Tools for Erasing Imagery Borders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription/"><u>[New] 2024 Approved From Speech to Text A Complete, FREE Workshop on YouTube Transcription</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-the-clouds-advanced-drone-video-techniques/"><u>[New] Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chime-connoisseurs-curated-list-of-download-websites/"><u>[Updated] Chime Connoisseurs Curated List of Download Websites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-polishing-your-tiktok-content-a-guide-to-filters/"><u>2024 Approved Polishing Your TikTok Content A Guide to Filters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chromes-fullscreen-mode-a-complete-guide-to-pip-usage-for-2024/"><u>Chrome's Fullscreen Mode A Complete Guide to PIP Usage for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creative-photo-distortion-strategies/"><u>Creative Photo Distortion Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fall-guys-pc-performance-tips-overcoming-freezing-problems-during-gameplay/"><u>Fall Guys PC Performance Tips: Overcoming Freezing Problems During Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/kostenlose-videokonvertierung-von-mp2-zu-mp4-mit-online-tool-bei-movavi/"><u>Kostenlose Videokonvertierung Von MP2 Zu MP4 Mit Online-Tool Bei Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-guide-how-to-get-your-favorite-love-ballads-instantly/"><u>Seamless Guide: How to Get Your Favorite Love Ballads Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-share-failures-in-geforce-experience/"><u>Steps to Resolve Share Failures in GeForce Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-rise-of-immersive-consumer-spaces/"><u>The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tiktok-unboxers-guide-to-enhanced-video-engagement-and-likes/"><u>TikTok Unboxers Guide to Enhanced Video Engagement and Likes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-13-easy-to-master-revenue-strategies-on-reddit/"><u>Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-honor-magic5-ultimate-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor Magic5 Ultimate Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Contrast and Composition  Theory in Design\""
-date: 2025-01-03T17:09:34.232Z
-updated: 2025-01-08T03:02:33.376Z
+date: 2025-02-02T01:55:56.414Z
+updated: 2025-02-08T09:22:05.361Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -38,21 +38,17 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -63,7 +59,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -72,6 +68,10 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
@@ -79,7 +79,7 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
@@ -118,20 +118,24 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-yts-best-practices-for-choosing-images-that-drive-view-count-updates/"><u>[New] 2024 Approved YT's Best Practices for Choosing Images That Drive View Count Updates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[New] In 2024, How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-2024s-premium-videography-tools-leading-brands-unveiled/"><u>[Updated] 2024’S Premium Videography Tools – Leading Brands Unveiled</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boosting-detail-with-videoleaps-in-camera-zooming/"><u>[Updated] Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-character-choreography-compendiums/"><u>2024 Approved Character Choreography Compendiums</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-devices-at-toms-hardware-hub/"><u>Exploring Cutting-Edge Devices at Tom's Hardware Hub</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-photo-editing-unleashed-android-and-iphones-top-tools-ranked/"><u>Free Photo Editing Unleashed – Android & iPhone's Top Tools Ranked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-selection-8-must-have-image-packs-for-laptops/"><u>Ideal Selection 8 Must-Have Image Packs for Laptops</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-mic-functionality-on-a-windows-10-device/"><u>Restoring Mic Functionality on a Windows 10 Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722971973375-seamlessly-update-your-lenovo-thinkpad-t420-with-the-newest-windows-driver-software-expert-instructions-here/"><u>Seamlessly Update Your Lenovo ThinkPad T420 with the Newest Windows Driver Software - Expert Instructions Here</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-novices-route-to-revenue-in-the-youtube-realm-for-2024/"><u>The Novice's Route to Revenue in the YouTube Realm for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unaltered-audio-through-the-lens-of-ffmpeg-review/"><u>Unaltered Audio Through the Lens of FFmpeg Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[New] Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capturing-contentment-a-practical-guide-to-daily-vlogging/"><u>[New] In 2024, Capturing Contentment A Practical Guide to Daily Vlogging</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-follower-erosion-how-to-spot-it-on-insta/"><u>[New] In 2024, Follower Erosion How to Spot It on Insta</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-become-a-meme-genius-the-best-8-gif-making-methods/"><u>[Updated] 2024 Approved Become a Meme Genius The Best 8 GIF-Making Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-spark-the-flame-top-10-motivational-films-for-you/"><u>[Updated] 2024 Approved Spark the Flame Top 10 Motivational Films for You</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-optimizing-video-speed-on-tiktok-platform/"><u>[Updated] In 2024, Optimizing Video Speed on TikTok Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>2024 Approved Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-complete-overview-of-polarr-photo-editor/"><u>A Complete Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/charting-course-videos-as-catalysts-in-teaching/"><u>Charting Course Videos as Catalysts in Teaching</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/express-creativity-for-free-your-meme-toolbox-awaits/"><u>Express Creativity for Free – Your Meme Toolbox Awaits</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/foremost-dialogue-maker-hub/"><u>Foremost Dialogue Maker Hub</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-chaos-to-clarity-picshot-transforms-photo-collages/"><u>From Chaos to Clarity - Picshot Transforms Photo Collages</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-techniques-for-effective-webp-to-jpeg-change/"><u>In 2024, Leading Techniques for Effective WebP to JPEG Change</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcp-in-the-spotlight-10-big-budget-movies-that-trusted-this-editing-tool/"><u>New FCP in the Spotlight 10 Big-Budget Movies That Trusted This Editing Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reaping-the-benefits-of-hdr-for-professional-videoists/"><u>Reaping the Benefits of HDR for Professional Videoists</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/synchronizing-soundscapes-a-guide-to-multi-service-moves/"><u>Synchronizing Soundscapes A Guide to Multi-Service Moves</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essentials-of-expertly-editing-images-at-home/"><u>The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-rise-of-remote-therapeutic-platforms-for-2024/"><u>The Rise of Remote Therapeutic Platforms for 2024</u></a></li>
 </ul></div>
 

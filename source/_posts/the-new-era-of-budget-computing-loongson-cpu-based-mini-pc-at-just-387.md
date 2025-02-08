@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-01-23T19:51:28.779Z
-updated: 2025-01-26T17:45:38.094Z
+date: 2025-02-07T06:31:14.730Z
+updated: 2025-02-08T06:41:49.250Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,17 +62,15 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-video-wonders-your-must-see-list/"><u>[New] Facebook Video Wonders - Your Must-See List</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-next-level-of-immersion-top-10-vr-gear/"><u>[Updated] 2024 Approved The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cutting-edge-tools-to-make-your-fb-cover-photo-stand-out/"><u>[Updated] In 2024, Cutting-Edge Tools to Make Your FB Cover Photo Stand Out</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>2024 Approved Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>2024 Approved Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dissecting-distinctions-exe-vs-msi-installation-methods/"><u>Dissecting Distinctions: EXE vs MSI Installation Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-edge-40-neo-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/picart-strategies-for-stunning-image-purification/"><u>PicArt Strategies for Stunning Image Purification</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/superior-websites-promoting-youtube-media/"><u>Superior Websites Promoting YouTube Media</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/what-videos-can-i-upload-to-google-drive-understanding-format-compatibility/"><u>What Videos Can I Upload to Google Drive? Understanding Format Compatibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>[New] Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-android-guide-enhance-your-video/"><u>[New] Android Guide Enhance Your Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-combination-discover-5-advanced-webcams-for-clear-sound/"><u>[New] In 2024, Ultimate Combination Discover 5 Advanced Webcams for Clear Sound</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac/"><u>[New] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>[Updated] Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-cream-of-the-crop-podcasts/"><u>2024 Approved Android's Cream of the Crop Podcasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y28-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y28 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-c51-phone-by-drfone-android/"><u>How to Reset a Locked Realme C51 Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-error-code-39-on-your-dvd-or-cd-rom-a-comprehensive-guide-to-restoring-functionality/"><u>Quick Solutions for Error Code 39 on Your DVD or CD ROM: A Comprehensive Guide to Restoring Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-20-youtube-bards-for-unforgettable-tales/"><u>Top 20 YouTube Bards for Unforgettable Tales</u></a></li>
 </ul></div>
 
