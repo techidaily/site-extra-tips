@@ -1,7 +1,7 @@
 ---
 title: "Mastering High Dynamic Range with Image Curving"
-date: 2025-02-04T10:56:09.387Z
-updated: 2025-02-08T13:02:49.810Z
+date: 2025-02-17T00:19:12.082Z
+updated: 2025-02-17T20:11:23.894Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -41,7 +45,7 @@ Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking 
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
@@ -55,7 +59,7 @@ Play around with the settings in the options bar. There are quite a few differen
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
@@ -63,16 +67,12 @@ Play around with the settings in the options bar. There are quite a few differen
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
@@ -85,7 +85,7 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -122,20 +122,19 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-insiders-guide-to-professional-gif-creation/"><u>[New] 2024 Approved The Insider's Guide to Professional GIF Creation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-content-that-captivates-for-virality-on-ig/"><u>[New] Crafting Content that Captivates for Virality on IG</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-android-screenshots-made-simple-top-8-free-applications-revealed/"><u>[Updated] In 2024, Android Screenshots Made Simple – Top 8 Free Applications Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beating-the-heat-substitutes-for-xsplit/"><u>2024 Approved Beating the Heat Substitutes for XSplit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-memes-for-comedy-using-adobe/"><u>2024 Approved Craft Memes for Comedy Using Adobe</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-info.techidaily.com/fast-download-pfade-entdecken-pc-und-mobilgerate/"><u>Fast Download Pfade Entdecken - PC Und Mobilgeräte</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-harmonic-transition-blends/"><u>In 2024, Achieving Harmonic Transition Blends</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-ce-3-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord CE 3 Lite 5G Phone FRP Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leveraging-ios-11-for-professional-level-iphone-shots/"><u>Leveraging iOS 11 for Professional-Level iPhone Shots</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avi-video-rotation-made-easy-top-5-free-solutions/"><u>New In 2024, AVI Video Rotation Made Easy Top 5 Free Solutions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/synthesizing-a-look-at-magix-creative-suite/"><u>Synthesizing a Look at MAGIX Creative Suite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-hidden-accessing-youtube-video-comments/"><u>Unveiling the Hidden Accessing YouTube Video Comments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-power-of-picture-in-picture-on-apple-devices/"><u>Unveiling the Power of Picture-in-Picture on Apple Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/xsplit-compendium-in-depth-gaming-analysis/"><u>XSplit Compendium In-Depth Gaming Analysis</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-top-5-low-weight-action-recorders-list/"><u>[Updated] 2024 Approved Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerating-aesthetic-crafting-instant-collage-for-fb-shares/"><u>Accelerating Aesthetic Crafting Instant Collage for FB Shares</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/canva-expertise-10-sneak-peek-tips-for-photo-editors-for-2024/"><u>Canva Expertise 10 Sneak Peek Tips for Photo Editors for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crossfade-mastery-in-professional-mixing-logic-pro-x-edition/"><u>Crossfade Mastery in Professional Mixing - Logic Pro X Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easy-steps-for-srt-files-into-xml-ssa-ttml/"><u>Easy Steps for SRT Files Into XML, SSA, TTML</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/melodic-alerts-downloading-and-altering-tamil-tunes-for-2024/"><u>Melodic Alerts Downloading and Altering Tamil Tunes for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/optimal-selection-strategies-for-sony-xperia-mobile-compatibility-software/"><u>Optimal Selection Strategies for Sony Xperia Mobile Compatibility Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-connectivity-hurdles-reviving-your-runmus-mic-during-gameplay/"><u>Overcoming Connectivity Hurdles: Reviving Your Runmus Mic During Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-process-for-building-quality-srt-files/"><u>Step-by-Step Process for Building Quality SRT Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-drafting-alluring-vlog-show-content/"><u>The Art of Drafting Alluring Vlog Show Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsticking-destiny-2-steps-for-successful-game-initialization/"><u>Unsticking Destiny 2: Steps for Successful Game Initialization</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-digital-footprint-the-impact-of-off-facebook-history/"><u>Your Digital Footprint The Impact of Off-Facebook History</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnet-explores-not-upgrading-to-iphone-16-pro-understanding-my-rational-choice-over-iphone-14/"><u>ZDNet Explores: Not Upgrading to iPhone 16 Pro – Understanding My Rational Choice Over iPhone 14</u></a></li>
 </ul></div>
 

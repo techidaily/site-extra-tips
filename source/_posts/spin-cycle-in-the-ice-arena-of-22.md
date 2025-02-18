@@ -1,7 +1,7 @@
 ---
 title: "Spin Cycle in the Ice Arena of '22"
-date: 2025-02-05T22:41:49.262Z
-updated: 2025-02-07T17:15:29.005Z
+date: 2025-02-12T21:07:56.467Z
+updated: 2025-02-18T07:52:08.932Z
 tags: 
   - screen-recording
   - ai video
@@ -34,12 +34,16 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
@@ -50,27 +54,23 @@ Nathan Chen successful triumph has been four years in the making and it is a per
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -98,15 +98,15 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,20 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-smartphones-with-ois-for-shooting-smooth-videos/"><u>[New] Best Smartphones with OIS for Shooting Smooth Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capture-curiosity-with-these-6-video-categories/"><u>[Updated] Capture Curiosity with These 6 Video Categories</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comparing-cloud-space-charges-methods-and-results/"><u>[Updated] Comparing Cloud Space Charges Methods and Results</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-into-the-blueprint-cutting-edge-techniques-for-drones/"><u>2024 Approved Into the Blueprint Cutting-Edge Techniques for Drones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerating-video-success-on-youtube-for-100kplus-views-for-2024/"><u>Accelerating Video Success on YouTube for 100K+ Views for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-ultimate-guide-to-photo-editors-is-pickup-a-contender-in-2024/"><u>Android’s Ultimate Guide to Photo Editors Is PickUp a Contender, In 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-iphone-driver-for-windows-11-successfully/"><u>How to Download and Install iPhone Driver for Windows 11 Successfully</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/how-to-use-video-titles-and-youtube-tags-for-more-views-for-2024/"><u>How to Use Video Titles and YouTube Tags for More Views for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-kickstart-a-successful-charity-contest-via-social-media/"><u>In 2024, Kickstart a Successful Charity Contest via Social Media</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/key-5-photo-editing-tools-iphone-x78-background-swap/"><u>Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-note-30-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionize-your-podcast-reach-with-smart-seo/"><u>Revolutionize Your Podcast Reach with Smart SEO</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-worth-of-sns-hdr-an-in-depth-comparison-study/"><u>The Worth of SNS HDR An In-Depth Comparison Study</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/xbox-one-users-guide-effective-techniques-for-screenshotting-gameplay/"><u>Xbox One User's Guide: Effective Techniques for Screenshotting Gameplay</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-canva-meme-generator/"><u>[New] Canva Meme Generator</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-meme-ology-the-science-of-popularizing-video-laughs-on-social-platforms/"><u>[New] Meme-Ology The Science of Popularizing Video Laughs on Social Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-essential-facts-about-choosing-youtube-premium-for-2024/"><u>[New] The Essential Facts About Choosing YouTube Premium for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-tech-game-master-the-craft-of-screen-recordings-in-macos/"><u>[Updated] 2024 Approved Elevate Your Tech Game Master the Craft of Screen Recordings in macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brand-storytelling-through-the-eyes-of-customer-voices/"><u>[Updated] Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-byte-to-gb-a-days-long-film-storage-needs/"><u>[Updated] Byte-to-GB A Day's Long Film Storage Needs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-transform-your-video-footage-with-advanced-screen-recording-tech/"><u>2024 Approved Transform Your Video Footage with Advanced Screen Recording Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/big-sur-basics-system-and-hardware-checklist-for-2024/"><u>Big Sur Basics System & Hardware Checklist for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bridging-the-gap-between-human-perception-and-photographic-capture-for-2024/"><u>Bridging the Gap Between Human Perception and Photographic Capture for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guide-pour-la-restitution-de-fichiers-bpn-jadis-detruits-apprenez-a-les-recuperer/"><u>Guide Pour La Restitution De Fichiers BPN Jadis Détruits - Apprenez À Les Récupérer!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premium-webcast-systems-and-applications/"><u>In 2024, Premium Webcast Systems & Applications</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>In 2024, SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-science-of-video-sizing-by-imovie/"><u>The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-connectivity-handbook-for-insta-and-tik/"><u>The Ultimate Connectivity Handbook for Insta & Tik</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-macos-safari-video-conversion-apps/"><u>Top 5 macOS Safari Video Conversion Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solve-airpods-continuous-connection-issues-with-your-iphone/"><u>Ultimate Guide: Solve AirPods Continuous Connection Issues with Your iPhone</u></a></li>
 </ul></div>
 

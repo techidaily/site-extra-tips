@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2025-02-04T05:12:47.531Z
-updated: 2025-02-07T23:14:16.838Z
+date: 2025-02-14T22:14:31.004Z
+updated: 2025-02-17T17:59:09.259Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -54,7 +54,7 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
@@ -78,21 +78,22 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-audio-recipe-converting-insta-vids-to-mp3-for-2024/"><u>[New] Audio Recipe Converting Insta Vids to Mp3 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-guide-to-instagram-influence-5-strategies-with-examples-for-2024/"><u>[New] The Ultimate Guide to Instagram Influence 5 Strategies with Examples for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-all-about-it-understanding-googles-podcast-service/"><u>[Updated] All About It Understanding Google's Podcast Service</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-basic-equipment-for-travel-video-creators/"><u>2024 Approved Basic Equipment for Travel Video Creators</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-watch-series-x-unveiled-anticipated-costs-launch-timeline-and-features-whats-next/"><u>Apple Watch Series X Unveiled: Anticipated Costs, Launch Timeline & Features – What's Next?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-laserjet-p3015-printer-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP LaserJet P3015 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-engagement-mastering-online-presentations-via-zoom-and-youtube/"><u>Elevate Engagement Mastering Online Presentations via Zoom and YouTube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-realme-narzo-60-pro-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Realme Narzo 60 Pro 5G online without jailbreak</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/losung-warum-onedrive-schwierigkeiten-beim-speichern-von-pst-daten-hat/"><u>Lösung: Warum OneDrive Schwierigkeiten Beim Speichern Von PST-Daten Hat</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masterful-asmr-methods-by-leading-talents/"><u>Masterful ASMR Methods by Leading Talents</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-ios-perfecting-podcast-playback/"><u>Mastering iOS Perfecting Podcast Playback</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-13c-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 13C 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quality-control-meets-creativity-exploring-top-18-cam-tools/"><u>Quality Control Meets Creativity Exploring Top 18 Cam Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sculpting-visual-clarity-overcoming-gopro-lens-distortion-for-2024/"><u>Sculpting Visual Clarity Overcoming GoPro Lens Distortion for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-roundup-post-vlc-media-players/"><u>The Ultimate Roundup Post-VLC Media Players</u></a></li>
-<li><a href="https://facebook.techidaily.com/unraveling-fbs-image-sharing-policies/"><u>Unraveling FB's Image Sharing Policies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-becoming-a-specialist-in-srt-text-management/"><u>[New] Becoming a Specialist in SRT Text Management</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-race-sims-ultimate-selection/"><u>[New] In 2024, Elite Race Sims Ultimate Selection</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-aerial-titans-clash-dji-and-gopros-quest/"><u>[Updated] Aerial Titans Clash DJI and GoPro's Quest</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge/"><u>[Updated] Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-of-user-biometrics-by-domains-in-w11/"><u>Efficient Management of User Biometrics by Domains in W11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-engagement-amplify-audience-youtube-marketing/"><u>Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-phone-scene-with-easy-iphone-magnification/"><u>Enhance Your Phone Scene with Easy iPhone Magnification</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-zte-blade-a73-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-benefits-of-apples-m1-in-post-production-editing/"><u>In 2024, Benefits of Apple's M1 in Post-Production Editing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-best-practices-for-youtube-fb-sharing/"><u>In 2024, Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/making-social-video-viewing-a-breeze-on-your-appletv/"><u>Making Social Video Viewing a Breeze on Your AppleTV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-vitas-complete-editor-features-in-detailed-review-2024/"><u>Navigating Through Vita's Complete Editor Features in Detailed Review 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seamless-integration-iphone-video-editing-guide/"><u>Seamless Integration IPhone Video Editing Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-factors-you-must-evaluate-when-selecting-your-next-desktop-computer/"><u>Top 8 Factors You Must Evaluate When Selecting Your Next Desktop Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-step-by-step-journey-to-professional-image-uploads-on-youtube/"><u>Your Step-by-Step Journey to Professional Image Uploads on YouTube</u></a></li>
 </ul></div>
 

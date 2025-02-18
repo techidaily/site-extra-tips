@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2025-02-01T14:26:06.297Z
-updated: 2025-02-07T17:48:50.210Z
+date: 2025-02-12T02:50:03.613Z
+updated: 2025-02-17T18:54:59.250Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -68,19 +72,11 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![stay steady](https://images.wondershare.com/filmora/article-images/stay-steady-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 5\. Be careful of other divers
 
  Unfortunately, other divers have a tendency to get in the way when you’re shooting footage underwater. Many video production professionals opt to intentionally include clips of divers in their footage so everything flows nicely and cuts work well together if their presence in other shots is unavoidable.
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 6\. Wide angle
 
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
@@ -101,11 +97,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Edit your footage
@@ -120,7 +112,15 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -137,18 +137,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-clearing-the-vision-zoom-mastery-for-intimate-online-gatherings/"><u>[New] Clearing the Vision Zoom Mastery for Intimate Online Gatherings</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unresolved-problem-viewing-videos-on-sony-a6400/"><u>[New] Unresolved Problem Viewing Videos on Sony A6400</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-analyzing-the-financial-gains-of-podcasting/"><u>[Updated] Analyzing the Financial Gains of Podcasting</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-virtual-world-real-profit-for-game-makers/"><u>[Updated] In 2024, Virtual World, Real Profit for Game Makers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-top-titles-magix-video-pro-x-among-others/"><u>2024 Approved Comparing Top Titles Magix Video Pro X Among Others</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breakdown-of-pewdiepies-monthly-earning-trends/"><u>In 2024, Breakdown of PewDiePie's Monthly Earning Trends</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>In 2024, Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovative-browsing-strategies-with-picture-in-picture-mode/"><u>Innovative Browsing Strategies with Picture-In-Picture Mode</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leveraging-the-power-of-windows-11s-auto-hdr-enhancement/"><u>Leveraging the Power of Windows 11'S Auto HDR Enhancement</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029133465-pc/"><u>PCで楽曲を繋ぐための無料ガイド</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ebsites-where-youtube-imagery-breaks-the-mould-for-2024/"><u>Six Websites Where YouTube Imagery Breaks the Mould for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[New] 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[New] Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-circulating-camera-mounts-for-vr/"><u>[New] Circulating Camera Mounts for VR</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>[New] In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-core-kit-video-equipment-every-creator-needs/"><u>[New] The Core Kit Video Equipment Every Creator Needs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>[New] The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[Updated] 2024 Approved Precision Flight The New Era with Yuneec Drone Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-peek-behind-windows-curtain-top-30-undisclosed-tips-for-windows-11-for-2024/"><u>A Peek Behind Window's Curtain Top 30 Undisclosed Tips for Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-flawless-audio-googles-uploading-system-for-2024/"><u>Achieve Flawless Audio Google's Uploading System for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apples-m1-expedition-the-new-era-of-computing-for-2024/"><u>Apple's M1 Expedition The New Era of Computing for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/at-the-helm-of-client-satisfaction-meet-nina-walker-vp-of-customer-success-at-abbyy/"><u>At the Helm of Client Satisfaction - Meet Nina Walker, VP of Customer Success at ABBYY</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-perfect-memos-through-sound-waves/"><u>Crafting Perfect Memos Through Sound Waves</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-choice-collection-high-quality-virtual-reality-titles-for-cardboard/"><u>In 2024, Choice Collection High-Quality Virtual Reality Titles for Cardboard</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-micromobility-important-timelines-current-news-hearsay-and-insights/"><u>Navigating the World of Micromobility: Important Timelines, Current News, Hearsay & Insights</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/top-10-hilarious-tweets-galore-for-2024/"><u>Top 10 Hilarious Tweets Galore for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
 </ul></div>
 

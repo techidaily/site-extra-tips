@@ -1,7 +1,7 @@
 ---
 title: "Pushing the Limits: China Targets a 30%% Increase in Government Supercomputers, Aiming for 300 Exaflops by 2025"
-date: 2025-02-03T13:32:11.523Z
-updated: 2025-02-08T13:21:52.075Z
+date: 2025-02-13T23:38:04.939Z
+updated: 2025-02-18T06:22:34.700Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -60,21 +60,24 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-master-looped-videos-for-maximum-instagram-impact/"><u>[New] Master Looped Videos for Maximum Instagram Impact</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skyrocket-your-periscope-live-transmission-time/"><u>[New] Skyrocket Your Periscope Live Transmission Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-aim-for-excellence-prime-iphone-angles-for-professional-shots/"><u>[Updated] Aim for Excellence Prime iPhone Angles for Professional Shots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-immersive-metaverse-adventures-for-group-play-for-2024/"><u>10 Immersive Metaverse Adventures for Group Play for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-2022s-top-figure-skating-performances/"><u>2024 Approved 2022'S Top Figure Skating Performances</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-avoiding-unwanted-shaking-in-dynamic-gopro-footage/"><u>2024 Approved Avoiding Unwanted Shaking in Dynamic GoPro Footage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-hilarious-side-of-iphones/"><u>2024 Approved The Hilarious Side of iPhones</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-your-step-by-step-path-to-a-top-facebook-music-video/"><u>2024 Approved Your Step-by-Step Path to a Top Facebook Music Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/find-the-finest-websites-with-free-game-of-thrones-audio/"><u>Find the Finest Websites with Free Game of Thrones Audio</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g34-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola Moto G34 5G Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-assessment-of-dji-phantom-3-aerial-tech/"><u>In 2024, Assessment of DJI Phantom 3 Aerial Tech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-movie-capture-pc-mac-and-mobile-techniques/"><u>In 2024, Mastering Movie Capture PC, Mac & Mobile Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-av-creators-digital-edition-list/"><u>Leading AV Creators Digital Edition List</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid-for-2024/"><u>Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/soundtrack-your-storytelling-youtube-music-for-video-content/"><u>Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/implified-customization-for-your-youtube-channel-url-for-2024/"><u>[New] Simplified Customization for Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-edit-like-a-championtop-strategies-for-beginner-youtubers-for-2024/"><u>[Updated] Edit Like a Champion—Top Strategies for Beginner YouTubers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>[Updated] Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-key-top-5-ultra-light-action-recording-models/"><u>2024 Approved Key Top 5 Ultra-Light Action Recording Models</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-macbook-air-beginners-guide-to-screen-recording/"><u>2024 Approved Mastering MacBook Air Beginner's Guide to Screen Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/altering-game-console-speech-ps5ps4-upgrades-for-2024/"><u>Altering Game Console Speech PS5/PS4 Upgrades for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-perfection-with-canons-paired-lut-gifts/"><u>Capture Perfection with Canon's Paired LUT Gifts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-clarity-and-performance-in-4k-a-closer-look-at-benq-bl2711u/"><u>Discovering Clarity and Performance in 4K - A Closer Look at BenQ BL2711U</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-stop-oxygen-not-included-from-suddenly-crashing/"><u>Expert Tips to Stop 'Oxygen Not Included' From Suddenly Crashing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-azure-speech-to-text-explained-simply/"><u>In 2024, Azure Speech to Text Explained Simply</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/increasing-clarity-with-enhanced-youtube-videos/"><u>Increasing Clarity with Enhanced YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inshot-pro-advanced-features-showcase/"><u>InShot Pro Advanced Features Showcase</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/photoshops-secret-weapon-advanced-techniques-for-3d-lut-mastery/"><u>Photoshop's Secret Weapon Advanced Techniques for 3D Lut Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establish-steam-games-symbols-posthaste/"><u>Re-Establish Steam Games Symbols Posthaste</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-15-budget-friendly-online-editors-for-stunning-images/"><u>Top 15 Budget-Friendly Online Editors for Stunning Images</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/troubling-trend-for-users-hps-probook-lineup-struggles-after-inherent-bios-update-issues-post-windows-firmware-pushes/"><u>Troubling Trend for Users: HP's ProBook Lineup Struggles After Inherent BIOS Update Issues Post-Windows Firmware Pushes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-conversion-manual-from-srt-to-various-formats/"><u>Ultimate Conversion Manual From SRT to Various Formats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultimate-screen-capture-guide-tunefab-pro-for-2024/"><u>Ultimate Screen Capture Guide - Tunefab Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/xsplit-hub-compre-written-assessments/"><u>XSplit Hub Compre Written Assessments</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Correction Quest  How to Skillfully Edit Images on WIN10\""
-date: 2025-02-02T23:13:36.216Z
-updated: 2025-02-08T00:39:51.053Z
+date: 2025-02-15T22:53:33.991Z
+updated: 2025-02-17T17:34:23.418Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 * [**Part1: How to Draw On Photos App in Windows 10**](#part1)
 * [**Part2: How to Draw on Photos Online**](#part2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -40,23 +44,19 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -76,13 +76,13 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -92,7 +92,7 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -112,18 +112,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>[New] Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-from-idea-to-live-stream-a-comprehensive-guide-for-instagram-and-obs-users/"><u>[New] From Idea to Live Stream A Comprehensive Guide for Instagram & OBS Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>[New] Hack the Airwaves Mastering a Viral Solo Podcast</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-the-path-to-apple-podcast-acceptance/"><u>[New] Navigating the Path to Apple Podcast Acceptance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-craft-humorous-memes-with-giphy/"><u>[Updated] Craft Humorous Memes with Giphy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-revenue-on-youtube-shorts/"><u>[Updated] In 2024, Mastering Revenue on YouTube Shorts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-virtuality-metaverse-vs-omniverse-in-focus/"><u>2024 Approved Inside Virtuality Metaverse Vs. Omniverse in Focus</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-powerhouse-guide-to-screen-recording-with-tunefab/"><u>2024 Approved The Powerhouse Guide to Screen Recording with Tunefab</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-phantom-4-complete-review/"><u>DJI Phantom 4 Complete Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-analyzing-audio-editing-tools-in-magix-producer-suite/"><u>In 2024, Analyzing Audio Editing Tools in Magix Producer Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a25-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A25 5G Fingerprint Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review/"><u>ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-immediate-collage-making-for-social-sharing/"><u>Mastering Immediate Collage Making for Social Sharing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elite-systems-unveiled-the-best-of-the-bunch/"><u>[New] Elite Systems Unveiled - The Best of the Bunch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-client-speeches-transforming-marketing-narratives/"><u>[Updated] Client Speeches Transforming Marketing Narratives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-techniques-for-capturing-on-iphone/"><u>2024 Approved Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-top-sd-cards-with-gopro-hero-cameras/"><u>Comprehensive Guide to Top SD Cards with GoPro HERO Cameras</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-on-windows-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers on Windows 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoidance-of-windows-10-photos-application-hang-ups/"><u>In 2024, Avoidance of Windows 10 Photos Application Hang-Ups</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro/"><u>In 2024, Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-ideas-to-boost-package-prelude-joy-for-2024/"><u>Innovative Ideas to Boost Package Prelude Joy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laying-the-groundwork-15-basic-shots-every-director-needs/"><u>Laying the Groundwork 15 Basic Shots Every Director Needs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-12-pro-5-ways-to-get-into-a-locked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 12 Pro? 5 Ways to get into a Locked Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-fcpx-captioning-made-easy-a-quick-start-guide/"><u>New FCPX Captioning Made Easy A Quick Start Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/remove-unsolicited-podcast-episodes-on-spotify-app/"><u>Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-20-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 20 Pro+ without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

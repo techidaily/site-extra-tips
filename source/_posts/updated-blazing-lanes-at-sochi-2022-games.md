@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Blazing Lanes at Sochi 2022 Games"
-date: 2025-02-05T00:20:59.190Z
-updated: 2025-02-07T22:50:56.728Z
+date: 2025-02-14T16:33:41.138Z
+updated: 2025-02-17T18:32:06.245Z
 tags: 
   - screen-recording
   - ai video
@@ -23,14 +23,10 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
 
@@ -48,13 +44,13 @@ Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
@@ -64,21 +60,17 @@ Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter
 
 ![ren ziwei was disqualified](https://images.wondershare.com/filmora/article-images/ren-ziwei-was-disqualified.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The last leg of competition among skaters before reaching the finishing line at men’s short track speed skating 1500m event.
 
 ![the last leg of competition](https://images.wondershare.com/filmora/article-images/the-last-leg-of-competition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awarding ceremony in short track speed skating Olympics 2022.
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
@@ -112,6 +104,10 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -121,6 +117,10 @@ Step 4: Add all the still footages and clips on the Video Timeline while add aud
 Step 5: Select individual slides and apply Transition, Effects or add Titles and Elements from the top bar.
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -135,18 +135,22 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-mobile-slow-mo-top-app-picks/"><u>[New] Boosting Mobile Slow Mo Top App Picks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube-for-2024/"><u>[New] Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-benq-bl2711u-masterpiece-in-the-realm-of-high-definition-monitors/"><u>[Updated] BenQ BL2711U - Masterpiece in the Realm of High-Definition Monitors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-prime-authors-draft-platform-for-2024/"><u>[Updated] Prime Author's Draft Platform for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-consider-a-lut-to-be-a-color-preset-that-a-filmmaker-can-use-to-start-working-on-a-project-quickly-sony-engineers-have-developed-luts-to-help-/"><u>2024 Approved Consider a LUT to Be a Color Preset that a Filmmaker Can Use to Start Working on a Project Quickly. Sony Engineers Have Developed LUTs to Help Filmmakers Perform Specific Tasks. All of These Are Available for Free</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-memes-the-ultimate-guide-to-gif-creation/"><u>2024 Approved Crafting Memes The Ultimate Guide to GIF Creation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-spark-10-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Spark 10 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/conseils-novices-pour-maximiser-votre-utilisation-de-la-recuperation-systeme-dans-windows-10-guide-pratique-detaille/"><u>Conseils Novices Pour Maximiser Votre Utilisation De La Récupération Système Dans Windows 10 - Guide Pratique Détaillé</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-c67-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme C67 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-selecting-the-ultimate-5-game-chat-devices/"><u>In 2024, Selecting the Ultimate 5 Game Chat Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-understanding-the-significance-of-team-collaboration-in-cinematic-projects/"><u>In 2024, Understanding the Significance of Team Collaboration in Cinematic Projects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-ensure-smooth-performance-by-downloading-or-refreshing-your-d-link-windows-drivers/"><u>Step-by-Step Instructions: Ensure Smooth Performance by Downloading or Refreshing Your D-Link Windows Drivers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-essential-handbook-for-periscope-video-logging/"><u>The Essential Handbook for Periscope Video Logging</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flipping-the-script-online-video-reversals-for-2024/"><u>[Updated] Flipping the Script Online Video Reversals for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stream-titling-service/"><u>[Updated] Stream Titling Service</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-wirecast-top-video-broadcasting-software/"><u>2024 Approved Beyond WireCast Top Video Broadcasting Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>2024 Approved How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-engagement-the-key-to-successful-tiktok-unpack-videos/"><u>Boosting Engagement The Key to Successful TikTok Unpack Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chucklecanvas-funny-images-for-social-media-sharing/"><u>ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/freely-accessible-platforms-for-professional-photography-edits/"><u>Freely Accessible Platforms for Professional Photography Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-professional-filmmakers-plug-in-picks-for-final-cut/"><u>In 2024, Professional Filmmaker's Plug-In Picks for Final Cut</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/multi-genre-unmanned-flyers/"><u>Multi-Genre Unmanned Flyers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-mtsm2ts-video-formats-using-handbrake/"><u>Step-by-Step Guide: Converting MTS/M2TS Video Formats Using HandBrake</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-metaverse-journey-begins-exploring-6-engrossing-instances/"><u>The Metaverse Journey Begins Exploring 6 Engrossing Instances</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-insight-into-tvs-with-internet-access-what-you-need-to-know/"><u>The Ultimate Insight Into TVs with Internet Access: What You Need to Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-premium-podcasters-microphones/"><u>Top 10 Premium Podcaster's Microphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-pixel-perfect-grids-elevate-your-vision/"><u>Ultimate Pixel Perfect Grids Elevate Your Vision</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-and-checking-powershell-versions-in-windows-11-systems/"><u>Understanding and Checking PowerShell Versions in Windows 11 Systems</u></a></li>
 </ul></div>
 

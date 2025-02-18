@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-02-07T06:31:14.730Z
-updated: 2025-02-08T06:41:49.250Z
+date: 2025-02-12T19:58:16.667Z
+updated: 2025-02-17T21:41:15.052Z
 tags:
   - desktop
 categories:
@@ -36,7 +36,7 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -62,15 +62,20 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-adding-captions-and-text-a-guide-for-photo-titles-in-microsoft-photos/"><u>[New] Adding Captions and Text A Guide for Photo Titles in Microsoft Photos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-android-guide-enhance-your-video/"><u>[New] Android Guide Enhance Your Video</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-combination-discover-5-advanced-webcams-for-clear-sound/"><u>[New] In 2024, Ultimate Combination Discover 5 Advanced Webcams for Clear Sound</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-visualize-your-workflow-top-free-screen-recorders-for-pc-and-mac/"><u>[New] Visualize Your Workflow - Top Free Screen Recorders for PC & Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-conquering-image-search-a-pathway-to-stunning-pexels-visuals/"><u>[Updated] Conquering Image Search A Pathway to Stunning Pexels Visuals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-cream-of-the-crop-podcasts/"><u>2024 Approved Android's Cream of the Crop Podcasts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-vivo-y28-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo Y28 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-c51-phone-by-drfone-android/"><u>How to Reset a Locked Realme C51 Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-error-code-39-on-your-dvd-or-cd-rom-a-comprehensive-guide-to-restoring-functionality/"><u>Quick Solutions for Error Code 39 on Your DVD or CD ROM: A Comprehensive Guide to Restoring Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-20-youtube-bards-for-unforgettable-tales/"><u>Top 20 YouTube Bards for Unforgettable Tales</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breakdown-of-youtubes-monetization-update-for-2024/"><u>[Updated] Breakdown of YouTube's Monetization Update for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-from-camera-clicks-to-youtube-clips-an-experts-step-by-step-visual-instruction-manual/"><u>[Updated] In 2024, From Camera Clicks to YouTube Clips An Expert's Step-by-Step Visual Instruction Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-quick-tip-find-your-youtube-comments-anytime-anywhere/"><u>[Updated] In 2024, Quick Tip Find Your YouTube Comments Anytime, Anywhere</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed/"><u>2024 Approved The Ultimate Guide to Boosting Sale Traffic Top 15 FB Analysis Tools Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-repair-techniques-for-handling-blue-screen-error-0x0000005c/"><u>DIY Repair Techniques for Handling Blue Screen Error 0X0000005C</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-trailers-through-musical-integration/"><u>Elevating Trailers Through Musical Integration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expand-your-video-editing-toolkit-beyond-inshot/"><u>Expand Your Video Editing Toolkit Beyond Inshot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cost-assessment-for-producing-track-driven-videos/"><u>In 2024, Cost Assessment for Producing Track-Driven Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masters-list-of-affordable-and-premium-win-art-tools/"><u>Master's List of Affordable & Premium Win Art Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snicker-studio-cybernetic-cackles-for-2024/"><u>Snicker Studio Cybernetic Cackles for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-on-premium-360cameras-for-professionals/"><u>Spotlight on Premium 360°Cameras for Professionals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-resolving-youtube-video-rendering-issues-overcoming-stall-points-like-0-95-99/"><u>Ultimate Guide: Resolving YouTube Video Rendering Issues – Overcoming Stall Points Like 0%, 95%, 99%</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
 </ul></div>
 
