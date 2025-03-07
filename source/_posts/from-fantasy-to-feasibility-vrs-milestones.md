@@ -1,7 +1,7 @@
 ---
 title: "\"From Fantasy to Feasibility  VR's Milestones\""
-date: 2025-02-16T17:30:35.966Z
-updated: 2025-02-18T00:19:41.551Z
+date: 2025-02-28T20:16:59.100Z
+updated: 2025-03-06T22:14:33.165Z
 tags: 
   - screen-recording
   - ai video
@@ -35,41 +35,21 @@ _[What is virtual reality and how does it work?](https://tools.techidaily.com/wo
 _[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VR development in 1930s
 
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VR development in 1960s
 
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VR development in 1990s
 
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VR development in 2014
 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
 
@@ -94,24 +74,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-accessing-hidden-reaction-mechanisms-of-youtube-users/"><u>[New] Accessing Hidden Reaction Mechanisms of YouTube Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-activate-windows-xp-movie-creation-toolkit/"><u>[New] Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-blending-sound-with-moving-pictures-hub/"><u>[New] Blending Sound with Moving Pictures Hub</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-temporary-hold-recording-assistance/"><u>[New] Temporary Hold Recording Assistance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-practical-guide-to-using-vsco-for-professionals-for-2024/"><u>A Practical Guide to Using VSCO for Professionals for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-picks-17-top-software-for-cleaning-up-images-for-2024/"><u>Best Picks 17 Top Software for Cleaning Up Images for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-budget-friendly-framed-imagery/"><u>Discovering Budget-Friendly Framed Imagery</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-the-performance-of-genius-widecam-f100-a-look-at-pixelation-problems-and-acoustic-feedback/"><u>Examining the Performance of Genius WideCam F100: A Look at Pixelation Problems and Acoustic Feedback</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guia-completa-para-restaurar-documentos-eliminados-por-accidente-desde-la-papelera-de-reciclaje-de-windows-post-limpieza/"><u>Guía Completa Para Restaurar Documentos Eliminados Por Accidente Desde La Papelera De Reciclaje De Windows Post-Limpieza</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-beginners-guide-to-quantum-hdr-systems/"><u>In 2024, A Beginner’s Guide to Quantum HDR Systems</u></a></li>
-<li><a href="https://win-trending.techidaily.com/never-miss-a-file-again-with-windows-searchai-available-only-on-selected-devices/"><u>Never Miss a File Again with Windows SearchAI – Available Only On Selected Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimizing-trailer-vibes-the-melody-essentials/"><u>Optimizing Trailer Vibes The Melody Essentials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/paired-monitors-preservation/"><u>Paired Monitors Preservation</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-blueprint-for-brilliant-broadcasts-dos-and-donts-unveiled-for-2024/"><u>The Blueprint for Brilliant Broadcasts Do's & Don'ts Unveiled for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-aerial-crews-masters-of-photo-and-film/"><u>Top 10 Aerial Crews Masters of Photo & Film</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-5-revelatory-tactics-for-novices-in-digital-advertising/"><u>Top 5 Revelatory Tactics for Novices in Digital Advertising</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-data-rescue-experience-awaits-you-secure-download-option-available/"><u>Ultimate iPhone Data Rescue Experience Awaits You - Secure Download Option Available</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zooms-power-play-top-methods-for-effective-format-shifting/"><u>Zoom's Power Play Top Methods for Effective Format Shifting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth/"><u>[New] 2024 Approved Instagram Stardom in Your Sights 6 Must-Try Techniques for Verification and Growth</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecoding-digital-dynamics-unveiling-the-secret-sauce-for-youtube-success-and-revenue/"><u>[New] Decoding Digital Dynamics Unveiling the Secret Sauce for YouTube Success & Revenue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-image-capture-try-these-top-5-pc-tools-for-2024/"><u>[New] Efficient Image Capture? Try These Top 5 PC Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-your-shots-the-ultimate-hdr-cameras-list-for-2024/"><u>[New] Elevate Your Shots The Ultimate HDR Cameras List for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mobile-mastery-securing-your-snapchat-videos-on-phone/"><u>[Updated] 2024 Approved Mobile Mastery Securing Your Snapchat Videos on Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>2024 Approved Capturing the Extremes Adobe's HDR Creation in Lightroom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts-for-2024/"><u>A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-setup-guide-magic-mouse-software-for-windows-computers/"><u>Download and Setup Guide: Magic Mouse Software for Windows Computers</u></a></li>
+<li><a href="https://win-info.techidaily.com/erstellen-sie-einfach-ein-automatisches-sicherungssystem-fur-windows-nicht-platziertes-speichermedium-drei-effiziente-methoden/"><u>Erstellen Sie Einfach Ein Automatisches Sicherungssystem Für Windows Nicht Platziertes Speichermedium - Drei Effiziente Methoden</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/eyemosaic-the-essential-photo-patcher/"><u>EyeMosaic The Essential Photo Patcher</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonic-headstarts-curated-spots-with-the-best-music-picks/"><u>Harmonic Headstarts Curated Spots with the Best Music Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-beginners-insight-into-av1-encoding/"><u>In 2024, A Beginner's Insight Into AV1 Encoding</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-composing-captivating-cinema-trailers/"><u>In 2024, Composing Captivating Cinema Trailers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/simplified-installation-dive-into-ifunnys-meme-world/"><u>Simplified Installation Dive Into iFunny's Meme World</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-method-for-addressing-sound-distortions-in-latest-releases/"><u>Step-by-Step Method for Addressing Sound Distortions in Latest Releases</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-these-proven-methods/"><u>Stop Modern Warfare 3 From Crashing on Your PC with These Proven Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-android-audio-experts/"><u>Top Android Audio Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-your-iphones-autofocus-problems-with-these-solutions/"><u>Troubleshoot Your iPhone's Autofocus Problems with These Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-hidden-potential-mastering-the-art-of-morphvox/"><u>Unveiling Hidden Potential Mastering the Art of MorphVOX</u></a></li>
 </ul></div>
 

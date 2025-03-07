@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Teams Changing VR's Course"
-date: 2024-07-27T10:01:37.516Z
-updated: 2024-07-28T10:01:37.516Z
+date: 2025-03-05T20:02:00.958Z
+updated: 2025-03-06T17:03:18.517Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 # Top VR content developers you should know
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2.Linden lab company:-
 
  Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
@@ -102,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 8.Improbable company:-
 
  This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
@@ -115,9 +106,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ![improbable-company](https://images.wondershare.com/filmora/resource/improbable-company.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9.8i:-
 
  This technology helps people to interact with each other by transforming video of many cameras into human holograms that can be seen from every angle. People can easily develop and share the 3D videos of real humans on the web. 8i allow its users to roam about real humans in virtual reality so that they can feel as if they are in the same room by providing a true 3D view. This company is also developing VR software that will bring a great change in the VR world.
@@ -125,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 * **Investors:**  \- Kevin Wall, John S. Hendricks, Inevitable Ventures, Jeremy Stoppelman, Right Click Capital, Freelands Ventures, Frontier Tech Ventures, BDMI, Dolby Family Ventures etc.
 * **Money raised:**  \- $13.5M in series A funding
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
@@ -172,10 +157,6 @@ Follow @Benjamin Arango
 ![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 4.Wevr Company:-
 
  This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
@@ -206,9 +187,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
  )
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 7.CCP Company:-
 
  CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
@@ -219,9 +197,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8.Improbable company:-
 
  This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
@@ -241,9 +216,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -256,9 +228,6 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1.Next VR company:-
 
  This company helps you in enjoying your most special music and sports events live with a 3D view. The Next VR has done partnership with many big companies so that you can have a lot of fun while playing games. The formation 8 is the first investor to invest in this company. Recently this company has done partnership with Live Nation so as to telecast concerts in virtual reality.
@@ -269,9 +238,6 @@ Follow @Benjamin Arango
 ![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2.Linden lab company:-
 
  Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
@@ -322,9 +288,6 @@ Follow @Benjamin Arango
 ![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
  )
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7.CCP Company:-
 
  CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
@@ -335,9 +298,6 @@ Follow @Benjamin Arango
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8.Improbable company:-
 
  This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
@@ -357,15 +317,6 @@ Follow @Benjamin Arango
 
 ![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -388,18 +339,6 @@ Follow @Benjamin Arango
 ![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2.Linden lab company:-
 
  Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
@@ -410,9 +349,6 @@ Follow @Benjamin Arango
 ![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
  )
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.JauntVR company:-
 
  Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
@@ -423,9 +359,6 @@ Follow @Benjamin Arango
 ![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4.Wevr Company:-
 
  This company, earlier known as Wemo lab makes VR playback software of high performance for VR creators so that they can develop and present the stories on all the electronic equipments that are used for VR. This company also provides VR media player to cinema creators which can be run on all VR devices. The headquarters of this company is located in Venice, California.
@@ -446,10 +379,6 @@ Follow @Benjamin Arango
 ![high-fidelity](https://images.wondershare.com/filmora/resource/high-fidelity.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 6.Legend3D Company:-
 
  This company provides many services to its customers like visual effects (VFX) services, 3D virtual reality (VR) services etc. You can also do on-set consultation, camera rig removal, 2D and 3D fine stitching, digital makeup with the help of these services. Recently this company has also introduced a Virtual Reality division that provides a full-service solution to the customers in 2D and 3D formats.
@@ -460,9 +389,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![legend3d]( https://images.wondershare.com/filmora/resource/legend3d.jpg
  )
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7.CCP Company:-
 
  CCP stands for Crowd Control Productions. This company became popular in 2003 by launching EVE online, the first video game made by CCP. CCP has also won many awards by developing cutting edge games. This company has developed best products like EVE Valkyrie, EVE Gunjack, Project Nova etc. They have many innovative ideas by which they are able to create unique games.
@@ -473,9 +399,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 8.Improbable company:-
 
  This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
@@ -495,9 +418,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -528,7 +448,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-seamless-sound-transfer-top-10-youtube-to-mp3-picks/"><u>[New] 2024 Approved Seamless Sound Transfer Top 10 YouTube to Mp3 Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-amp-up-creativity-premiere-pro-templates-free/"><u>[New] Amp Up Creativity Premiere Pro Templates, FREE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-android-audio-goldies/"><u>[New] Android Audio Goldies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-maximize-fun-the-finest-ios-apps-for-loading-fb-videos/"><u>[Updated] 2024 Approved Maximize Fun The Finest iOS Apps for Loading FB Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-10-free-image-transformers-jpg-to-gif-edition/"><u>[Updated] Best 10 FREE Image Transformers JPG to GIF Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[Updated] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>2024 Approved A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>2024 Approved Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-delving-into-tseries-streaming-revenue-model-on-youtube/"><u>In 2024, Delving Into TSeries' Streaming Revenue Model on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leveraging-extra-footage-a-guide-to-b-roll-utilization/"><u>Leveraging Extra Footage A Guide to B Roll Utilization</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-art-of-restoring-rec-room-voice-communication-on-pc-expert-advice-for-202n/"><u>Master the Art of Restoring Rec Room Voice Communication on PC – Expert Advice for 202N</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/text-transformation-tactics-for-images/"><u>Text Transformation Tactics for Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-unboxing-magic-7-ways/"><u>Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/under-the-waves-best-practices-in-underwater-filming-with-a-gopro/"><u>Under the Waves Best Practices in Underwater Filming with a GoPro</u></a></li>
+</ul></div>
 

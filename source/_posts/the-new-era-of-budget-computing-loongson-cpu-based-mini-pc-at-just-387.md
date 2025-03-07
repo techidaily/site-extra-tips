@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Budget Computing: Loongson CPU-Based Mini PC at Just $387"
-date: 2025-02-12T19:58:16.667Z
-updated: 2025-02-17T21:41:15.052Z
+date: 2025-03-05T23:12:00.638Z
+updated: 2025-03-06T18:40:27.081Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
  So, what happened? Did the static buildup short out the PC or something? Fortunately, nothing so mundane. Instead, the fan PC was tested at increasingly higher speeds until the[weighty cooler](https://www.tomshardware.com/news/noctua-fanless-cooler-enters-production) was violently flung from the PC in the last moments of the original video. No wonder Sodabaka hid behind a riot shield for much of the video demo.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,20 +58,19 @@ Over on Chinese videosharing platform Bilibili, user 苏打baka uploaded a lengt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breakdown-of-youtubes-monetization-update-for-2024/"><u>[Updated] Breakdown of YouTube's Monetization Update for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-from-camera-clicks-to-youtube-clips-an-experts-step-by-step-visual-instruction-manual/"><u>[Updated] In 2024, From Camera Clicks to YouTube Clips An Expert's Step-by-Step Visual Instruction Manual</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-quick-tip-find-your-youtube-comments-anytime-anywhere/"><u>[Updated] In 2024, Quick Tip Find Your YouTube Comments Anytime, Anywhere</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed/"><u>2024 Approved The Ultimate Guide to Boosting Sale Traffic Top 15 FB Analysis Tools Reviewed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-repair-techniques-for-handling-blue-screen-error-0x0000005c/"><u>DIY Repair Techniques for Handling Blue Screen Error 0X0000005C</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-trailers-through-musical-integration/"><u>Elevating Trailers Through Musical Integration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expand-your-video-editing-toolkit-beyond-inshot/"><u>Expand Your Video Editing Toolkit Beyond Inshot</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cost-assessment-for-producing-track-driven-videos/"><u>In 2024, Cost Assessment for Producing Track-Driven Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/masters-list-of-affordable-and-premium-win-art-tools/"><u>Master's List of Affordable & Premium Win Art Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snicker-studio-cybernetic-cackles-for-2024/"><u>Snicker Studio Cybernetic Cackles for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/spotlight-on-premium-360cameras-for-professionals/"><u>Spotlight on Premium 360°Cameras for Professionals</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-guide-resolving-youtube-video-rendering-issues-overcoming-stall-points-like-0-95-99/"><u>Ultimate Guide: Resolving YouTube Video Rendering Issues – Overcoming Stall Points Like 0%, 95%, 99%</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-full-potential-of-streaming-with-dual-display-on-netflix/"><u>Unlock Full Potential of Streaming with Dual Display on Netflix</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/virtual-vistas-enhancing-online-streaming-with-color-key-methods/"><u>Virtual Vistas Enhancing Online Streaming with Color Key Methods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-smart-snap-strategies-insta-story-zoom-101/"><u>[New] In 2024, Smart Snap Strategies Insta Story Zoom 101</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-measuring-movie-gb-usage-over-a-day/"><u>[New] Measuring Movie GB Usage Over a Day</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-guide-to-optimizing-your-picsart-experience/"><u>[Updated] Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok-for-2024/"><u>[Updated] Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visual-guide-to-building-believable-characters-in-virtual-space-for-2024/"><u>A Visual Guide to Building Believable Characters in Virtual Space for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-budget-friendly-ticking-clocks-online/"><u>Best Budget-Friendly Ticking Clocks Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-privacy-settings-learn-the-new-way-of-altering-your-facebook-password/"><u>Enhance Privacy Settings: Learn the New Way of Altering Your Facebook Password</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/forget-not-fundamental-cinematography-for-aspiring-directors/"><u>Forget Not Fundamental Cinematography for Aspiring Directors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-linking-and-sharing-chatgpt-dialogues/"><u>Mastering the Art of Linking and Sharing ChatGPT Dialogues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-leading-edge-elite-mesh-wireless-systems-for-your-smart-home-2024-edition/"><u>The Leading Edge: Elite Mesh Wireless Systems for Your Smart Home, 2024 Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-find-x6-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo Find X6 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-performance-enhancement-suites-a-comprehensive-guide-by-yl-computing/"><u>Top-Rated Performance Enhancement Suites: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tricks-to-ensure-stable-iphone-cinematography/"><u>Tricks to Ensure Stable iPhone Cinematography</u></a></li>
 </ul></div>
 

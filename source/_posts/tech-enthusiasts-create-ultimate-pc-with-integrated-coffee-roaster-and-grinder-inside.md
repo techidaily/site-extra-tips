@@ -1,7 +1,7 @@
 ---
 title: Tech Enthusiasts Create Ultimate PC with Integrated Coffee Roaster & Grinder Inside
-date: 2025-02-14T22:14:31.004Z
-updated: 2025-02-17T17:59:09.259Z
+date: 2025-03-04T22:01:35.819Z
+updated: 2025-03-06T17:46:31.181Z
 tags:
   - desktop
 categories:
@@ -35,10 +35,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
  We got to spend a few minutes with the MSI MEG Vision X and its touch screen and we were impressed with how responsive it was. We put a YouTube vertical video onto the touch screen and then swiped down to switch to a different one. The screen supports ten-point touch so you can pinch-to-zoom or even finger paint on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -52,10 +48,6 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
  There's also MSI AI Engine, which adjusts performance based on AI. Then there's AI Frozr, which does the same thing for cooling.
 
 ![MSI Meg Vision X](https://cdn.mos.cms.futurecdn.net/naxGXKocxiSqBdGWe9LHqR-320-80.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (Image credit: Tom's Hardware)
 
@@ -78,22 +70,17 @@ This year's[Computex 2024](https://www.tomshardware.com/tag/computex) trade show
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-becoming-a-specialist-in-srt-text-management/"><u>[New] Becoming a Specialist in SRT Text Management</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elite-race-sims-ultimate-selection/"><u>[New] In 2024, Elite Race Sims Ultimate Selection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-aerial-titans-clash-dji-and-gopros-quest/"><u>[Updated] Aerial Titans Clash DJI and GoPro's Quest</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-your-competitive-edge-with-custom-vocal-alteration-techniques-in-free-fire-gaming-no-charge/"><u>[Updated] Boost Your Competitive Edge with Custom Vocal Alteration Techniques in Free Fire Gaming (No Charge!)</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-management-of-user-biometrics-by-domains-in-w11/"><u>Efficient Management of User Biometrics by Domains in W11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-engagement-amplify-audience-youtube-marketing/"><u>Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-your-phone-scene-with-easy-iphone-magnification/"><u>Enhance Your Phone Scene with Easy iPhone Magnification</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-zte-blade-a73-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your ZTE Blade A73 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-benefits-of-apples-m1-in-post-production-editing/"><u>In 2024, Benefits of Apple's M1 in Post-Production Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unveiling-the-best-practices-for-youtube-fb-sharing/"><u>In 2024, Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/making-social-video-viewing-a-breeze-on-your-appletv/"><u>Making Social Video Viewing a Breeze on Your AppleTV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-vitas-complete-editor-features-in-detailed-review-2024/"><u>Navigating Through Vita's Complete Editor Features in Detailed Review 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-integration-iphone-video-editing-guide/"><u>Seamless Integration IPhone Video Editing Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-8-factors-you-must-evaluate-when-selecting-your-next-desktop-computer/"><u>Top 8 Factors You Must Evaluate When Selecting Your Next Desktop Computer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-step-by-step-journey-to-professional-image-uploads-on-youtube/"><u>Your Step-by-Step Journey to Professional Image Uploads on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-decoding-av1-and-vp9-codec-showdown/"><u>[Updated] Decoding AV1 and VP9 Codec Showdown</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>[Updated] Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[Updated] In 2024, The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevate-your-youtube-presence-with-masterful-editing-skills/"><u>2024 Approved Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-in-monochrome-magic-a-professionals-guide/"><u>2024 Approved Masterclass in Monochrome Magic A Professional's Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adobe-audition-101-the-art-of-fading-on-for-2024/"><u>Adobe Audition 101 The Art of Fading On for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfect-precision-the-best-39-video-trimming-tools-from-google-play/"><u>Perfect Precision The Best 39 Video-Trimming Tools From Google Play</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-tab-s7-vs-competitors-the-ultimate-tablet-showdown-for-android-users/"><u>Samsung Galaxy Tab S7 vs Competitors: The Ultimate Tablet Showdown for Android Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-painters-touch-mastering-color-artistry/"><u>The Painter's Touch Mastering Color Artistry</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-pros-and-cons-of-the-line-communication-application/"><u>Unveiling the Pros and Cons of the Line Communication Application</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-not-recognizing-my-usb-device-solved/"><u>Windows 10 Not Recognizing My USB Device [Solved]</u></a></li>
 </ul></div>
 

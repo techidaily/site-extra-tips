@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Precise Shadows with Adobe Curves"
-date: 2024-07-27T10:00:47.170Z
-updated: 2024-07-28T10:00:47.170Z
+date: 2025-02-28T22:53:02.785Z
+updated: 2025-03-06T18:21:57.881Z
 tags: 
   - screen-recording
   - ai video
@@ -20,19 +20,8 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -43,9 +32,6 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
@@ -58,9 +44,6 @@ With the Warp Tool selected, hover your cursor over the image. You'll see a grid
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -69,16 +52,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
@@ -123,7 +100,22 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[New] 2024 Approved Charting the Course for Your Niche in the YouTube World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blueprint-for-successful-metaverse-campaigns/"><u>[New] Blueprint for Successful Metaverse Campaigns</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-10-gif-recorder-mac-for-2024/"><u>[New] Top 10 Gif Recorder Mac for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/urbo-transfer-efficient-youtube-listings-for-2024/"><u>[New] Turbo Transfer Efficient YouTube Listings for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-speedy-precision-the-leading-video-control-software/"><u>[Updated] In 2024, Speedy Precision The Leading Video Control Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-precision-adjustment-of-iphone-photo-dimensions-revealed/"><u>[Updated] Precision Adjustment of iPhone Photo Dimensions Revealed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-decades-best-writes-across-film-classifications/"><u>2024 Approved A Decade's Best Writes Across Film Classifications</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyondsharex-evaluating-the-best-options-for-2024/"><u>BeyondShareX - Evaluating the Best Options for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-imagery-assemblies-your-lifelong-collection/"><u>Captivating Imagery Assemblies Your Lifelong Collection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-smart-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Smart 8 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/launch-of-bitmains-revolutionary-bitcoin-asic-miner-model-t21-by-yl-computing-expected-in-january-2024/"><u>Launch of Bitmain's Revolutionary Bitcoin ASIC Miner Model T21 by YL Computing Expected in January 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/opening-lines-breaking-the-ice-in-video-comments/"><u>Opening Lines Breaking the Ice in Video Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedy-restoring-functionality-to-your-windows-pen-device/"><u>Quick Remedy: Restoring Functionality to Your Windows Pen Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transformative-strategies-for-podcast-rankings-and-visibility/"><u>Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-guide-to-snagging-a-copy-of-fcp-for-free/"><u>Your Guide to Snagging a Copy of FCP for Free</u></a></li>
+</ul></div>
 

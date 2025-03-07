@@ -1,7 +1,7 @@
 ---
 title: "Quick Windows Surfing Guide Unveiled"
-date: 2025-02-15T04:55:46.789Z
-updated: 2025-02-18T06:09:43.758Z
+date: 2025-03-02T16:05:07.027Z
+updated: 2025-03-06T20:55:07.564Z
 tags: 
   - screen-recording
   - ai video
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ## Quick Windows Surfing Guide Unveiled
 
 Windows operating system comes with an inbuilt file preview feature embedded in Explorer. This feature lets you preview documents and images before uploading them on apps like Skype, Facebook, and more. But what happens if you want to preview videos, audio, spreadsheets, ZIP, and more? In that case, install **QuickLook for Windows**. So, what exactly is **QuickLook for Windows 10,** and where can you get this app? For answers and more, read to the end.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Download Quick Look App on Microsoft Store
 
@@ -44,10 +40,6 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -57,10 +49,6 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
@@ -82,10 +70,6 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -99,10 +83,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,19 +118,17 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-revenue-the-content-creators-playbook/"><u>[New] In 2024, Boosting Revenue The Content Creator's Playbook</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-ranking-the-most-reliable-youtube-mp3-converters/"><u>[New] Ranking the Most Reliable YouTube Mp3 Converters</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>2024 Approved Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-fast-tracking-your-vimeo-watch-time/"><u>2024 Approved Fast-Tracking Your Vimeo Watch Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-critical-review-of-the-newest-vegaspro-for-2024/"><u>A Critical Review of the Newest VegasPro for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-strong-introduction-url/"><u>Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-the-fatal-error-ark-expert-strategies-to-restore-functionality/"><u>Decoding the 'Fatal Error ARK': Expert Strategies to Restore Functionality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/dji-drone-techniques-for-effective-facebook-livestreams/"><u>DJI Drone Techniques for Effective Facebook Livestreams</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/interactive-design-best-practices-for-srgb-and-rgb/"><u>Interactive Design Best Practices for Srgb and Rgb</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/maximize-iphone-storage-while-streaming-mkv-files-top-methods-unveiled/"><u>Maximize iPhone Storage While Streaming MKV Files: Top Methods Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-edits-best-face-changing-apps-iphonesipads-for-2024/"><u>Premier Edits Best Face-Changing Apps, iPhones/iPads for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-picks-best-selling-oculus-rift-games/"><u>Premier Picks Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sharpen-your-snaps-top-10-internet-photo-tenderizers-listed/"><u>Sharpen Your Snaps Top 10 Internet Photo Tenderizers Listed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-5-highly-recommended-video-editors-unveiled/"><u>The Ultimate List: 5 Highly Recommended Video Editors Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones/"><u>[Updated] Drone Racing All You Need to Know and 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-the-capabilities-of-magixs-photo-manager/"><u>Dissecting the Capabilities of MAGIX's Photo Manager</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-system-from-older-windows-to-win11-pro/"><u>Elevate Your System From Older Windows to Win11 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-marvel-cosmos-with-apples-vision-pro-the-ultimate-virtual-reality-experience-awaits-you/"><u>Explore the Marvel Cosmos with Apple's Vision Pro: The Ultimate Virtual Reality Experience Awaits You!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2010</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-at-hand-creating-3d-textures-with-photo/"><u>In 2024, Innovation at Hand Creating 3D Textures with PHOTO</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pioneering-the-silent-echo-techniques-and-tools-for-gradual-audio-fading-released-for-2024/"><u>New Pioneering the Silent Echo Techniques and Tools for Gradual Audio Fading Released for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95922549-9781912023684-pause-every-day/"><u>Pause Every Day | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v27-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V27 Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-innovation-in-desktop-computers/"><u>Ultimate Innovation in Desktop Computers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-selection-of-economical-4k-projection-screens/"><u>Ultimate Selection of Economical 4K Projection Screens</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-apples-most-affordable-ever-102-ipad-8th-gen-deserves-a-spot-in-your-tech-collection-a-thorough-review/"><u>Why Apple's Most Affordable Ever 10.2 iPad (8Th Gen) Deserves a Spot in Your Tech Collection - A Thorough Review!</u></a></li>
 </ul></div>
 

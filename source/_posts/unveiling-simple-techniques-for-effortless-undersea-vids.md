@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Simple Techniques for Effortless Undersea Vids"
-date: 2025-02-12T02:50:03.613Z
-updated: 2025-02-17T18:54:59.250Z
+date: 2025-03-02T21:03:09.961Z
+updated: 2025-03-06T17:27:02.905Z
 tags: 
   - screen-recording
   - ai video
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -84,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 7\. Shoot the best colour
 
  You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
@@ -95,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Edit your footage
 
@@ -112,15 +100,7 @@ thumbnail: https://thmb.techidaily.com/bbc14b435660c967866cf3c17d84e88db2c168839
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -137,24 +117,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[New] 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-becoming-an-unboxing-star-strategies-for-viral-engaging-tiktok-videos/"><u>[New] Becoming an Unboxing Star Strategies for Viral, Engaging TikTok Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-circulating-camera-mounts-for-vr/"><u>[New] Circulating Camera Mounts for VR</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>[New] In 2024, Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-core-kit-video-equipment-every-creator-needs/"><u>[New] The Core Kit Video Equipment Every Creator Needs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>[New] The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[Updated] 2024 Approved Precision Flight The New Era with Yuneec Drone Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-peek-behind-windows-curtain-top-30-undisclosed-tips-for-windows-11-for-2024/"><u>A Peek Behind Window's Curtain Top 30 Undisclosed Tips for Windows 11 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/achieve-flawless-audio-googles-uploading-system-for-2024/"><u>Achieve Flawless Audio Google's Uploading System for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apples-m1-expedition-the-new-era-of-computing-for-2024/"><u>Apple's M1 Expedition The New Era of Computing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/at-the-helm-of-client-satisfaction-meet-nina-walker-vp-of-customer-success-at-abbyy/"><u>At the Helm of Client Satisfaction - Meet Nina Walker, VP of Customer Success at ABBYY</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-perfect-memos-through-sound-waves/"><u>Crafting Perfect Memos Through Sound Waves</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-15-essential-skills-for-recording-digital-music/"><u>Explore 15 Essential Skills for Recording Digital Music</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-choice-collection-high-quality-virtual-reality-titles-for-cardboard/"><u>In 2024, Choice Collection High-Quality Virtual Reality Titles for Cardboard</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-world-of-micromobility-important-timelines-current-news-hearsay-and-insights/"><u>Navigating the World of Micromobility: Important Timelines, Current News, Hearsay & Insights</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/top-10-hilarious-tweets-galore-for-2024/"><u>Top 10 Hilarious Tweets Galore for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-full-guide-to-funcall-voice-changer-and-its-alternatives/"><u>Updated 2024 Approved Full Guide to Funcall Voice Changer and Its Alternatives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-apple-m1-pro-vs-m1-max-whats-the-difference-in-2024/"><u>[New] Apple M1 Pro Vs. M1 Max What's the Difference, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-shift-magic-subtitles-subc-conversion-guide/"><u>[New] SRT Shift Magic Subtitles (SUBC) Conversion Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-visionary-beauticians-poised-success-for-2024/"><u>[Updated] 10 Visionary Beauticians Poised Success for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-imagination-vrs-present-future-prospects/"><u>[Updated] Beyond Imagination VR's Present, Future Prospects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-amplify-facebook-stories-with-music-elements/"><u>[Updated] In 2024, How to Amplify Facebook Stories with Music Elements</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-content-creation-showdown-twitch-versus-youtube-explored/"><u>2024 Approved Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-gaming-nvidias-updated-geforce-210-graphics-drivers-fully-supported-on-windows-11-machines/"><u>Boost Your Gaming: NVIDIA's Updated GeForce 210 Graphics Drivers Fully Supported on Windows 11 Machines</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/boost-your-snaps-to-new-heights-with-expert-snapchat-tips/"><u>Boost Your Snaps to New Heights with Expert Snapchat Tips</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/building-your-own-digital-classroom-a-five-step-guide-to-launching-a-successful-online-course-2024-edition/"><u>Building Your Own Digital Classroom: A Five-Step Guide to Launching a Successful Online Course - 2024 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-9-uncharted-upscales-for-vivid-visuals/"><u>In 2024, 9 Uncharted Upscales for Vivid Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-construct-humor-memes-via-adobe/"><u>In 2024, Construct Humor Memes via Adobe</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-invent-iconic-images-through-giphy/"><u>In 2024, Invent Iconic Images Through Giphy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/notable-industry-players-driving-vr-growth/"><u>Notable Industry Players Driving VR Growth</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-av1-foundations-and-fundamentals/"><u>Unveiling AV1 Foundations and Fundamentals</u></a></li>
 </ul></div>
 

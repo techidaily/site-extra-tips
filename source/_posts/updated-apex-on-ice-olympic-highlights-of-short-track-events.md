@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apex on Ice  Olympic Highlights of Short-Track Events\""
-date: 2025-02-14T01:18:23.472Z
-updated: 2025-02-17T18:25:55.965Z
+date: 2025-03-04T21:30:40.483Z
+updated: 2025-03-06T21:26:45.616Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -36,10 +32,6 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
@@ -47,10 +39,6 @@ Canada’s Steven Dubois wins the silver medal.
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
@@ -86,10 +74,6 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -118,10 +102,6 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
@@ -135,18 +115,20 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-a-top-notch-linkedin-image/"><u>[New] Crafting a Top-Notch LinkedIn Image</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streamline-game-saves-mastering-fbx-recording/"><u>[Updated] 2024 Approved Streamline Game Saves Mastering FBX Recording</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-dial-up-your-digital-influence-nine-simple-steps-on-instagram/"><u>[Updated] Dial Up Your Digital Influence Nine Simple Steps on Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigate-the-best-practices-for-efficient-hp-notebook-screen-recording-for-2024/"><u>[Updated] Navigate the Best Practices for Efficient HP Notebook Screen Recording for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>2024 Approved Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/beliebteste-kostenlose-videobearbeitungssoftware-fur-windows-und-mac-os-x-entferne-unerwunschte-teile-ihrer-videos-einfach/"><u>Beliebteste Kostenlose Videobearbeitungssoftware Für Windows Und Mac OS X - Entferne Unerwünschte Teile Ihrer Videos Einfach!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-engagement-in-stories-tips-for-adding-smoothly-animated-text-for-2024/"><u>Boost Engagement in Stories Tips for Adding Smoothly Animated Text for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cut-to-perfection-an-in-depth-look-at-vivacut-for-24/"><u>Cut to Perfection An In-Depth Look at VivaCut for '24</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-to-superior-vr-on-google-cardboard/"><u>In 2024, Ultimate Guide to Superior VR on Google Cardboard</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/quantum-megadesk-pure-4k-multi-touch/"><u>Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-guide-to-restoring-erratic-windows-software/"><u>Quick Guide to Restoring Erratic Windows Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-software-showdown-winning-windows-10-video-grabbers-for-2024/"><u>Ultimate Software Showdown Winning Windows 10 Video Grabbers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-constructing-an-affordable-google-vr-helmet-at-home/"><u>[New] Constructing an Affordable Google VR Helmet at Home</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enter-the-world-of-funimate-with-ease/"><u>[New] Enter the World of Funimate with Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[New] In 2024, Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>[Updated] In 2024, Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-sites-streaming-k-drama-series-in-original-language-with-comprehensive-english-subtitles/"><u>Best Sites Streaming K-Drama Series in Original Language With Comprehensive English Subtitles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/drone-balance-the-top-7-gimbals-for-2024/"><u>Drone Balance The Top 7 Gimbals for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-complet-comment-restaurer-vos-fichiers-supprimes-avec-la-console-de-commande-cmd-en-francais/"><u>Guide Complet : Comment Restaurer Vos Fichiers Supprimés Avec La Console De Commande (CMD) en Français</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-apple-watch-ultra-2-became-essential-to-me-now-with-a-100-labor-day-offer-highlighted/"><u>How the Apple Watch Ultra 2 Became Essential to Me, Now with a $100 Labor Day Offer Highlighted</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/learn-how-to-change-number-on-tiktok-with-working-methods/"><u>Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/money-savers-budget-priced-vr-devices-china/"><u>Money Savers Budget-Priced VR Devices (China)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/procedure-of-ending-linkedin-services-and-deletion-process/"><u>Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reimagining-the-corporate-environment-to-maximize-employee-potential/"><u>Reimagining the Corporate Environment to Maximize Employee Potential</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spark-creativity-30-unique-video-projects/"><u>Spark Creativity 30 Unique Video Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-value-of-installing-a-wi-fi-mesh-network-in-your-home-or-office/"><u>What's the Value of Installing a Wi-Fi Mesh Network in Your Home or Office?</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-sony-xperia-10-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Sony Xperia 10 V?</u></a></li>
 </ul></div>
 

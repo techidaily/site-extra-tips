@@ -1,7 +1,7 @@
 ---
 title: "[New] Achieving Gentle Volume Alteration Using FL Studio"
-date: 2025-02-16T18:57:48.777Z
-updated: 2025-02-17T16:14:15.874Z
+date: 2025-03-05T21:46:08.411Z
+updated: 2025-03-06T22:17:47.308Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Fruity loop studio, also known as FL Studio is a digital audio workstation (DAW)
 
 There are many features available in FL Studio which help for recording purposes or live performance. You can record your audio to your mac or pc at very ease. It has become a powerful tool for music producers and DJs. Image-Line provides us with another crucial feature for creating professional music. It gives you a clear sound with HD sound for its 64-bit architecture. There is another feature called Delay compensation which creates a fantastic mix without overloading the CPU.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Steps to Fade Audio with FL Studio
 
 You can create and record the sound of different musical instruments like guitar, drums, and many more. Also, it gives us high-quality audio and a clear audio recording. It also does detailed audio editing. Here you can cut your audio, trim your audio, copy your audio, fade the audio, and many more. If you want to be more creative and do detailed work, you should get this software.
@@ -36,27 +32,15 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
 
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After selecting that, there will be an addition of a new automation clip to the playlist.
 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. FL Studio Alternative to Fade Audio
 
@@ -75,10 +59,6 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
@@ -103,10 +83,6 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 Step1 The first thing you have to do is successfully install the Filmora software on your pc or mac. Before fading audio, you should have some basic knowledge about the keyframes. After creating the audio keyframes, you will see an audio panel like the below surface.
 
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
@@ -154,20 +130,24 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-your-feed-instagram-collages-made-simple/"><u>[New] Boost Your Feed Instagram Collages Made Simple</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-engagement-with-effective-endorsement-footage/"><u>[New] Maximizing Engagement with Effective Endorsement Footage</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-auditory-artifacts-essential-ringtone-archives-online/"><u>[Updated] Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[Updated] Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-captivating-features-the-allure-of-filmora-editing/"><u>2024 Approved Captivating Features The Allure of Filmora Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>2024 Approved Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-secrets-to-unleashing-top-fps-in-counter-strike/"><u>9 Secrets to Unleashing Top FPS in Counter-Strike</u></a></li>
-<li><a href="https://win-community.techidaily.com/1728482662949-windows-11/"><u>搬家技術：從一台電腦的驅動器移動到另一台 Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rt-audio-online-mp3-to-youtube-live-upload-guide/"><u>Convert Audio Online MP3 to YouTube Live Upload Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/end-to-end-walkthrough-of-videoshows-24-upgrade/"><u>End-to-End Walkthrough of VideoShow's '24 Upgrade</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/no-pay-no-problem-get-your-free-passport-photo-creator-now-online-and-on-desktop/"><u>No Pay, No Problem Get Your Free Passport Photo Creator Now Online & On Desktop</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-aesthetic-edge-crafting-podcast-logos-with-panache/"><u>The Aesthetic Edge Crafting Podcast Logos with Panache</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-using-akasa-geckos-advanced-heatsink-revolutionizing-solid-state-drive-temperature-management/"><u>The Definitive Guide to Using Akasa Gecko's Advanced Heatsink: Revolutionizing Solid State Drive Temperature Management</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96326676-9781473685154-the-seven-day-soul/"><u>The Seven-Day Soul | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments/"><u>Unlocking the Potential of Windows Movie Maker in Windows 8 Environments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-abbreviated-action-sequences-script/"><u>[New] Abbreviated Action Sequences Script</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>[New] Boosting Visual Impact The 11 Best Practices for Color Workflow</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-masterclass-in-creating-dynamic-facebook-slideshows/"><u>[New] In 2024, Masterclass in Creating Dynamic Facebook Slideshows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-who-wins-in-speed-duel-gopro-hero4-or-drift-ghost-s/"><u>[New] In 2024, Who Wins in Speed Duel? GoPro Hero4 or Drift Ghost-S?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-scrutinizing-youtubes-comment-clusters-for-2024/"><u>[Updated] Scrutinizing YouTubes' Comment Clusters for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-full-review-of-cutspace-suite-with-visualfx-tools-2023/"><u>2024 Approved A Full Review of CutSpace Suite with VisualFX Tools, 2023</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apex-creative-workspace-report-in-depth-studio-analysis-2023-for-2024/"><u>Apex Creative Workspace Report In-Depth Studio Analysis, 2023 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-a-channel-focused-on-reviewing-marketplace-items/"><u>Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-disconnected-media-streams-in-the-windows-os/"><u>How to Repair Disconnected Media Streams in the Windows OS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/imovie-secrets-captivating-your-audience-from-the-start/"><u>IMovie Secrets Captivating Your Audience From the Start</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-blackout-premiere-pro-guide/"><u>In 2024, Cinematic Blackout - Premiere Pro Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-live-feed-select-from-the-ultimate-9-filter-list/"><u>In 2024, Transform Your Live Feed Select From the Ultimate 9 Filter List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-art-of-choosing-high-end-hdr-cameras-for-2024/"><u>Master the Art of Choosing High-End HDR Cameras for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximize-your-earnings-with-youtube-short-tips/"><u>Maximize Your Earnings with Youtube Short Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outlook-wont-connect-fix-it-now-with-these-expert-tips/"><u>Outlook Won't Connect? Fix It Now with These Expert Tips!</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-to-repair-the-scheduler-glitch-on-your-windows-10-device-for-smooth-video-calls/"><u>Step-by-Step Guide to Repair the Scheduler Glitch on Your Windows 10 Device for Smooth Video Calls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-key-to-spreading-online-jokes-fast/"><u>The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-portable-video-player-mkv-format/"><u>Ultimate Portable Video Player (MKV Format)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vivid-color-equilibrium/"><u>Vivid Color Equilibrium</u></a></li>
 </ul></div>
 
